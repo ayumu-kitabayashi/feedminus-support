@@ -3,106 +3,252 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>FeedMinus サポート</title>
-<meta name="description" content="FeedMinus の使い方とよくある質問。ログイン、アプリ本体のブロック、ロックモードの解除について。">
+<title>FeedMinus — SNSの無限スクロールをやめて、DMはそのまま使う。</title>
+<meta name="description" content="SNSを消せない人のためのiPhoneアプリ。DM・検索・投稿はそのまま使えて、リールとショート動画だけが出なくなります。仕事で使う人にも。">
+<link rel="canonical" href="https://ayumu-kitabayashi.github.io/feedminus-support/">
+<link rel="icon" href="./icon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="./icon-180.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="FeedMinus — SNSの無限スクロールをやめて、DMはそのまま使う。">
+<meta property="og:description" content="SNSを消せない人のためのiPhoneアプリ。DM・検索・投稿はそのまま使えて、リールとショート動画だけが出なくなります。">
+<meta property="og:url" content="https://ayumu-kitabayashi.github.io/feedminus-support/">
+<meta property="og:image" content="https://ayumu-kitabayashi.github.io/feedminus-support/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+2:wght@400;500;700;800&display=swap" rel="stylesheet">
 <style>
-  :root {
-    --bg: #F6F7F9; --card: #FFFFFF; --line: #E7EAF0;
-    --ink: #1C202A; --mid: #5F6A80; --soft: #8A93A3;
-    --key: #14161B;
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    background: var(--bg); color: var(--ink);
-    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
-    line-height: 1.8; font-size: 15px;
-    -webkit-font-smoothing: antialiased;
-  }
-  .wrap { max-width: 640px; margin: 0 auto; padding: 48px 20px 80px; }
-  .brand { color: var(--key); font-size: 22px; font-weight: 500; letter-spacing: -0.02em; }
-  h1 { font-size: 28px; line-height: 1.4; font-weight: 500; letter-spacing: -0.02em; margin: 28px 0 8px; }
-  .date { color: var(--soft); font-size: 13px; font-weight: 600; margin-bottom: 32px; }
-  h2 { font-size: 18px; line-height: 1.5; font-weight: 600; margin: 36px 0 10px; }
-  p { color: var(--mid); margin-bottom: 12px; }
-  strong { color: var(--ink); }
-  ul { color: var(--mid); padding-left: 22px; margin-bottom: 12px; }
-  li { margin-bottom: 4px; }
-  a { color: var(--key); }
-  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; margin-bottom: 12px; }
-  .card h3 { font-size: 15.5px; font-weight: 600; margin-bottom: 6px; }
-  .card p:last-child { margin-bottom: 0; }
-  .lead { font-size: 16px; margin-bottom: 24px; }
-  .brand small { color: var(--soft); font-size: 13px; font-weight: 600; margin-left: 8px; }
-  .summary {
-    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
-    padding: 18px 20px; margin-bottom: 8px; font-size: 15px; color: var(--ink);
-  }
-  footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--line);
-    color: var(--soft); font-size: 12.5px; }
-  footer a { color: var(--soft); }
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:#fff;color:#0a0a0a;
+  font-family:"M PLUS 2",system-ui,-apple-system,"Hiragino Sans",sans-serif;
+  -webkit-font-smoothing:antialiased}
+a{color:#0a0a0a;text-decoration:none}
+a:hover{color:#5c5ce0}
+img{display:block}
+:focus-visible{outline:2px solid #5c5ce0;outline-offset:3px;border-radius:4px}
+
+.page{width:100%;overflow-x:hidden}
+.wrap{max-width:1180px;margin:0 auto}
+.section{padding:112px 20px 0}
+
+/* ── 上（空の地）───────────────────────────────── */
+.top{position:relative;padding:0 20px 104px;
+  background-image:linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(sky4.jpg);
+  background-size:cover;background-position:center}
+
+.nav{display:flex;align-items:center;gap:28px;
+  background:rgba(255,255,255,.82);backdrop-filter:blur(14px);
+  border:1px solid rgba(10,10,10,.06);border-radius:999px;
+  padding:13px 15px 13px 28px;box-shadow:0 10px 40px rgba(10,10,10,.07)}
+.nav .home{display:flex;align-items:center;flex:none}
+.nav .home img{height:24px;width:auto;mix-blend-mode:multiply}
+.nav .links{display:flex;gap:30px;margin-left:auto;font-size:16px;font-weight:500;color:#2e2e2e}
+
+.btn{display:inline-block;background:#0a0a0a;color:#fff;border-radius:999px;
+  font-weight:700;box-shadow:0 6px 18px rgba(10,10,10,.22)}
+.btn:hover{background:#242424;color:#fff}
+.btn.sm{flex:none;padding:15px 28px;font-size:16px}
+.btn.lg{padding:21px 46px;font-size:18px;box-shadow:0 14px 34px rgba(10,10,10,.24)}
+.lbl-short{display:none}
+
+.hero{max-width:1020px;margin:0 auto;padding:132px 0 0;text-align:center}
+.hero h1{margin:0;font-size:clamp(34px,5.2vw,66px);line-height:1.3;font-weight:800;
+  letter-spacing:-.03em;text-wrap:pretty}
+.hero .cta{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin-top:48px}
+.shots{display:flex;justify-content:center;align-items:flex-end;
+  gap:clamp(12px,3vw,40px);height:clamp(300px,40vw,480px);margin:64px auto 0}
+.shots img{height:100%;width:auto}
+.shots img.short{height:88%}
+
+/* ── 引用（空の地）─────────────────────────────── */
+.quote{background-image:linear-gradient(rgba(255,255,255,.5),rgba(255,255,255,.5)),url(sky1.jpg);
+  background-size:cover;background-position:center 55%;
+  border-radius:32px;padding:clamp(40px,6vw,92px)}
+.quote blockquote{margin:0;max-width:860px;font-size:clamp(23px,3.2vw,40px);line-height:1.6;
+  font-weight:700;letter-spacing:-.03em;text-wrap:pretty}
+
+/* ── 見出しと札 ───────────────────────────────── */
+h2{margin:0 0 48px;font-size:clamp(28px,3.6vw,46px);line-height:1.32;font-weight:800;
+  letter-spacing:-.03em;text-wrap:pretty}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:22px}
+.card{border-radius:26px;padding:clamp(28px,3.4vw,46px)}
+.card.dark{background:#0a0a0a;color:#fff}
+.card.light{background:#fff;border:1px solid rgba(10,10,10,.1)}
+.card .head{font-size:22px;font-weight:700;letter-spacing:-.02em}
+.card ul{display:flex;flex-direction:column;margin:26px 0 0;padding:0;list-style:none}
+.card li{padding:18px 0;font-size:18px;line-height:1.7;text-wrap:pretty}
+.card.dark li{border-top:1px solid rgba(255,255,255,.13);color:rgba(255,255,255,.92)}
+.card.light li{border-top:1px solid rgba(10,10,10,.09);color:#2e2e2e}
+
+/* ── 機能 ─────────────────────────────────────── */
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:22px;align-items:start}
+.feat{background:#f6f6f9;border-radius:26px;padding:clamp(28px,3.2vw,42px)}
+.feat.dark{background:#0a0a0a;color:#fff}
+.feat h3{margin:0;font-size:23px;font-weight:700;line-height:1.5;letter-spacing:-.02em}
+.feat p{margin:22px 0 0;font-size:18px;line-height:1.9;color:#2e2e2e;text-wrap:pretty}
+.feat.dark p{color:rgba(255,255,255,.88)}
+
+/* ── 締め（空の地）─────────────────────────────── */
+.close{background-image:url(sky3.jpg);background-size:cover;background-position:center 30%;
+  border-radius:32px;padding:clamp(48px,7vw,116px) clamp(28px,5vw,64px);text-align:center}
+.close h2{margin:0;font-size:clamp(28px,4.4vw,54px);line-height:1.36}
+.close .btn{margin-top:44px}
+
+/* ── 足もと ───────────────────────────────────── */
+footer{margin-top:104px;background:#0a0a0a;color:#fff;
+  padding:clamp(48px,6vw,88px) clamp(24px,5vw,72px)}
+footer .wrap{display:flex;flex-wrap:wrap;gap:44px;align-items:center;justify-content:space-between}
+footer img{height:32px;width:auto;filter:invert(1);mix-blend-mode:screen}
+footer nav{display:flex;flex-wrap:wrap;gap:32px;font-size:18px;font-weight:500}
+footer a{color:rgba(255,255,255,.88)}
+footer a:hover{color:#fff}
+
+/* ── 狭い画面 ─────────────────────────────────── */
+@media (max-width:820px){
+  .section{padding:80px 20px 0}
+  .top{padding-bottom:80px}
+  .hero{padding-top:88px}
+  .hero .cta{margin-top:36px}
+  /* ★4台を縮めると札の字が読めない。横に送れるようにして、大きさを保つ */
+  .shots{height:auto;justify-content:flex-start;margin-top:48px;
+    gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;
+    padding:0 calc(50vw - 108px) 8px;
+    -webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .shots::-webkit-scrollbar{display:none}
+  .shots img,.shots img.short{height:400px;flex:none;scroll-snap-align:center}
+  footer{margin-top:80px}
+  footer .wrap{gap:28px}
+  footer nav{gap:20px;font-size:16px}
+}
+@media (max-width:520px){
+  .nav{gap:12px;padding:10px 10px 10px 20px}
+  .nav .links{display:none}
+  .nav .btn.sm{margin-left:auto}
+  .nav .home img{height:22px}
+  .btn.sm{padding:13px 20px;font-size:15px}
+  .btn.lg{padding:19px 32px;font-size:17px}
+  /* ★上の帯の札は短くする。長いままだと丸い帯からはみ出す（390px幅で確認） */
+  .lbl-full{display:none}
+  .lbl-short{display:inline}
+}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <div class="brand">FeedMinus<small>サポート</small></div>
+<div class="page">
 
-  <h1>FeedMinus のサポート</h1>
-  <p class="lead">SNSを残したまま、リールとショート動画だけを消すアプリです。
-  困りごとは、このページの下の連絡先までどうぞ。</p>
-
-  <h2>よくある質問</h2>
-
-  <div class="card">
-    <h3>ログインできません</h3>
-    <p>ログインは、各サービスのページで直接おこないます。FeedMinus はIDとパスワードを受け取りません。
-    画面が白いまま進まないときは、たいていログインが必要な状態です。
-    表示される「ログインする」を押すと、そのサービスのログインページが開きます。</p>
-    <p>二段階認証を設定している場合は、通常どおりそのサービスの手順で進めてください。</p>
+<div class="top">
+  <div class="wrap" style="padding:22px 0 0">
+    <div class="nav">
+      <a class="home" href="#top"><img src="logo-trim.png" alt="FeedMinus" width="141" height="24"></a>
+      <div class="links"><a href="#features">機能</a></div>
+      <a class="btn sm" href="https://apps.apple.com/jp/app/id6809352229"><span class="lbl-full">App Storeからダウンロード</span><span class="lbl-short">ダウンロード</span></a>
+    </div>
   </div>
 
-  <div class="card">
-    <h3>ブロックしたいアプリが選べません</h3>
-    <p>アプリ本体のブロックには、iPhone のスクリーンタイムの許可が必要です。
-    「設定 → スクリーンタイム」がオンになっているかご確認ください。
-    許可のダイアログは<strong>iOSの仕様で一度しか表示されません</strong>。
-    見逃した場合は、アプリ内の「設定を開く」から許可し直せます。</p>
+  <div class="hero" id="top">
+    <h1>SNSの無限スクロールをやめて、<br>DMはそのまま使う。</h1>
+    <div class="cta">
+      <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeからダウンロード</a>
+    </div>
+    <div class="shots">
+      <img src="shot-instagram.png" alt="FeedMinusで開いたInstagram" width="266" height="500">
+      <img class="short" src="shot-home.png" alt="FeedMinusのホーム画面" width="269" height="500">
+      <img class="short" src="shot-rules.png" alt="消すものを選ぶ画面" width="269" height="500">
+      <img src="shot-youtube.png" alt="FeedMinusで開いたYouTube" width="272" height="500">
+    </div>
   </div>
+</div>
 
-  <div class="card">
-    <h3>ブロックを解除できません</h3>
-    <p>ロックモードをオンにしていると、解除に4つの手順が必要です。5〜10分かかります。
-    これは意図した設計で、抜け道はありません。
-    あとで解除したくなると分かっているからこそ、先にオンにしておくための機能です。</p>
+<div class="section" style="padding-top:104px">
+  <div class="wrap quote">
+    <blockquote>SNSをやめたいわけではない。仕事にも生活にも必要だから、消せない。<br>消したいのは、勝手に流れてくるものだけ。</blockquote>
   </div>
+</div>
 
-  <div class="card">
-    <h3>仕事でSNSに投稿する必要があります</h3>
-    <p>投稿モードを使うと、選んだアプリを数分だけ開けます。
-    発信のためにアプリ本体を開く必要がある方は、こちらをお使いください。</p>
+<div class="section">
+  <div class="wrap">
+    <h2>出なくなるもの / そのまま使えるもの</h2>
+    <div class="cols">
+      <div class="card dark">
+        <div class="head">出なくなるもの</div>
+        <ul>
+          <li>リール、ショート、おすすめ動画</li>
+          <li>アルゴリズムが選んだ「おすすめ」の投稿</li>
+          <li>発見タブ、探索タブ</li>
+          <li>広告や、広告のような投稿</li>
+          <li>ストーリーズ（設定で切り替え可能）</li>
+        </ul>
+      </div>
+      <div class="card light">
+        <div class="head">そのまま使えるもの</div>
+        <ul>
+          <li>DMとメッセージ</li>
+          <li>自分から見に行くプロフィール</li>
+          <li>友だちから送られてきた投稿</li>
+          <li>投稿と、投稿への返信</li>
+          <li>検索</li>
+        </ul>
+      </div>
+    </div>
   </div>
+</div>
 
-  <div class="card">
-    <h3>記録はどこに保存されますか？</h3>
-    <p>すべて、あなたのiPhoneの中だけに保存されます。アカウントもサーバもありません。
-    開発者があなたの記録を見ることはできません。
-    どのアプリをブロック対象に選んだかも、Appleが隠すため開発者からは見えません。</p>
+<div class="section" id="features">
+  <div class="wrap">
+    <h2>出ないようにする。開けないようにする。</h2>
+    <div class="grid">
+      <div class="feat">
+        <h3>消すものを選ぶ</h3>
+        <p>リールやショート動画、発見タブ、フィードの「おすすめ」は最初から表示されません。</p>
+        <p>ストーリーズ、広告、保存済み、「DMだけにする」、白黒表示は、サービスごとに切り替えられます。</p>
+      </div>
+      <div class="feat">
+        <h3>アプリ本体も止める</h3>
+        <p>ホーム画面から元のSNSアプリを開こうとすると、FeedMinusに戻ります。</p>
+        <p>iPhoneのスクリーンタイムへのアクセス許可が必要です。</p>
+      </div>
+      <div class="feat dark">
+        <h3>ロックモード</h3>
+        <p>解除には4つのステップ。5〜10分かかります。</p>
+        <p>文章を書き写す。図形をなぞる。暗算に答える。もう1分待つ。</p>
+        <p>衝動と行動のあいだに、距離をつくるための時間です。</p>
+      </div>
+      <div class="feat">
+        <h3>投稿モード</h3>
+        <p>選んだアプリを、5分間だけ開けます。仕事で投稿する人のために。</p>
+      </div>
+      <div class="feat">
+        <h3>曜日・時間帯を決める</h3>
+        <p>「夜だけ」「平日だけ」を設定すると、その時間に自動で有効になります。</p>
+      </div>
+      <div class="feat">
+        <h3>記録</h3>
+        <p>今日どれだけ使ったかだけを表示します。過去とは比べません。</p>
+      </div>
+    </div>
   </div>
+</div>
 
-  <div class="card">
-    <h3>対応していないサービスがあります</h3>
-    <p>対応サービスは順次追加しています。ご要望は下の連絡先までお送りください。</p>
+<div class="section" style="padding-top:104px">
+  <div class="wrap close">
+    <h2>自分の時間を、自分で選んだことに使う。</h2>
+    <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeからダウンロード</a>
   </div>
+</div>
 
-  <h2>連絡先</h2>
-  <div class="card">
-    <p>メール：<a href="mailto:workflowai.japan@gmail.com">workflowai.japan@gmail.com</a><br>
-    通常2〜3日以内に返信します。不具合の報告には、お使いの機種とiOSのバージョンを添えていただけると助かります。</p>
+<footer>
+  <div class="wrap">
+    <img src="logo-trim.png" alt="FeedMinus" width="188" height="32">
+    <nav>
+      <a href="https://apps.apple.com/jp/app/id6809352229">App Store</a>
+      <a href="./support.html">サポート</a>
+      <a href="./privacy.html">プライバシーポリシー</a>
+      <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">利用規約</a>
+    </nav>
   </div>
+</footer>
 
-  <footer>
-    <a href="./privacy.html">プライバシーポリシー</a><br>
-    © 2026 FeedMinus
-  </footer>
 </div>
 </body>
 </html>
