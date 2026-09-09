@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>FeedMinus — SNSの無限スクロールをやめて、DMはそのまま使う。</title>
-<meta name="description" content="SNSを消せない人のためのiPhoneアプリ。DM・検索・投稿はそのまま使えて、リールとショート動画だけが出なくなります。仕事で使う人にも。">
+<title>FeedMinus — SNSはやめない。無限スクロールだけをやめる。</title>
+<meta name="description" content="SNSをやめずに、無限スクロールだけをやめるiPhoneアプリ。DM・検索・投稿はそのまま使えて、リールとショート動画を非表示にします。基本の非表示機能は無料です。">
 <link rel="canonical" href="https://ayumu-kitabayashi.github.io/feedminus-support/">
 <link rel="alternate" hreflang="ja" href="https://ayumu-kitabayashi.github.io/feedminus-support/">
 <link rel="alternate" hreflang="en" href="https://ayumu-kitabayashi.github.io/feedminus-support/en/">
@@ -12,8 +12,8 @@
 <link rel="icon" href="./icon-32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="./icon-180.png">
 <meta property="og:type" content="website">
-<meta property="og:title" content="FeedMinus — SNSの無限スクロールをやめて、DMはそのまま使う。">
-<meta property="og:description" content="SNSを消せない人のためのiPhoneアプリ。DM・検索・投稿はそのまま使えて、リールとショート動画だけが出なくなります。">
+<meta property="og:title" content="FeedMinus — SNSはやめない。無限スクロールだけをやめる。">
+<meta property="og:description" content="SNSをやめずに、無限スクロールだけをやめるiPhoneアプリ。DM・検索・投稿はそのまま使えて、リールとショート動画を非表示にします。">
 <meta property="og:url" content="https://ayumu-kitabayashi.github.io/feedminus-support/">
 <meta property="og:image" content="https://ayumu-kitabayashi.github.io/feedminus-support/og.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -58,6 +58,7 @@ img{display:block}
 .hero{max-width:1020px;margin:0 auto;padding:132px 0 0;text-align:center}
 .hero h1{margin:0;font-size:clamp(34px,5.2vw,66px);line-height:1.3;font-weight:800;
   letter-spacing:-.03em;text-wrap:pretty}
+.hero .sub{margin:22px auto 0;max-width:32em;text-wrap:balance;font-size:clamp(16px,1.9vw,19px);line-height:1.9;color:#2e2e2e}
 .hero .cta{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin-top:48px}
 .shots{display:flex;justify-content:center;align-items:flex-end;
   gap:clamp(12px,3vw,40px);height:clamp(300px,40vw,480px);margin:64px auto 0}
@@ -147,6 +148,7 @@ h2{margin:0 0 48px;font-size:clamp(28px,3.6vw,46px);line-height:1.32;font-weight
 .faq dt{font-size:21px;font-weight:700;line-height:1.6;letter-spacing:-.02em;
   margin:0;padding-top:34px;border-top:1px solid rgba(10,10,10,.09)}
 .faq dt:first-of-type{border-top:0;padding-top:0}
+.mini{margin:16px 0 0;font-size:14.5px;line-height:1.85;color:#6a6a76}
 .faq dd{margin:14px 0 34px;font-size:17px;line-height:1.95;color:#2e2e2e;
   max-width:64ch;text-wrap:pretty}
 
@@ -170,7 +172,8 @@ footer a:hover{color:#fff}
   .section{padding:80px 20px 0}
   .top{padding-bottom:80px}
   .hero{padding-top:88px}
-  .hero .cta{margin-top:36px}
+  .hero .sub{margin:22px auto 0;max-width:32em;text-wrap:balance;font-size:clamp(16px,1.9vw,19px);line-height:1.9;color:#2e2e2e}
+.hero .cta{margin-top:36px}
   /* ★4台を縮めると札の字が読めない。横に送れるようにして、大きさを保つ */
   .shots{height:auto;justify-content:flex-start;margin-top:48px;
     gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;
@@ -203,19 +206,20 @@ footer a:hover{color:#fff}
     <div class="nav">
       <a class="home" href="#top"><img src="logo-trim.png" alt="FeedMinus" width="141" height="24"></a>
       <div class="links"><a href="#features">機能</a><a href="./en/">English</a></div>
-      <a class="btn sm" href="https://apps.apple.com/jp/app/id6809352229"><span class="lbl-full">App Storeからダウンロード</span><span class="lbl-short">ダウンロード</span></a>
+      <a class="btn sm" href="https://apps.apple.com/jp/app/id6809352229"><span class="lbl-full">App Storeでダウンロード</span><span class="lbl-short">ダウンロード</span></a>
     </div>
   </div>
 
   <div class="hero" id="top">
-    <h1>SNSの無限スクロールをやめて、<br>DMはそのまま使う。</h1>
+    <h1>SNSはやめない。<br>無限スクロールだけをやめる。</h1>
+    <p class="sub">DMや友だちとのつながりは、そのまま使えます。</p>
     <div class="cta">
-      <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeからダウンロード</a>
+      <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a>
     </div>
     <div class="shots">
       <img src="shot-instagram.png" alt="FeedMinusで開いたInstagram" width="266" height="500">
       <img class="short" src="shot-home.png" alt="FeedMinusのホーム画面" width="269" height="500">
-      <img class="short" src="shot-rules.png" alt="消すものを選ぶ画面" width="269" height="500">
+      <img class="short" src="shot-rules.png" alt="非表示にする機能の設定画面" width="269" height="500">
       <img src="shot-youtube.png" alt="FeedMinusで開いたYouTube" width="272" height="500">
     </div>
   </div>
@@ -223,22 +227,22 @@ footer a:hover{color:#fff}
 
 <div class="section" style="padding-top:104px">
   <div class="wrap">
-    <span class="eyebrow"><i>01</i>こんなことになっていませんか</span>
+    <span class="eyebrow"><i>01</i>こんなこと、ありませんか？</span>
     <div class="cases">
       <div class="case">
         <div class="n">A</div>
-        <h3>DMを見に行っただけなのに</h3>
-        <p>用事は30秒で終わったはずが、気づくと30分たっている。何を見ていたかも、あまり思い出せない。</p>
+        <h3>DMを確認しただけなのに</h3>
+        <p>用事は30秒で終わったはずなのに、気づけば30分。何を見ていたのかも、あまり思い出せない。</p>
       </div>
       <div class="case">
         <div class="n">B</div>
-        <h3>寝る前に、一本だけのつもりで</h3>
-        <p>一本が次の一本を呼んで、時計を見たら1時間。明日が早いことは、途中から分かっている。</p>
+        <h3>寝る前に、一本だけのつもりが</h3>
+        <p>一本が次の一本を呼び、時計を見たら1時間。明日が早いことは、途中から分かっている。</p>
       </div>
       <div class="case">
         <div class="n">C</div>
         <h3>仕事の合間に開いて、戻れない</h3>
-        <p>5分の休憩のつもりだった。開いてしまうと、元の集中に戻るまでにもっと時間がかかる。</p>
+        <p>5分だけ休憩するつもりだった。それなのに、仕事へ集中し直すまで、さらに時間がかかってしまう。</p>
       </div>
     </div>
   </div>
@@ -246,82 +250,83 @@ footer a:hover{color:#fff}
 
 <div class="section">
   <div class="wrap">
-    <span class="eyebrow"><i>02</i>消したいのは、これだけ</span>
+    <span class="eyebrow"><i>02</i>消したいのは、SNSではない</span>
   </div>
 </div>
 
 <div class="section" style="padding-top:0">
   <div class="wrap quote">
-    <blockquote>SNSをやめたいわけではない。仕事にも生活にも必要だから、消せない。<br>消したいのは、勝手に流れてくるものだけ。</blockquote>
+    <blockquote>SNSをやめたいわけではない。仕事にも生活にも必要だから、アプリごと消すことはできない。<br>消したいのは、自分で選んでいないのに、次々と流れてくるものだけ。</blockquote>
   </div>
 </div>
 
 <div class="section">
   <div class="wrap free">
-    <span class="eyebrow" style="color:rgba(255,255,255,.55)"><i style="color:#fff">03</i>お金のかかる場所</span>
-    <h2>消すことに、お金はかかりません。</h2>
-    <p class="big">リール、ショート動画、おすすめの投稿、広告。これらを出なくすることに料金はかかりません。3つのサービスまで、無料のまま使えます。</p>
-    <p>有料になるのは、消すことではありません。<strong style="color:#fff">元に戻りにくくする仕組み</strong>——アプリ本体のロック、時間帯の指定、ロックモード——だけです。消す機能を人質にとる作りにはしていません。</p>
-    <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeからダウンロード</a>
+    <span class="eyebrow" style="color:rgba(255,255,255,.55)"><i style="color:#fff">03</i>無料でできること、有料になること</span>
+    <h2>基本の非表示機能は、無料です</h2>
+    <p class="big">リール、ショート動画、おすすめ投稿、広告。こうしたコンテンツを非表示にする機能は、無料で利用できます。無料プランでは、最大3つのサービスを登録できます。</p>
+    <p>有料になるのは、非表示にする機能ではありません。元のSNSアプリをロックする、曜日や時間帯を指定する、簡単には解除できないロックモードを使う——といった、<strong style="color:#fff">元の使い方に戻りにくくするための機能</strong>が有料です。基本の非表示機能を、課金しなければ使えない仕組みにはしていません。</p>
+    <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a>
   </div>
 </div>
 
 <div class="section">
   <div class="wrap">
-    <h2>出なくなるもの / そのまま使えるもの</h2>
+    <h2>非表示にできるもの / そのまま使えるもの</h2>
     <div class="cols">
       <div class="card dark">
-        <div class="head">出なくなるもの</div>
+        <div class="head">非表示にできるもの</div>
         <ul>
-          <li>リール、ショート、おすすめ動画</li>
-          <li>アルゴリズムが選んだ「おすすめ」の投稿</li>
+          <li>リール、ショート動画、おすすめ動画</li>
+          <li>アルゴリズムが選んだおすすめ投稿</li>
           <li>発見タブ、探索タブ</li>
-          <li>広告や、広告のような投稿</li>
-          <li>ストーリーズ（設定で切り替え可能）</li>
+          <li>広告や、広告に近いおすすめ投稿</li>
+          <li>ストーリーズ（サービスごとに切り替え）</li>
         </ul>
       </div>
       <div class="card light">
         <div class="head">そのまま使えるもの</div>
         <ul>
-          <li>DMとメッセージ</li>
+          <li>DM、メッセージ</li>
           <li>自分から見に行くプロフィール</li>
           <li>友だちから送られてきた投稿</li>
-          <li>投稿と、投稿への返信</li>
+          <li>通常の投稿と返信</li>
           <li>検索</li>
         </ul>
       </div>
     </div>
+    <p class="mini">※ 利用できる機能は、サービスによって異なります。</p>
   </div>
 </div>
 
 <div class="section" id="features">
   <div class="wrap">
-    <span class="eyebrow"><i>04</i>FeedMinusの3つの柱</span>
-    <h2>出ないようにする。開けないようにする。</h2>
+    <span class="eyebrow"><i>04</i>FeedMinusの3つの仕組み</span>
+    <h2>見えなくする。開きにくくする。</h2>
 
     <div class="reason">
       <div class="txt">
-        <div class="n">柱 1</div>
-        <h3>消すものを、サービスごとに選べる</h3>
-        <p>リールやショート動画、発見タブ、フィードの「おすすめ」は、最初から表示されません。ストーリーズ、広告、保存済み、「DMだけにする」、白黒表示は、サービスごとに自分で切り替えられます。</p>
+        <div class="n">仕組み 1</div>
+        <h3>サービスごとに、非表示にするものを選べる</h3>
+        <p>リールやショート動画、発見タブ、フィード内のおすすめ投稿を非表示にできます。さらにサービスごとに、ストーリーズ・広告・保存済み投稿・DMだけを使うモード・白黒表示を切り替えられます。必要な機能は残しながら、見たくないものだけを減らせます。</p>
       </div>
-      <img src="shot-rules.png" alt="消すものを選ぶ画面" width="269" height="500" loading="lazy">
+      <img src="shot-rules.png" alt="非表示にする機能の設定画面" width="269" height="500" loading="lazy">
     </div>
 
     <div class="reason flip">
       <img src="shot-home.png" alt="FeedMinusのホーム画面" width="269" height="500" loading="lazy">
       <div class="txt">
-        <div class="n">柱 2</div>
-        <h3>アプリ本体も止まる</h3>
-        <p>ホーム画面から元のSNSアプリを開こうとすると、FeedMinusに戻ります。「消したのに、結局アプリを開いてしまう」を防ぐための仕組みです。iPhoneのスクリーンタイムへのアクセス許可が必要です。</p>
+        <div class="n">仕組み 2</div>
+        <h3>元のSNSアプリもロックできる</h3>
+        <p>ホーム画面から元のSNSアプリを開こうとすると、FeedMinusへ戻るように設定できます。「非表示にしたのに、結局いつものアプリを開いてしまう」を防ぐための仕組みです。この機能を利用するには、iPhoneのスクリーンタイム機能へのアクセス許可が必要です。</p>
       </div>
     </div>
 
     <div class="reason">
       <div class="txt">
-        <div class="n">柱 3</div>
-        <h3>ロックモードで、解除に距離をつくる</h3>
-        <p>解除には4つのステップ。5〜10分かかります。文章を書き写す。図形をなぞる。暗算に答える。もう1分待つ。狙いは難しくすることではなく、衝動と行動のあいだに距離をつくることです。</p>
+        <div class="n">仕組み 3</div>
+        <h3>ロックを解除する前に、ひと呼吸おく</h3>
+        <p>ロックモードを解除するには、4つのステップが必要です。解除までには5〜10分ほどかかります。文章を書き写す。図形をなぞる。暗算に答える。1分間待つ。目的は解除を不可能にすることではなく、衝動と行動のあいだに、考え直す時間をつくることです。</p>
       </div>
       <img src="shot-instagram.png" alt="FeedMinusで開いたInstagram" width="266" height="500" loading="lazy">
     </div>
@@ -329,15 +334,18 @@ footer a:hover{color:#fff}
     <div class="grid" style="margin-top:22px">
       <div class="feat">
         <h3>投稿モード</h3>
-        <p>選んだアプリを、5分間だけ開けます。仕事で投稿する人のために。</p>
+        <p>選んだSNSアプリを、5分間だけ開けます。仕事や活動のために投稿する必要がある人でも、「投稿だけのつもりが、1時間見ていた」を避けられます。</p>
+        <p>5分が過ぎると、自動的に再びロックされます。</p>
       </div>
       <div class="feat">
-        <h3>曜日・時間帯を決める</h3>
-        <p>「夜だけ」「平日だけ」を設定すると、その時間に自動で有効になります。</p>
+        <h3>曜日・時間帯を設定</h3>
+        <p>「夜だけ」「平日だけ」など、FeedMinusを有効にする曜日と時間帯を設定できます。</p>
+        <p>指定した時間になると、自動的にロックが有効になります。</p>
       </div>
       <div class="feat">
-        <h3>記録</h3>
-        <p>今日どれだけ使ったかだけを表示します。過去とは比べません。</p>
+        <h3>今日の利用時間</h3>
+        <p>今日どれだけ使ったかを表示します。</p>
+        <p>過去との競争やランキングではなく、今の使い方を確認するための記録です。</p>
       </div>
     </div>
   </div>
@@ -345,42 +353,41 @@ footer a:hover{color:#fff}
 
 <div class="section">
   <div class="wrap">
-    <span class="eyebrow"><i>05</i>対応しているもの</span>
-    <h2>つながるサービス</h2>
-    <p class="lead">FeedMinus の中から開けるのは、いまのところ14サービスです。</p>
+    <span class="eyebrow"><i>05</i>対応サービス</span>
+    <h2>現在、7つのサービスで動作を確認しています</h2>
     <div class="chipset">
       <div>
-        <div class="chiplabel">動作を確認したもの</div>
+        <div class="chiplabel">動作確認済み</div>
         <ul class="chips">
           <li class="chip on">Instagram</li><li class="chip on">YouTube</li><li class="chip on">Facebook</li><li class="chip on">Threads</li><li class="chip on">Pinterest</li><li class="chip on">Bluesky</li><li class="chip on">Twitch</li>
         </ul>
       </div>
       <div>
-        <div class="chiplabel">これから確認するもの</div>
+        <div class="chiplabel">動作確認中・今後対応予定</div>
         <ul class="chips">
           <li class="chip">X</li><li class="chip">TikTok</li><li class="chip">LINE VOOM</li><li class="chip">Reddit</li><li class="chip">LinkedIn</li><li class="chip">Snapchat</li><li class="chip">Tumblr</li>
         </ul>
       </div>
     </div>
-    <p class="note">各サービスは画面の作りが変わることがあります。消えないものがあれば、<a href="./support.html">サポート</a>から教えてください。</p>
+    <p class="note">各サービスの画面や仕様は、予告なく変更されることがあります。これまで非表示になっていたものが表示されるようになった場合は、アプリ内の<a href="./support.html">サポート</a>からお知らせください。動作を確認したうえで、順次対応します。</p>
   </div>
 </div>
 
 <div class="section">
   <div class="wrap trust">
-    <span class="eyebrow"><i>06</i>約束していること</span>
-    <h2 style="margin-bottom:8px">確かめたことだけを書いています</h2>
+    <span class="eyebrow"><i>06</i>FeedMinusが約束すること</span>
+    <h2 style="margin-bottom:8px">確認できたことだけを伝えます</h2>
     <ul>
-      <li><b>FeedMinusはサーバを持っていません</b>
-        <span>DMも、見たものも、端末の外に出ません。送る先がそもそも無い作りです。</span></li>
-      <li><b>IDとパスワードは、FeedMinusを通りません</b>
-        <span>各サービスへのログインは、そのサービス自身のページで直接おこないます。こちらが受け取る画面はありません。</span></li>
-      <li><b>消す規則は、出荷のたびに機械で検査しています</b>
-        <span>画面に差し込む規則が壊れていないかを、毎回パーサに掛けて確かめてから出しています。壊れた規則は黙って効かなくなるからです。</span></li>
-      <li><b>確認できていないものを「対応」とは書きません</b>
-        <span>14のサービスのうち、実機で動作を確かめられたものと、これから確かめるものを分けて表示しています。</span></li>
-      <li><b>アプリはいつでも削除できます</b>
-        <span>ロックモードを入れていても、FeedMinus自体の削除は止めません。やめる自由は残しておくべきものだと考えています。</span></li>
+      <li><b>DMや閲覧履歴を収集しません</b>
+        <span>FeedMinusには、DMの内容や閲覧履歴を、FeedMinusの運営者へ送信・保存する機能はありません。閲覧記録やメッセージの内容を確認するための管理画面もありません。</span></li>
+      <li><b>ログイン情報を取得・保存しません</b>
+        <span>各SNSへのログインは、それぞれのSNSが提供するログインページで行われます。FeedMinusの運営者が、IDやパスワードを取得・保存することはありません。</span></li>
+      <li><b>非表示ルールは、リリース前に自動テストしています</b>
+        <span>SNSの画面から不要な要素を非表示にするルールは、アプリをリリースする前に自動テストしています。SNS側の仕様変更によってルールが動作しなくなる可能性があるため、確認できたものだけをリリースしています。</span></li>
+      <li><b>動作を確認できていないサービスを「対応済み」とは表示しません</b>
+        <span>現在、FeedMinusで動作を確認できているサービスと、これから確認するサービスを分けて掲載しています。実機で確認が完了したサービスから、順次「動作確認済み」に追加します。</span></li>
+      <li><b>アプリは、いつでも削除できます</b>
+        <span>ロックモードを有効にしていても、FeedMinus自体の削除は妨げません。解除までに時間はかかりますが、アプリをやめる自由まで奪うべきではないと考えています。</span></li>
     </ul>
   </div>
 </div>
@@ -391,30 +398,30 @@ footer a:hover{color:#fff}
     <h2>よくある質問</h2>
     <dl class="faq">
       <dt>無料でどこまで使えますか？</dt>
-      <dd>リール、ショート動画、おすすめの投稿、広告を出なくする機能は、すべて無料です。白黒表示と記録も無料で使えます。無料のまま登録できるサービスは3つまでで、4つ目以降と、アプリ本体のロック・時間帯の指定・ロックモードが有料になります。</dd>
+      <dd>リール、ショート動画、おすすめ投稿、広告などを非表示にする基本機能は、無料で利用できます。白黒表示と、今日の利用時間の確認も無料です。<br>無料プランでは、最大3つのサービスを登録できます。4つ目以降のサービスと、元のSNSアプリのロック・曜日や時間帯の指定・ロックモードは有料です。</dd>
 
-      <dt>ログインの情報はどこへ行きますか？</dt>
-      <dd>各サービスのログインは、そのサービス自身のページでおこないます。IDとパスワードがFeedMinusを通ることはありません。またFeedMinusはサーバを持たないため、閲覧の内容もメッセージも端末の外に出ません。</dd>
+      <dt>ログイン情報はどこへ送られますか？</dt>
+      <dd>各SNSへのログインは、そのSNSが提供するログインページで行われます。FeedMinusの運営者が、IDやパスワードを取得・保存することはありません。<br>また、FeedMinusには、DMの内容や閲覧履歴を運営者へ送信・保存する機能もありません。</dd>
 
-      <dt>アプリを消せなくなりませんか？</dt>
-      <dd>FeedMinus自体の削除は、いつでもできます。ロックモードは解除に4つのステップを課しますが、アプリを消す自由まで奪う設計にはしていません。ブロックの解除に時間がかかるだけで、閉じ込める仕組みではありません。</dd>
+      <dt>アプリを削除できなくなりませんか？</dt>
+      <dd>FeedMinus自体は、いつでも削除できます。ロックモードでは、ロックを解除するまでに4つのステップが必要ですが、アプリそのものの削除を妨げる設計にはしていません。<br>完全に閉じ込めるのではなく、衝動的な解除までに時間をつくるための機能です。</dd>
 
       <dt>仕事でSNSに投稿する必要があります</dt>
-      <dd>投稿モードを使うと、選んだアプリを5分間だけ開けます。発信のために本体を開く必要がある人でも、「投稿しに行って1時間見ていた」を避けられます。時間が過ぎると自動でブロックへ戻ります。</dd>
+      <dd>投稿モードを使うと、選んだSNSアプリを5分間だけ開けます。仕事や活動のためにSNSを使う人でも、「投稿だけのつもりが、そのまま1時間見ていた」という状態を避けられます。<br>5分が過ぎると、自動的に再びロックされます。</dd>
 
-      <dt>記録はどこに保存されますか？</dt>
-      <dd>端末の中だけです。どのアプリをブロック対象に選んだかは、iPhoneの仕組みによって隠されるため、FeedMinusからも見えません。記録は本人の画面に出るだけで、こちらには届きません。</dd>
+      <dt>利用記録はどこに保存されますか？</dt>
+      <dd>利用記録は、端末内にだけ保存されます。ブロック対象として選択したアプリの情報は、Appleのプライバシー保護機能によって扱われます。<br>選択内容や利用記録が、FeedMinusの運営者に送信されることはありません。記録は、利用者本人の画面にだけ表示されます。</dd>
 
       <dt>対応していないサービスがあります</dt>
-      <dd>いま開けるのは14のサービスです。各サービスは画面の作りをときどき変えるため、消えなくなることがあります。そのときはサポートから教えてください。確認したものから順に直しています。</dd>
+      <dd>現在、7つのサービスで動作を確認しています。さらに7つのサービスについて、動作確認と対応を進めています。<br>SNS側の画面や仕様が変更されると、それまで非表示になっていたものが表示されることがあります。その場合は、アプリ内のサポートからお知らせください。確認できたものから順次対応します。</dd>
     </dl>
   </div>
 </div>
 
 <div class="section" style="padding-top:104px">
   <div class="wrap close">
-    <h2>自分の時間を、自分で選んだことに使う。</h2>
-    <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeからダウンロード</a>
+    <h2>自分の時間を、<br>自分で選んだことに使う。</h2>
+    <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a>
   </div>
 </div>
 
