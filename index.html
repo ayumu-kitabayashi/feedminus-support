@@ -110,17 +110,6 @@ h2{margin:0 0 48px;font-size:clamp(28px,3.6vw,46px);line-height:1.32;font-weight
 .feat p{margin:22px 0 0;font-size:18px;line-height:1.9;color:#2e2e2e;text-wrap:pretty}
 .feat.dark p{color:rgba(255,255,255,.88)}
 
-/* ── つながるサービス ─────────────────────────── */
-.lead{margin:-28px 0 40px;font-size:18px;line-height:1.9;color:#2e2e2e}
-.chipset{display:flex;flex-direction:column;gap:34px}
-.chiplabel{font-size:15px;font-weight:700;letter-spacing:.02em;color:#6a6a76;margin-bottom:16px}
-.chips{display:flex;flex-wrap:wrap;gap:10px;margin:0;padding:0;list-style:none}
-.chip{border:1px solid rgba(10,10,10,.16);border-radius:999px;padding:11px 22px;
-  font-size:17px;font-weight:500;color:#6a6a76}
-.chip.on{background:#0a0a0a;border-color:#0a0a0a;color:#fff;font-weight:700}
-.note{margin:34px 0 0;font-size:16px;line-height:1.9;color:#6a6a76}
-.note a{color:#2e2e2e;text-decoration:underline;text-underline-offset:3px}
-
 /* ── 01 こうなっていませんか ─────────────────── */
 .eyebrow{font-size:13px;font-weight:700;letter-spacing:.12em;color:#8a8a95;
   margin:0 0 14px;display:block}
@@ -160,13 +149,6 @@ h2{margin:0 0 48px;font-size:clamp(28px,3.6vw,46px);line-height:1.32;font-weight
 .reason .n{font-size:13px;font-weight:700;letter-spacing:.1em;color:#8a8a95}
 .reason h3{margin:12px 0 0;font-size:24px;font-weight:700;line-height:1.55;letter-spacing:-.02em}
 .reason p{margin:18px 0 0;font-size:17px;line-height:1.9;color:#2e2e2e;text-wrap:pretty}
-
-/* ── 05 確かめたこと ──────────────────────── */
-.trust{border:1px solid rgba(10,10,10,.1);border-radius:26px;padding:clamp(28px,3.4vw,46px)}
-.trust ul{list-style:none;margin:8px 0 0;padding:0}
-.trust li{padding:22px 0;border-top:1px solid rgba(10,10,10,.09)}
-.trust li b{display:block;font-size:19px;font-weight:700;line-height:1.6;letter-spacing:-.02em}
-.trust li span{display:block;margin-top:8px;font-size:16.5px;line-height:1.9;color:#2e2e2e}
 
 /* ── 06 FAQ ──────────────────────────────── */
 .faq{margin:0}
@@ -411,48 +393,7 @@ footer a:hover{color:#fff}
 
 <div class="section">
   <div class="wrap">
-    <span class="eyebrow"><i>05</i>対応サービス</span>
-    <h2>現在、7つのサービスで動作を確認しています</h2>
-    <div class="chipset">
-      <div>
-        <div class="chiplabel">動作確認済み</div>
-        <ul class="chips">
-          <li class="chip on">Instagram</li><li class="chip on">YouTube</li><li class="chip on">Facebook</li><li class="chip on">Threads</li><li class="chip on">Pinterest</li><li class="chip on">Bluesky</li><li class="chip on">Twitch</li>
-        </ul>
-      </div>
-      <div>
-        <div class="chiplabel">動作確認中・今後対応予定</div>
-        <ul class="chips">
-          <li class="chip">X</li><li class="chip">TikTok</li><li class="chip">LINE VOOM</li><li class="chip">Reddit</li><li class="chip">LinkedIn</li><li class="chip">Snapchat</li><li class="chip">Tumblr</li>
-        </ul>
-      </div>
-    </div>
-    <p class="note">各サービスの画面や仕様は、予告なく変更されることがあります。これまで非表示になっていたものが表示されるようになった場合は、アプリ内の<a href="./support.html">サポート</a>からお知らせください。動作を確認したうえで、順次対応します。</p>
-  </div>
-</div>
-
-<div class="section">
-  <div class="wrap trust">
-    <span class="eyebrow"><i>06</i>FeedMinusが約束すること</span>
-    <h2 style="margin-bottom:8px">確認できたことだけを伝えます</h2>
-    <ul>
-      <li><b>DMや閲覧履歴を収集しません</b>
-        <span>FeedMinusには、DMの内容や閲覧履歴を、FeedMinusの運営者へ送信・保存する機能はありません。閲覧記録やメッセージの内容を確認するための管理画面もありません。</span></li>
-      <li><b>ログイン情報を取得・保存しません</b>
-        <span>各SNSへのログインは、それぞれのSNSが提供するログインページで行われます。FeedMinusの運営者が、IDやパスワードを取得・保存することはありません。</span></li>
-      <li><b>非表示ルールは、リリース前に自動テストしています</b>
-        <span>SNSの画面から不要な要素を非表示にするルールは、アプリをリリースする前に自動テストしています。SNS側の仕様変更によってルールが動作しなくなる可能性があるため、確認できたものだけをリリースしています。</span></li>
-      <li><b>動作を確認できていないサービスを「対応済み」とは表示しません</b>
-        <span>現在、FeedMinusで動作を確認できているサービスと、これから確認するサービスを分けて掲載しています。実機で確認が完了したサービスから、順次「動作確認済み」に追加します。</span></li>
-      <li><b>アプリは、いつでも削除できます</b>
-        <span>ロックモードを有効にしていても、FeedMinus自体の削除は妨げません。解除までに時間はかかりますが、アプリをやめる自由まで奪うべきではないと考えています。</span></li>
-    </ul>
-  </div>
-</div>
-
-<div class="section">
-  <div class="wrap">
-    <span class="eyebrow"><i>07</i>よくある質問</span>
+    <span class="eyebrow"><i>05</i>よくある質問</span>
     <h2>よくある質問</h2>
     <dl class="faq">
       <dt>無料でどこまで使えますか？</dt>
