@@ -115,12 +115,20 @@ h2{margin:0 0 48px;font-size:clamp(28px,3.6vw,46px);line-height:1.32;font-weight
 .case p{margin:14px 0 0;font-size:17px;line-height:1.9;color:#2e2e2e;text-wrap:pretty}
 
 /* ── 03 無料の線 ──────────────────────────── */
-.free{background:#0a0a0a;color:#fff;border-radius:32px;padding:clamp(40px,6vw,80px)}
-.free h2{margin:0;color:#fff}
-.free .big{margin:26px 0 0;font-size:clamp(19px,2.3vw,26px);line-height:1.75;
-  font-weight:700;letter-spacing:-.02em;text-wrap:pretty}
-.free p{margin:22px 0 0;font-size:17px;line-height:1.9;color:rgba(255,255,255,.82);max-width:62ch}
-.free .btn{margin-top:38px;background:#fff;color:#0a0a0a}
+.free{background:#0a0a0a;color:#fff;border-radius:32px;padding:clamp(30px,4vw,56px)}
+.free h2{margin:0;color:#fff;font-size:clamp(24px,2.9vw,34px)}
+.free .lead2{margin:12px 0 0;font-size:17px;line-height:1.85;color:rgba(255,255,255,.82);max-width:52ch}
+.free .cut{display:grid;grid-template-columns:1fr;gap:22px;margin:28px 0 0}
+@media(min-width:720px){.free .cut{grid-template-columns:1fr 1fr;gap:0}
+  .free .cut > div + div{border-left:1px solid rgba(255,255,255,.16);padding-left:34px}
+  .free .cut > div:first-child{padding-right:34px}}
+.free .cut h3{margin:0 0 12px;font-size:14px;font-weight:700;letter-spacing:.08em;
+  color:rgba(255,255,255,.5)}
+.free .cut ul{margin:0;padding:0;list-style:none}
+.free .cut li{padding:7px 0;font-size:16.5px;line-height:1.7;color:rgba(255,255,255,.94)}
+.free .cut .paid li{color:rgba(255,255,255,.62)}
+.free .end{margin:26px 0 0;font-size:16px;line-height:1.85;color:rgba(255,255,255,.82)}
+.free .btn{margin-top:24px;background:#fff;color:#0a0a0a}
 .free .btn:hover{background:#e9e9ef;color:#0a0a0a}
 
 /* ── 04 3つの理由 ─────────────────────────── */
@@ -264,8 +272,27 @@ footer a:hover{color:#fff}
   <div class="wrap free">
     <span class="eyebrow" style="color:rgba(255,255,255,.55)"><i style="color:#fff">03</i>無料でできること、有料になること</span>
     <h2>基本の非表示機能は、無料です</h2>
-    <p class="big">リール、ショート動画、おすすめ投稿、広告。こうしたコンテンツを非表示にする機能は、無料で利用できます。無料プランでは、最大3つのサービスを登録できます。</p>
-    <p>有料になるのは、非表示にする機能ではありません。元のSNSアプリをロックする、曜日や時間帯を指定する、簡単には解除できないロックモードを使う——といった、<strong style="color:#fff">元の使い方に戻りにくくするための機能</strong>が有料です。基本の非表示機能を、課金しなければ使えない仕組みにはしていません。</p>
+    <p class="lead2">有料になるのは、非表示にする機能ではなく、元の使い方に戻りにくくするための機能だけです。</p>
+    <div class="cut">
+      <div>
+        <h3>無料</h3>
+        <ul>
+          <li>リール、ショート動画、おすすめ投稿、広告の非表示</li>
+          <li>白黒表示、今日の利用時間</li>
+          <li>最大3つのサービスを登録</li>
+        </ul>
+      </div>
+      <div class="paid">
+        <h3>有料</h3>
+        <ul>
+          <li>元のSNSアプリのロック</li>
+          <li>曜日・時間帯の指定</li>
+          <li>ロックモード</li>
+          <li>4つ目以降のサービス</li>
+        </ul>
+      </div>
+    </div>
+    <p class="end">基本の非表示機能を、課金しなければ使えない仕組みにはしていません。</p>
     <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a>
   </div>
 </div>
