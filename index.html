@@ -103,6 +103,53 @@ h2{margin:0 0 48px;font-size:clamp(28px,3.6vw,46px);line-height:1.32;font-weight
 .note{margin:34px 0 0;font-size:16px;line-height:1.9;color:#6a6a76}
 .note a{color:#2e2e2e;text-decoration:underline;text-underline-offset:3px}
 
+/* ── 01 こうなっていませんか ─────────────────── */
+.eyebrow{font-size:13px;font-weight:700;letter-spacing:.12em;color:#8a8a95;
+  margin:0 0 14px;display:block}
+.eyebrow i{font-style:normal;color:#0a0a0a;margin-right:10px}
+.cases{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:22px}
+.case{background:#f6f6f9;border-radius:26px;padding:clamp(28px,3.2vw,40px)}
+.case .n{font-size:13px;font-weight:700;letter-spacing:.1em;color:#8a8a95}
+.case h3{margin:14px 0 0;font-size:22px;font-weight:700;line-height:1.6;letter-spacing:-.02em}
+.case p{margin:14px 0 0;font-size:17px;line-height:1.9;color:#2e2e2e;text-wrap:pretty}
+
+/* ── 03 無料の線 ──────────────────────────── */
+.free{background:#0a0a0a;color:#fff;border-radius:32px;padding:clamp(40px,6vw,80px)}
+.free h2{margin:0;color:#fff}
+.free .big{margin:26px 0 0;font-size:clamp(19px,2.3vw,26px);line-height:1.75;
+  font-weight:700;letter-spacing:-.02em;text-wrap:pretty}
+.free p{margin:22px 0 0;font-size:17px;line-height:1.9;color:rgba(255,255,255,.82);max-width:62ch}
+.free .btn{margin-top:38px;background:#fff;color:#0a0a0a}
+.free .btn:hover{background:#e9e9ef;color:#0a0a0a}
+
+/* ── 04 3つの理由 ─────────────────────────── */
+.reason{display:grid;grid-template-columns:1fr;gap:26px;align-items:center;
+  padding:clamp(28px,3.4vw,44px);background:#f6f6f9;border-radius:26px;margin-bottom:22px}
+@media(min-width:820px){
+  .reason{grid-template-columns:1fr 300px;gap:44px}
+  .reason.flip{grid-template-columns:300px 1fr}
+  .reason.flip .txt{order:2}
+}
+.reason img{width:100%;max-width:300px;height:auto;justify-self:center}
+.reason .n{font-size:13px;font-weight:700;letter-spacing:.1em;color:#8a8a95}
+.reason h3{margin:12px 0 0;font-size:24px;font-weight:700;line-height:1.55;letter-spacing:-.02em}
+.reason p{margin:18px 0 0;font-size:17px;line-height:1.9;color:#2e2e2e;text-wrap:pretty}
+
+/* ── 05 確かめたこと ──────────────────────── */
+.trust{border:1px solid rgba(10,10,10,.1);border-radius:26px;padding:clamp(28px,3.4vw,46px)}
+.trust ul{list-style:none;margin:8px 0 0;padding:0}
+.trust li{padding:22px 0;border-top:1px solid rgba(10,10,10,.09)}
+.trust li b{display:block;font-size:19px;font-weight:700;line-height:1.6;letter-spacing:-.02em}
+.trust li span{display:block;margin-top:8px;font-size:16.5px;line-height:1.9;color:#2e2e2e}
+
+/* ── 06 FAQ ──────────────────────────────── */
+.faq{margin:0}
+.faq dt{font-size:21px;font-weight:700;line-height:1.6;letter-spacing:-.02em;
+  margin:0;padding-top:34px;border-top:1px solid rgba(10,10,10,.09)}
+.faq dt:first-of-type{border-top:0;padding-top:0}
+.faq dd{margin:14px 0 34px;font-size:17px;line-height:1.95;color:#2e2e2e;
+  max-width:64ch;text-wrap:pretty}
+
 /* ── 締め（空の地）─────────────────────────────── */
 .close{background-image:url(sky3.jpg);background-size:cover;background-position:center 30%;
   border-radius:32px;padding:clamp(48px,7vw,116px) clamp(28px,5vw,64px);text-align:center}
@@ -175,8 +222,47 @@ footer a:hover{color:#fff}
 </div>
 
 <div class="section" style="padding-top:104px">
+  <div class="wrap">
+    <span class="eyebrow"><i>01</i>こんなことになっていませんか</span>
+    <div class="cases">
+      <div class="case">
+        <div class="n">A</div>
+        <h3>DMを見に行っただけなのに</h3>
+        <p>用事は30秒で終わったはずが、気づくと30分たっている。何を見ていたかも、あまり思い出せない。</p>
+      </div>
+      <div class="case">
+        <div class="n">B</div>
+        <h3>寝る前に、一本だけのつもりで</h3>
+        <p>一本が次の一本を呼んで、時計を見たら1時間。明日が早いことは、途中から分かっている。</p>
+      </div>
+      <div class="case">
+        <div class="n">C</div>
+        <h3>仕事の合間に開いて、戻れない</h3>
+        <p>5分の休憩のつもりだった。開いてしまうと、元の集中に戻るまでにもっと時間がかかる。</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="wrap">
+    <span class="eyebrow"><i>02</i>消したいのは、これだけ</span>
+  </div>
+</div>
+
+<div class="section" style="padding-top:0">
   <div class="wrap quote">
     <blockquote>SNSをやめたいわけではない。仕事にも生活にも必要だから、消せない。<br>消したいのは、勝手に流れてくるものだけ。</blockquote>
+  </div>
+</div>
+
+<div class="section">
+  <div class="wrap free">
+    <span class="eyebrow" style="color:rgba(255,255,255,.55)"><i style="color:#fff">03</i>お金のかかる場所</span>
+    <h2>消すことに、お金はかかりません。</h2>
+    <p class="big">リール、ショート動画、おすすめの投稿、広告。これらを出なくすることに料金はかかりません。3つのサービスまで、無料のまま使えます。</p>
+    <p>有料になるのは、消すことではありません。<strong style="color:#fff">元に戻りにくくする仕組み</strong>——アプリ本体のロック、時間帯の指定、ロックモード——だけです。消す機能を人質にとる作りにはしていません。</p>
+    <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeからダウンロード</a>
   </div>
 </div>
 
@@ -210,24 +296,37 @@ footer a:hover{color:#fff}
 
 <div class="section" id="features">
   <div class="wrap">
+    <span class="eyebrow"><i>04</i>FeedMinusの3つの柱</span>
     <h2>出ないようにする。開けないようにする。</h2>
-    <div class="grid">
-      <div class="feat">
-        <h3>消すものを選ぶ</h3>
-        <p>リールやショート動画、発見タブ、フィードの「おすすめ」は最初から表示されません。</p>
-        <p>ストーリーズ、広告、保存済み、「DMだけにする」、白黒表示は、サービスごとに切り替えられます。</p>
+
+    <div class="reason">
+      <div class="txt">
+        <div class="n">柱 1</div>
+        <h3>消すものを、サービスごとに選べる</h3>
+        <p>リールやショート動画、発見タブ、フィードの「おすすめ」は、最初から表示されません。ストーリーズ、広告、保存済み、「DMだけにする」、白黒表示は、サービスごとに自分で切り替えられます。</p>
       </div>
-      <div class="feat">
-        <h3>アプリ本体も止める</h3>
-        <p>ホーム画面から元のSNSアプリを開こうとすると、FeedMinusに戻ります。</p>
-        <p>iPhoneのスクリーンタイムへのアクセス許可が必要です。</p>
+      <img src="shot-rules.png" alt="消すものを選ぶ画面" width="269" height="500" loading="lazy">
+    </div>
+
+    <div class="reason flip">
+      <img src="shot-home.png" alt="FeedMinusのホーム画面" width="269" height="500" loading="lazy">
+      <div class="txt">
+        <div class="n">柱 2</div>
+        <h3>アプリ本体も止まる</h3>
+        <p>ホーム画面から元のSNSアプリを開こうとすると、FeedMinusに戻ります。「消したのに、結局アプリを開いてしまう」を防ぐための仕組みです。iPhoneのスクリーンタイムへのアクセス許可が必要です。</p>
       </div>
-      <div class="feat dark">
-        <h3>ロックモード</h3>
-        <p>解除には4つのステップ。5〜10分かかります。</p>
-        <p>文章を書き写す。図形をなぞる。暗算に答える。もう1分待つ。</p>
-        <p>衝動と行動のあいだに、距離をつくるための時間です。</p>
+    </div>
+
+    <div class="reason">
+      <div class="txt">
+        <div class="n">柱 3</div>
+        <h3>ロックモードで、解除に距離をつくる</h3>
+        <p>解除には4つのステップ。5〜10分かかります。文章を書き写す。図形をなぞる。暗算に答える。もう1分待つ。狙いは難しくすることではなく、衝動と行動のあいだに距離をつくることです。</p>
       </div>
+      <img src="shot-instagram.png" alt="FeedMinusで開いたInstagram" width="266" height="500" loading="lazy">
+    </div>
+
+    <div class="grid" style="margin-top:22px">
       <div class="feat">
         <h3>投稿モード</h3>
         <p>選んだアプリを、5分間だけ開けます。仕事で投稿する人のために。</p>
@@ -246,6 +345,7 @@ footer a:hover{color:#fff}
 
 <div class="section">
   <div class="wrap">
+    <span class="eyebrow"><i>05</i>対応しているもの</span>
     <h2>つながるサービス</h2>
     <p class="lead">FeedMinus の中から開けるのは、いまのところ14サービスです。</p>
     <div class="chipset">
@@ -263,6 +363,51 @@ footer a:hover{color:#fff}
       </div>
     </div>
     <p class="note">各サービスは画面の作りが変わることがあります。消えないものがあれば、<a href="./support.html">サポート</a>から教えてください。</p>
+  </div>
+</div>
+
+<div class="section">
+  <div class="wrap trust">
+    <span class="eyebrow"><i>06</i>約束していること</span>
+    <h2 style="margin-bottom:8px">確かめたことだけを書いています</h2>
+    <ul>
+      <li><b>FeedMinusはサーバを持っていません</b>
+        <span>DMも、見たものも、端末の外に出ません。送る先がそもそも無い作りです。</span></li>
+      <li><b>IDとパスワードは、FeedMinusを通りません</b>
+        <span>各サービスへのログインは、そのサービス自身のページで直接おこないます。こちらが受け取る画面はありません。</span></li>
+      <li><b>消す規則は、出荷のたびに機械で検査しています</b>
+        <span>画面に差し込む規則が壊れていないかを、毎回パーサに掛けて確かめてから出しています。壊れた規則は黙って効かなくなるからです。</span></li>
+      <li><b>確認できていないものを「対応」とは書きません</b>
+        <span>14のサービスのうち、実機で動作を確かめられたものと、これから確かめるものを分けて表示しています。</span></li>
+      <li><b>アプリはいつでも削除できます</b>
+        <span>ロックモードを入れていても、FeedMinus自体の削除は止めません。やめる自由は残しておくべきものだと考えています。</span></li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <div class="wrap">
+    <span class="eyebrow"><i>07</i>よくある質問</span>
+    <h2>よくある質問</h2>
+    <dl class="faq">
+      <dt>無料でどこまで使えますか？</dt>
+      <dd>リール、ショート動画、おすすめの投稿、広告を出なくする機能は、すべて無料です。白黒表示と記録も無料で使えます。無料のまま登録できるサービスは3つまでで、4つ目以降と、アプリ本体のロック・時間帯の指定・ロックモードが有料になります。</dd>
+
+      <dt>ログインの情報はどこへ行きますか？</dt>
+      <dd>各サービスのログインは、そのサービス自身のページでおこないます。IDとパスワードがFeedMinusを通ることはありません。またFeedMinusはサーバを持たないため、閲覧の内容もメッセージも端末の外に出ません。</dd>
+
+      <dt>アプリを消せなくなりませんか？</dt>
+      <dd>FeedMinus自体の削除は、いつでもできます。ロックモードは解除に4つのステップを課しますが、アプリを消す自由まで奪う設計にはしていません。ブロックの解除に時間がかかるだけで、閉じ込める仕組みではありません。</dd>
+
+      <dt>仕事でSNSに投稿する必要があります</dt>
+      <dd>投稿モードを使うと、選んだアプリを5分間だけ開けます。発信のために本体を開く必要がある人でも、「投稿しに行って1時間見ていた」を避けられます。時間が過ぎると自動でブロックへ戻ります。</dd>
+
+      <dt>記録はどこに保存されますか？</dt>
+      <dd>端末の中だけです。どのアプリをブロック対象に選んだかは、iPhoneの仕組みによって隠されるため、FeedMinusからも見えません。記録は本人の画面に出るだけで、こちらには届きません。</dd>
+
+      <dt>対応していないサービスがあります</dt>
+      <dd>いま開けるのは14のサービスです。各サービスは画面の作りをときどき変えるため、消えなくなることがあります。そのときはサポートから教えてください。確認したものから順に直しています。</dd>
+    </dl>
   </div>
 </div>
 
