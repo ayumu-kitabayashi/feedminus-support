@@ -72,6 +72,31 @@ img{display:block}
 .btn.lg{padding:21px 46px;font-size:18px;box-shadow:0 14px 34px rgba(10,10,10,.24)}
 .lbl-short{display:none}
 
+/* ── ストアのバッジ ─────────────────────────────────
+   ★App Store 側は**Apple公式のSVGをそのまま置く**（自作は商標の規約違反）。
+     macOS には直接ダウンロード用の公式バッジが無いので、公式の寸法
+     （108.85×40・角丸9）に合わせて同じ背丈で作る。 */
+.badges{display:flex;flex-wrap:wrap;align-items:center;gap:14px}
+.badges img{height:56px;width:auto;display:block}
+.badge{display:inline-flex;align-items:center;gap:10px;height:56px;padding:0 17px;
+  border-radius:12px;background:#0a0a0a;color:#fff;text-decoration:none;
+  box-shadow:0 6px 18px rgba(10,10,10,.22)}
+.badge:hover{background:#242424;color:#fff}
+.badge .ic{width:27px;height:22px;flex:none;fill:currentColor}
+.badge .tx{display:flex;flex-direction:column;line-height:1.08}
+.badge .big{font-size:19px;font-weight:700;letter-spacing:-.01em}
+.badge .sm{font-size:10.5px;font-weight:500;letter-spacing:.02em}
+.badge.inv{background:#fff;color:#0a0a0a;box-shadow:none}
+.badge.inv:hover{background:#e9e9ef;color:#0a0a0a}
+@media(max-width:520px){
+  .badges img{height:50px}
+  .badge{height:50px;padding:0 15px;gap:9px}
+  .badge .ic{width:24px;height:20px}
+  .badge .big{font-size:17px}
+  .badge .sm{font-size:9.5px}
+}
+
+
 .hero{max-width:1020px;margin:0 auto;padding:132px 0 0;text-align:center}
 .hero h1{margin:0;font-size:clamp(34px,5.2vw,66px);line-height:1.3;font-weight:800;
   letter-spacing:-.03em;text-wrap:pretty}
@@ -234,9 +259,9 @@ footer a:hover{color:#fff}
   <div class="hero" id="top">
     <h1>Keep social media.<br>Stop the endless scroll.</h1>
     <p class="sub">Your DMs and the people you follow stay exactly where they are.</p>
-    <div class="cta">
-      <a class="btn lg" href="https://apps.apple.com/app/id6809352229">Download on the App Store</a>
-      <a class="btn lg" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg">Download for macOS</a>
+    <div class="cta badges" style="justify-content:center">
+      <a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en.svg" alt="Download on the App Store" width="167" height="56"></a>
+      <a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="tx"><span class="sm">DOWNLOAD FOR</span><span class="big">macOS</span></span></a>
     </div>
     <p class="os">The Mac app needs macOS 26.5 or later</p>
     <div class="shots">
@@ -308,7 +333,7 @@ footer a:hover{color:#fff}
       </div>
     </div>
     <p class="end">The core hiding features are not built to be something you have to pay for.</p>
-    <a class="btn lg" href="https://apps.apple.com/app/id6809352229">Download on the App Store</a>
+    <div class="badges" style="margin-top:26px"><a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en-white.svg" alt="Download on the App Store" width="167" height="56"></a><a class="badge inv" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="tx"><span class="sm">DOWNLOAD FOR</span><span class="big">macOS</span></span></a></div>
   </div>
 </div>
 
@@ -411,9 +436,7 @@ footer a:hover{color:#fff}
         <p>What is on the page you are reading never goes anywhere. The only thing stored is which things you chose to hide.</p>
       </div>
     </div>
-    <div class="cta" style="display:flex;gap:14px;margin-top:36px">
-      <a class="btn lg" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg">Download for macOS</a>
-    </div>
+    <div class="badges" style="margin-top:36px"><a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="tx"><span class="sm">DOWNLOAD FOR</span><span class="big">macOS</span></span></a></div>
     <p class="mini">macOS 26.5 or later. Notarized by Apple, so it opens straight after downloading.</p>
   </div>
 </div>
@@ -447,7 +470,7 @@ footer a:hover{color:#fff}
 <div class="section" style="padding-top:104px">
   <div class="wrap close">
     <h2>Spend your time on<br>what you chose.</h2>
-    <a class="btn lg" href="https://apps.apple.com/app/id6809352229">Download on the App Store</a>
+    <div class="badges" style="justify-content:center;margin-top:44px"><a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en.svg" alt="Download on the App Store" width="167" height="56"></a><a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="tx"><span class="sm">DOWNLOAD FOR</span><span class="big">macOS</span></span></a></div>
   </div>
 </div>
 
