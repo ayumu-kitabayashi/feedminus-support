@@ -15,6 +15,11 @@
   body {
     background: var(--bg); color: var(--ink);
     font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+  }
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: .92em; background: rgba(10,10,10,.06);
+    padding: .1em .35em; border-radius: 4px;
     line-height: 1.8; font-size: 15px;
     -webkit-font-smoothing: antialiased;
   }
@@ -41,7 +46,7 @@
 <div class="wrap">
   <div class="brand">FeedMinus</div>
   <h1>プライバシーポリシー</h1>
-  <p class="date">制定：2026年9月7日</p>
+  <p class="date">制定：2026年9月7日／改定：2026年9月10日（Mac版とブラウザ機能拡張について追記）</p>
 
   <div class="summary">
     <strong>要点：FeedMinus はデータを収集しません。</strong><br>
@@ -86,18 +91,32 @@
   端末内に保存されます。この仕組みにより、<strong>どのアプリを選んだのかは開発者からは見えません。</strong>
   Apple の設計としてそうなっています。</p>
 
-  <h2>6. 記録の削除</h2>
-  <p>アプリを削除すると、端末内の記録はすべて消去されます。外部にコピーは存在しません。
-  各サービスのログイン状態も同時に消えます。</p>
+  <h2>6. Mac版とブラウザ機能拡張について</h2>
+  <p>Mac版のFeedMinusと、Chrome・Safariの機能拡張は、閲覧しているページの内容を読み取らず、
+  外部にも一切送信しません。通信を行うコードを含んでいません。</p>
+  <p>保存するのは「どのルールを使うか」という選択だけです。この選択は、Chromeの機能拡張では
+  Chromeの同期機能（<code>chrome.storage.sync</code>）に、Mac版アプリではお使いのMacの中に
+  保存されます。同期機能を使った場合、同じGoogleアカウントでログインしたChromeに設定が
+  引き継がれますが、これはGoogleの機能によるもので、当方のサーバーには送信されません。</p>
+  <p>Mac版アプリには、ブラウザで開いているページのURLだけを読み取り、フィードやショート動画の
+  入口であった場合に、あなたが選んだ場所へ振り替える機能があります。この機能はページの内容を
+  読み取りません。macOSの「オートメーション」の許可が必要で、許可しなければ動作しません。</p>
 
-  <h2>7. 子どもの利用について</h2>
+  <h2>7. 記録の削除</h2>
+  <p>アプリを削除すると、端末内の記録はすべて消去されます。
+  各サービスのログイン状態も同時に消えます。</p>
+  <p>Chromeの機能拡張の設定は、6のとおりChromeの同期機能に保存されます。
+  端末内の記録とは保存先が異なるため、機能拡張を使わなくなるときは、
+  Chrome側の設定もあわせてご確認ください。</p>
+
+  <h2>8. 子どもの利用について</h2>
   <p>本アプリは13歳未満の方を対象としていません。年齢に関する情報を取得することもありません。</p>
 
-  <h2>8. 改定</h2>
+  <h2>9. 改定</h2>
   <p>本ポリシーを変更する場合は、このページで告知し、改定日を更新します。
   データの取り扱いが変わる場合は、App Store のプライバシー表示も併せて更新します。</p>
 
-  <h2>9. 連絡先</h2>
+  <h2>10. 連絡先</h2>
   <p>メール：<a href="mailto:workflowai.japan@gmail.com">workflowai.japan@gmail.com</a></p>
 
   <footer>

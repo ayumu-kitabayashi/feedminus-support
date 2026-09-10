@@ -77,6 +77,7 @@ img{display:block}
   letter-spacing:-.03em;text-wrap:pretty}
 .hero .sub{margin:22px auto 0;max-width:32em;text-wrap:balance;font-size:clamp(16px,1.9vw,19px);line-height:1.9;color:#2e2e2e}
 .hero .cta{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin-top:48px}
+.hero .os{margin:20px 0 0;font-size:14px;line-height:1.8;color:#6a6a76}
 .shots{display:flex;justify-content:center;align-items:flex-end;
   gap:clamp(12px,3vw,40px);height:clamp(300px,40vw,480px);margin:64px auto 0}
 .shots img{height:100%;width:auto}
@@ -223,7 +224,7 @@ footer a:hover{color:#fff}
   <div class="wrap">
     <div class="nav glass">
       <a class="home" href="#top"><img src="logo-trim.png" alt="FeedMinus" width="141" height="24"></a>
-      <div class="links"><a href="#features">機能</a><a href="./en/">English</a></div>
+      <div class="links"><a href="#features">機能</a><a href="#mac">Mac版</a><a href="./en/">English</a></div>
       <a class="btn sm" href="https://apps.apple.com/jp/app/id6809352229"><span class="lbl-full">App Storeでダウンロード</span><span class="lbl-short">ダウンロード</span></a>
     </div>
   </div>
@@ -236,7 +237,9 @@ footer a:hover{color:#fff}
     <p class="sub">DMや友だちとのつながりは、そのまま使えます。</p>
     <div class="cta">
       <a class="btn lg" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a>
+      <a class="btn lg" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg">Mac版をダウンロード</a>
     </div>
+    <p class="os">Mac版は macOS 26.5 以降が必要です</p>
     <div class="shots">
       <img src="shot-instagram.png" alt="FeedMinusで開いたInstagram" width="266" height="500">
       <img class="short" src="shot-home.png" alt="FeedMinusのホーム画面" width="269" height="500">
@@ -285,23 +288,23 @@ footer a:hover{color:#fff}
   <div class="wrap free">
     <span class="eyebrow" style="color:rgba(255,255,255,.55)"><i style="color:#fff">03</i>無料でできること、有料になること</span>
     <h2>基本の非表示機能は、無料です</h2>
-    <p class="lead2">有料になるのは、非表示にする機能ではなく、元の使い方に戻りにくくするための機能だけです。</p>
+    <p class="lead2">有料になるのは、非表示にする機能ではありません。自分で開かなくても始まること、そして解除しにくくすることだけです。</p>
     <div class="cut">
       <div>
         <h3>無料</h3>
         <ul>
+          <li>SNSは何本でも整えられる</li>
           <li>リール、ショート動画、おすすめ投稿、広告の非表示</li>
-          <li>白黒表示、今日の利用時間</li>
-          <li>最大3つのサービスを登録</li>
+          <li>DMと通常の閲覧はそのまま</li>
+          <li>元のSNSアプリのロック</li>
+          <li>白黒表示、引き返した記録</li>
         </ul>
       </div>
       <div class="paid">
         <h3>有料</h3>
         <ul>
-          <li>元のSNSアプリのロック</li>
           <li>曜日・時間帯の指定</li>
           <li>ロックモード</li>
-          <li>4つ目以降のサービス</li>
         </ul>
       </div>
     </div>
@@ -391,13 +394,38 @@ footer a:hover{color:#fff}
   </div>
 </div>
 
+<div class="section" id="mac">
+  <div class="wrap">
+    <span class="eyebrow"><i>05</i>Mac版</span>
+    <h2>パソコンでも、同じ線を引く。</h2>
+    <div class="grid">
+      <div class="feat">
+        <h3>ブラウザのフィードと<br>ショート動画を消す</h3>
+        <p>SafariとChromeで、フィードとショート動画を非表示にします。iPhoneでやっていることを、そのまま机の上でも続けられます。</p>
+      </div>
+      <div class="feat">
+        <h3>機能拡張を入れる前から効く</h3>
+        <p>アプリを入れた時点から働きます。フィードやショート動画の入口を、用事の場所へ振り替えるためです。ブラウザの機能拡張は、あとから足せます。この振り替えには、macOSの「オートメーション」の許可が必要です。</p>
+      </div>
+      <div class="feat">
+        <h3>ページの中身を外へ送りません</h3>
+        <p>見ているページの内容が、端末の外へ出ることはありません。保存されるのは、どれを非表示にするかという設定だけです。</p>
+      </div>
+    </div>
+    <div class="cta" style="display:flex;gap:14px;margin-top:36px">
+      <a class="btn lg" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg">Mac版をダウンロード</a>
+    </div>
+    <p class="mini">macOS 26.5 以降。Appleの公証を受けているので、ダウンロードしてそのまま開けます。</p>
+  </div>
+</div>
+
 <div class="section">
   <div class="wrap">
-    <span class="eyebrow"><i>05</i>よくある質問</span>
+    <span class="eyebrow"><i>06</i>よくある質問</span>
     <h2>よくある質問</h2>
     <dl class="faq">
       <dt>無料でどこまで使えますか？</dt>
-      <dd>リール、ショート動画、おすすめ投稿、広告などを非表示にする基本機能は、無料で利用できます。白黒表示と、今日の利用時間の確認も無料です。<br>無料プランでは、最大3つのサービスを登録できます。4つ目以降のサービスと、元のSNSアプリのロック・曜日や時間帯の指定・ロックモードは有料です。</dd>
+      <dd>リール、ショート動画、おすすめ投稿、広告などを非表示にする基本機能は、無料で利用できます。白黒表示と、今日の利用時間の確認も無料です。<br>登録できるサービスの数に制限はありません。元のSNSアプリをロックする機能も無料です。有料なのは、曜日・時間帯の指定と、ロックモードの2つだけです。</dd>
 
       <dt>ログイン情報はどこへ送られますか？</dt>
       <dd>各SNSへのログインは、そのSNSが提供するログインページで行われます。FeedMinusの運営者が、IDやパスワードを取得・保存することはありません。<br>また、FeedMinusには、DMの内容や閲覧履歴を運営者へ送信・保存する機能もありません。</dd>
@@ -429,6 +457,7 @@ footer a:hover{color:#fff}
     <img src="logo-trim.png" alt="FeedMinus" width="188" height="32">
     <nav>
       <a href="https://apps.apple.com/jp/app/id6809352229">App Store</a>
+      <a href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg">Mac版</a>
       <a href="./support.html">サポート</a>
       <a href="./privacy.html">プライバシーポリシー</a>
       <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">利用規約</a>

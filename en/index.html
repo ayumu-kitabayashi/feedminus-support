@@ -77,6 +77,7 @@ img{display:block}
   letter-spacing:-.03em;text-wrap:pretty}
 .hero .sub{margin:22px auto 0;max-width:32em;text-wrap:balance;font-size:clamp(16px,1.9vw,19px);line-height:1.9;color:#2e2e2e}
 .hero .cta{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin-top:48px}
+.hero .os{margin:20px 0 0;font-size:14px;line-height:1.8;color:#6a6a76}
 .shots{display:flex;justify-content:center;align-items:flex-end;
   gap:clamp(12px,3vw,40px);height:clamp(300px,40vw,480px);margin:64px auto 0}
 .shots img{height:100%;width:auto}
@@ -222,7 +223,7 @@ footer a:hover{color:#fff}
   <div class="wrap">
     <div class="nav glass">
       <a class="home" href="#top"><img src="../logo-trim.png" alt="FeedMinus" width="141" height="24"></a>
-      <div class="links"><a href="#features">Features</a><a href="../">日本語</a></div>
+      <div class="links"><a href="#features">Features</a><a href="#mac">Mac</a><a href="../">日本語</a></div>
       <a class="btn sm" href="https://apps.apple.com/app/id6809352229"><span class="lbl-full">Download on the App Store</span><span class="lbl-short">Download</span></a>
     </div>
   </div>
@@ -235,7 +236,9 @@ footer a:hover{color:#fff}
     <p class="sub">Your DMs and the people you follow stay exactly where they are.</p>
     <div class="cta">
       <a class="btn lg" href="https://apps.apple.com/app/id6809352229">Download on the App Store</a>
+      <a class="btn lg" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg">Download for macOS</a>
     </div>
+    <p class="os">The Mac app needs macOS 26.5 or later</p>
     <div class="shots">
       <img src="shot-instagram.png" alt="Instagram opened inside FeedMinus" width="261" height="500">
       <img class="short" src="shot-home.png" alt="The FeedMinus home screen" width="266" height="500">
@@ -284,23 +287,23 @@ footer a:hover{color:#fff}
   <div class="wrap free">
     <span class="eyebrow" style="color:rgba(255,255,255,.55)"><i style="color:#fff">03</i>What is free, what is paid</span>
     <h2>The core hiding features are free</h2>
-    <p class="lead2">What you pay for is not the hiding itself. It is the part that makes it harder to slip back into using the app the old way.</p>
+    <p class="lead2">What you pay for is not the hiding. It is having it start without you opening it, and being harder to switch off.</p>
     <div class="cut">
       <div>
         <h3>FREE</h3>
         <ul>
+          <li>Tidy every service, not just one</li>
           <li>Hiding Reels, short-form video, recommended posts and ads</li>
-          <li>Grayscale, and today&rsquo;s screen time</li>
-          <li>Up to three services</li>
+          <li>DMs and normal browsing stay</li>
+          <li>Locking the original social apps</li>
+          <li>Grayscale, and a record of every turn-back</li>
         </ul>
       </div>
       <div class="paid">
         <h3>PAID</h3>
         <ul>
-          <li>Locking the original social apps</li>
           <li>Days and time ranges</li>
           <li>Lock Mode</li>
-          <li>A fourth service and beyond</li>
         </ul>
       </div>
     </div>
@@ -390,13 +393,38 @@ footer a:hover{color:#fff}
   </div>
 </div>
 
+<div class="section" id="mac">
+  <div class="wrap">
+    <span class="eyebrow"><i>05</i>Mac</span>
+    <h2>Draw the same line on your desk.</h2>
+    <div class="grid">
+      <div class="feat">
+        <h3>Clear the feed and<br>short-form video in your browser</h3>
+        <p>Safari and Chrome. What you already do on your phone carries over to the machine you work on.</p>
+      </div>
+      <div class="feat">
+        <h3>It works before you add the extension</h3>
+        <p>The app starts working the moment you install it, sending the entry points for feeds and short-form video to where the errand actually is. The browser extension can come later. This redirect needs macOS Automation permission.</p>
+      </div>
+      <div class="feat">
+        <h3>Nothing on the page leaves your Mac</h3>
+        <p>What is on the page you are reading never goes anywhere. The only thing stored is which things you chose to hide.</p>
+      </div>
+    </div>
+    <div class="cta" style="display:flex;gap:14px;margin-top:36px">
+      <a class="btn lg" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg">Download for macOS</a>
+    </div>
+    <p class="mini">macOS 26.5 or later. Notarized by Apple, so it opens straight after downloading.</p>
+  </div>
+</div>
+
 <div class="section">
   <div class="wrap">
-    <span class="eyebrow"><i>05</i>Questions</span>
+    <span class="eyebrow"><i>06</i>Questions</span>
     <h2>Frequently asked</h2>
     <dl class="faq">
       <dt>How far does the free version go?</dt>
-      <dd>Hiding Reels, short-form video, recommended posts and ads &mdash; the core of the app &mdash; is free. Grayscale and today&rsquo;s screen time are free as well.<br>The free plan covers up to three services. A fourth service and beyond, locking the original social apps, setting days and hours, and Lock Mode are paid.</dd>
+      <dd>Hiding Reels, short-form video, recommended posts and ads &mdash; the core of the app &mdash; is free. Grayscale and today&rsquo;s screen time are free as well.<br>There is no limit on how many services you add, and locking the original social apps is free too. Only two things are paid: setting days and hours, and Lock Mode.</dd>
 
       <dt>Where do my login details go?</dt>
       <dd>You sign in to each service on that service&rsquo;s own login page. The developer of FeedMinus does not obtain or store your ID or password.<br>FeedMinus also has no feature that sends the contents of your DMs or your browsing history to the developer.</dd>
@@ -428,6 +456,7 @@ footer a:hover{color:#fff}
     <img src="../logo-trim.png" alt="FeedMinus" width="188" height="32">
     <nav>
       <a href="https://apps.apple.com/app/id6809352229">App Store</a>
+      <a href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/FeedMinus.dmg">Mac</a>
       <a href="../support.html">Support</a>
       <a href="../privacy.html">Privacy Policy</a>
       <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Use</a>
