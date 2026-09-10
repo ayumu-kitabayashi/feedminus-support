@@ -200,6 +200,45 @@ footer nav{display:flex;flex-wrap:wrap;gap:32px;font-size:18px;font-weight:500}
 footer a{color:rgba(255,255,255,.88)}
 footer a:hover{color:#fff}
 
+/* ── 作り手の札（フッター右下）──────────────────────────
+   ★ガラスは「下を通るもの」を曲げて初めて見える。フッターは真っ黒一色なので、
+     そのまま重ねてもただの半透明の四角にしかならない。
+     だから footer::after で**曲げる相手**を先に置く。 */
+footer{position:relative;overflow:hidden}
+footer::after{content:"";position:absolute;right:-70px;bottom:-110px;
+  width:430px;height:300px;pointer-events:none;z-index:0;
+  background:
+    radial-gradient(closest-side,rgba(217,119,87,.42),rgba(217,119,87,0) 72%) 62% 34%/68% 82% no-repeat,
+    radial-gradient(closest-side,rgba(92,92,224,.38),rgba(92,92,224,0) 72%) 22% 74%/72% 82% no-repeat;
+  filter:blur(16px)}
+footer .wrap{position:relative;z-index:1}
+
+.madeby{position:absolute;z-index:2;
+  right:clamp(24px,5vw,72px);bottom:clamp(18px,2.6vw,30px);
+  display:inline-flex;align-items:center;gap:8px;
+  padding:9px 16px;border-radius:999px;
+  font-size:13px;font-weight:500;letter-spacing:.01em;
+  color:rgba(255,255,255,.92);white-space:nowrap;
+  background:rgba(255,255,255,.10);
+  -webkit-backdrop-filter:blur(14px) saturate(180%);
+  backdrop-filter:blur(14px) saturate(180%);
+  border:1px solid rgba(255,255,255,.20);
+  box-shadow:0 8px 16px rgba(0,0,0,.30),
+             inset 0 1px 0 rgba(255,255,255,.24)}
+.madeby img{width:15px;height:15px;display:block;flex:none;filter:none;mix-blend-mode:normal}
+.madeby b{font-weight:700;color:#fff}
+@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+  .madeby{background:rgba(255,255,255,.16)}
+}
+@media (prefers-reduced-transparency:reduce){
+  .madeby{background:rgba(255,255,255,.18);backdrop-filter:none;-webkit-backdrop-filter:none}
+}
+@media(max-width:820px){
+  /* ★狭い画面では絶対配置をやめる。リンクの列に重なるため */
+  .madeby{position:static;display:flex;margin:30px 0 0 auto;width:max-content}
+  footer::after{right:-120px;bottom:-140px}
+}
+
 .dock{display:none}
 @media(max-width:700px){
   .dock{display:block;position:fixed;left:12px;right:12px;
@@ -486,6 +525,7 @@ footer a:hover{color:#fff}
       <a href="../">日本語</a>
     </nav>
   </div>
+  <div class="madeby"><span>made by</span><img src="../claude-mark.svg" alt="" width="15" height="15"><b>Claude</b></div>
 </footer>
 
 </div>
