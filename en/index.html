@@ -84,11 +84,9 @@ p{margin:0;text-wrap:pretty}
 .hero h1{margin:0;font-size:clamp(33px,5vw,62px);line-height:1.3;font-weight:800;
   letter-spacing:-.035em;text-wrap:pretty}
 .hero .badges{justify-content:center;margin-top:44px}
-.shots{display:grid;grid-template-columns:1fr 1fr;gap:clamp(12px,2.6vw,36px);
-  max-width:640px;margin:72px auto 0}
-.shots img{width:100%;height:clamp(290px,46vw,430px);
-  object-fit:cover;object-position:top;border-radius:22px;
-  border:1px solid var(--line);box-shadow:0 24px 60px rgba(23,24,29,.13)}
+.shots{display:grid;grid-template-columns:1fr 1fr;gap:clamp(8px,1.6vw,20px);
+  max-width:660px;margin:56px auto 0}
+.shots img{width:100%;height:auto}
 
 /* ── 対比（消える / 残る）───────────────────────── */
 .two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
@@ -103,12 +101,13 @@ p{margin:0;text-wrap:pretty}
 
 /* ── 約束 ──────────────────────────────────────── */
 .vows{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
-.vow{background:var(--card2);border-radius:26px;padding:clamp(30px,3.4vw,42px);display:flex;align-items:center;min-height:clamp(150px,15vw,190px)}
-.vow h3{font-size:clamp(20px,2.1vw,25px);line-height:1.6}
+.vow{background:var(--card2);border-radius:26px;padding:clamp(28px,3.2vw,40px)}
+.vow h3{font-size:clamp(19px,1.9vw,22px);line-height:1.6}
+.vow p{margin-top:14px;font-size:15.5px;line-height:1.9;color:var(--ink2)}
 
 /* ── 料金 ──────────────────────────────────────── */
 .price{background:var(--ink);color:#fff;border-radius:34px;padding:clamp(34px,4.4vw,64px)}
-.price h2{margin:0 0 34px;font-size:clamp(24px,2.8vw,34px);color:#fff}
+.price h2{margin:0 0 30px;font-size:clamp(24px,2.8vw,34px);color:#fff}
 .price .two{gap:20px}
 .price .pane{background:rgba(255,255,255,.07);border:none;color:#fff}
 .price .pane.paid{background:transparent;border:1px solid rgba(255,255,255,.22)}
@@ -116,15 +115,16 @@ p{margin:0;text-wrap:pretty}
 .price .badges{margin-top:34px}
 
 /* ── できること ────────────────────────────────── */
-.feat{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:clamp(24px,3vw,40px)}
+.feat{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:clamp(8px,1.6vw,20px)}
 .feat figure{margin:0}
-.feat img{width:100%;height:clamp(300px,27vw,400px);object-fit:cover;object-position:top;
-  border-radius:20px;border:1px solid var(--line);box-shadow:0 16px 40px rgba(23,24,29,.10)}
-.feat h3{margin-top:22px}
+.feat img{width:100%;height:auto}
+.feat h3{margin-top:18px;font-size:19px}
+.feat p{margin-top:8px;font-size:15px;line-height:1.85;color:var(--ink2)}
 
 /* ── Mac ───────────────────────────────────────── */
 .mac{background:var(--card2);border-radius:34px;padding:clamp(34px,4.4vw,64px)}
-.mac h2{margin-bottom:0}
+.mac h2{margin-bottom:16px}
+.mac p{font-size:16.5px;line-height:1.9;color:var(--ink2);max-width:38em}
 .mac .badges{margin-top:32px}
 
 /* ── FAQ ───────────────────────────────────────── */
@@ -132,12 +132,17 @@ p{margin:0;text-wrap:pretty}
 .faq dt{font-size:19px;font-weight:700;letter-spacing:-.02em;padding-top:34px;
   border-top:1px solid var(--line)}
 .faq dt:first-of-type{border-top:none;padding-top:0}
-.faq dd{margin:10px 0 34px;font-size:16px;line-height:1.9;color:var(--ink2);max-width:62ch}
+
+.faq dd ul{margin:14px 0 0;padding-left:20px}
+.faq dd li{margin-bottom:4px}
+.faq dd{margin:12px 0 34px;font-size:16px;line-height:1.9;color:var(--ink2);max-width:62ch}
 
 /* ── 締め・足もと ──────────────────────────────── */
 /* ── 対応サービス ──────────────────────────────── */
 .svcs{display:grid;grid-template-columns:repeat(5,1fr);gap:clamp(10px,1.6vw,20px);max-width:760px}
 .svcs img{width:100%;height:auto;aspect-ratio:1;object-fit:contain}
+.svcs figure{margin:0}
+.svcs figcaption{margin-top:10px;text-align:center;font-size:12.5px;color:var(--ink2)}
 @media (max-width:620px){.svcs{grid-template-columns:repeat(5,1fr);gap:8px}}
 
 /* ── Pro グラデーション（パレットの Pro Gradient）──── */
@@ -180,7 +185,7 @@ footer a:hover{color:#fff}
 
 <div class="navbar"><div class="wrap"><div class="nav">
   <a class="home" href="#top"><img src="../logo-trim.png" alt="minulo" width="141" height="24"></a>
-  <div class="links"><a href="#can">What it does</a><a href="#price">Pricing</a><a href="#mac">Mac</a><a href="../">日本語</a></div>
+  <div class="links"><a href="#can">What it does</a><a href="#price">Pricing</a><a href="#mac">macOS</a><a href="../">日本語</a></div>
   <a class="btn" href="https://apps.apple.com/app/id6809352229">Download</a>
 </div></div></div>
 
@@ -188,35 +193,32 @@ footer a:hover{color:#fff}
 
   <header class="hero" id="top">
     <h1>Keep social media.<br>Stop the endless scroll.</h1>
-    <div class="badges">
-      <a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en.svg" alt="Download on the App Store" width="167" height="56"></a>
-      <a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS</span></a>
-    </div>
+    <div class="badges"><a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en.svg" alt="Download on the App Store" width="167" height="56"></a><a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">See the macOS app</span></a></div>
     <div class="shots">
-      <img src="s-ig.png" alt="Instagram opened inside minulo, with the feed gone" width="900" height="1408">
-      <img src="s-yt.png" alt="YouTube opened inside minulo, with no Shorts shelf" width="900" height="1408">
+      <img src="s-ig.png" alt="Instagram opened in minulo, with the feed and Reels hidden" width="900" height="1955">
+      <img src="s-yt.png" alt="YouTube opened in minulo, with the Shorts shelf hidden" width="900" height="1955">
     </div>
   </header>
 
   <section>
-    <h2>What goes, what stays.</h2>
+    <h2>What gets hidden. What stays.</h2>
     <div class="two">
       <div class="pane cut">
-        <div class="head">What goes</div>
+        <div class="head">Hidden</div>
         <ul>
           <li>Reels and short-form video</li>
           <li>Recommended posts in the feed</li>
           <li>The Explore and Discover tabs</li>
-          <li>Ads, and posts shaped like ads</li>
-          <li>A Reel sent to you in a DM</li>
+          <li>Ads and sponsored posts</li>
+          <li>Reels shared in a DM</li>
         </ul>
       </div>
       <div class="pane keep">
-        <div class="head">What stays</div>
+        <div class="head">Still yours</div>
         <ul>
           <li>DMs and messages</li>
           <li>Ordinary posts from friends</li>
-          <li>Profiles you go and look at</li>
+          <li>Profiles you open yourself</li>
           <li>Posting and replying</li>
           <li>Search</li>
         </ul>
@@ -224,94 +226,99 @@ footer a:hover{color:#fff}
     </div>
   </section>
 
-<section>
-    <h2>Where it works.</h2>
+  <section>
+    <h2>Ten services are supported.</h2>
     <div class="svcs">
-      <img src="svc/instagram.png" alt="Instagram" width="120" height="120">
-      <img src="svc/youtube.png" alt="YouTube" width="120" height="120">
-      <img src="svc/x.png" alt="X" width="120" height="120">
-      <img src="svc/threads.png" alt="Threads" width="120" height="120">
-      <img src="svc/pinterest.png" alt="Pinterest" width="120" height="120">
-      <img src="svc/tiktok.png" alt="TikTok" width="120" height="120">
-      <img src="svc/facebook.png" alt="Facebook" width="120" height="120">
-      <img src="svc/reddit.png" alt="Reddit" width="120" height="120">
-      <img src="svc/linkedin.png" alt="LinkedIn" width="120" height="120">
-      <img src="svc/snapchat.png" alt="Snapchat" width="120" height="120">
+      <figure><img src="svc/instagram.png" alt="" width="168" height="168"><figcaption>Instagram</figcaption></figure>
+      <figure><img src="svc/youtube.png" alt="" width="168" height="168"><figcaption>YouTube</figcaption></figure>
+      <figure><img src="svc/x.png" alt="" width="168" height="168"><figcaption>X</figcaption></figure>
+      <figure><img src="svc/threads.png" alt="" width="168" height="168"><figcaption>Threads</figcaption></figure>
+      <figure><img src="svc/pinterest.png" alt="" width="168" height="168"><figcaption>Pinterest</figcaption></figure>
+      <figure><img src="svc/tiktok.png" alt="" width="168" height="168"><figcaption>TikTok</figcaption></figure>
+      <figure><img src="svc/facebook.png" alt="" width="168" height="168"><figcaption>Facebook</figcaption></figure>
+      <figure><img src="svc/reddit.png" alt="" width="168" height="168"><figcaption>Reddit</figcaption></figure>
+      <figure><img src="svc/linkedin.png" alt="" width="168" height="168"><figcaption>LinkedIn</figcaption></figure>
+      <figure><img src="svc/snapchat.png" alt="" width="168" height="168"><figcaption>Snapchat</figcaption></figure>
     </div>
   </section>
 
   <section>
-    <h2>These three will not change.</h2>
+    <h2>Three promises minulo keeps.</h2>
     <div class="vows">
       <div class="vow">
-        <h3>Removing recommendations costs nothing</h3>
+        <h3>Hiding recommended posts is free.</h3>
+        <p>The core features that stop the endless scroll cost nothing.</p>
       </div>
       <div class="vow">
-        <h3>You sign in on the service&rsquo;s own screen</h3>
+        <h3>You sign in on each service&rsquo;s official page.</h3>
+        <p>minulo never obtains or stores your social media ID or password.</p>
       </div>
       <div class="vow">
-        <h3>We never restrict sites in your browser</h3>
+        <h3>We never restrict your browsing.</h3>
+        <p>minulo only changes pages opened inside minulo. It will not restrict websites you open in Safari or any other browser.</p>
       </div>
     </div>
   </section>
 
   <section id="can">
-    <h2>What it does.</h2>
+    <h2>What it does</h2>
     <div class="feat">
       <figure>
-        <img src="s-rules.png" alt="Choosing what to hide on Instagram" width="900" height="1564">
-        <h3>Pick what goes, per service</h3>
+        <img src="s-rules.png" alt="Choosing what to hide on Instagram" width="900" height="1955">
+        <h3>Set it per service</h3>
+        <p>Choose what gets hidden for each service, Instagram included.</p>
       </figure>
       <figure>
-        <img src="s-home.png" alt="The minulo home screen" width="900" height="1564">
-        <h3>Lock the real apps too</h3>
+        <img src="s-services.png" alt="Choosing which services to block" width="900" height="1955">
+        <h3>Lock the official apps too</h3>
+        <p>Build the habit of reaching for minulo instead of the official social apps.</p>
       </figure>
       <figure>
-        <img src="s-sleep.png" alt="The sleep mode dial" width="900" height="1564">
-        <h3>Sleep hours and schedules</h3>
+        <img src="s-sleep.png" alt="Bedtime mode settings" width="900" height="1955">
+        <h3>Set your bedtime</h3>
+        <p>Pick days and hours, and the services you chose are blocked automatically.</p>
       </figure>
       <figure>
-        <img src="s-records.png" alt="The records screen" width="900" height="1564">
-        <h3>See the time you got back</h3>
+        <img src="s-records.png" alt="Records of time reclaimed" width="900" height="1955">
+        <h3>Record the time you reclaim</h3>
+        <p>See how often you turned back, and how much time you got back.</p>
       </figure>
     </div>
   </section>
 
   <section id="price">
     <div class="price">
-      <h2>The core hiding is free.</h2>
+      <h2>The core hiding features are free.</h2>
       <div class="two">
         <div class="pane">
           <div class="head">Free</div>
           <ul>
-            <li>Hiding Reels, Shorts, recommended posts and ads</li>
-            <li>As many services as you like</li>
-            <li>DMs and normal browsing stay</li>
-            <li>Locking the original apps</li>
-            <li>Turn-backs and time used</li>
+            <li>Hiding Reels and short-form video</li>
+            <li>Hiding recommended posts and ads</li>
+            <li>No limit on how many services you add</li>
+            <li>DMs and ordinary browsing stay usable</li>
+            <li>Locking the official social apps</li>
+            <li>Records of turn-backs and time used</li>
           </ul>
         </div>
         <div class="pane paid">
           <div class="head">Paid</div>
           <ul>
-            <li>Switching each rule one by one</li>
-            <li>Days, hours and sleep</li>
+            <li>Setting each hidden item individually</li>
+            <li>Days, hours and bedtime</li>
             <li>Lock Mode</li>
           </ul>
         </div>
       </div>
-      <div class="badges">
-        <a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en-white.svg" alt="Download on the App Store" width="167" height="56"></a>
-      </div>
+      <div class="badges"><a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en-white.svg" alt="Download on the App Store" width="167" height="56"></a></div>
     </div>
   </section>
 
   <section id="mac">
     <div class="mac">
-      <h2>Draw the same line on your desk.</h2>
-      <div class="badges">
-        <a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS</span></a>
-      </div>
+      <h2>Stop the endless scroll on your Mac too.</h2>
+      <p>Not just on your phone &mdash; keep the same distance from social media on your Mac.</p>
+      <div class="badges"><a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">See the macOS app</span></a></div>
     </div>
   </section>
 
@@ -319,32 +326,30 @@ footer a:hover{color:#fff}
     <h2>Frequently asked</h2>
     <dl class="faq">
       <dt>How far does the free version go?</dt>
-      <dd>Hiding Reels, short-form video, recommended posts and ads is free. There is no limit on how many services you add, and locking the original apps is free too. Three things are paid: switching each rule one by one, days and hours and sleep, and Lock Mode.</dd>
+      <dd>Hiding Reels, short-form video, recommended posts and ads is free. There is no limit on how many services you add, and locking the official social apps is free too. Three things are paid:
+        <ul><li>Setting each hidden item individually</li><li>Days, hours and bedtime</li><li>Lock Mode</li></ul></dd>
 
       <dt>Where do my login details go?</dt>
-      <dd>You sign in to each service on that service&rsquo;s own login page. minulo never obtains or stores your ID or password. The contents of your DMs, your browsing, and your usage records all stay on your device.</dd>
+      <dd>You sign in to each service on that service&rsquo;s own official login page. minulo never obtains or stores your ID or password. The contents of your DMs, your browsing history and your minulo usage records are all kept on your device only.</dd>
 
       <dt>Will it restrict sites in my browser?</dt>
-      <dd>No. We only touch pages opened inside minulo. iOS does offer a way for an app to restrict websites across every browser; minulo does not use it, and an automated check during development confirms it is never called.</dd>
+      <dd>No, it will not. minulo only changes pages opened inside minulo. Websites you open in Safari or another browser are unaffected. iOS does offer a way for an app to restrict websites across every browser; minulo does not use it, and an automated test during development confirms that it is never called.</dd>
 
       <dt>Will it slow things down?</dt>
-      <dd>minulo opens each service&rsquo;s website inside the app, so it is one beat slower than the original. Measured, it takes 1.8&ndash;2.4 seconds from opening to Instagram&rsquo;s sign-in screen. After that it loads at normal speed.</dd>
+      <dd>minulo opens each service&rsquo;s website inside the app, so compared with the official app there can be a short wait when it starts. Measured, it takes about 1.8&ndash;2.4 seconds from opening minulo to Instagram&rsquo;s sign-in screen. After that it loads at ordinary web speed.</dd>
 
-      <dt>Will I be unable to delete the app?</dt>
-      <dd>You can delete minulo itself at any time. Lock Mode takes three steps to leave, but the app is not designed to stand in the way of deleting it. It puts time before an impulsive unlock; it does not shut you in.</dd>
+      <dt>Will I be unable to delete minulo?</dt>
+      <dd>You can delete minulo at any time. Lock Mode takes three confirmation steps to leave, but the app is not designed to stand in the way of deleting it. It exists to give you a moment to think before an impulsive unlock, not to shut you in.</dd>
 
-      <dt>My service is not supported</dt>
-      <dd>Ten services are supported today (Instagram, YouTube, X, Threads, Pinterest, TikTok, Facebook, Reddit, LinkedIn, Snapchat). When a service changes its screens, something that used to be hidden can come back. The rules are checked automatically every week &mdash; and you can tell us through support inside the app.</dd>
+      <dt>The service I use is not supported.</dt>
+      <dd>Ten services are supported today: Instagram, YouTube, X, Threads, Pinterest, TikTok, Facebook, Reddit, LinkedIn and Snapchat.<br>When a service changes its screens, content that was hidden can reappear for a while. The hiding rules are checked automatically every week, and you can also tell us through support inside the app.</dd>
     </dl>
   </section>
 
   <section class="close">
-    <h2>Spend your time on<br>what you chose.</h2>
-    <div class="badges">
-      <a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en.svg" alt="Download on the App Store" width="167" height="56"></a>
-      <a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS</span></a>
-    </div>
-      <img class="minu" src="../minu.png" alt="" width="440" height="342">
+    <h2>Spend your time on<br>what you choose.</h2>
+    <div class="badges"><a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en.svg" alt="Download on the App Store" width="167" height="56"></a><a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">See the macOS app</span></a></div>
+    <img class="minu" src="minu.png" alt="" width="440" height="342">
   </section>
 
 </div>
@@ -354,7 +359,7 @@ footer a:hover{color:#fff}
     <div><img class="logo" src="../logo-trim.png" alt="minulo" width="176" height="30"></div>
     <nav>
       <a href="https://apps.apple.com/app/id6809352229">App Store</a>
-      <a href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">Mac</a>
+      <a href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">macOS</a>
       <a href="../support.html">Support</a>
       <a href="../privacy.html">Privacy Policy</a>
       <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Use</a>

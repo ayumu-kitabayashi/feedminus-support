@@ -84,11 +84,9 @@ p{margin:0;text-wrap:pretty}
 .hero h1{margin:0;font-size:clamp(33px,5vw,62px);line-height:1.3;font-weight:800;
   letter-spacing:-.035em;text-wrap:pretty}
 .hero .badges{justify-content:center;margin-top:44px}
-.shots{display:grid;grid-template-columns:1fr 1fr;gap:clamp(12px,2.6vw,36px);
-  max-width:640px;margin:72px auto 0}
-.shots img{width:100%;height:clamp(290px,46vw,430px);
-  object-fit:cover;object-position:top;border-radius:22px;
-  border:1px solid var(--line);box-shadow:0 24px 60px rgba(23,24,29,.13)}
+.shots{display:grid;grid-template-columns:1fr 1fr;gap:clamp(8px,1.6vw,20px);
+  max-width:660px;margin:56px auto 0}
+.shots img{width:100%;height:auto}
 
 /* ── 対比（消える / 残る）───────────────────────── */
 .two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
@@ -103,12 +101,13 @@ p{margin:0;text-wrap:pretty}
 
 /* ── 約束 ──────────────────────────────────────── */
 .vows{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
-.vow{background:var(--card2);border-radius:26px;padding:clamp(30px,3.4vw,42px);display:flex;align-items:center;min-height:clamp(150px,15vw,190px)}
-.vow h3{font-size:clamp(20px,2.1vw,25px);line-height:1.6}
+.vow{background:var(--card2);border-radius:26px;padding:clamp(28px,3.2vw,40px)}
+.vow h3{font-size:clamp(19px,1.9vw,22px);line-height:1.6}
+.vow p{margin-top:14px;font-size:15.5px;line-height:1.9;color:var(--ink2)}
 
 /* ── 料金 ──────────────────────────────────────── */
 .price{background:var(--ink);color:#fff;border-radius:34px;padding:clamp(34px,4.4vw,64px)}
-.price h2{margin:0 0 34px;font-size:clamp(24px,2.8vw,34px);color:#fff}
+.price h2{margin:0 0 30px;font-size:clamp(24px,2.8vw,34px);color:#fff}
 .price .two{gap:20px}
 .price .pane{background:rgba(255,255,255,.07);border:none;color:#fff}
 .price .pane.paid{background:transparent;border:1px solid rgba(255,255,255,.22)}
@@ -116,15 +115,16 @@ p{margin:0;text-wrap:pretty}
 .price .badges{margin-top:34px}
 
 /* ── できること ────────────────────────────────── */
-.feat{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:clamp(24px,3vw,40px)}
+.feat{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:clamp(8px,1.6vw,20px)}
 .feat figure{margin:0}
-.feat img{width:100%;height:clamp(300px,27vw,400px);object-fit:cover;object-position:top;
-  border-radius:20px;border:1px solid var(--line);box-shadow:0 16px 40px rgba(23,24,29,.10)}
-.feat h3{margin-top:22px}
+.feat img{width:100%;height:auto}
+.feat h3{margin-top:18px;font-size:19px}
+.feat p{margin-top:8px;font-size:15px;line-height:1.85;color:var(--ink2)}
 
 /* ── Mac ───────────────────────────────────────── */
 .mac{background:var(--card2);border-radius:34px;padding:clamp(34px,4.4vw,64px)}
-.mac h2{margin-bottom:0}
+.mac h2{margin-bottom:16px}
+.mac p{font-size:16.5px;line-height:1.9;color:var(--ink2);max-width:38em}
 .mac .badges{margin-top:32px}
 
 /* ── FAQ ───────────────────────────────────────── */
@@ -132,12 +132,17 @@ p{margin:0;text-wrap:pretty}
 .faq dt{font-size:19px;font-weight:700;letter-spacing:-.02em;padding-top:34px;
   border-top:1px solid var(--line)}
 .faq dt:first-of-type{border-top:none;padding-top:0}
-.faq dd{margin:10px 0 34px;font-size:16px;line-height:1.9;color:var(--ink2);max-width:62ch}
+
+.faq dd ul{margin:14px 0 0;padding-left:20px}
+.faq dd li{margin-bottom:4px}
+.faq dd{margin:12px 0 34px;font-size:16px;line-height:1.9;color:var(--ink2);max-width:62ch}
 
 /* ── 締め・足もと ──────────────────────────────── */
 /* ── 対応サービス ──────────────────────────────── */
 .svcs{display:grid;grid-template-columns:repeat(5,1fr);gap:clamp(10px,1.6vw,20px);max-width:760px}
 .svcs img{width:100%;height:auto;aspect-ratio:1;object-fit:contain}
+.svcs figure{margin:0}
+.svcs figcaption{margin-top:10px;text-align:center;font-size:12.5px;color:var(--ink2)}
 @media (max-width:620px){.svcs{grid-template-columns:repeat(5,1fr);gap:8px}}
 
 /* ── Pro グラデーション（パレットの Pro Gradient）──── */
@@ -180,7 +185,7 @@ footer a:hover{color:#fff}
 
 <div class="navbar"><div class="wrap"><div class="nav">
   <a class="home" href="#top"><img src="logo-trim.png" alt="minulo" width="141" height="24"></a>
-  <div class="links"><a href="#can">できること</a><a href="#price">料金</a><a href="#mac">Mac版</a><a href="./en/">English</a></div>
+  <div class="links"><a href="#can">できること</a><a href="#price">料金</a><a href="#mac">macOS版</a><a href="./en/">English</a></div>
   <a class="btn" href="https://apps.apple.com/jp/app/id6809352229">ダウンロード</a>
 </div></div></div>
 
@@ -188,130 +193,132 @@ footer a:hover{color:#fff}
 
   <header class="hero" id="top">
     <h1>SNSはやめない。<br>無限スクロールだけをやめる。</h1>
-    <div class="badges">
-      <a href="https://apps.apple.com/jp/app/id6809352229"><img src="badge-appstore-ja.svg" alt="App Storeからダウンロード" width="152" height="56"></a>
-      <a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS版</span></a>
-    </div>
+    <div class="badges"><a href="https://apps.apple.com/jp/app/id6809352229"><img src="badge-appstore-ja.svg" alt="App Storeでダウンロード" width="152" height="56"></a><a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS版を見る</span></a></div>
     <div class="shots">
-      <img src="s-ig.png" alt="minuloの中で開いたInstagram。フィードが消えている" width="900" height="1408">
-      <img src="s-yt.png" alt="minuloの中で開いたYouTube。ショート動画の棚が無い" width="900" height="1408">
+      <img src="s-ig.png" alt="minuloでInstagramを開くと、フィードとリールが非表示に" width="900" height="1955">
+      <img src="s-yt.png" alt="minuloでYouTubeを開くと、ショート動画の棚が非表示に" width="900" height="1955">
     </div>
   </header>
 
   <section>
-    <h2>消えるもの、残るもの。</h2>
+    <h2>非表示にするもの。残すもの。</h2>
     <div class="two">
       <div class="pane cut">
-        <div class="head">消えるもの</div>
+        <div class="head">非表示にするもの</div>
         <ul>
-          <li>リール、ショート動画</li>
-          <li>フィードの「おすすめ」投稿</li>
-          <li>発見タブ、探索タブ</li>
-          <li>広告と、広告のような投稿</li>
-          <li>DMで届いたリール</li>
+          <li>リール・ショート動画</li>
+          <li>フィード内のおすすめ投稿</li>
+          <li>発見タブ・探索タブ</li>
+          <li>広告やスポンサー投稿</li>
+          <li>DMで共有されたリール動画</li>
         </ul>
       </div>
       <div class="pane keep">
-        <div class="head">残るもの</div>
+        <div class="head">そのまま使えるもの</div>
         <ul>
-          <li>DM、メッセージ</li>
+          <li>DM・メッセージ</li>
           <li>友だちの通常の投稿</li>
-          <li>自分から見に行くプロフィール</li>
-          <li>投稿と返信</li>
+          <li>自分で開いたプロフィール</li>
+          <li>投稿・返信機能</li>
           <li>検索</li>
         </ul>
       </div>
     </div>
   </section>
 
-<section>
-    <h2>対応しているサービス。</h2>
+  <section>
+    <h2>10種類のSNSに対応しています。</h2>
     <div class="svcs">
-      <img src="svc/instagram.png" alt="Instagram" width="120" height="120">
-      <img src="svc/youtube.png" alt="YouTube" width="120" height="120">
-      <img src="svc/x.png" alt="X" width="120" height="120">
-      <img src="svc/threads.png" alt="Threads" width="120" height="120">
-      <img src="svc/pinterest.png" alt="Pinterest" width="120" height="120">
-      <img src="svc/tiktok.png" alt="TikTok" width="120" height="120">
-      <img src="svc/facebook.png" alt="Facebook" width="120" height="120">
-      <img src="svc/reddit.png" alt="Reddit" width="120" height="120">
-      <img src="svc/linkedin.png" alt="LinkedIn" width="120" height="120">
-      <img src="svc/snapchat.png" alt="Snapchat" width="120" height="120">
+      <figure><img src="svc/instagram.png" alt="" width="168" height="168"><figcaption>Instagram</figcaption></figure>
+      <figure><img src="svc/youtube.png" alt="" width="168" height="168"><figcaption>YouTube</figcaption></figure>
+      <figure><img src="svc/x.png" alt="" width="168" height="168"><figcaption>X</figcaption></figure>
+      <figure><img src="svc/threads.png" alt="" width="168" height="168"><figcaption>Threads</figcaption></figure>
+      <figure><img src="svc/pinterest.png" alt="" width="168" height="168"><figcaption>Pinterest</figcaption></figure>
+      <figure><img src="svc/tiktok.png" alt="" width="168" height="168"><figcaption>TikTok</figcaption></figure>
+      <figure><img src="svc/facebook.png" alt="" width="168" height="168"><figcaption>Facebook</figcaption></figure>
+      <figure><img src="svc/reddit.png" alt="" width="168" height="168"><figcaption>Reddit</figcaption></figure>
+      <figure><img src="svc/linkedin.png" alt="" width="168" height="168"><figcaption>LinkedIn</figcaption></figure>
+      <figure><img src="svc/snapchat.png" alt="" width="168" height="168"><figcaption>Snapchat</figcaption></figure>
     </div>
   </section>
 
   <section>
-    <h2>この3つは、ずっと変えません。</h2>
+    <h2>minuloが守り続ける、3つの約束。</h2>
     <div class="vows">
       <div class="vow">
-        <h3>おすすめ投稿を消すのに、お金はかかりません</h3>
+        <h3>おすすめ投稿の非表示は、無料です。</h3>
+        <p>無限スクロールを防ぐための基本機能に、料金はかかりません。</p>
       </div>
       <div class="vow">
-        <h3>ログインは、そのSNS自身の画面で</h3>
+        <h3>ログインは、各SNSの公式ページから。</h3>
+        <p>SNSのIDやパスワードを、minuloが取得・保存することはありません。</p>
       </div>
       <div class="vow">
-        <h3>ブラウザのサイトを、勝手に制限しません</h3>
+        <h3>ブラウザの閲覧を、勝手に制限しません。</h3>
+        <p>minuloが変更するのは、minuloの中で開いたページだけです。Safariなどで開いたWebサイトを一括で制限することはありません。</p>
       </div>
     </div>
   </section>
 
   <section id="can">
-    <h2>できること。</h2>
+    <h2>できること</h2>
     <div class="feat">
       <figure>
-        <img src="s-rules.png" alt="Instagramで消すものを選ぶ画面" width="900" height="1564">
-        <h3>消すものを、サービスごとに</h3>
+        <img src="s-rules.png" alt="Instagramで非表示にする項目を選ぶ画面" width="900" height="1955">
+        <h3>サービスごとに設定する</h3>
+        <p>Instagramなど、サービスごとに非表示にする項目を設定できます。</p>
       </figure>
       <figure>
-        <img src="s-home.png" alt="minuloのホーム画面" width="900" height="1564">
-        <h3>元のアプリもロックする</h3>
+        <img src="s-services.png" alt="ブロックするサービスを選ぶ画面" width="900" height="1955">
+        <h3>公式SNSアプリもロックする</h3>
+        <p>いつものSNSアプリを開く代わりに、minuloからSNSを利用する習慣をつくれます。</p>
       </figure>
       <figure>
-        <img src="s-sleep.png" alt="就寝モードの設定画面" width="900" height="1564">
-        <h3>就寝と、曜日・時間帯</h3>
+        <img src="s-sleep.png" alt="就寝モードの設定画面" width="900" height="1955">
+        <h3>就寝時間を設定する</h3>
+        <p>曜日や時間帯を指定して、選んだSNSを自動でブロックできます。</p>
       </figure>
       <figure>
-        <img src="s-records.png" alt="記録画面" width="900" height="1564">
-        <h3>取り戻した時間を見る</h3>
+        <img src="s-records.png" alt="取り戻した時間の記録画面" width="900" height="1955">
+        <h3>取り戻した時間を記録する</h3>
+        <p>SNSを開くのを思いとどまれた回数や、取り戻した時間を確認できます。</p>
       </figure>
     </div>
   </section>
 
   <section id="price">
     <div class="price">
-      <h2>基本の非表示は、無料です。</h2>
+      <h2>基本の非表示機能は、無料です。</h2>
       <div class="two">
         <div class="pane">
-          <div class="head">無料</div>
+          <div class="head">無料でできること</div>
           <ul>
-            <li>リール・ショート動画・おすすめ投稿・広告の非表示</li>
-            <li>SNSは何本でも</li>
-            <li>DMと通常の閲覧はそのまま</li>
-            <li>元のSNSアプリのロック</li>
-            <li>引き返した記録と利用時間</li>
+            <li>リール・ショート動画の非表示</li>
+            <li>おすすめ投稿・広告の非表示</li>
+            <li>利用するSNSの登録数は無制限</li>
+            <li>DMや通常の閲覧機能はそのまま利用可能</li>
+            <li>公式SNSアプリのロック</li>
+            <li>思いとどまれた回数と利用時間の記録</li>
           </ul>
         </div>
         <div class="pane paid">
-          <div class="head">有料</div>
+          <div class="head">有料でできること</div>
           <ul>
-            <li>消すものを1本ずつ選ぶ</li>
-            <li>曜日・時間帯と就寝の指定</li>
+            <li>非表示にする項目の個別設定</li>
+            <li>曜日・時間帯・就寝時間の指定</li>
             <li>ロックモード</li>
           </ul>
         </div>
       </div>
-      <div class="badges">
-        <a href="https://apps.apple.com/jp/app/id6809352229"><img src="badge-appstore-ja-white.svg" alt="App Storeからダウンロード" width="152" height="56"></a>
-      </div>
+      <div class="badges"><a href="https://apps.apple.com/jp/app/id6809352229"><img src="badge-appstore-ja-white.svg" alt="App Storeでダウンロード" width="152" height="56"></a></div>
     </div>
   </section>
 
   <section id="mac">
     <div class="mac">
-      <h2>パソコンでも、同じ線を引く。</h2>
-      <div class="badges">
-        <a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS版</span></a>
-      </div>
+      <h2>Macでも、無限スクロールを防ぐ。</h2>
+      <p>スマートフォンだけでなく、Macでも同じようにSNSとの距離を整えられます。</p>
+      <div class="badges"><a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS版を見る</span></a></div>
     </div>
   </section>
 
@@ -319,32 +326,30 @@ footer a:hover{color:#fff}
     <h2>よくある質問</h2>
     <dl class="faq">
       <dt>無料でどこまで使えますか？</dt>
-      <dd>リール、ショート動画、おすすめ投稿、広告を消す基本機能は無料です。登録できるSNSの数に制限はなく、元のアプリをロックする機能も無料です。有料なのは、消すものを1本ずつ選ぶこと、曜日・時間帯と就寝の指定、ロックモードの3つです。</dd>
+      <dd>リール、ショート動画、おすすめ投稿、広告を非表示にする基本機能は、無料で利用できます。利用するSNSの登録数に制限はなく、公式SNSアプリをロックする機能も無料です。有料機能は、以下の3つです。
+        <ul><li>非表示にする項目の個別設定</li><li>曜日・時間帯・就寝時間の指定</li><li>ロックモード</li></ul></dd>
 
       <dt>ログイン情報はどこへ送られますか？</dt>
-      <dd>各SNSへのログインは、そのSNSが提供するログインページで行われます。IDやパスワードをminuloが取得・保存することはありません。DMの内容も閲覧履歴も、利用記録も、端末の中だけに残ります。</dd>
+      <dd>各SNSへのログインは、そのSNSが提供する公式ログインページで行われます。IDやパスワードを、minuloが取得・保存することはありません。DMの内容、閲覧履歴、minuloの利用記録も、端末内にのみ保存されます。</dd>
 
-      <dt>ブラウザで見ているサイトまで、制限されませんか？</dt>
-      <dd>されません。手を入れるのは、minuloの中で開いたページだけです。iOSには、アプリ側からブラウザのサイトを一括で制限できる仕組みがありますが、minuloはそれを使わない方針で、使っていないことを開発時の自動検査で確認しています。</dd>
+      <dt>ブラウザで見ているサイトまで制限されませんか？</dt>
+      <dd>いいえ、制限されません。minuloが変更するのは、minuloの中で開いたページだけです。Safariなどのブラウザで開いたWebサイトには影響しません。iOSには、アプリからブラウザ上のWebサイトを一括で制限できる仕組みがありますが、minuloはこの仕組みを使用していません。使用されていないことは、開発時の自動テストでも確認しています。</dd>
 
       <dt>動作は重くなりませんか？</dt>
-      <dd>SNSのサイトをアプリの中で開くつくりなので、元のアプリより一呼吸だけ遅くなります。実測では、開いてからInstagramのログイン画面が出るまでが1.8〜2.4秒です。その先は通常の表示速度になります。</dd>
+      <dd>minuloは、各SNSのWebサイトをアプリ内で開く仕組みです。そのため、公式SNSアプリと比べると、起動時にわずかな待ち時間が発生する場合があります。実測では、minuloを開いてからInstagramのログイン画面が表示されるまで約1.8〜2.4秒です。ログイン後は、通常のWebサイトと同程度の速度で表示されます。</dd>
 
-      <dt>アプリを削除できなくなりませんか？</dt>
-      <dd>minulo自体は、いつでも削除できます。ロックモードでは解除までに3つのステップが必要ですが、アプリそのものの削除を妨げる設計にはしていません。閉じ込めるのではなく、衝動的な解除までに時間をつくるための機能です。</dd>
+      <dt>minuloを削除できなくなりませんか？</dt>
+      <dd>minuloは、いつでも削除できます。ロックモードでは、解除までに3つの確認ステップがありますが、アプリ自体の削除を妨げる設計にはしていません。ユーザーを閉じ込めるためではなく、衝動的にロックを解除する前に、少し考える時間をつくるための機能です。</dd>
 
-      <dt>対応していないサービスがあります</dt>
-      <dd>現在、10のサービスに対応しています（Instagram・YouTube・X・Threads・Pinterest・TikTok・Facebook・Reddit・LinkedIn・Snapchat）。SNS側の画面が変わると、それまで消えていたものが戻ることがあります。ルールは毎週自動で点検していますが、お気づきの点はアプリ内のサポートからお知らせください。</dd>
+      <dt>利用したいSNSが対応していません。</dt>
+      <dd>現在、以下の10サービスに対応しています。Instagram、YouTube、X、Threads、Pinterest、TikTok、Facebook、Reddit、LinkedIn、Snapchat。<br>SNS側の画面構成が変更されると、一時的に非表示にしていたコンテンツが表示されることがあります。非表示ルールは毎週自動で点検していますが、問題に気づいた場合は、アプリ内のサポートからお知らせください。</dd>
     </dl>
   </section>
 
   <section class="close">
-    <h2>自分の時間を、<br>自分で選んだことに使う。</h2>
-    <div class="badges">
-      <a href="https://apps.apple.com/jp/app/id6809352229"><img src="badge-appstore-ja.svg" alt="App Storeからダウンロード" width="152" height="56"></a>
-      <a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS版</span></a>
-    </div>
-      <img class="minu" src="minu.png" alt="" width="440" height="342">
+    <h2>自分の時間を、<br>自分で選ぶ。</h2>
+    <div class="badges"><a href="https://apps.apple.com/jp/app/id6809352229"><img src="badge-appstore-ja.svg" alt="App Storeでダウンロード" width="152" height="56"></a><a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="big">macOS版を見る</span></a></div>
+    <img class="minu" src="minu.png" alt="" width="440" height="342">
   </section>
 
 </div>
@@ -354,7 +359,7 @@ footer a:hover{color:#fff}
     <div><img class="logo" src="logo-trim.png" alt="minulo" width="176" height="30"></div>
     <nav>
       <a href="https://apps.apple.com/jp/app/id6809352229">App Store</a>
-      <a href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">Mac版</a>
+      <a href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">macOS版</a>
       <a href="./support.html">サポート</a>
       <a href="./privacy.html">プライバシーポリシー</a>
       <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">利用規約</a>
