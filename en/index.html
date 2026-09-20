@@ -144,12 +144,27 @@ p{margin:0;text-wrap:pretty}
 .faq dd{margin:10px 0 34px;font-size:16px;line-height:1.9;color:var(--ink2);max-width:62ch}
 
 /* ── 締め・足もと ──────────────────────────────── */
-.close{text-align:center;padding:120px 0 0}
+/* ── 対応サービス ──────────────────────────────── */
+.svcs{display:grid;grid-template-columns:repeat(5,1fr);gap:clamp(10px,1.6vw,20px);max-width:760px}
+.svcs img{width:100%;height:auto;aspect-ratio:1;object-fit:contain}
+@media (max-width:620px){.svcs{grid-template-columns:repeat(5,1fr);gap:8px}}
+
+/* ── Pro グラデーション（パレットの Pro Gradient）──── */
+.price .pane.paid{background:linear-gradient(135deg,rgba(86,99,232,.22),rgba(140,107,232,.22));
+  border:1px solid rgba(174,181,245,.45)}
+
+/* ── 締めのミヌ ────────────────────────────────── */
+.close{position:relative;overflow:hidden;border-radius:34px;background:#FEFDF7;
+  padding:clamp(56px,7vw,104px) clamp(20px,4vw,56px) 0;margin-top:112px}
+.close img.minu{display:block;width:min(560px,100%);height:auto;
+  margin:clamp(36px,4.5vw,56px) auto -1px}
+.close{text-align:center}
 .close h2{font-size:clamp(28px,4.2vw,52px);line-height:1.38;margin-bottom:0}
 .close .badges{justify-content:center;margin-top:42px}
 footer{margin-top:112px;background:var(--ink);color:#fff;padding:clamp(44px,5vw,76px) 0}
 footer .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:26px 40px}
 footer img.logo{height:30px;width:auto;filter:invert(1)}
+footer .tag{margin:12px 0 0;font-size:11px;font-weight:500;letter-spacing:.18em;color:rgba(255,255,255,.45)}
 footer nav{display:flex;flex-wrap:wrap;gap:12px 26px;margin-left:auto;font-size:14.5px}
 footer a{color:rgba(255,255,255,.74)}
 footer a:hover{color:#fff}
@@ -217,6 +232,22 @@ footer a:hover{color:#fff}
           <li>Search</li>
         </ul>
       </div>
+    </div>
+  </section>
+
+<section>
+    <h2>Where it works.</h2>
+    <div class="svcs">
+      <img src="svc/instagram.png" alt="Instagram" width="120" height="120">
+      <img src="svc/youtube.png" alt="YouTube" width="120" height="120">
+      <img src="svc/x.png" alt="X" width="120" height="120">
+      <img src="svc/threads.png" alt="Threads" width="120" height="120">
+      <img src="svc/pinterest.png" alt="Pinterest" width="120" height="120">
+      <img src="svc/tiktok.png" alt="TikTok" width="120" height="120">
+      <img src="svc/facebook.png" alt="Facebook" width="120" height="120">
+      <img src="svc/reddit.png" alt="Reddit" width="120" height="120">
+      <img src="svc/linkedin.png" alt="LinkedIn" width="120" height="120">
+      <img src="svc/snapchat.png" alt="Snapchat" width="120" height="120">
     </div>
   </section>
 
@@ -336,13 +367,14 @@ footer a:hover{color:#fff}
       <a href="https://apps.apple.com/app/id6809352229"><img src="badge-appstore-en.svg" alt="Download on the App Store" width="167" height="56"></a>
       <a class="badge" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg"><svg class="ic" viewBox="0 0 28 22" fill="currentColor" aria-hidden="true"><rect x="4.2" y="1.6" width="19.6" height="13.6" rx="1.7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.1 17.2h25.8c.5 0 .8.5.6.95l-.45.85c-.3.55-.85.9-1.5.9H2.45c-.65 0-1.2-.35-1.5-.9l-.45-.85c-.2-.45.1-.95.6-.95Z"/></svg><span class="tx"><span class="big">macOS</span><span class="sm">download</span></span></a>
     </div>
+      <img class="minu" src="../minu-close.png" alt="" width="560" height="336">
   </section>
 
 </div>
 
 <footer>
   <div class="wrap">
-    <img class="logo" src="../logo-trim.png" alt="minulo" width="176" height="30">
+    <div><img class="logo" src="../logo-trim.png" alt="minulo" width="176" height="30"><p class="tag">FOCUS BUILDS A BRIGHTER YOU</p></div>
     <nav>
       <a href="https://apps.apple.com/app/id6809352229">App Store</a>
       <a href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">Mac</a>
