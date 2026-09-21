@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=M+PLUS+2:wght@400;700;800&display=swap" rel="stylesheet">
 <style>
-:root{--ink:#17181D;--ink2:#74757D;--pri:#5663E8;--bg:#FFF9F2;--card:#FFFFFF;--line:#E8E2D8}
+:root{--ink:#17181D;--ink2:#686972;--pri:#5663E8;--bg:#FFF9F2;--card:#FFFFFF;--line:#E8E2D8}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-size:16px;line-height:1.9;
   font-family:"M PLUS 2",system-ui,-apple-system,"Hiragino Sans",sans-serif;-webkit-font-smoothing:antialiased}
@@ -23,6 +23,19 @@ h1{margin:28px 0 0;font-size:clamp(28px,4vw,38px);line-height:1.4;font-weight:80
 .lead{margin:16px 0 0;color:var(--ink2)}
 h2{margin:56px 0 0;font-size:21px;font-weight:800;letter-spacing:-.02em;
   padding-bottom:12px;border-bottom:1px solid var(--line)}
+.faq{margin:14px 0 0;border-top:none}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{display:flex;align-items:flex-start;gap:16px;cursor:pointer;list-style:none;
+  padding:20px 0;font-size:17px;font-weight:700;letter-spacing:-.02em;line-height:1.6;color:var(--ink)}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"";flex:none;margin-left:auto;width:12px;height:12px;margin-top:9px;
+  border-right:2.4px solid #A5A3A0;border-bottom:2.4px solid #A5A3A0;
+  transform:rotate(45deg);transition:transform .2s ease}
+.faq details[open] summary::after{transform:rotate(-135deg)}
+.faq summary:hover{color:var(--pri)}
+.faq summary:hover::after{border-color:var(--pri)}
+.faq .a{padding:0 0 24px;color:var(--ink2);max-width:62ch}
+@media (prefers-reduced-motion:reduce){.faq summary::after{transition:none}}
 dl{margin:0}
 dt{margin-top:34px;font-size:18px;font-weight:700;letter-spacing:-.02em}
 dd{margin:10px 0 0;color:var(--ink2)}
@@ -42,33 +55,41 @@ footer{margin-top:72px;padding-top:24px;border-top:1px solid var(--line);
   <p class="lead">SNSを残したまま、リール・ショート動画・おすすめ投稿だけを非表示にするアプリです。困りごとは、このページの下の連絡先までどうぞ。</p>
 </header>
 
-<h2>よくある質問</h2>
-<dl>
-  <dt>ログインできません</dt>
-  <dd>ログインは、各SNSが提供する公式ログインページで直接おこないます。IDやパスワードを、minuloが取得・保存することはありません。<br>
-  画面が白いまま進まないときは、たいていログインが必要な状態です。表示される「ログインする」を押すと、そのSNSのログインページが開きます。二段階認証を設定している場合は、通常どおりそのSNSの手順で進めてください。</dd>
-
-  <dt>ブロックしたいアプリが選べません</dt>
-  <dd>公式SNSアプリのブロックには、iPhoneのスクリーンタイムの許可が必要です。「設定 → スクリーンタイム」がオンになっているかご確認ください。<br>
-  許可のダイアログは、iOSの仕様で一度しか表示されません。見逃した場合は、アプリ内の「設定を開く」から許可し直せます。</dd>
-
-  <dt>ロックを解除できません</dt>
-  <dd>ロックモードをオンにしていると、解除までに3つの確認ステップが必要です（文を書き写す・暗算に答える・60秒待つ）。数分かかります。<br>
-  これは意図した設計で、抜け道はありません。あとで解除したくなると分かっているからこそ、先にオンにしておくための機能です。なお、minulo自体はいつでも削除できます。</dd>
-
-  <dt>非表示にしていたものが、また表示されるようになりました</dt>
-  <dd>SNS側の画面構成が変更されると、それまで非表示にしていたコンテンツが表示されることがあります。非表示ルールは毎週自動で点検していますが、お気づきの場合は下の連絡先までお知らせください。確認できたものから順に対応します。</dd>
-
-  <dt>仕事でSNSに投稿する必要があります</dt>
-  <dd>投稿も返信も、minuloの中でそのままできます。フィードとショート動画が表示されないので、「投稿だけのつもりが、そのまま1時間見ていた」という状態を避けられます。</dd>
-
-  <dt>記録はどこに保存されますか？</dt>
-  <dd>すべて、お使いのiPhoneの中だけに保存されます。minuloにアカウントはありません。開発者があなたの記録を見ることはできません。<br>
-  どのアプリをブロック対象に選んだかも、Appleのプライバシー保護機能によって隠されるため、開発者からは見えません。</dd>
-
-  <dt>利用したいSNSが対応していません</dt>
-  <dd>現在、10のサービスに対応しています（Instagram、YouTube、X、Threads、Pinterest、TikTok、Facebook、Reddit、LinkedIn、Snapchat）。対応サービスは順次追加しています。ご要望は下の連絡先までお送りください。</dd>
-</dl>
+<h2 id="faq">よくある質問</h2>
+<div class="faq">
+  <details>
+    <summary>ログインできません</summary>
+    <div class="a">ログインは、各SNSが提供する公式ログインページで直接おこないます。IDやパスワードを、minuloが取得・保存することはありません。<br>
+  画面が白いまま進まないときは、たいていログインが必要な状態です。表示される「ログインする」を押すと、そのSNSのログインページが開きます。二段階認証を設定している場合は、通常どおりそのSNSの手順で進めてください。</div>
+  </details>
+  <details>
+    <summary>ブロックしたいアプリが選べません</summary>
+    <div class="a">公式SNSアプリのブロックには、iPhoneのスクリーンタイムの許可が必要です。「設定 → スクリーンタイム」がオンになっているかご確認ください。<br>
+  許可のダイアログは、iOSの仕様で一度しか表示されません。見逃した場合は、アプリ内の「設定を開く」から許可し直せます。</div>
+  </details>
+  <details>
+    <summary>ロックを解除できません</summary>
+    <div class="a">ロックモードをオンにしていると、解除までに3つの確認ステップが必要です（文を書き写す・暗算に答える・60秒待つ）。数分かかります。<br>
+  これは意図した設計で、抜け道はありません。あとで解除したくなると分かっているからこそ、先にオンにしておくための機能です。なお、minulo自体はいつでも削除できます。</div>
+  </details>
+  <details>
+    <summary>非表示にしていたものが、また表示されるようになりました</summary>
+    <div class="a">SNS側の画面構成が変更されると、それまで非表示にしていたコンテンツが表示されることがあります。非表示ルールは毎週自動で点検していますが、お気づきの場合は下の連絡先までお知らせください。確認できたものから順に対応します。</div>
+  </details>
+  <details>
+    <summary>仕事でSNSに投稿する必要があります</summary>
+    <div class="a">投稿も返信も、minuloの中でそのままできます。フィードとショート動画が表示されないので、「投稿だけのつもりが、そのまま1時間見ていた」という状態を避けられます。</div>
+  </details>
+  <details>
+    <summary>記録はどこに保存されますか？</summary>
+    <div class="a">すべて、お使いのiPhoneの中だけに保存されます。minuloにアカウントはありません。開発者があなたの記録を見ることはできません。<br>
+  どのアプリをブロック対象に選んだかも、Appleのプライバシー保護機能によって隠されるため、開発者からは見えません。</div>
+  </details>
+  <details>
+    <summary>利用したいSNSが対応していません</summary>
+    <div class="a">現在、10のサービスに対応しています（Instagram、YouTube、X、Threads、Pinterest、TikTok、Facebook、Reddit、LinkedIn、Snapchat）。対応サービスは順次追加しています。ご要望は下の連絡先までお送りください。</div>
+  </details>
+</div>
 
 <h2>連絡先</h2>
 <div class="box">

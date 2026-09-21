@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=M+PLUS+2:wght@400;700;800&display=swap" rel="stylesheet">
 <style>
-:root{--ink:#17181D;--ink2:#74757D;--pri:#5663E8;--bg:#FFF9F2;--card:#FFFFFF;--line:#E8E2D8}
+:root{--ink:#17181D;--ink2:#686972;--pri:#5663E8;--bg:#FFF9F2;--card:#FFFFFF;--line:#E8E2D8}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-size:16px;line-height:1.9;
   font-family:"M PLUS 2",system-ui,-apple-system,"Hiragino Sans",sans-serif;-webkit-font-smoothing:antialiased}
@@ -23,6 +23,19 @@ h1{margin:28px 0 0;font-size:clamp(28px,4vw,38px);line-height:1.4;font-weight:80
 .lead{margin:16px 0 0;color:var(--ink2)}
 h2{margin:56px 0 0;font-size:21px;font-weight:800;letter-spacing:-.02em;
   padding-bottom:12px;border-bottom:1px solid var(--line)}
+.faq{margin:14px 0 0;border-top:none}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{display:flex;align-items:flex-start;gap:16px;cursor:pointer;list-style:none;
+  padding:20px 0;font-size:17px;font-weight:700;letter-spacing:-.02em;line-height:1.6;color:var(--ink)}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"";flex:none;margin-left:auto;width:12px;height:12px;margin-top:9px;
+  border-right:2.4px solid #A5A3A0;border-bottom:2.4px solid #A5A3A0;
+  transform:rotate(45deg);transition:transform .2s ease}
+.faq details[open] summary::after{transform:rotate(-135deg)}
+.faq summary:hover{color:var(--pri)}
+.faq summary:hover::after{border-color:var(--pri)}
+.faq .a{padding:0 0 24px;color:var(--ink2);max-width:62ch}
+@media (prefers-reduced-motion:reduce){.faq summary::after{transition:none}}
 dl{margin:0}
 dt{margin-top:34px;font-size:18px;font-weight:700;letter-spacing:-.02em}
 dd{margin:10px 0 0;color:var(--ink2)}
@@ -42,33 +55,41 @@ footer{margin-top:72px;padding-top:24px;border-top:1px solid var(--line);
   <p class="lead">Keep social media and hide only Reels, short-form video and recommended posts. If something is not working, the contact details are at the bottom of this page.</p>
 </header>
 
-<h2>Frequently asked</h2>
-<dl>
-  <dt>I cannot sign in</dt>
-  <dd>You sign in on each service&rsquo;s own official login page. minulo never obtains or stores your ID or password.<br>
-  If the screen stays blank, you are usually not signed in yet &mdash; tap &ldquo;Sign in&rdquo; and that service&rsquo;s login page opens. If you use two-factor authentication, follow that service&rsquo;s usual steps.</dd>
-
-  <dt>I cannot choose which apps to block</dt>
-  <dd>Blocking the official social apps needs Screen Time permission on your iPhone. Check that Settings &rarr; Screen Time is on.<br>
-  iOS shows the permission dialog only once. If you missed it, you can grant it again from &ldquo;Open Settings&rdquo; inside the app.</dd>
-
-  <dt>I cannot turn Lock Mode off</dt>
-  <dd>While Lock Mode is on, leaving it takes three confirmation steps (copy out a sentence, answer some mental arithmetic, wait 60 seconds). It takes a few minutes.<br>
-  This is deliberate, and there is no way around it &mdash; it exists precisely because you know you will want to unlock later. You can still delete minulo itself at any time.</dd>
-
-  <dt>Something that used to be hidden is showing again</dt>
-  <dd>When a service changes its screens, content that was hidden can reappear. The hiding rules are checked automatically every week, but please tell us if you notice something &mdash; each case is handled as it is confirmed.</dd>
-
-  <dt>I have to post to social media for work</dt>
-  <dd>Posting and replying work inside minulo. The feed and short-form video are not shown, so posting for work does not turn into an hour of scrolling.</dd>
-
-  <dt>Where are my records kept?</dt>
-  <dd>Everything is kept on your iPhone only. minulo has no accounts, and the developer cannot see your records.<br>
-  Which apps you chose to block is hidden by Apple&rsquo;s own privacy protections, so that is not visible to the developer either.</dd>
-
-  <dt>The service I use is not supported</dt>
-  <dd>Ten services are supported today: Instagram, YouTube, X, Threads, Pinterest, TikTok, Facebook, Reddit, LinkedIn and Snapchat. More are added over time &mdash; send requests to the address below.</dd>
-</dl>
+<h2 id="faq">Frequently asked</h2>
+<div class="faq">
+  <details>
+    <summary>I cannot sign in</summary>
+    <div class="a">You sign in on each service&rsquo;s own official login page. minulo never obtains or stores your ID or password.<br>
+  If the screen stays blank, you are usually not signed in yet &mdash; tap &ldquo;Sign in&rdquo; and that service&rsquo;s login page opens. If you use two-factor authentication, follow that service&rsquo;s usual steps.</div>
+  </details>
+  <details>
+    <summary>I cannot choose which apps to block</summary>
+    <div class="a">Blocking the official social apps needs Screen Time permission on your iPhone. Check that Settings &rarr; Screen Time is on.<br>
+  iOS shows the permission dialog only once. If you missed it, you can grant it again from &ldquo;Open Settings&rdquo; inside the app.</div>
+  </details>
+  <details>
+    <summary>I cannot turn Lock Mode off</summary>
+    <div class="a">While Lock Mode is on, leaving it takes three confirmation steps (copy out a sentence, answer some mental arithmetic, wait 60 seconds). It takes a few minutes.<br>
+  This is deliberate, and there is no way around it &mdash; it exists precisely because you know you will want to unlock later. You can still delete minulo itself at any time.</div>
+  </details>
+  <details>
+    <summary>Something that used to be hidden is showing again</summary>
+    <div class="a">When a service changes its screens, content that was hidden can reappear. The hiding rules are checked automatically every week, but please tell us if you notice something &mdash; each case is handled as it is confirmed.</div>
+  </details>
+  <details>
+    <summary>I have to post to social media for work</summary>
+    <div class="a">Posting and replying work inside minulo. The feed and short-form video are not shown, so posting for work does not turn into an hour of scrolling.</div>
+  </details>
+  <details>
+    <summary>Where are my records kept?</summary>
+    <div class="a">Everything is kept on your iPhone only. minulo has no accounts, and the developer cannot see your records.<br>
+  Which apps you chose to block is hidden by Apple&rsquo;s own privacy protections, so that is not visible to the developer either.</div>
+  </details>
+  <details>
+    <summary>The service I use is not supported</summary>
+    <div class="a">Ten services are supported today: Instagram, YouTube, X, Threads, Pinterest, TikTok, Facebook, Reddit, LinkedIn and Snapchat. More are added over time &mdash; send requests to the address below.</div>
+  </details>
+</div>
 
 <h2>Contact</h2>
 <div class="box">
