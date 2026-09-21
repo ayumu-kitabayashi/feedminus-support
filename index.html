@@ -88,6 +88,10 @@ p{margin:0}
   width:34%;height:9px;border-radius:99px;background:#0E0F14}
 .phone img{width:100%;height:auto;border-radius:31px;display:block}
 
+/* 注釈つきのスクショ（提出用と同じ組み） */
+.shots{display:grid;grid-template-columns:1fr 1fr;gap:clamp(8px,1.4vw,18px);align-items:start}
+.shots img{width:100%;height:auto}
+
 /* ミヌ */
 .minu{width:var(--mw,180px);height:auto}
 
@@ -301,15 +305,9 @@ footer .bottom a{display:inline-block;padding:8px 0}
 
 <section class="band" id="how"><div class="wrap"><div class="split rev">
   <div class="txt"><h2>必要な機能は、<br>ちゃんと使えます。</h2><p class="lead">非表示にしても、友だちとのやり取りや検索、通常の投稿はいつも通り。大切なつながりはそのままです。</p></div>
-  <div class="fig" style="display:flex;gap:clamp(10px,2vw,22px);justify-content:center;align-items:flex-start">
-    <div style="flex:1;max-width:210px">
-      <p style="text-align:center;margin-bottom:10px"><span class="pill" style="background:var(--priSoft);color:var(--priDeep)">DM・ストーリーズ</span></p>
-      <div class="phone" style="--pw:210px"><img src="m/ph-ig.png" alt="" width="760" height="1574"></div>
-    </div>
-    <div style="flex:1;max-width:210px">
-      <p style="text-align:center;margin-bottom:10px"><span class="pill" style="background:var(--priSoft);color:var(--priDeep)">検索・通常投稿</span></p>
-      <div class="phone" style="--pw:210px"><img src="m/ph-yt.png" alt="" width="760" height="1574"></div>
-    </div>
+  <div class="fig shots">
+    <img src="m/sh-ig.png" alt="minuloで開いたInstagram。フィードとリールが非表示で、ストーリーズは残っている" width="900" height="1955">
+    <img src="m/sh-yt.png" alt="minuloで開いたYouTube。ショート動画の棚が非表示で、検索と通常の動画は残っている" width="900" height="1955">
   </div>
 </div></div></section>
 

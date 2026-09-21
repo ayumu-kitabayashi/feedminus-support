@@ -88,6 +88,10 @@ p{margin:0}
   width:34%;height:9px;border-radius:99px;background:#0E0F14}
 .phone img{width:100%;height:auto;border-radius:31px;display:block}
 
+/* 注釈つきのスクショ（提出用と同じ組み） */
+.shots{display:grid;grid-template-columns:1fr 1fr;gap:clamp(8px,1.4vw,18px);align-items:start}
+.shots img{width:100%;height:auto}
+
 /* ミヌ */
 .minu{width:var(--mw,180px);height:auto}
 
@@ -266,7 +270,7 @@ footer .bottom a{display:inline-block;padding:8px 0}
     </div>
   </div>
   <div class="fig" style="display:flex;align-items:flex-end;gap:14px;justify-content:center">
-    <div class="phone" style="--pw:258px"><img src="../m/ph-home.png" alt="" width="760" height="1574"></div>
+    <div class="phone" style="--pw:258px"><img src="m/ph-home.png" alt="" width="760" height="1574"></div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:10px;padding-bottom:30px">
       <img class="minu" src="../m/default.png" alt="" width="452" height="336" style="--mw:130px">
       <p class="note">A better balance,
@@ -300,15 +304,9 @@ a better day.</p>
 
 <section class="band" id="how"><div class="wrap"><div class="split rev">
   <div class="txt"><h2>The features you need<br>keep working.</h2><p class="lead">Even with the feed hidden, messaging, search and ordinary posts are untouched. The connections that matter stay.</p></div>
-  <div class="fig" style="display:flex;gap:clamp(10px,2vw,22px);justify-content:center;align-items:flex-start">
-    <div style="flex:1;max-width:210px">
-      <p style="text-align:center;margin-bottom:10px"><span class="pill" style="background:var(--priSoft);color:var(--priDeep)">DMs & Stories</span></p>
-      <div class="phone" style="--pw:210px"><img src="../m/ph-ig.png" alt="" width="760" height="1574"></div>
-    </div>
-    <div style="flex:1;max-width:210px">
-      <p style="text-align:center;margin-bottom:10px"><span class="pill" style="background:var(--priSoft);color:var(--priDeep)">Search & posts</span></p>
-      <div class="phone" style="--pw:210px"><img src="../m/ph-yt.png" alt="" width="760" height="1574"></div>
-    </div>
+  <div class="fig shots">
+    <img src="m/sh-ig.png" alt="Instagram in minulo: the feed and Reels are hidden, Stories stay" width="900" height="1955">
+    <img src="m/sh-yt.png" alt="YouTube in minulo: the Shorts shelf is hidden, search and ordinary video stay" width="900" height="1955">
   </div>
 </div></div></section>
 
