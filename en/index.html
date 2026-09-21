@@ -92,6 +92,24 @@ p{margin:0}
 .shots{display:grid;grid-template-columns:1fr 1fr;gap:clamp(8px,1.4vw,18px);align-items:start}
 .shots img{width:100%;height:auto}
 
+/* ヒーローの2枚（コア）。指で動かせる */
+.heroshots{display:flex;justify-content:center;align-items:flex-start;
+  overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x mandatory;
+  scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;
+  cursor:grab;touch-action:pan-x pan-y}
+.heroshots::-webkit-scrollbar{display:none}
+.heroshots.drag{cursor:grabbing}
+.heroshots img{flex:none;width:min(47%,252px);height:auto;scroll-snap-align:center;
+  -webkit-user-drag:none;user-select:none}
+.heroshots img:first-child{transform:rotate(-2.5deg);position:relative;z-index:2}
+.heroshots img:last-child{transform:rotate(2.5deg);margin-left:-7%;position:relative;z-index:1}
+/* 狭い画面：1枚ずつ見せて、隣を少し覗かせる＝指で動かせると分かる */
+@media (max-width:640px){
+  .heroshots{justify-content:flex-start;gap:12px;padding:0 max(0px,calc(50% - 132px)) 6px}
+  .heroshots img{width:264px;transform:none;margin-left:0}
+  .heroshots img:first-child,.heroshots img:last-child{transform:none;margin-left:0}
+}
+
 /* ミヌ */
 .minu{width:var(--mw,180px);height:auto}
 
@@ -269,13 +287,9 @@ footer .bottom a{display:inline-block;padding:8px 0}
       <a class="btn line" href="#can">See what it does <span class="ar">&rarr;</span></a>
     </div>
   </div>
-  <div class="fig" style="display:flex;align-items:flex-end;gap:14px;justify-content:center">
-    <div class="phone" style="--pw:258px"><img src="m/ph-home.png" alt="" width="760" height="1574"></div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;padding-bottom:30px">
-      <img class="minu" src="../m/default.png" alt="" width="452" height="336" style="--mw:130px">
-      <p class="note">A better balance,
-a better day.</p>
-    </div>
+  <div class="fig heroshots">
+    <img src="m/sh-ig.png" alt="Instagram in minulo, with the feed and Reels hidden" width="900" height="1955">
+    <img src="m/sh-yt.png" alt="YouTube in minulo, with the Shorts shelf hidden" width="900" height="1955">
   </div>
 </div></div>
 <svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#D4E4FD" d="M0,40 C260,66 470,10 720,22 C970,34 1190,66 1440,42 L1440,64 L0,64 Z" opacity=".55"/></svg>
@@ -294,19 +308,23 @@ a better day.</p>
   </div>
   <div class="txt"><h2>Choose exactly<br>what gets hidden.</h2><p class="lead">Pick the features to hide, service by service. Keep what you want to see and switch off only the loop that pulls you in.</p>
     <div class="rows">
-          <div class="row"><img src="../svc/instagram.png" alt=""><span>Instagram</span><i class="sw"></i></div>
-          <div class="row"><img src="../svc/x.png" alt=""><span>X</span><i class="sw"></i></div>
-          <div class="row"><img src="../svc/youtube.png" alt=""><span>YouTube</span><i class="sw"></i></div>
-          <div class="row"><img src="../svc/tiktok.png" alt=""><span>TikTok</span><i class="sw"></i></div>
+          <div class="row"><img src="../svc/instagram.png" alt=""><i class="sw"></i></div>
+          <div class="row"><img src="../svc/x.png" alt=""><i class="sw"></i></div>
+          <div class="row"><img src="../svc/youtube.png" alt=""><i class="sw"></i></div>
+          <div class="row"><img src="../svc/tiktok.png" alt=""><i class="sw"></i></div>
     </div>
   </div>
 </div></div></section>
 
 <section class="band" id="how"><div class="wrap"><div class="split rev">
   <div class="txt"><h2>The features you need<br>keep working.</h2><p class="lead">Even with the feed hidden, messaging, search and ordinary posts are untouched. The connections that matter stay.</p></div>
-  <div class="fig shots">
-    <img src="m/sh-ig.png" alt="Instagram in minulo: the feed and Reels are hidden, Stories stay" width="900" height="1955">
-    <img src="m/sh-yt.png" alt="YouTube in minulo: the Shorts shelf is hidden, search and ordinary video stay" width="900" height="1955">
+  <div class="fig" style="display:flex;align-items:flex-end;gap:14px;justify-content:center">
+    <div class="phone" style="--pw:236px"><img src="m/ph-home.png" alt="" width="760" height="1574"></div>
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;padding-bottom:26px">
+      <img class="minu" src="../m/default.png" alt="" width="452" height="336" style="--mw:120px">
+      <p class="note">A better balance,
+a better day.</p>
+    </div>
   </div>
 </div></div></section>
 
@@ -409,5 +427,25 @@ pace.</p><img class="minu" src="../m/peeking.png" alt="" width="410" height="130
 </div></footer>
 
 <div class="dock"><a class="btn" href="https://apps.apple.com/app/id6809352229">Download on the App Store</a></div>
+<script>
+/* ヒーローの2枚を、マウスでも掴んで動かせるようにする。
+   指とトラックパッドは overflow-x で最初から動く。ここはマウス用の補い。 */
+(function(){
+  var el=document.querySelector('.heroshots'); if(!el) return;
+  var down=false,x0=0,left0=0,moved=0;
+  el.addEventListener('pointerdown',function(e){
+    if(e.pointerType==='touch') return;            /* 指は素の挙動に任せる */
+    down=true;moved=0;x0=e.clientX;left0=el.scrollLeft;el.classList.add('drag');
+  });
+  el.addEventListener('pointermove',function(e){
+    if(!down) return; var d=e.clientX-x0; moved=Math.max(moved,Math.abs(d));
+    el.scrollLeft=left0-d; if(moved>4) e.preventDefault();
+  });
+  ['pointerup','pointercancel','pointerleave'].forEach(function(t){
+    el.addEventListener(t,function(){down=false;el.classList.remove('drag');});
+  });
+  el.addEventListener('click',function(e){ if(moved>4) e.preventDefault(); },true);
+})();
+</script>
 </body>
 </html>
