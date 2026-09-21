@@ -183,12 +183,22 @@ p{margin:0}
 .vow p{margin-top:12px;font-size:14.5px;line-height:1.9;color:var(--ink2)}
 
 /* FAQ */
-.faq{margin:40px 0 0}
-.faq dt{font-size:18px;font-weight:700;letter-spacing:-.02em;padding-top:30px;border-top:1px solid var(--line)}
-.faq dt:first-of-type{border-top:none;padding-top:0}
-.faq dd{margin:11px 0 30px;font-size:15.5px;line-height:1.95;color:var(--ink2);max-width:62ch}
-.faq dd ul{margin:11px 0 0;padding-left:20px}
-.faq dd li{margin-bottom:4px}
+/* ── FAQ（折りたたみ）─────────────────────────── */
+.faq{margin:40px 0 0;border-top:1px solid var(--line)}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{display:flex;align-items:flex-start;gap:16px;cursor:pointer;list-style:none;
+  padding:22px 0;font-size:17.5px;font-weight:700;letter-spacing:-.02em;line-height:1.6}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"";flex:none;margin-left:auto;width:13px;height:13px;margin-top:9px;
+  border-right:2.4px solid var(--ink3);border-bottom:2.4px solid var(--ink3);
+  transform:rotate(45deg);transform-origin:center;transition:transform .2s ease}
+.faq details[open] summary::after{transform:rotate(-135deg)}
+.faq summary:hover{color:var(--pri)}
+.faq summary:hover::after{border-color:var(--pri)}
+.faq .a{padding:0 0 26px;font-size:15.5px;line-height:1.95;color:var(--ink2);max-width:62ch}
+.faq .a ul{margin:11px 0 0;padding-left:20px}
+.faq .a li{margin-bottom:4px}
+@media (prefers-reduced-motion:reduce){.faq summary::after{transition:none}}
 
 /* 締め */
 .close{text-align:center}
@@ -408,26 +418,33 @@ while you sleep.</p>
 
 <section class="band" style="padding-top:0"><div class="wrap">
   <h2>Frequently asked</h2>
-  <dl class="faq">
-      <dt>How far does the free version go?</dt>
-      <dd>Hiding Reels, short-form video, recommended posts and ads is free. There is no limit on how many services you add, and locking the official social apps is free too. Three things are paid:
-        <ul><li>Setting each hidden item individually</li><li>Days, hours and bedtime</li><li>Lock Mode</li></ul></dd>
-
-      <dt>Where do my login details go?</dt>
-      <dd>You sign in to each service on that service&rsquo;s own official login page. minulo never obtains or stores your ID or password. The contents of your DMs, your browsing history and your minulo usage records are all kept on your device only.</dd>
-
-      <dt>Will it restrict sites in my browser?</dt>
-      <dd>No, it will not. minulo only changes pages opened inside minulo. Websites you open in Safari or another browser are unaffected. iOS does offer a way for an app to restrict websites across every browser; minulo does not use it, and an automated test during development confirms that it is never called.</dd>
-
-      <dt>Will it slow things down?</dt>
-      <dd>minulo opens each service&rsquo;s website inside the app, so compared with the official app there can be a short wait when it starts. Measured, it takes about 1.8&ndash;2.4 seconds from opening minulo to Instagram&rsquo;s sign-in screen. After that it loads at ordinary web speed.</dd>
-
-      <dt>Will I be unable to delete minulo?</dt>
-      <dd>You can delete minulo at any time. Lock Mode takes three confirmation steps to leave, but the app is not designed to stand in the way of deleting it. It exists to give you a moment to think before an impulsive unlock, not to shut you in.</dd>
-
-      <dt>The service I use is not supported.</dt>
-      <dd>Ten services are supported today: Instagram, YouTube, X, Threads, Pinterest, TikTok, Facebook, Reddit, LinkedIn and Snapchat.<br>When a service changes its screens, content that was hidden can reappear for a while. The hiding rules are checked automatically every week, and you can also tell us through support inside the app.</dd>
-  </dl>
+  <div class="faq">
+    <details>
+      <summary>How far does the free version go?</summary>
+      <div class="a">Hiding Reels, short-form video, recommended posts and ads is free. There is no limit on how many services you add, and locking the official social apps is free too. Three things are paid:
+        <ul><li>Setting each hidden item individually</li><li>Days, hours and bedtime</li><li>Lock Mode</li></ul></div>
+    </details>
+    <details>
+      <summary>Where do my login details go?</summary>
+      <div class="a">You sign in to each service on that service&rsquo;s own official login page. minulo never obtains or stores your ID or password. The contents of your DMs, your browsing history and your minulo usage records are all kept on your device only.</div>
+    </details>
+    <details>
+      <summary>Will it restrict sites in my browser?</summary>
+      <div class="a">No, it will not. minulo only changes pages opened inside minulo. Websites you open in Safari or another browser are unaffected. iOS does offer a way for an app to restrict websites across every browser; minulo does not use it, and an automated test during development confirms that it is never called.</div>
+    </details>
+    <details>
+      <summary>Will it slow things down?</summary>
+      <div class="a">minulo opens each service&rsquo;s website inside the app, so compared with the official app there can be a short wait when it starts. Measured, it takes about 1.8&ndash;2.4 seconds from opening minulo to Instagram&rsquo;s sign-in screen. After that it loads at ordinary web speed.</div>
+    </details>
+    <details>
+      <summary>Will I be unable to delete minulo?</summary>
+      <div class="a">You can delete minulo at any time. Lock Mode takes three confirmation steps to leave, but the app is not designed to stand in the way of deleting it. It exists to give you a moment to think before an impulsive unlock, not to shut you in.</div>
+    </details>
+    <details>
+      <summary>The service I use is not supported.</summary>
+      <div class="a">Ten services are supported today: Instagram, YouTube, X, Threads, Pinterest, TikTok, Facebook, Reddit, LinkedIn and Snapchat.<br>When a service changes its screens, content that was hidden can reappear for a while. The hiding rules are checked automatically every week, and you can also tell us through support inside the app.</div>
+    </details>
+  </div>
 </div></section>
 
 <section class="band close" style="padding-top:0"><div class="wrap">

@@ -183,12 +183,22 @@ p{margin:0}
 .vow p{margin-top:12px;font-size:14.5px;line-height:1.9;color:var(--ink2)}
 
 /* FAQ */
-.faq{margin:40px 0 0}
-.faq dt{font-size:18px;font-weight:700;letter-spacing:-.02em;padding-top:30px;border-top:1px solid var(--line)}
-.faq dt:first-of-type{border-top:none;padding-top:0}
-.faq dd{margin:11px 0 30px;font-size:15.5px;line-height:1.95;color:var(--ink2);max-width:62ch}
-.faq dd ul{margin:11px 0 0;padding-left:20px}
-.faq dd li{margin-bottom:4px}
+/* ── FAQ（折りたたみ）─────────────────────────── */
+.faq{margin:40px 0 0;border-top:1px solid var(--line)}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{display:flex;align-items:flex-start;gap:16px;cursor:pointer;list-style:none;
+  padding:22px 0;font-size:17.5px;font-weight:700;letter-spacing:-.02em;line-height:1.6}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"";flex:none;margin-left:auto;width:13px;height:13px;margin-top:9px;
+  border-right:2.4px solid var(--ink3);border-bottom:2.4px solid var(--ink3);
+  transform:rotate(45deg);transform-origin:center;transition:transform .2s ease}
+.faq details[open] summary::after{transform:rotate(-135deg)}
+.faq summary:hover{color:var(--pri)}
+.faq summary:hover::after{border-color:var(--pri)}
+.faq .a{padding:0 0 26px;font-size:15.5px;line-height:1.95;color:var(--ink2);max-width:62ch}
+.faq .a ul{margin:11px 0 0;padding-left:20px}
+.faq .a li{margin-bottom:4px}
+@media (prefers-reduced-motion:reduce){.faq summary::after{transition:none}}
 
 /* 締め */
 .close{text-align:center}
@@ -409,26 +419,33 @@ footer .bottom{margin-top:42px;padding-top:22px;border-top:1px solid rgba(255,25
 
 <section class="band" style="padding-top:0"><div class="wrap">
   <h2>よくある質問</h2>
-  <dl class="faq">
-      <dt>無料でどこまで使えますか？</dt>
-      <dd>リール、ショート動画、おすすめ投稿、広告を非表示にする基本機能は、無料で利用できます。利用するSNSの登録数に制限はなく、公式SNSアプリをロックする機能も無料です。有料機能は、以下の3つです。
-        <ul><li>非表示にする項目の個別設定</li><li>曜日・時間帯・就寝時間の指定</li><li>ロックモード</li></ul></dd>
-
-      <dt>ログイン情報はどこへ送られますか？</dt>
-      <dd>各SNSへのログインは、そのSNSが提供する公式ログインページで行われます。IDやパスワードを、minuloが取得・保存することはありません。DMの内容、閲覧履歴、minuloの利用記録も、端末内にのみ保存されます。</dd>
-
-      <dt>ブラウザで見ているサイトまで制限されませんか？</dt>
-      <dd>いいえ、制限されません。minuloが変更するのは、minuloの中で開いたページだけです。Safariなどのブラウザで開いたWebサイトには影響しません。iOSには、アプリからブラウザ上のWebサイトを一括で制限できる仕組みがありますが、minuloはこの仕組みを使用していません。使用されていないことは、開発時の自動テストでも確認しています。</dd>
-
-      <dt>動作は重くなりませんか？</dt>
-      <dd>minuloは、各SNSのWebサイトをアプリ内で開く仕組みです。そのため、公式SNSアプリと比べると、起動時にわずかな待ち時間が発生する場合があります。実測では、minuloを開いてからInstagramのログイン画面が表示されるまで約1.8〜2.4秒です。ログイン後は、通常のWebサイトと同程度の速度で表示されます。</dd>
-
-      <dt>minuloを削除できなくなりませんか？</dt>
-      <dd>minuloは、いつでも削除できます。ロックモードでは、解除までに3つの確認ステップがありますが、アプリ自体の削除を妨げる設計にはしていません。ユーザーを閉じ込めるためではなく、衝動的にロックを解除する前に、少し考える時間をつくるための機能です。</dd>
-
-      <dt>利用したいSNSが対応していません。</dt>
-      <dd>現在、以下の10サービスに対応しています。Instagram、YouTube、X、Threads、Pinterest、TikTok、Facebook、Reddit、LinkedIn、Snapchat。<br>SNS側の画面構成が変更されると、一時的に非表示にしていたコンテンツが表示されることがあります。非表示ルールは毎週自動で点検していますが、問題に気づいた場合は、アプリ内のサポートからお知らせください。</dd>
-  </dl>
+  <div class="faq">
+    <details>
+      <summary>無料でどこまで使えますか？</summary>
+      <div class="a">リール、ショート動画、おすすめ投稿、広告を非表示にする基本機能は、無料で利用できます。利用するSNSの登録数に制限はなく、公式SNSアプリをロックする機能も無料です。有料機能は、以下の3つです。
+        <ul><li>非表示にする項目の個別設定</li><li>曜日・時間帯・就寝時間の指定</li><li>ロックモード</li></ul></div>
+    </details>
+    <details>
+      <summary>ログイン情報はどこへ送られますか？</summary>
+      <div class="a">各SNSへのログインは、そのSNSが提供する公式ログインページで行われます。IDやパスワードを、minuloが取得・保存することはありません。DMの内容、閲覧履歴、minuloの利用記録も、端末内にのみ保存されます。</div>
+    </details>
+    <details>
+      <summary>ブラウザで見ているサイトまで制限されませんか？</summary>
+      <div class="a">いいえ、制限されません。minuloが変更するのは、minuloの中で開いたページだけです。Safariなどのブラウザで開いたWebサイトには影響しません。iOSには、アプリからブラウザ上のWebサイトを一括で制限できる仕組みがありますが、minuloはこの仕組みを使用していません。使用されていないことは、開発時の自動テストでも確認しています。</div>
+    </details>
+    <details>
+      <summary>動作は重くなりませんか？</summary>
+      <div class="a">minuloは、各SNSのWebサイトをアプリ内で開く仕組みです。そのため、公式SNSアプリと比べると、起動時にわずかな待ち時間が発生する場合があります。実測では、minuloを開いてからInstagramのログイン画面が表示されるまで約1.8〜2.4秒です。ログイン後は、通常のWebサイトと同程度の速度で表示されます。</div>
+    </details>
+    <details>
+      <summary>minuloを削除できなくなりませんか？</summary>
+      <div class="a">minuloは、いつでも削除できます。ロックモードでは、解除までに3つの確認ステップがありますが、アプリ自体の削除を妨げる設計にはしていません。ユーザーを閉じ込めるためではなく、衝動的にロックを解除する前に、少し考える時間をつくるための機能です。</div>
+    </details>
+    <details>
+      <summary>利用したいSNSが対応していません。</summary>
+      <div class="a">現在、以下の10サービスに対応しています。Instagram、YouTube、X、Threads、Pinterest、TikTok、Facebook、Reddit、LinkedIn、Snapchat。<br>SNS側の画面構成が変更されると、一時的に非表示にしていたコンテンツが表示されることがあります。非表示ルールは毎週自動で点検していますが、問題に気づいた場合は、アプリ内のサポートからお知らせください。</div>
+    </details>
+  </div>
 </div></section>
 
 <section class="band close" style="padding-top:0"><div class="wrap">
