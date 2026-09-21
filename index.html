@@ -21,157 +21,213 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=M+PLUS+2:wght@400;500;700;800&display=swap" rel="stylesheet">
 <style>
-/* ── minulo パレット v3 ＋ LP モックの帯色（2026-09-21 実測）──────── */
 :root{
   --ink:#17181D; --ink2:#74757D; --ink3:#A5A3A0;
   --pri:#5663E8; --priDeep:#434DC4; --priSoft:#ECEEFF;
-  --bg:#FFF9F2; --card:#FFFFFF; --card2:#F7F3EC; --line:#E8E2D8;
-  --sky:#DFECFD;            /* 淡い青の帯 */
-  --navy:#0D123B;           /* Pro の帯 */
-  --navh:88px;
+  --bg:#FFF9F2; --card:#FFFFFF; --line:#E8E2D8;
+  --sky:#DFECFD; --wave:#D4E4FD; --navy:#0D123B;
+  --yellow:#F3BE3F;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font-size:16px;line-height:1.85;
   font-family:"M PLUS 2",system-ui,-apple-system,"Hiragino Sans",sans-serif;-webkit-font-smoothing:antialiased}
 a{color:var(--ink);text-decoration:none}
-a:hover{color:var(--pri)}
 img{display:block;max-width:100%}
 :focus-visible{outline:2px solid var(--pri);outline-offset:3px;border-radius:6px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-
-.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
-.band{padding:clamp(72px,8vw,120px) 0}
+.wrap{max-width:1140px;margin:0 auto;padding:0 24px}
+.band{position:relative;padding:clamp(76px,8vw,116px) 0}
 .band.sky{background:var(--sky)}
 .band.navy{background:var(--navy);color:#fff}
-.band.ivory{background:var(--bg)}
-h2{margin:0;font-size:clamp(25px,3vw,38px);line-height:1.4;font-weight:800;
-  letter-spacing:-.035em;text-wrap:balance;word-break:auto-phrase;overflow-wrap:anywhere}
-h3{margin:0;font-size:19px;font-weight:700;line-height:1.6;letter-spacing:-.02em}
-p{margin:0;text-wrap:pretty}
-.lead{margin-top:20px;font-size:16.5px;line-height:1.95;color:var(--ink2);max-width:34em}
-.navy .lead{color:rgba(255,255,255,.72)}
+h2{margin:0;font-size:clamp(26px,3.1vw,40px);line-height:1.38;font-weight:800;
+  letter-spacing:-.04em;word-break:auto-phrase}
+.lead{margin-top:18px;font-size:16px;line-height:1.95;color:var(--ink2);max-width:30em}
+.navy .lead{color:rgba(255,255,255,.7)}
+p{margin:0}
 
-/* ── 波の仕切り ───────────────────────────────── */
-.wave{display:block;width:100%;height:clamp(40px,5vw,72px)}
+/* 波 */
+.wave{display:block;width:100%;height:clamp(36px,4.4vw,64px)}
 
-/* ── ナビ ─────────────────────────────────────── */
-.navbar{position:sticky;top:12px;z-index:50;padding:12px 20px 0}
-.nav{display:flex;align-items:center;gap:26px;border-radius:999px;padding:12px 14px 12px 26px;
-  background:rgba(255,255,255,.9);border:1px solid rgba(255,255,255,.8);
-  -webkit-backdrop-filter:blur(20px) saturate(180%);backdrop-filter:blur(20px) saturate(180%);
-  box-shadow:0 8px 16px rgba(23,24,29,.08)}
-.nav .home img{height:23px;width:auto}
-.links{display:flex;gap:26px;margin-left:auto;font-size:15.5px;font-weight:500;color:var(--ink2)}
+/* ナビ */
+.navbar{position:sticky;top:0;z-index:50;background:rgba(255,249,242,.86);
+  -webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
+.nav{display:flex;align-items:center;gap:30px;height:72px}
+.nav .home img{height:22px;width:auto}
+.links{display:flex;gap:28px;margin-left:auto;font-size:14.5px;font-weight:500;color:var(--ink)}
+.navbtns{display:flex;gap:10px;align-items:center}
 
-/* ── ボタン ───────────────────────────────────── */
-.btn{display:inline-flex;align-items:center;gap:10px;background:var(--pri);color:#fff;
-  border-radius:999px;font-weight:700;padding:16px 30px;font-size:16px;
-  box-shadow:0 8px 20px rgba(86,99,232,.28)}
+/* ボタン */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;
+  background:var(--pri);color:#fff;border-radius:999px;font-weight:700;
+  padding:15px 28px;font-size:15.5px;box-shadow:0 8px 18px rgba(86,99,232,.26)}
 .btn:hover{background:var(--priDeep);color:#fff}
-.btn.ghost{background:var(--card);color:var(--ink);box-shadow:none;border:1px solid var(--line)}
-.btn.ghost:hover{background:#fff;color:var(--ink)}
-.btn.sm{padding:13px 24px;font-size:15px}
-.btn .ar{font-size:13px;opacity:.85}
-.cta{display:flex;flex-wrap:wrap;gap:14px;margin-top:36px}
-.badges{display:flex;flex-wrap:wrap;align-items:center;gap:14px;margin-top:24px}
-.badges img{height:56px;width:auto}
+.btn .ar{font-size:12px;opacity:.9}
+.btn.sm{padding:11px 20px;font-size:14px;box-shadow:none}
+.btn.line{background:transparent;color:var(--ink);border:1.5px solid var(--line);box-shadow:none}
+.btn.line:hover{background:#fff;color:var(--ink);border-color:var(--pri)}
+.btn.white{background:#fff;color:var(--navy);box-shadow:none}
+.btn.white:hover{background:#fff;color:var(--priDeep)}
+.cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:32px}
 
-/* ── ヒーロー ─────────────────────────────────── */
-.hero{padding:calc(var(--navh) + 30px) 0 0}
-.hero .inner{display:grid;grid-template-columns:1.08fr .92fr;gap:clamp(24px,4vw,56px);align-items:center}
-.hero h1{margin:0;font-size:clamp(31px,4.1vw,50px);line-height:1.32;font-weight:800;
-  letter-spacing:-.04em;text-wrap:pretty;word-break:auto-phrase}
-.hero img{width:auto;max-width:100%;height:auto;margin-inline:auto}
+/* 手書き風の添え書き */
+.note{font-size:13.5px;line-height:1.7;color:var(--ink2);font-weight:500;
+  transform:rotate(-4deg);white-space:pre-line}
 
-/* ── 二段組の節 ───────────────────────────────── */
-.split{display:grid;grid-template-columns:1fr 1fr;gap:clamp(28px,5vw,72px);align-items:center}
-.split img{width:auto;max-width:100%;height:auto;margin-inline:auto}
-.split.rev .txt{order:2}
-.split.rev .fig{order:1}
+/* 二段組 */
+.split{display:grid;grid-template-columns:1fr 1fr;gap:clamp(30px,5vw,76px);align-items:center}
+.split.rev .txt{order:2}.split.rev .fig{order:1}
 
-/* ── 小さな札 ─────────────────────────────────── */
-.chips{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+/* 端末の枠 */
+.phone{position:relative;width:100%;max-width:var(--pw,264px);margin-inline:auto;
+  border-radius:38px;padding:8px;background:linear-gradient(160deg,#20222B,#0E0F14);
+  box-shadow:0 26px 54px rgba(23,24,29,.22)}
+.phone::after{content:"";position:absolute;top:16px;left:50%;transform:translateX(-50%);
+  width:34%;height:9px;border-radius:99px;background:#0E0F14}
+.phone img{width:100%;height:auto;border-radius:31px;display:block}
+
+/* ミヌ */
+.minu{width:var(--mw,180px);height:auto}
+
+/* 札 */
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
 .chip{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);
-  border-radius:16px;padding:13px 18px;font-size:14.5px;font-weight:700}
-.chip small{display:block;font-size:12.5px;font-weight:400;color:var(--ink2);letter-spacing:.01em}
-.sky .chip{border-color:#CFE0F7}
-.navy .chip{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.16);color:#fff}
-.navy .chip small{color:rgba(255,255,255,.66)}
+  border-radius:15px;padding:12px 16px;font-size:14px;font-weight:700;line-height:1.35}
+.chip small{display:block;font-size:12px;font-weight:400;color:var(--ink2)}
+.chip .i{width:20px;height:20px;flex:none;color:var(--pri)}
+.sky .chip{border-color:#CBDEF7}
+.navy .chip{background:rgba(255,255,255,.07);border-color:rgba(255,255,255,.14);color:#fff}
+.navy .chip small{color:rgba(255,255,255,.62)}
 
-/* ── 対比の2面 ────────────────────────────────── */
-.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;margin-top:44px}
-.pane{border-radius:26px;padding:clamp(28px,3.4vw,42px)}
+/* 切り替えの行 */
+.rows{margin-top:26px;display:flex;flex-direction:column;gap:10px;max-width:420px}
+.row{display:flex;align-items:center;gap:12px;background:var(--card);
+  border:1px solid var(--line);border-radius:16px;padding:12px 16px}
+.sky .row{border-color:#CBDEF7}
+.row img{width:26px;height:26px}
+.row span{font-size:14.5px;font-weight:700}
+.sw{margin-left:auto;width:42px;height:25px;border-radius:99px;background:var(--pri);position:relative;flex:none}
+.sw::after{content:"";position:absolute;top:3px;right:3px;width:19px;height:19px;border-radius:50%;background:#fff}
+
+/* 漏斗の図 */
+.funnel{display:grid;grid-template-columns:auto auto auto;align-items:center;
+  gap:clamp(8px,1.6vw,20px);justify-content:center}
+.funnel .icons{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;width:clamp(92px,11vw,124px)}
+.funnel .icons img{width:100%;height:auto;border-radius:22%}
+.funnel .keep{background:var(--card);border:1px solid var(--line);border-radius:22px;
+  padding:20px 18px;display:flex;flex-direction:column;gap:18px;align-items:center;
+  box-shadow:0 16px 34px rgba(23,24,29,.08)}
+.funnel .keep > div{display:flex;flex-direction:column;align-items:center;gap:7px}
+.funnel .keep .i{width:30px;height:30px;color:var(--pri)}
+.funnel .keep b{font-size:11.5px;font-weight:700;color:var(--ink2);letter-spacing:.02em}
+.funnel .loop{margin-top:12px;display:inline-flex;align-items:center;gap:6px;
+  background:rgba(23,24,29,.06);border-radius:99px;padding:6px 14px;
+  font-size:11.5px;font-weight:700;color:var(--ink2);letter-spacing:.08em}
+
+/* 記録カード */
+.stat{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:22px 24px;
+  box-shadow:0 18px 40px rgba(23,24,29,.08);max-width:330px}
+.stat .k{font-size:12.5px;color:var(--ink2);font-weight:500}
+.stat .v{margin-top:4px;font-size:34px;font-weight:800;letter-spacing:-.04em;line-height:1.1}
+.stat .v small{font-size:17px;font-weight:700}
+.stat .bars{margin-top:18px;display:grid;grid-template-columns:repeat(7,1fr);gap:7px;align-items:end;height:74px}
+.stat .bars i{display:block;background:var(--pri);border-radius:5px;opacity:.45}
+.stat .bars i.on{opacity:1}
+.stat .dow{margin-top:8px;display:grid;grid-template-columns:repeat(7,1fr);gap:7px;
+  font-size:10.5px;color:var(--ink3);text-align:center}
+.streak{margin-top:14px;background:var(--card);border:1px solid var(--line);border-radius:18px;
+  padding:14px 18px;display:inline-flex;align-items:center;gap:12px;
+  box-shadow:0 14px 30px rgba(23,24,29,.07)}
+.streak .k{font-size:11.5px;color:var(--ink2)}
+.streak .v{font-size:22px;font-weight:800;letter-spacing:-.03em}
+
+/* Pro */
+.glow{position:relative;display:grid;place-items:center;padding:18px 0}
+.glow::before{content:"";position:absolute;width:min(300px,78%);aspect-ratio:1.5;border-radius:50%;
+  background:radial-gradient(closest-side,rgba(110,130,255,.55),rgba(110,130,255,0));filter:blur(4px)}
+.glow img{position:relative}
+.procards{margin-top:20px;display:flex;flex-wrap:wrap;gap:12px;justify-content:center}
+.procard{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);
+  border-radius:16px;padding:14px 16px;max-width:230px;display:flex;gap:11px;align-items:flex-start}
+.procard .i{width:20px;height:20px;flex:none;color:#AEB5F5}
+.procard b{display:block;font-size:13px}
+.procard small{display:block;margin-top:3px;font-size:12px;line-height:1.6;color:rgba(255,255,255,.62)}
+.pill{display:inline-flex;align-items:center;gap:7px;background:linear-gradient(135deg,#5663E8,#8C6BE8);
+  color:#fff;border-radius:99px;padding:6px 14px;font-size:12.5px;font-weight:700}
+
+/* 対比の2面 */
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:18px;margin-top:40px}
+.pane{border-radius:24px;padding:clamp(26px,3.2vw,38px)}
 .pane.cut{background:var(--ink);color:#fff}
 .pane.keep{background:var(--card);border:1px solid var(--line)}
-.pane .head{font-size:20px;font-weight:800;letter-spacing:-.02em}
-.pane ul{margin:22px 0 0;padding:0;list-style:none}
-.pane li{padding:15px 0;font-size:16.5px;line-height:1.7}
+.pane .head{font-size:19px;font-weight:800;letter-spacing:-.02em}
+.pane ul{margin:20px 0 0;padding:0;list-style:none}
+.pane li{padding:14px 0;font-size:15.5px;line-height:1.7}
 .pane.cut li{border-top:1px solid rgba(255,255,255,.15);color:rgba(255,255,255,.92)}
-.pane.keep li{border-top:1px solid var(--line);color:var(--ink)}
-.price .pane{background:rgba(255,255,255,.07);border:none;color:#fff}
-.price .pane.paid{background:linear-gradient(135deg,rgba(86,99,232,.28),rgba(140,107,232,.28));
-  border:1px solid rgba(174,181,245,.4)}
-.price .pane li{border-top:1px solid rgba(255,255,255,.15);color:rgba(255,255,255,.92)}
+.pane.keep li{border-top:1px solid var(--line)}
+.navy .pane{background:rgba(255,255,255,.07);border:none;color:#fff}
+.navy .pane.paid{background:linear-gradient(135deg,rgba(86,99,232,.32),rgba(140,107,232,.3));
+  border:1px solid rgba(174,181,245,.34)}
+.navy .pane li{border-top:1px solid rgba(255,255,255,.15);color:rgba(255,255,255,.92)}
 
-/* ── サービス ─────────────────────────────────── */
-.svcs{display:grid;grid-template-columns:repeat(5,1fr);gap:clamp(12px,2vw,24px);max-width:760px;margin-top:44px}
+/* サービス */
+.svcs{display:grid;grid-template-columns:repeat(5,1fr);gap:clamp(12px,2vw,26px);max-width:720px;margin-top:40px}
 .svcs figure{margin:0}
-.svcs img{width:100%;height:auto;aspect-ratio:1;object-fit:contain}
-.svcs figcaption{margin-top:10px;text-align:center;font-size:12.5px;color:var(--ink2)}
+.svcs img{width:100%;max-width:64px;height:auto;margin-inline:auto}
+.svcs figcaption{margin-top:9px;text-align:center;font-size:12px;color:var(--ink2)}
 
-/* ── 約束 ─────────────────────────────────────── */
-.vows{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;margin-top:44px}
-.vow{background:var(--card);border:1px solid var(--line);border-radius:26px;padding:clamp(28px,3.2vw,38px)}
-.vow p{margin-top:14px;font-size:15.5px;line-height:1.9;color:var(--ink2)}
+/* 約束 */
+.vows{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:18px;margin-top:40px}
+.vow{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:clamp(26px,3vw,34px)}
+.vow h3{margin:0;font-size:18px;font-weight:700;line-height:1.6;letter-spacing:-.02em}
+.vow p{margin-top:12px;font-size:14.5px;line-height:1.9;color:var(--ink2)}
 
-/* ── FAQ ──────────────────────────────────────── */
-.faq{margin:44px 0 0}
-.faq dt{font-size:19px;font-weight:700;letter-spacing:-.02em;padding-top:32px;border-top:1px solid var(--line)}
+/* FAQ */
+.faq{margin:40px 0 0}
+.faq dt{font-size:18px;font-weight:700;letter-spacing:-.02em;padding-top:30px;border-top:1px solid var(--line)}
 .faq dt:first-of-type{border-top:none;padding-top:0}
-.faq dd{margin:12px 0 32px;font-size:16px;line-height:1.95;color:var(--ink2);max-width:62ch}
-.faq dd ul{margin:12px 0 0;padding-left:20px}
+.faq dd{margin:11px 0 30px;font-size:15.5px;line-height:1.95;color:var(--ink2);max-width:62ch}
+.faq dd ul{margin:11px 0 0;padding-left:20px}
 .faq dd li{margin-bottom:4px}
 
-/* ── 締め ─────────────────────────────────────── */
+/* 締め */
 .close{text-align:center}
-.close h2{font-size:clamp(29px,4.2vw,50px);line-height:1.34}
+.close h2{font-size:clamp(28px,4vw,48px);line-height:1.34}
 .close .cta{justify-content:center}
-.close img{width:auto;max-width:100%;margin:clamp(36px,4.5vw,56px) auto 0}
+.trio{margin-top:42px;display:flex;align-items:flex-end;justify-content:center;gap:clamp(16px,4vw,54px)}
 
-/* ── 足もと ───────────────────────────────────── */
-footer{background:var(--ink);color:#fff;padding:clamp(52px,6vw,84px) 0 40px}
-footer .top{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:36px}
-footer img.logo{height:28px;width:auto;filter:invert(1)}
-footer .tag{margin-top:14px;font-size:13.5px;color:rgba(255,255,255,.55);max-width:22em}
-footer h4{margin:0 0 14px;font-size:13px;font-weight:700;letter-spacing:.08em;color:rgba(255,255,255,.5)}
-footer ul{margin:0;padding:0;list-style:none;font-size:14.5px}
-footer li{margin-bottom:10px}
+/* 足もと */
+footer{background:var(--ink);color:#fff;padding:clamp(52px,6vw,80px) 0 34px}
+footer .top{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:34px}
+footer img.logo{height:26px;width:auto;filter:invert(1)}
+footer .tag{margin-top:13px;font-size:13px;color:rgba(255,255,255,.55);max-width:20em}
+footer h4{margin:0 0 13px;font-size:12.5px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.5)}
+footer ul{margin:0;padding:0;list-style:none;font-size:14px}
+footer li{margin-bottom:9px}
 footer a{color:rgba(255,255,255,.78)}
 footer a:hover{color:#fff}
-footer .bottom{margin-top:44px;padding-top:24px;border-top:1px solid rgba(255,255,255,.14);
-  display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;
-  font-size:12.5px;color:rgba(255,255,255,.45)}
+footer .bottom{margin-top:42px;padding-top:22px;border-top:1px solid rgba(255,255,255,.13);
+  display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:12px;color:rgba(255,255,255,.45)}
 
 .dock{display:none}
-@media (max-width:820px){
-  .hero .inner,.split{grid-template-columns:1fr}
-  .split.rev .txt{order:1}
-  .split.rev .fig{order:2}
-  .hero .fig,.split .fig{max-width:520px;margin-inline:auto}
+@media (max-width:860px){
+  .split{grid-template-columns:1fr}
+  .split.rev .txt{order:1}.split.rev .fig{order:2}
   footer .top{grid-template-columns:1fr 1fr}
 }
-@media (max-width:760px){
+@media (max-width:720px){
   .links{display:none}
-  .nav{gap:12px;padding:10px 10px 10px 20px}
-  .svcs{gap:10px}
+  .nav{height:64px;gap:12px}
+  .navbtns .btn.line{display:none}
+  .funnel{grid-template-columns:1fr;justify-items:center;gap:14px}
+  .funnel .arrow{transform:rotate(90deg)}
   .dock{display:block;position:fixed;left:12px;right:12px;bottom:12px;z-index:60;
-    border-radius:999px;padding:9px;background:rgba(255,255,255,.82);
-    border:1px solid rgba(255,255,255,.75);
-    -webkit-backdrop-filter:blur(20px) saturate(180%);backdrop-filter:blur(20px) saturate(180%);
+    border-radius:999px;padding:8px;background:rgba(255,255,255,.84);
+    border:1px solid rgba(255,255,255,.7);
+    -webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);
     box-shadow:0 8px 16px rgba(23,24,29,.12)}
-  .dock .btn{display:flex;width:100%;justify-content:center;box-shadow:none}
-  body{padding-bottom:92px}
+  .dock .btn{display:flex;width:100%;box-shadow:none}
+  body{padding-bottom:90px}
   footer .top{grid-template-columns:1fr}
 }
 </style>
@@ -179,61 +235,119 @@ footer .bottom{margin-top:44px;padding-top:24px;border-top:1px solid rgba(255,25
 <body>
 
 <div class="navbar"><div class="wrap"><div class="nav">
-  <a class="home" href="#top"><img src="logo-trim.png" alt="minulo" width="141" height="24"></a>
-  <div class="links"><a href="#can">できること</a><a href="#price">料金</a><a href="#mac">macOS版</a><a href="en/">English</a></div>
-  <a class="btn sm" href="https://apps.apple.com/jp/app/id6809352229">ダウンロード</a>
+  <a class="home" href="#top"><img src="logo-trim.png" alt="minulo" width="135" height="22"></a>
+  <div class="links"><a href="#can">できること</a><a href="#price">料金</a><a href="./en/">English</a></div>
+  <div class="navbtns">
+    <a class="btn line sm" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">macOS版</a>
+    <a class="btn sm" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a>
+  </div>
 </div></div></div>
 
-<header class="hero" id="top"><div class="wrap"><div class="inner">
+<header class="band" id="top" style="padding-top:clamp(40px,5vw,64px)"><div class="wrap"><div class="split">
   <div class="txt">
-    <h1>SNSはやめない。<br>無限スクロールだけをやめる。</h1>
+    <h2 style="font-size:clamp(31px,4.1vw,52px);line-height:1.3">SNSはやめない。<br>無限スクロールだけをやめる。</h2>
+    <p class="lead">必要なつながりは残して、リールやショート、おすすめだけを静かに非表示にします。</p>
     <div class="cta">
       <a class="btn" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード <span class="ar">&rarr;</span></a>
-      <a class="btn ghost" href="#can">できることを見る <span class="ar">&rarr;</span></a>
+      <a class="btn line" href="#can">できることを見る <span class="ar">&rarr;</span></a>
     </div>
   </div>
-  <div class="fig"><img src="ill/hero-phone.png" alt="" width="233" height="276"></div>
+  <div class="fig" style="display:flex;align-items:flex-end;gap:14px;justify-content:center">
+    <div class="phone" style="--pw:258px"><img src="m/ph-home.png" alt="" width="760" height="1574"></div>
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;padding-bottom:30px">
+      <img class="minu" src="m/default.png" alt="" width="452" height="336" style="--mw:130px">
+      <p class="note">よりよい
+バランスで、
+いい毎日を。</p>
+    </div>
+  </div>
 </div></div></header>
 
-<section class="band ivory"><div class="wrap">
-  <h2>非表示にするもの。残すもの。</h2>
-  <div class="two">
-    <div class="pane cut"><div class="head">非表示にするもの</div><ul><li>リール・ショート動画</li><li>フィード内のおすすめ投稿</li><li>発見タブ・探索タブ</li><li>広告やスポンサー投稿</li><li>DMで共有されたリール動画</li></ul></div>
-    <div class="pane keep"><div class="head">そのまま使えるもの</div><ul><li>DM・メッセージ</li><li>友だちの通常の投稿</li><li>自分で開いたプロフィール</li><li>投稿・返信機能</li><li>検索</li></ul></div>
-  </div>
-</div></section>
-
-<svg class="wave" viewBox="0 0 1440 72" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#DFECFD" d="M0,40 C240,72 480,4 720,20 C960,36 1200,72 1440,44 L1440,72 L0,72 Z"/></svg>
+<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#DFECFD" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
 <section class="band sky" id="can"><div class="wrap"><div class="split">
-  <div class="fig"><img src="ill/funnel.png" alt="" width="344" height="227"></div>
-  <div class="txt"><h2>サービスごとに、<br>非表示にする項目を選べます。</h2><p class="lead">Instagramなど、サービスごとに設定できます。リール・発見タブ・おすすめ投稿はいつも非表示。ストーリーズやDMだけにするかは、自分で切り替えられます。</p></div>
-</div></div></section>
-<svg class="wave" viewBox="0 0 1440 72" preserveAspectRatio="none" aria-hidden="true" style="background:#DFECFD"><path fill="#FFF9F2" d="M0,40 C240,72 480,4 720,20 C960,36 1200,72 1440,44 L1440,72 L0,72 Z"/></svg>
-
-<section class="band ivory"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>必要な機能は、<br>そのまま使えます。</h2><p class="lead">非表示にしても、DMも検索も、友だちの通常の投稿もいつも通りです。自分で開いたプロフィールも、投稿も返信も変わりません。</p></div>
-  <div class="fig"><img src="ill/twophones.png" alt="" width="283" height="204"></div>
-</div></div></section>
-
-<svg class="wave" viewBox="0 0 1440 72" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#DFECFD" d="M0,40 C240,72 480,4 720,20 C960,36 1200,72 1440,44 L1440,72 L0,72 Z"/></svg>
-<section class="band sky"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>時間帯に合わせて、<br>自動でブロック。</h2><p class="lead">就寝時間と曜日・時間帯を指定しておくと、選んだSNSが自動でブロックされます。意志の力に頼らずに続けられます。</p>
-    <div class="chips">
-          <div class="chip">朝<small>6:00 - 8:00</small></div>
-          <div class="chip">仕事<small>9:00 - 18:00</small></div>
-          <div class="chip">夜<small>22:00 - 6:00</small></div>
+  <div class="fig">
+    <div class="funnel">
+      <div style="display:flex;flex-direction:column;align-items:center;gap:0">
+        <div class="icons"><img src="svc/tiktok.png" alt=""><img src="svc/instagram.png" alt=""><img src="svc/youtube.png" alt=""><img src="svc/x.png" alt=""></div>
+        <span class="loop">ループ</span>
+      </div>
+      <svg class="arrow" viewBox="0 0 40 28" fill="var(--pri)" style="width:clamp(26px,3vw,40px);height:auto"><path d="M0 11h22V3.5c0-1.3 1.5-2 2.5-1.2l14 10.2c.8.6.8 1.8 0 2.4l-14 10.2c-1 .8-2.5.1-2.5-1.2V17H0Z"/></svg>
+      <div class="keep"><div style="text-align:center"><svg class="i" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3c5 0 9 3.4 9 7.6 0 4.2-4 7.6-9 7.6-.9 0-1.8-.1-2.6-.3L4.8 20.6c-.5.3-1.1-.2-.9-.7l1-3.1C3.1 15.4 3 13 3 10.6 3 6.4 7 3 12 3Z"/><circle cx="8.6" cy="10.6" r="1.25" fill="#fff"/><circle cx="12" cy="10.6" r="1.25" fill="#fff"/><circle cx="15.4" cy="10.6" r="1.25" fill="#fff"/></svg><b>メッセージ</b></div><div style="text-align:center"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.2"/><path d="M15.4 15.4 20 20"/></svg><b>検索</b></div><div style="text-align:center"><svg class="i" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="8.2" r="3.8"/><path d="M4.6 20c.6-3.9 3.7-6.2 7.4-6.2s6.8 2.3 7.4 6.2Z"/></svg><b>プロフィール</b></div></div>
     </div>
   </div>
-  <div class="fig"><img src="ill/sleep.png" alt="" width="337" height="199"></div>
+  <div class="txt"><h2>非表示にする項目だけ、<br>選べます。</h2><p class="lead">SNSごとに、非表示にする機能を細かく選択。見たいものは残して、気が散るループだけをオフにできます。</p>
+    <div class="rows">
+          <div class="row"><img src="svc/instagram.png" alt=""><span>Instagram</span><i class="sw"></i></div>
+          <div class="row"><img src="svc/x.png" alt=""><span>X</span><i class="sw"></i></div>
+          <div class="row"><img src="svc/youtube.png" alt=""><span>YouTube</span><i class="sw"></i></div>
+          <div class="row"><img src="svc/tiktok.png" alt=""><span>TikTok</span><i class="sw"></i></div>
+    </div>
+  </div>
 </div></div></section>
-<svg class="wave" viewBox="0 0 1440 72" preserveAspectRatio="none" aria-hidden="true" style="background:#DFECFD"><path fill="#FFF9F2" d="M0,40 C240,72 480,4 720,20 C960,36 1200,72 1440,44 L1440,72 L0,72 Z"/></svg>
+<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#DFECFD"><path fill="#FFF9F2" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
 
-<section class="band ivory"><div class="wrap"><div class="split">
-  <div class="fig"><img src="ill/chart.png" alt="" width="306" height="189"></div>
-  <div class="txt"><h2>取り戻した時間が、<br>見えます。</h2><p class="lead">思いとどまれた回数と、サービスごとの利用時間。すべて端末の中にだけ残り、こちらへ送られることはありません。</p></div>
+<section class="band"><div class="wrap"><div class="split rev">
+  <div class="txt"><h2>必要な機能は、<br>ちゃんと使えます。</h2><p class="lead">非表示にしても、友だちとのやり取りや検索、通常の投稿はいつも通り。大切なつながりはそのままです。</p></div>
+  <div class="fig" style="display:flex;gap:clamp(10px,2vw,22px);justify-content:center;align-items:flex-start">
+    <div style="flex:1;max-width:210px">
+      <p style="text-align:center;margin-bottom:10px"><span class="pill" style="background:var(--priSoft);color:var(--priDeep)">DM・ストーリーズ</span></p>
+      <div class="phone" style="--pw:210px"><img src="m/ph-ig.png" alt="" width="760" height="1574"></div>
+    </div>
+    <div style="flex:1;max-width:210px">
+      <p style="text-align:center;margin-bottom:10px"><span class="pill" style="background:var(--priSoft);color:var(--priDeep)">検索・通常投稿</span></p>
+      <div class="phone" style="--pw:210px"><img src="m/ph-yt.png" alt="" width="760" height="1574"></div>
+    </div>
+  </div>
 </div></div></section>
 
-<section class="band ivory" style="padding-top:0"><div class="wrap">
+<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#DFECFD" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
+<section class="band sky"><div class="wrap"><div class="split rev">
+  <div class="txt"><h2>時間帯に合わせて、<br>自動でブロック。</h2><p class="lead">仕事中、勉強中、就寝前など。曜日・時間帯に合わせて自動でオンとオフ。意志の力に頼らず、続けられます。</p>
+    <div class="chips">
+          <div class="chip"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.6v2.2M12 19.2v2.2M2.6 12h2.2M19.2 12h2.2M5.4 5.4l1.6 1.6M17 17l1.6 1.6M18.6 5.4 17 7M7 17l-1.6 1.6"/></svg><span>朝<small>6:00 - 8:00</small></span></div>
+          <div class="chip"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="3" y="5" width="18" height="12" rx="2"/><path d="M2 20h20"/></svg><span>仕事<small>9:00 - 18:00</small></span></div>
+          <div class="chip"><svg class="i" viewBox="0 0 24 24" fill="currentColor"><path d="M20 14.5A8.4 8.4 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><span>夜<small>22:00 - 6:00</small></span></div>
+    </div>
+  </div>
+  <div class="fig" style="display:flex;flex-direction:column;align-items:center;gap:10px">
+    <svg viewBox="0 0 260 90" style="width:min(300px,100%);height:auto" aria-hidden="true">
+      <path d="M14 76 C60 8 200 8 246 76" fill="none" stroke="#9FC0EE" stroke-width="2.5" stroke-dasharray="7 8" stroke-linecap="round"/>
+      <circle cx="246" cy="76" r="11" fill="#F3BE3F"/>
+      <path d="M22 66a12 12 0 1 0 0-20 14 14 0 0 1 0 20Z" fill="#fff"/>
+    </svg>
+    <div style="position:relative">
+      <img class="minu" src="m/sleeping.png" alt="" width="452" height="295" style="--mw:220px">
+      <span style="position:absolute;top:-6px;right:-18px;font-size:15px;font-weight:800;color:var(--pri);letter-spacing:.12em">zzz</span>
+    </div>
+    <p class="note">ねてる間は
+そっとブロック。</p>
+  </div>
+</div></div></section>
+<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#DFECFD"><path fill="#FFF9F2" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
+
+<section class="band"><div class="wrap"><div class="split">
+  <div class="fig" style="display:flex;flex-direction:column;align-items:center">
+    <div class="stat">
+      <p class="k">今週の節約時間</p>
+      <p class="v">5<small>時間</small>24<small>分</small></p>
+      <div class="bars"><i class="" style="height:52%"></i><i class="on" style="height:86%"></i><i class="" style="height:60%"></i><i class="on" style="height:74%"></i><i class="" style="height:48%"></i><i class="on" style="height:96%"></i><i class="" style="height:70%"></i></div>
+      <div class="dow"><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span>土</span><span>日</span></div>
+    </div>
+    <div style="display:flex;align-items:flex-end;gap:10px">
+      <div class="streak"><svg viewBox="0 0 24 24" fill="#F26072" style="width:22px;height:22px"><path d="M12.5 2c.6 2.6-.6 4.3-2 5.9-1.6 1.8-3.5 3.6-3.5 6.6A6.9 6.9 0 0 0 14 21.4c3.4-.6 5.6-3.4 5.6-6.7 0-4.3-3.3-6.4-4.3-9.2-.4 1.2-1.2 2-2 2.6.3-2.3-.2-4.4-.8-6.1Z"/></svg><div><div class="k">連続達成</div><div class="v">7日</div></div></div>
+      <img class="minu" src="m/default.png" alt="" width="452" height="336" style="--mw:112px">
+    </div>
+  </div>
+  <div class="txt"><h2>取り戻した時間が、<br>見えます。</h2><p class="lead">どれだけの時間をループから解放できたか、自動で記録。続けるほど、変化が見えてきます。</p>
+    <div class="chips">
+          <div class="chip">使用時間の比較</div>
+          <div class="chip">週ごとのレポート</div>
+          <div class="chip">連続達成バッジ</div>
+    </div>
+  </div>
+</div></div></section>
+
+<section class="band" style="padding-top:0"><div class="wrap">
   <h2>10種類のSNSに対応しています。</h2>
   <div class="svcs">
         <figure><img src="svc/instagram.png" alt="" width="168" height="168"><figcaption>Instagram</figcaption></figure>
@@ -249,7 +363,7 @@ footer .bottom{margin-top:44px;padding-top:24px;border-top:1px solid rgba(255,25
   </div>
 </div></section>
 
-<section class="band ivory" style="padding-top:0"><div class="wrap">
+<section class="band" style="padding-top:0"><div class="wrap">
   <h2>minuloが守り続ける、3つの約束。</h2>
   <div class="vows">
         <div class="vow"><h3>おすすめ投稿の非表示は、無料です。</h3><p>無限スクロールを防ぐための基本機能に、料金はかかりません。</p></div>
@@ -258,29 +372,42 @@ footer .bottom{margin-top:44px;padding-top:24px;border-top:1px solid rgba(255,25
   </div>
 </div></section>
 
-<svg class="wave" viewBox="0 0 1440 72" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#0D123B" d="M0,40 C240,72 480,4 720,20 C960,36 1200,72 1440,44 L1440,72 L0,72 Z"/></svg>
-<section class="band navy price" id="price"><div class="wrap">
-  <div class="split" style="align-items:start">
-    <div class="txt"><h2>基本の非表示機能は、無料です。</h2>
-      <div class="badges"><a href="https://apps.apple.com/jp/app/id6809352229"><img src="badge-appstore-ja-white.svg" alt="App Storeでダウンロード" width="152" height="52"></a></div>
+<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#0D123B" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
+<section class="band navy" id="price"><div class="wrap">
+  <div class="split" style="align-items:center">
+    <div class="fig">
+      <div class="glow"><img class="minu" src="m/pro-hero.png" alt="" width="470" height="438" style="--mw:220px"></div>
+      <div class="procards"><div class="procard"><svg class="i" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.5a6.5 6.5 0 0 0-3.6 11.9c.5.4.8 1 .8 1.6v.5h5.6v-.5c0-.6.3-1.2.8-1.6A6.5 6.5 0 0 0 12 2.5Z"/><rect x="9.2" y="18.2" width="5.6" height="1.9" rx=".95"/><rect x="10" y="21" width="4" height="1.5" rx=".75"/></svg><div><b>AIの気づき</b><small>夜は動画の利用が増える傾向にあります</small></div></div><div class="procard"><svg class="i" viewBox="0 0 24 24" fill="currentColor"><path d="M12 8.4a3.6 3.6 0 1 0 0 7.2 3.6 3.6 0 0 0 0-7.2Zm9 3.6c0 .6-.05 1.1-.14 1.7l2 1.55-1.9 3.3-2.38-.95a7.7 7.7 0 0 1-2.9 1.7L15.3 22h-3.8l-.38-2.6a7.7 7.7 0 0 1-2.9-1.7l-2.38.95-1.9-3.3 2-1.55A9.4 9.4 0 0 1 5.8 12c0-.6.05-1.1.14-1.7l-2-1.55 1.9-3.3 2.38.95a7.7 7.7 0 0 1 2.9-1.7L11.5 2h3.8l.38 2.6a7.7 7.7 0 0 1 2.9 1.7l2.38-.95 1.9 3.3-2 1.55c.09.6.14 1.1.14 1.7Z"/></svg><div><b>おすすめの設定</b><small>平日の22時以降はブロックを強化しましょう</small></div></div></div>
     </div>
-    <div class="fig"><img src="ill/pro.png" alt="" width="305" height="188"></div>
+    <div class="txt">
+      <p style="margin-bottom:14px"><span class="pill">Pro</span></p>
+      <h2>もっと深く、<br>自分の時間を知る。</h2><p class="lead">AIがあなたの使い方を分析し、よりよいバランスのためのヒントを提案します。</p>
+      <div class="cta"><a class="btn white" href="https://apps.apple.com/jp/app/id6809352229">Proについて見る <span class="ar">&rarr;</span></a></div>
+    </div>
   </div>
   <div class="two">
     <div class="pane"><div class="head">無料でできること</div><ul><li>リール・ショート動画の非表示</li><li>おすすめ投稿・広告の非表示</li><li>利用するSNSの登録数は無制限</li><li>DMや通常の閲覧機能はそのまま利用可能</li><li>公式SNSアプリのロック</li><li>思いとどまれた回数と利用時間の記録</li></ul></div>
     <div class="pane paid"><div class="head">有料でできること</div><ul><li>非表示にする項目の個別設定</li><li>曜日・時間帯・就寝時間の指定</li><li>ロックモード</li></ul></div>
   </div>
 </div></section>
-<svg class="wave" viewBox="0 0 1440 72" preserveAspectRatio="none" aria-hidden="true" style="background:#0D123B"><path fill="#FFF9F2" d="M0,40 C240,72 480,4 720,20 C960,36 1200,72 1440,44 L1440,72 L0,72 Z"/></svg>
+<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#0D123B"><path fill="#FFF9F2" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
 
-<section class="band ivory" id="mac"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>Macでも、<br>無限スクロールを防ぐ。</h2><p class="lead">スマートフォンだけでなく、Macでも同じようにSNSとの距離を整えられます。Safari・Chrome・Edge・Brave・Arc に対応しています。</p>
-    <div class="cta"><a class="btn ghost" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">macOS版を見る <span class="ar">&rarr;</span></a></div>
+<section class="band"><div class="wrap">
+  <h2>非表示にするもの。残すもの。</h2>
+  <div class="two">
+    <div class="pane cut"><div class="head">非表示にするもの</div><ul><li>リール・ショート動画</li><li>フィード内のおすすめ投稿</li><li>発見タブ・探索タブ</li><li>広告やスポンサー投稿</li><li>DMで共有されたリール動画</li></ul></div>
+    <div class="pane keep"><div class="head">そのまま使えるもの</div><ul><li>DM・メッセージ</li><li>友だちの通常の投稿</li><li>自分で開いたプロフィール</li><li>投稿・返信機能</li><li>検索</li></ul></div>
   </div>
-  <div class="fig"><img src="ill/cards.png" alt="" width="300" height="194"></div>
+</div></section>
+
+<section class="band" id="mac" style="padding-top:0"><div class="wrap"><div class="split rev">
+  <div class="txt"><h2>Macでも、<br>無限スクロールを防ぐ。</h2><p class="lead">スマートフォンだけでなく、Macでも同じようにSNSとの距離を整えられます。Safari・Chrome・Edge・Brave・Arc に対応しています。</p>
+    <div class="cta"><a class="btn line" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">macOS版を見る <span class="ar">&rarr;</span></a></div>
+  </div>
+  <div class="fig"><img class="minu" src="m/proud.png" alt="" width="427" height="358" style="--mw:200px;margin-inline:auto"></div>
 </div></div></section>
 
-<section class="band ivory" style="padding-top:0"><div class="wrap">
+<section class="band" style="padding-top:0"><div class="wrap">
   <h2>よくある質問</h2>
   <dl class="faq">
       <dt>無料でどこまで使えますか？</dt>
@@ -304,23 +431,31 @@ footer .bottom{margin-top:44px;padding-top:24px;border-top:1px solid rgba(255,25
   </dl>
 </div></section>
 
-<section class="band ivory close" style="padding-top:0"><div class="wrap">
-  <h2>自分の時間を、<br>自分で選ぶ。</h2>
-  <div class="cta"><a class="btn" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード <span class="ar">&rarr;</span></a></div>
-  <img src="ill/cta.png" alt="" width="319" height="175">
+<section class="band close" style="padding-top:0"><div class="wrap">
+  <div class="trio" style="margin-bottom:34px">
+    <div style="text-align:center"><p class="note" style="margin-bottom:6px">やってみよう！</p><img class="minu" src="m/celebrating.png" alt="" width="500" height="389" style="--mw:110px"></div>
+    <img class="minu" src="m/default.png" alt="" width="452" height="336" style="--mw:150px">
+    <div style="text-align:center"><p class="note" style="margin-bottom:6px">自分のペースで
+いこう。</p><img class="minu" src="m/peeking.png" alt="" width="410" height="130" style="--mw:130px"></div>
+  </div>
+  <h2>つながりは残す。<br>ループは手放す。</h2>
+  <div class="cta">
+    <a class="btn" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード <span class="ar">&rarr;</span></a>
+    <a class="btn line" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">macOS版を見る</a>
+  </div>
 </div></section>
 
 <footer><div class="wrap">
   <div class="top">
     <div>
-      <img class="logo" src="logo-trim.png" alt="minulo" width="164" height="28">
-      <p class="tag">SNSはやめない。無限スクロールだけをやめる。</p>
+      <img class="logo" src="logo-trim.png" alt="minulo" width="152" height="26">
+      <p class="tag">SNSと、ちょうどいい距離を。</p>
     </div>
-        <div><h4>プロダクト</h4><ul><li><a href="#can">できること</a></li><li><a href="#price">料金</a></li><li><a href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">macOS版</a></li></ul></div>
-        <div><h4>サポート</h4><ul><li><a href="support.html">サポート</a></li><li><a href="mailto:workflowai.japan@gmail.com">お問い合わせ</a></li></ul></div>
-        <div><h4>法務</h4><ul><li><a href="privacy.html">プライバシーポリシー</a></li><li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">利用規約</a></li></ul></div>
+        <div><h4>プロダクト</h4><ul><li><a href="#can">できること</a></li><li><a href="#price">料金</a></li><li><a href="#mac">macOS版</a></li></ul></div>
+        <div><h4>サポート</h4><ul><li><a href="./support.html">サポート</a></li><li><a href="mailto:workflowai.japan@gmail.com">お問い合わせ</a></li></ul></div>
+        <div><h4>法務</h4><ul><li><a href="./privacy.html">プライバシーポリシー</a></li><li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">利用規約</a></li></ul></div>
   </div>
-  <div class="bottom"><span>© 2026 minulo</span><a href="en/">English</a></div>
+  <div class="bottom"><span>© 2026 minulo</span><a href="./en/">English</a></div>
 </div></footer>
 
 <div class="dock"><a class="btn" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a></div>
