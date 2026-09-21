@@ -22,7 +22,7 @@
 <link href="https://fonts.googleapis.com/css2?family=M+PLUS+2:wght@400;500;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
-  --ink:#17181D; --ink2:#74757D; --ink3:#A5A3A0;
+  --ink:#17181D; --ink2:#686972; --ink3:#74757D;
   --pri:#5663E8; --priDeep:#434DC4; --priSoft:#ECEEFF;
   --bg:#FFF9F2; --card:#FFFFFF; --line:#E8E2D8;
   --sky:#DFECFD; --wave:#D4E4FD; --navy:#0D123B;
@@ -53,8 +53,10 @@ p{margin:0}
 .navbar{position:sticky;top:0;z-index:50;background:rgba(255,249,242,.86);
   -webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
 .nav{display:flex;align-items:center;gap:30px;height:72px}
+.nav .home{display:inline-flex;align-items:center;padding:10px 0}
 .nav .home img{height:22px;width:auto}
 .links{display:flex;gap:28px;margin-left:auto;font-size:14.5px;font-weight:500;color:var(--ink)}
+.links a{display:inline-flex;align-items:center;padding:10px 0}
 .navbtns{display:flex;gap:10px;align-items:center}
 
 /* ボタン */
@@ -119,10 +121,10 @@ p{margin:0}
   box-shadow:0 16px 34px rgba(23,24,29,.08)}
 .funnel .keep > div{display:flex;flex-direction:column;align-items:center;gap:7px}
 .funnel .keep .i{width:30px;height:30px;color:var(--pri)}
-.funnel .keep b{font-size:11.5px;font-weight:700;color:var(--ink2);letter-spacing:.02em}
+.funnel .keep b{font-size:12px;font-weight:700;color:var(--ink2);letter-spacing:.02em}
 .funnel .loop{margin-top:12px;display:inline-flex;align-items:center;gap:6px;
   background:rgba(23,24,29,.06);border-radius:99px;padding:6px 14px;
-  font-size:11.5px;font-weight:700;color:var(--ink2);letter-spacing:.08em}
+  font-size:12px;font-weight:700;color:#5F6068;letter-spacing:.08em}
 
 /* 記録カード */
 .stat{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:22px 24px;
@@ -133,12 +135,12 @@ p{margin:0}
 .stat .bars{margin-top:18px;display:grid;grid-template-columns:repeat(7,1fr);gap:7px;align-items:end;height:74px}
 .stat .bars i{display:block;background:var(--pri);border-radius:5px;opacity:.45}
 .stat .bars i.on{opacity:1}
-.stat .dow{margin-top:8px;display:grid;grid-template-columns:repeat(7,1fr);gap:7px;
-  font-size:10.5px;color:var(--ink3);text-align:center}
+.stat .dow{margin-top:9px;display:grid;grid-template-columns:repeat(7,1fr);gap:7px;
+  font-size:11.5px;color:var(--ink3);text-align:center}
 .streak{margin-top:14px;background:var(--card);border:1px solid var(--line);border-radius:18px;
   padding:14px 18px;display:inline-flex;align-items:center;gap:12px;
   box-shadow:0 14px 30px rgba(23,24,29,.07)}
-.streak .k{font-size:11.5px;color:var(--ink2)}
+.streak .k{font-size:12px;color:var(--ink2)}
 .streak .v{font-size:22px;font-weight:800;letter-spacing:-.03em}
 
 /* Pro */
@@ -174,7 +176,7 @@ p{margin:0}
 .svcs{display:grid;grid-template-columns:repeat(5,1fr);gap:clamp(12px,2vw,26px);max-width:720px;margin-top:40px}
 .svcs figure{margin:0}
 .svcs img{width:100%;max-width:64px;height:auto;margin-inline:auto}
-.svcs figcaption{margin-top:9px;text-align:center;font-size:12px;color:var(--ink2)}
+.svcs figcaption{margin-top:9px;text-align:center;font-size:12.5px;color:var(--ink2)}
 
 /* 約束 */
 .vows{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:18px;margin-top:40px}
@@ -213,11 +215,13 @@ footer img.logo{height:26px;width:auto;filter:invert(1)}
 footer .tag{margin-top:13px;font-size:13px;color:rgba(255,255,255,.55);max-width:20em}
 footer h4{margin:0 0 13px;font-size:12.5px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.5)}
 footer ul{margin:0;padding:0;list-style:none;font-size:14px}
-footer li{margin-bottom:9px}
+footer li{margin-bottom:2px}
+footer li a{display:inline-block;padding:7px 0}
 footer a{color:rgba(255,255,255,.78)}
 footer a:hover{color:#fff}
 footer .bottom{margin-top:42px;padding-top:22px;border-top:1px solid rgba(255,255,255,.13);
-  display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:12px;color:rgba(255,255,255,.45)}
+  display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:12.5px;color:rgba(255,255,255,.55)}
+footer .bottom a{display:inline-block;padding:8px 0}
 
 .dock{display:none}
 @media (max-width:860px){
@@ -248,7 +252,6 @@ footer .bottom{margin-top:42px;padding-top:22px;border-top:1px solid rgba(255,25
   <a class="home" href="#top"><img src="../logo-trim.png" alt="minulo" width="135" height="22"></a>
   <div class="links"><a href="#can">What it does</a><a href="#price">Pricing</a><a href="../">日本語</a></div>
   <div class="navbtns">
-    <a class="btn line sm" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">macOS</a>
     <a class="btn sm" href="https://apps.apple.com/app/id6809352229">Download on the App Store</a>
   </div>
 </div></div></div>
@@ -326,7 +329,7 @@ a better day.</p>
     </svg>
     <div style="position:relative">
       <img class="minu" src="../m/sleeping.png" alt="" width="452" height="295" style="--mw:220px">
-      <span style="position:absolute;top:-6px;right:-18px;font-size:15px;font-weight:800;color:var(--pri);letter-spacing:.12em">zzz</span>
+      <span style="position:absolute;top:-6px;right:-18px;font-size:15px;font-weight:800;color:var(--priDeep);letter-spacing:.12em">zzz</span>
     </div>
     <p class="note">Blocked gently
 while you sleep.</p>
@@ -409,12 +412,6 @@ while you sleep.</p>
   </div>
 </div></section>
 
-<section class="band" id="mac" style="padding-top:0"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>Stop the endless scroll<br>on your Mac too.</h2><p class="lead">Not just on your phone &mdash; keep the same distance from social media on your Mac. Works in Safari, Chrome, Edge, Brave and Arc.</p>
-    <div class="cta"><a class="btn line" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">See the macOS app <span class="ar">&rarr;</span></a></div>
-  </div>
-  <div class="fig"><img class="minu" src="../m/proud.png" alt="" width="427" height="358" style="--mw:200px;margin-inline:auto"></div>
-</div></div></section>
 
 <section class="band" style="padding-top:0"><div class="wrap">
   <h2>Frequently asked</h2>
@@ -457,7 +454,6 @@ pace.</p><img class="minu" src="../m/peeking.png" alt="" width="410" height="130
   <h2>Keep the connection.<br>Let the loop go.</h2>
   <div class="cta">
     <a class="btn" href="https://apps.apple.com/app/id6809352229">Download on the App Store <span class="ar">&rarr;</span></a>
-    <a class="btn line" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg">See the macOS app</a>
   </div>
 </div></section>
 
@@ -467,7 +463,7 @@ pace.</p><img class="minu" src="../m/peeking.png" alt="" width="410" height="130
       <img class="logo" src="../logo-trim.png" alt="minulo" width="152" height="26">
       <p class="tag">A healthier distance from social media.</p>
     </div>
-        <div><h4>Product</h4><ul><li><a href="#can">What it does</a></li><li><a href="#price">Pricing</a></li><li><a href="#mac">macOS</a></li></ul></div>
+        <div><h4>Product</h4><ul><li><a href="#can">What it does</a></li><li><a href="#price">Pricing</a></li></ul></div>
         <div><h4>Support</h4><ul><li><a href="support.html">Support</a></li><li><a href="mailto:workflowai.japan@gmail.com">Contact</a></li></ul></div>
         <div><h4>Legal</h4><ul><li><a href="../privacy.html">Privacy Policy</a></li><li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Use</a></li></ul></div>
   </div>
