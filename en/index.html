@@ -19,7 +19,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=M+PLUS+2:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
   --ink:#17181D; --ink2:#686972; --ink3:#74757D;
@@ -31,7 +31,7 @@
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font-size:16px;line-height:1.85;
-  font-family:"M PLUS 2",system-ui,-apple-system,"Hiragino Sans",sans-serif;-webkit-font-smoothing:antialiased}
+  font-family:"Figtree",system-ui,-apple-system,"Hiragino Sans",sans-serif;-webkit-font-smoothing:antialiased}
 a{color:var(--ink);text-decoration:none}
 img{display:block;max-width:100%}
 :focus-visible{outline:2px solid var(--pri);outline-offset:3px;border-radius:6px}
@@ -40,8 +40,8 @@ img{display:block;max-width:100%}
 .band{position:relative;padding:clamp(76px,8vw,116px) 0}
 .band.sky{background:var(--sky)}
 .band.navy{background:var(--navy);color:#fff}
-h2{margin:0;font-size:clamp(26px,3.1vw,40px);line-height:1.38;font-weight:800;
-  letter-spacing:-.04em;word-break:auto-phrase}
+h2{margin:0;font-size:clamp(26px,3.1vw,40px);line-height:1.38;font-weight:600;
+  letter-spacing:-.02em;word-break:auto-phrase}
 .lead{margin-top:18px;font-size:16px;line-height:1.95;color:var(--ink2);max-width:30em}
 .navy .lead{color:rgba(255,255,255,.7)}
 p{margin:0}
@@ -61,7 +61,7 @@ p{margin:0}
 
 /* ボタン */
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;
-  background:var(--pri);color:#fff;border-radius:999px;font-weight:700;
+  background:var(--pri);color:#fff;border-radius:999px;font-weight:600;
   padding:15px 28px;font-size:15.5px;box-shadow:0 8px 18px rgba(86,99,232,.26)}
 .btn:hover{background:var(--priDeep);color:#fff}
 .btn .ar{font-size:12px;opacity:.9}
@@ -116,7 +116,7 @@ p{margin:0}
 /* 札 */
 .chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
 .chip{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);
-  border-radius:15px;padding:12px 16px;font-size:14px;font-weight:700;line-height:1.35}
+  border-radius:15px;padding:12px 16px;font-size:14px;font-weight:600;line-height:1.35}
 .chip small{display:block;font-size:12px;font-weight:400;color:var(--ink2)}
 .chip .i{width:20px;height:20px;flex:none;color:var(--pri)}
 .sky .chip{border-color:#CBDEF7}
@@ -129,7 +129,7 @@ p{margin:0}
   border:1px solid var(--line);border-radius:16px;padding:12px 16px}
 .sky .row{border-color:#CBDEF7}
 .row img{width:26px;height:26px}
-.row span{font-size:14.5px;font-weight:700}
+.row span{font-size:14.5px;font-weight:600}
 .sw{margin-left:auto;width:42px;height:25px;border-radius:99px;background:var(--pri);position:relative;flex:none}
 .sw::after{content:"";position:absolute;top:3px;right:3px;width:19px;height:19px;border-radius:50%;background:#fff}
 
@@ -143,17 +143,17 @@ p{margin:0}
   box-shadow:0 16px 34px rgba(23,24,29,.08)}
 .funnel .keep > div{display:flex;flex-direction:column;align-items:center;gap:7px}
 .funnel .keep .i{width:30px;height:30px;color:var(--pri)}
-.funnel .keep b{font-size:12px;font-weight:700;color:var(--ink2);letter-spacing:.02em}
+.funnel .keep b{font-size:12px;font-weight:600;color:var(--ink2);letter-spacing:.02em}
 .funnel .loop{margin-top:12px;display:inline-flex;align-items:center;gap:6px;
   background:rgba(23,24,29,.06);border-radius:99px;padding:6px 14px;
-  font-size:12px;font-weight:700;color:#5F6068;letter-spacing:.08em}
+  font-size:12px;font-weight:600;color:#5F6068;letter-spacing:.08em}
 
 /* 記録カード */
 .stat{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:22px 24px;
   box-shadow:0 18px 40px rgba(23,24,29,.08);max-width:330px}
 .stat .k{font-size:12.5px;color:var(--ink2);font-weight:500}
-.stat .v{margin-top:4px;font-size:34px;font-weight:800;letter-spacing:-.04em;line-height:1.1}
-.stat .v small{font-size:17px;font-weight:700}
+.stat .v{margin-top:4px;font-size:34px;font-weight:600;letter-spacing:-.02em;line-height:1.1}
+.stat .v small{font-size:17px;font-weight:600}
 .stat .bars{margin-top:18px;display:grid;grid-template-columns:repeat(7,1fr);gap:7px;align-items:end;height:74px}
 .stat .bars i{display:block;background:var(--pri);border-radius:5px;opacity:.45}
 .stat .bars i.on{opacity:1}
@@ -163,7 +163,7 @@ p{margin:0}
   padding:14px 18px;display:inline-flex;align-items:center;gap:12px;
   box-shadow:0 14px 30px rgba(23,24,29,.07)}
 .streak .k{font-size:12px;color:var(--ink2)}
-.streak .v{font-size:22px;font-weight:800;letter-spacing:-.03em}
+.streak .v{font-size:22px;font-weight:600;letter-spacing:-.03em}
 
 /* Pro */
 .glow{position:relative;display:grid;place-items:center;padding:18px 0}
@@ -177,14 +177,14 @@ p{margin:0}
 .procard b{display:block;font-size:13px}
 .procard small{display:block;margin-top:3px;font-size:12px;line-height:1.6;color:rgba(255,255,255,.62)}
 .pill{display:inline-flex;align-items:center;gap:7px;background:linear-gradient(135deg,#5663E8,#8C6BE8);
-  color:#fff;border-radius:99px;padding:6px 14px;font-size:12.5px;font-weight:700}
+  color:#fff;border-radius:99px;padding:6px 14px;font-size:12.5px;font-weight:600}
 
 /* 対比の2面 */
 .two{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:18px;margin-top:40px}
 .pane{border-radius:24px;padding:clamp(26px,3.2vw,38px)}
 .pane.cut{background:var(--ink);color:#fff}
 .pane.keep{background:var(--card);border:1px solid var(--line)}
-.pane .head{font-size:19px;font-weight:800;letter-spacing:-.02em}
+.pane .head{font-size:19px;font-weight:600;letter-spacing:-.02em}
 .pane ul{margin:20px 0 0;padding:0;list-style:none}
 .pane li{padding:14px 0;font-size:15.5px;line-height:1.7}
 .pane.cut li{border-top:1px solid rgba(255,255,255,.15);color:rgba(255,255,255,.92)}
@@ -203,7 +203,7 @@ p{margin:0}
 /* 約束 */
 .vows{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:18px;margin-top:40px}
 .vow{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:clamp(26px,3vw,34px)}
-.vow h3{margin:0;font-size:18px;font-weight:700;line-height:1.6;letter-spacing:-.02em}
+.vow h3{margin:0;font-size:18px;font-weight:600;line-height:1.6;letter-spacing:-.02em}
 .vow p{margin-top:12px;font-size:14.5px;line-height:1.9;color:var(--ink2)}
 
 /* FAQ */
@@ -211,7 +211,7 @@ p{margin:0}
 .faq{margin:40px 0 0;border-top:1px solid var(--line)}
 .faq details{border-bottom:1px solid var(--line)}
 .faq summary{display:flex;align-items:flex-start;gap:16px;cursor:pointer;list-style:none;
-  padding:22px 0;font-size:17.5px;font-weight:700;letter-spacing:-.02em;line-height:1.6}
+  padding:22px 0;font-size:17.5px;font-weight:600;letter-spacing:-.02em;line-height:1.6}
 .faq summary::-webkit-details-marker{display:none}
 .faq summary::after{content:"";flex:none;margin-left:auto;width:13px;height:13px;margin-top:9px;
   border-right:2.4px solid var(--ink3);border-bottom:2.4px solid var(--ink3);
@@ -235,7 +235,7 @@ footer{background:var(--ink);color:#fff;padding:clamp(52px,6vw,80px) 0 34px}
 footer .top{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:34px}
 footer img.logo{height:26px;width:auto;filter:invert(1)}
 footer .tag{margin-top:13px;font-size:13px;color:rgba(255,255,255,.55);max-width:20em}
-footer h4{margin:0 0 13px;font-size:12.5px;font-weight:700;letter-spacing:.06em;color:rgba(255,255,255,.5)}
+footer h4{margin:0 0 13px;font-size:12.5px;font-weight:600;letter-spacing:.06em;color:rgba(255,255,255,.5)}
 footer ul{margin:0;padding:0;list-style:none;font-size:14px}
 footer li{margin-bottom:2px}
 footer li a{display:inline-block;padding:7px 0}
@@ -345,7 +345,7 @@ and easier days.</p>
     </svg>
     <div style="position:relative">
       <img class="minu" src="../m/sleeping.png" alt="" width="452" height="295" style="--mw:220px">
-      <span style="position:absolute;top:-6px;right:-18px;font-size:15px;font-weight:800;color:var(--priDeep);letter-spacing:.12em">zzz</span>
+      <span style="position:absolute;top:-6px;right:-18px;font-size:15px;font-weight:600;color:var(--priDeep);letter-spacing:.12em">zzz</span>
     </div>
     <p class="note">Blocked gently
 while you sleep.</p>
