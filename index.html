@@ -271,15 +271,37 @@ footer .bottom a{display:inline-block;padding:8px 0}
   body{padding-bottom:90px}
   footer .top{grid-template-columns:1fr}
 }
-.langs{display:flex;flex-wrap:wrap;gap:4px 8px;justify-content:flex-end}.langs b{font-weight:600}
+
+/* 言語の切り替え（国旗つき）。どの幅でも見えるよう、ダウンロードの隣に置く */
+.langmenu{position:relative}
+.langmenu summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:7px;padding:8px 12px;
+  border:1.5px solid var(--line);border-radius:999px;background:var(--card);font-size:14px;font-weight:500;color:var(--ink);line-height:1}
+.langmenu summary::-webkit-details-marker{display:none}
+.langmenu summary:focus-visible{outline:2px solid var(--pri);outline-offset:2px}
+.langmenu .flag{font-size:17px;line-height:1}
+.langmenu .caret{width:10px;height:10px;opacity:.55;transition:transform .15s}
+.langmenu[open] .caret{transform:rotate(180deg)}
+.langmenu ul{position:absolute;right:0;top:calc(100% + 8px);margin:0;padding:6px;list-style:none;min-width:200px;z-index:80;
+  background:var(--card);border:1.5px solid var(--line);border-radius:16px;box-shadow:0 14px 34px rgba(23,24,29,.14)}
+.langmenu li a{display:flex;align-items:center;gap:11px;padding:10px 12px;border-radius:10px;font-size:14.5px;color:var(--ink)}
+.langmenu li a:hover,.langmenu li a:focus-visible{background:var(--priSoft);outline:none}
+.langmenu li a[aria-current="true"]{font-weight:600}
+.langmenu li a[aria-current="true"]::after{content:"";margin-left:auto;width:7px;height:7px;border-radius:50%;background:var(--pri)}
+@media (max-width:720px){.langmenu .name{display:none}.langmenu summary{padding:8px 10px}}
+/* 足元の言語一覧：リンクと太字と区切りを同じ高さに揃える */
+footer .bottom .langs{display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-end;gap:0 10px}
+footer .bottom .langs a,footer .bottom .langs b{display:inline-block;padding:8px 0;line-height:1.4}
+footer .bottom .langs b{font-weight:600;color:#fff}
+footer .bottom .langs .dot{opacity:.35}
 </style>
 </head>
 <body>
 
 <div class="navbar"><div class="wrap"><div class="nav">
   <a class="home" href="#top"><img src="logo-trim.png" alt="minulo" width="135" height="22"></a>
-  <div class="links"><a href="#can">できること</a><a href="#how">使い方</a><a href="#log">記録</a><a href="#price">料金</a><a href="./en/">English</a></div>
+  <div class="links"><a href="#can">できること</a><a href="#how">使い方</a><a href="#log">記録</a><a href="#price">料金</a></div>
   <div class="navbtns">
+    <details class="langmenu"><summary aria-label="言語を選ぶ"><span class="flag" aria-hidden="true">🇯🇵</span><span class="name">日本語</span><svg class="caret" viewBox="0 0 10 10" aria-hidden="true"><path d="M1.5 3.5 5 7l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></summary><ul><li><a href="./" hreflang="ja" lang="ja" aria-current="true"><span class="flag" aria-hidden="true">🇯🇵</span>日本語</a></li><li><a href="en/" hreflang="en" lang="en"><span class="flag" aria-hidden="true">🇺🇸</span>English</a></li><li><a href="de/" hreflang="de" lang="de"><span class="flag" aria-hidden="true">🇩🇪</span>Deutsch</a></li><li><a href="fr/" hreflang="fr" lang="fr"><span class="flag" aria-hidden="true">🇫🇷</span>Français</a></li><li><a href="es/" hreflang="es" lang="es"><span class="flag" aria-hidden="true">🇪🇸</span>Español</a></li><li><a href="pt/" hreflang="pt" lang="pt"><span class="flag" aria-hidden="true">🇧🇷</span>Português</a></li><li><a href="it/" hreflang="it" lang="it"><span class="flag" aria-hidden="true">🇮🇹</span>Italiano</a></li></ul></details>
     <a class="btn sm" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a>
   </div>
 </div></div></div>
@@ -430,7 +452,7 @@ footer .bottom a{display:inline-block;padding:8px 0}
         <div><h4>サポート</h4><ul><li><a href="./support.html#faq">よくある質問</a></li><li><a href="./support.html">サポート</a></li><li><a href="mailto:workflowai.japan@gmail.com">お問い合わせ</a></li></ul></div>
         <div><h4>法務</h4><ul><li><a href="./privacy.html">プライバシーポリシー</a></li><li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">利用規約</a></li></ul></div>
   </div>
-  <div class="bottom"><span>© 2026 minulo</span><span id="lang" class="langs"><b>日本語</b> · <a href="en/" hreflang="en" lang="en">English</a> · <a href="de/" hreflang="de" lang="de">Deutsch</a> · <a href="fr/" hreflang="fr" lang="fr">Français</a> · <a href="es/" hreflang="es" lang="es">Español</a> · <a href="pt/" hreflang="pt" lang="pt">Português</a> · <a href="it/" hreflang="it" lang="it">Italiano</a></span></div>
+  <div class="bottom"><span>© 2026 minulo</span><span id="lang" class="langs"><b>日本語</b><span class="dot" aria-hidden="true">·</span><a href="en/" hreflang="en" lang="en">English</a><span class="dot" aria-hidden="true">·</span><a href="de/" hreflang="de" lang="de">Deutsch</a><span class="dot" aria-hidden="true">·</span><a href="fr/" hreflang="fr" lang="fr">Français</a><span class="dot" aria-hidden="true">·</span><a href="es/" hreflang="es" lang="es">Español</a><span class="dot" aria-hidden="true">·</span><a href="pt/" hreflang="pt" lang="pt">Português</a><span class="dot" aria-hidden="true">·</span><a href="it/" hreflang="it" lang="it">Italiano</a></span></div>
 </div></footer>
 
 <div class="dock"><a class="btn" href="https://apps.apple.com/jp/app/id6809352229">App Storeでダウンロード</a></div>
@@ -453,6 +475,12 @@ footer .bottom a{display:inline-block;padding:8px 0}
   });
   el.addEventListener('click',function(e){ if(moved>4) e.preventDefault(); },true);
 })();
+</script>
+<script>
+/* 言語のメニュー：外を押すか Esc で閉じる */
+(function(){var m=document.querySelector('.langmenu');if(!m)return;
+document.addEventListener('click',function(e){if(m.open&&!m.contains(e.target))m.open=false;});
+document.addEventListener('keydown',function(e){if(e.key==='Escape'&&m.open){m.open=false;m.querySelector('summary').focus();}});})();
 </script>
 </body>
 </html>
