@@ -59,4 +59,60 @@
   <url><loc>https://minulo.app/support.html</loc></url>
   <url><loc>https://minulo.app/en/support.html</loc></url>
   <url><loc>https://minulo.app/privacy.html</loc></url>
+  <url><loc>https://minulo.app/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
+  <url><loc>https://minulo.app/en/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
+  <url><loc>https://minulo.app/de/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
+  <url><loc>https://minulo.app/fr/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
+  <url><loc>https://minulo.app/es/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
+  <url><loc>https://minulo.app/pt/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
+  <url><loc>https://minulo.app/it/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
 </urlset>

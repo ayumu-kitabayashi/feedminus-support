@@ -1,0 +1,366 @@
+{
+ "ja": {
+  "dir": "",
+  "store": "jp",
+  "badge": "appstore-ja-jp",
+  "home": "トップ",
+  "title": "minulo のよくある質問",
+  "lede": "minulo は、SNS はそのまま使いながら、リール・ショート動画・おすすめ投稿だけを非表示にする iPhone アプリです。よく聞かれることに、1つずつ答えます。",
+  "badgeAlt": "App Storeでダウンロード",
+  "updated": "2026年9月27日 更新",
+  "qa": [
+   [
+    "Instagramのリールだけを消して、DMは使えますか？",
+    "はい、使えます。minulo の中で Instagram を開くと、リールと発見のタブ、おすすめの投稿が表示されない状態になります。DM、友だちの投稿、自分の投稿、プロフィールはそのまま使えます。消すものは1つずつ選べて、この非表示の機能は無料です。"
+   ],
+   [
+    "YouTubeのショート動画だけを非表示にできますか？",
+    "はい、できます。minulo の中で YouTube を開くと、ホームのショートの棚とショートのタブが表示されなくなります。検索、登録チャンネル、ふつうの長さの動画はそのまま見られます。ショート動画を非表示にする機能は無料です。"
+   ],
+   [
+    "公式のInstagramやTikTokのアプリはどうなりますか？",
+    "minulo は、iPhone のスクリーンタイムの仕組みを使って、選んだ公式アプリを開けないようにできます。開こうとすると「ブロック中です」という画面が出て、「minulo を開く」のボタンから minulo に移れます。止めるアプリを選ぶのも、ブロックを入れるのも無料です。"
+   ],
+   [
+    "どのSNSに対応していますか？",
+    "minulo は10のサービスに対応しています。Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat です。サービスごとに、リール、ショート、おすすめの投稿、発見のタブなど、消すものを1つずつ選べます。"
+   ],
+   [
+    "IDやパスワードは安全ですか？",
+    "minulo に ID やパスワードを渡すことはありません。ログインは、各 SNS が用意している公式のログインページで直接行います。minulo が ID、パスワード、DM の中身を取得したり保存したりすることはなく、記録はすべて iPhone の中だけに保存されます。"
+   ],
+   [
+    "DMで送られてきたリールはどうなりますか？",
+    "DM で送られてきたリールやショートを開くと、縦に続く動画の流れに入る前に、minulo がいったん止めます。どうしても見たいときは「5分だけ開く」を押すと、5分間だけ見られます。5分たつと、自動でまた止まります。"
+   ],
+   [
+    "無料で使えますか？ Proでは何が増えますか？",
+    "リール、ショート動画、おすすめ投稿の非表示と、公式アプリのブロックは無料です。minulo Pro では、曜日や時間帯で自動で切り替わる予定、解除に手間をかけるロックモード、複数のブロックリストが使えます。料金は月額1,480円、または年額6,800円（1か月の無料体験つき）です。"
+   ],
+   [
+    "仕事でSNSに投稿する必要があっても使えますか？",
+    "使えます。写真つきの投稿、コメント、DM への返信は minulo の中でも行えます。ストーリーズの投稿、ボイスメッセージ、通話は各 SNS のウェブ版に無いため使えませんが、「休憩する」を押すと、選んだ時間だけ公式アプリを開けます。"
+   ],
+   [
+    "FeedMinusとminuloは同じアプリですか？",
+    "はい、同じアプリです。FeedMinus は2026年9月に名前を minulo に変えました。App Store のページ、機能、無料で使える範囲は変わっていません。以前の名前で入れた人も、アップデートすればそのまま minulo として使えます。"
+   ],
+   [
+    "どの言語で使えますか？ Androidでも使えますか？",
+    "minulo は iPhone 向けのアプリで、日本語、英語、ドイツ語、フランス語、スペイン語、ポルトガル語、イタリア語で使えます。言語は、アプリの「プロフィール」→「設定」→「言語」で選べます。Android 版は今のところありません。"
+   ]
+  ]
+ },
+ "en": {
+  "dir": "en/",
+  "store": "us",
+  "badge": "appstore-en-us",
+  "home": "Home",
+  "title": "minulo FAQ",
+  "lede": "minulo is an iPhone app that keeps your social media working while hiding Reels, Shorts and recommended posts. Here are answers to the questions people ask most.",
+  "badgeAlt": "Download on the App Store",
+  "updated": "Updated September 27, 2026",
+  "qa": [
+   [
+    "Can I hide Instagram Reels and still use DMs?",
+    "Yes. When you open Instagram inside minulo, the Reels and Explore tabs and suggested posts are not shown. Your DMs, your friends' posts, your own posts and profiles keep working. You choose what to hide one item at a time, and hiding is free."
+   ],
+   [
+    "Can I hide only YouTube Shorts?",
+    "Yes. When you open YouTube inside minulo, the Shorts shelf on the home screen and the Shorts tab are not shown. Search, your subscriptions and regular-length videos keep working. Hiding Shorts is free."
+   ],
+   [
+    "What happens to the official Instagram and TikTok apps?",
+    "minulo uses iPhone Screen Time to stop the official apps you choose from opening. When you try to open one, a \"Blocked\" screen appears, and its \"Open minulo\" button takes you to minulo instead. Choosing apps and turning blocking on are free."
+   ],
+   [
+    "Which social media services does minulo support?",
+    "minulo supports 10 services: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn and Snapchat. For each service, you choose what to hide one item at a time, such as Reels, Shorts, suggested posts or Explore tabs."
+   ],
+   [
+    "Is my password safe?",
+    "minulo never receives your ID or password. You sign in directly on each service's official sign-in page. minulo does not collect or store your ID, password or the contents of your DMs, and all of your records stay on your iPhone."
+   ],
+   [
+    "What happens to Reels that friends send me in DMs?",
+    "When you open a Reel or Short sent to you in a DM, minulo pauses before the endless vertical video feed begins. If you really want to watch it, tap \"Open for 5 min\" to watch for five minutes. After five minutes, blocking turns back on automatically."
+   ],
+   [
+    "Is minulo free? What does Pro add?",
+    "Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. minulo Pro adds schedules that switch automatically by day and time, Locked Mode, which makes turning blocking off take effort, and multiple block lists. Prices are shown in the App Store in your local currency, and the yearly plan includes a one-month free trial."
+   ],
+   [
+    "Can I use minulo if I post to social media for work?",
+    "Yes. Posting photos, commenting and replying to DMs work inside minulo. Posting Stories, voice messages and calls are not available because the web versions of these services do not have them, but \"Take a break\" opens the official app for the minutes you choose."
+   ],
+   [
+    "Are FeedMinus and minulo the same app?",
+    "Yes, they are the same app. FeedMinus was renamed minulo in September 2026. The App Store page, the features and what is free have not changed. If you installed it under the old name, updating the app keeps everything and shows the new name."
+   ],
+   [
+    "Which languages does minulo support? Is there an Android version?",
+    "minulo is an iPhone app available in English, Japanese, German, French, Spanish, Portuguese and Italian. You can choose a language in Profile > Settings > Language. There is no Android version at the moment."
+   ]
+  ]
+ },
+ "de": {
+  "dir": "de/",
+  "store": "de",
+  "badge": "appstore-de-de",
+  "home": "Start",
+  "title": "minulo – Häufige Fragen",
+  "lede": "minulo ist eine iPhone-App, mit der du Social Media weiter nutzt und nur Reels, Shorts und empfohlene Beiträge ausblendest. Hier findest du Antworten auf die häufigsten Fragen.",
+  "badgeAlt": "Laden im App Store",
+  "updated": "Aktualisiert am 27. September 2026",
+  "qa": [
+   [
+    "Kann ich nur Instagram-Reels ausblenden und DMs weiter nutzen?",
+    "Ja. Wenn du Instagram in minulo öffnest, werden der Reels- und der Entdecken-Tab sowie vorgeschlagene Beiträge nicht angezeigt. DMs, die Beiträge deiner Freunde, deine eigenen Beiträge und Profile funktionieren weiter. Was ausgeblendet wird, wählst du einzeln, und das Ausblenden ist kostenlos."
+   ],
+   [
+    "Kann ich nur YouTube Shorts ausblenden?",
+    "Ja. Wenn du YouTube in minulo öffnest, werden das Shorts-Regal auf der Startseite und der Shorts-Tab nicht angezeigt. Suche, Abos und normale Videos funktionieren weiter. Das Ausblenden von Shorts ist kostenlos."
+   ],
+   [
+    "Was passiert mit den offiziellen Apps von Instagram und TikTok?",
+    "minulo nutzt die Bildschirmzeit des iPhones, damit sich die offiziellen Apps, die du auswählst, nicht öffnen lassen. Beim Öffnen erscheint der Bildschirm „Blockiert“, und die Taste „minulo öffnen“ bringt dich stattdessen zu minulo. Apps auswählen und die Blockierung einschalten ist kostenlos."
+   ],
+   [
+    "Welche Dienste unterstützt minulo?",
+    "minulo unterstützt 10 Dienste: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn und Snapchat. Für jeden Dienst wählst du einzeln aus, was ausgeblendet wird, zum Beispiel Reels, Shorts, vorgeschlagene Beiträge oder Entdecken-Tabs."
+   ],
+   [
+    "Ist mein Passwort sicher?",
+    "minulo erhält weder deine ID noch dein Passwort. Du meldest dich direkt auf der offiziellen Anmeldeseite des jeweiligen Dienstes an. minulo speichert weder ID noch Passwort noch den Inhalt deiner DMs, und alle Aufzeichnungen bleiben auf deinem iPhone."
+   ],
+   [
+    "Was passiert mit Reels, die mir Freunde per DM schicken?",
+    "Wenn du ein per DM geschicktes Reel oder Short öffnest, hält minulo an, bevor der endlose Strom vertikaler Videos beginnt. Wenn du es wirklich sehen willst, tippe auf „Für 5 Min. öffnen“. Nach fünf Minuten ist die Blockierung automatisch wieder an."
+   ],
+   [
+    "Ist minulo kostenlos? Was bietet Pro?",
+    "Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen sowie das Blockieren der offiziellen Apps sind kostenlos. minulo Pro bietet Zeitpläne, die sich nach Wochentag und Uhrzeit automatisch umschalten, den Sperrmodus, der das Ausschalten mühsam macht, und mehrere Blocklisten. Die Preise zeigt der App Store in deiner Währung an; das Jahresabo enthält einen Probemonat."
+   ],
+   [
+    "Kann ich minulo nutzen, wenn ich beruflich posten muss?",
+    "Ja. Fotos posten, kommentieren und auf DMs antworten funktioniert in minulo. Stories posten, Sprachnachrichten und Anrufe gehen nicht, weil die Webversionen der Dienste das nicht bieten. Mit „Pause machen“ öffnest du die offizielle App für die Minuten, die du wählst."
+   ],
+   [
+    "Sind FeedMinus und minulo dieselbe App?",
+    "Ja, es ist dieselbe App. FeedMinus wurde im September 2026 in minulo umbenannt. Die App-Store-Seite, die Funktionen und der kostenlose Umfang sind gleich geblieben. Wer die App unter dem alten Namen installiert hat, behält nach dem Update alles und sieht den neuen Namen."
+   ],
+   [
+    "In welchen Sprachen gibt es minulo? Gibt es eine Android-Version?",
+    "minulo ist eine iPhone-App auf Deutsch, Englisch, Japanisch, Französisch, Spanisch, Portugiesisch und Italienisch. Die Sprache wählst du in der App unter Profil > Einstellungen > Sprache. Eine Android-Version gibt es derzeit nicht."
+   ]
+  ]
+ },
+ "fr": {
+  "dir": "fr/",
+  "store": "fr",
+  "badge": "appstore-fr-fr",
+  "home": "Accueil",
+  "title": "minulo – Questions fréquentes",
+  "lede": "minulo est une app iPhone qui garde vos réseaux sociaux utilisables tout en masquant les Reels, les Shorts et les publications suggérées. Voici les réponses aux questions les plus fréquentes.",
+  "badgeAlt": "Télécharger dans l'App Store",
+  "updated": "Mis à jour le 27 septembre 2026",
+  "qa": [
+   [
+    "Puis-je masquer seulement les Reels d'Instagram et garder mes DM ?",
+    "Oui. Quand vous ouvrez Instagram dans minulo, les onglets Reels et Explorer et les publications suggérées ne s'affichent pas. Vos DM, les publications de vos amis, les vôtres et les profils restent utilisables. Vous choisissez ce qui est masqué, élément par élément, et le masquage est gratuit."
+   ],
+   [
+    "Puis-je masquer seulement les Shorts de YouTube ?",
+    "Oui. Quand vous ouvrez YouTube dans minulo, la rangée de Shorts de l'accueil et l'onglet Shorts ne s'affichent pas. La recherche, vos abonnements et les vidéos de durée normale restent disponibles. Masquer les Shorts est gratuit."
+   ],
+   [
+    "Que deviennent les apps officielles d'Instagram et de TikTok ?",
+    "minulo utilise Temps d'écran de l'iPhone pour empêcher l'ouverture des apps officielles que vous choisissez. Quand vous essayez d'en ouvrir une, un écran « Bloqué » apparaît, et son bouton « Ouvrir minulo » vous amène dans minulo. Choisir les apps et activer le blocage est gratuit."
+   ],
+   [
+    "Quels services minulo prend-il en charge ?",
+    "minulo prend en charge 10 services : Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn et Snapchat. Pour chaque service, vous choisissez ce qui est masqué, élément par élément : Reels, Shorts, publications suggérées ou onglets Explorer, par exemple."
+   ],
+   [
+    "Mon mot de passe est-il en sécurité ?",
+    "minulo ne reçoit jamais votre identifiant ni votre mot de passe. Vous vous connectez directement sur la page de connexion officielle de chaque service. minulo ne collecte ni ne conserve votre identifiant, votre mot de passe ou le contenu de vos DM, et tout votre historique reste sur votre iPhone."
+   ],
+   [
+    "Que se passe-t-il avec les Reels que mes amis m'envoient en DM ?",
+    "Quand vous ouvrez un Reel ou un Short reçu en DM, minulo vous arrête avant le flux sans fin de vidéos verticales. Si vous voulez vraiment le voir, touchez « Ouvrir 5 min » pour le regarder cinq minutes. Au bout de cinq minutes, le blocage se réactive automatiquement."
+   ],
+   [
+    "minulo est-il gratuit ? Qu'apporte Pro ?",
+    "Masquer les Reels, les Shorts et les publications suggérées, et bloquer les apps officielles, est gratuit. minulo Pro ajoute des plannings qui basculent automatiquement selon le jour et l'heure, le mode verrouillé, qui rend la désactivation plus longue, et plusieurs listes de blocage. Les prix s'affichent dans l'App Store dans votre devise, et l'abonnement annuel inclut un mois d'essai gratuit."
+   ],
+   [
+    "Puis-je utiliser minulo si je publie pour mon travail ?",
+    "Oui. Publier des photos, commenter et répondre aux DM fonctionnent dans minulo. Publier des stories, les messages vocaux et les appels ne sont pas disponibles, car les versions web de ces services ne les proposent pas, mais « Faire une pause » ouvre l'app officielle pendant les minutes que vous choisissez."
+   ],
+   [
+    "FeedMinus et minulo sont-ils la même app ?",
+    "Oui, c'est la même app. FeedMinus a été renommée minulo en septembre 2026. La page de l'App Store, les fonctions et ce qui est gratuit n'ont pas changé. Si vous l'avez installée sous l'ancien nom, la mise à jour conserve tout et affiche le nouveau nom."
+   ],
+   [
+    "En quelles langues minulo est-il disponible ? Existe-t-il une version Android ?",
+    "minulo est une app iPhone disponible en français, anglais, japonais, allemand, espagnol, portugais et italien. Vous choisissez la langue dans l'app, dans Profil > Réglages > Langue. Il n'existe pas de version Android pour le moment."
+   ]
+  ]
+ },
+ "es": {
+  "dir": "es/",
+  "store": "es",
+  "badge": "appstore-es-es",
+  "home": "Inicio",
+  "title": "minulo – Preguntas frecuentes",
+  "lede": "minulo es una app para iPhone que mantiene tus redes sociales funcionando y oculta solo los Reels, los Shorts y las publicaciones sugeridas. Aquí respondemos las preguntas más frecuentes.",
+  "badgeAlt": "Descargar en el App Store",
+  "updated": "Actualizado el 27 de septiembre de 2026",
+  "qa": [
+   [
+    "¿Puedo ocultar solo los Reels de Instagram y seguir usando los DMs?",
+    "Sí. Cuando abres Instagram dentro de minulo, las pestañas de Reels y Explorar y las publicaciones sugeridas no se muestran. Tus DMs, las publicaciones de tus amigos, las tuyas y los perfiles siguen funcionando. Eliges qué ocultar elemento por elemento, y ocultar es gratis."
+   ],
+   [
+    "¿Puedo ocultar solo los Shorts de YouTube?",
+    "Sí. Cuando abres YouTube dentro de minulo, la sección de Shorts de la página de inicio y la pestaña Shorts no se muestran. La búsqueda, tus suscripciones y los videos de duración normal siguen disponibles. Ocultar los Shorts es gratis."
+   ],
+   [
+    "¿Qué pasa con las apps oficiales de Instagram y TikTok?",
+    "minulo usa Tiempo de uso del iPhone para impedir que se abran las apps oficiales que elijas. Si intentas abrir una, aparece una pantalla de «Bloqueado» y su botón «Abrir minulo» te lleva a minulo. Elegir las apps y activar el bloqueo es gratis."
+   ],
+   [
+    "¿Qué servicios admite minulo?",
+    "minulo admite 10 servicios: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn y Snapchat. En cada servicio eliges qué ocultar elemento por elemento, por ejemplo Reels, Shorts, publicaciones sugeridas o pestañas de Explorar."
+   ],
+   [
+    "¿Está segura mi contraseña?",
+    "minulo nunca recibe tu usuario ni tu contraseña. Inicias sesión directamente en la página oficial de inicio de sesión de cada servicio. minulo no recopila ni guarda tu usuario, tu contraseña ni el contenido de tus DMs, y todo tu registro se queda en tu iPhone."
+   ],
+   [
+    "¿Qué pasa con los Reels que me mandan mis amigos por DM?",
+    "Cuando abres un Reel o un Short que te mandaron por DM, minulo te detiene antes del flujo interminable de videos verticales. Si de verdad quieres verlo, toca «Abrir 5 min» para verlo durante cinco minutos. Pasados cinco minutos, el bloqueo vuelve a activarse solo."
+   ],
+   [
+    "¿minulo es gratis? ¿Qué añade Pro?",
+    "Ocultar Reels, Shorts y publicaciones sugeridas, y bloquear las apps oficiales, es gratis. minulo Pro añade horarios que cambian solos según el día y la hora, el modo bloqueado, que hace que desactivar el bloqueo cueste más, y varias listas de bloqueo. Los precios aparecen en el App Store en tu moneda, y el plan anual incluye un mes de prueba gratis."
+   ],
+   [
+    "¿Puedo usar minulo si publico en redes por trabajo?",
+    "Sí. Publicar fotos, comentar y responder DMs funciona dentro de minulo. Publicar historias, los mensajes de voz y las llamadas no están disponibles porque las versiones web de estos servicios no los tienen, pero «Tomar una pausa» abre la app oficial durante los minutos que elijas."
+   ],
+   [
+    "¿FeedMinus y minulo son la misma app?",
+    "Sí, son la misma app. FeedMinus cambió su nombre a minulo en septiembre de 2026. La página del App Store, las funciones y lo que es gratis no han cambiado. Si la instalaste con el nombre anterior, al actualizarla conservas todo y ves el nombre nuevo."
+   ],
+   [
+    "¿En qué idiomas está minulo? ¿Hay versión para Android?",
+    "minulo es una app para iPhone disponible en español, inglés, japonés, alemán, francés, portugués e italiano. Eliges el idioma en la app, en Perfil > Ajustes > Idioma. Por ahora no hay versión para Android."
+   ]
+  ]
+ },
+ "pt": {
+  "dir": "pt/",
+  "store": "br",
+  "badge": "appstore-pt-br",
+  "home": "Início",
+  "title": "minulo – Perguntas frequentes",
+  "lede": "O minulo é um app para iPhone que mantém suas redes sociais funcionando e oculta só os Reels, os Shorts e as publicações sugeridas. Aqui estão as respostas para as perguntas mais comuns.",
+  "badgeAlt": "Baixar na App Store",
+  "updated": "Atualizado em 27 de setembro de 2026",
+  "qa": [
+   [
+    "Posso ocultar só os Reels do Instagram e continuar usando as DMs?",
+    "Sim. Quando você abre o Instagram dentro do minulo, as abas Reels e Explorar e as publicações sugeridas não aparecem. Suas DMs, as publicações dos seus amigos, as suas e os perfis continuam funcionando. Você escolhe o que ocultar item por item, e ocultar é grátis."
+   ],
+   [
+    "Posso ocultar só os Shorts do YouTube?",
+    "Sim. Quando você abre o YouTube dentro do minulo, a seção de Shorts da página inicial e a aba Shorts não aparecem. A busca, suas inscrições e os vídeos de duração normal continuam disponíveis. Ocultar os Shorts é grátis."
+   ],
+   [
+    "O que acontece com os apps oficiais do Instagram e do TikTok?",
+    "O minulo usa o Tempo de Uso do iPhone para impedir que os apps oficiais que você escolher sejam abertos. Ao tentar abrir um deles, aparece a tela \"Bloqueado\", e o botão \"Abrir o minulo\" leva você ao minulo. Escolher os apps e ativar o bloqueio é grátis."
+   ],
+   [
+    "Quais serviços o minulo suporta?",
+    "O minulo suporta 10 serviços: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn e Snapchat. Em cada serviço, você escolhe o que ocultar item por item, como Reels, Shorts, publicações sugeridas ou abas Explorar."
+   ],
+   [
+    "Minha senha está segura?",
+    "O minulo nunca recebe seu usuário nem sua senha. Você entra diretamente na página oficial de login de cada serviço. O minulo não coleta nem guarda seu usuário, sua senha ou o conteúdo das suas DMs, e todo o seu registro fica no seu iPhone."
+   ],
+   [
+    "O que acontece com os Reels que meus amigos mandam por DM?",
+    "Quando você abre um Reel ou um Short recebido por DM, o minulo para você antes do fluxo sem fim de vídeos verticais. Se quiser mesmo assistir, toque em \"Abrir por 5 min\" para ver por cinco minutos. Depois de cinco minutos, o bloqueio volta sozinho."
+   ],
+   [
+    "O minulo é grátis? O que o Pro adiciona?",
+    "Ocultar Reels, Shorts e publicações sugeridas, e bloquear os apps oficiais, é grátis. O minulo Pro adiciona agendamentos que mudam sozinhos conforme o dia e a hora, o Modo Bloqueado, que torna desativar o bloqueio mais trabalhoso, e várias listas de bloqueio. Os preços aparecem na App Store na sua moeda, e o plano anual inclui um mês de teste grátis."
+   ],
+   [
+    "Posso usar o minulo se publico nas redes a trabalho?",
+    "Sim. Publicar fotos, comentar e responder DMs funcionam dentro do minulo. Publicar stories, mensagens de voz e chamadas não estão disponíveis porque as versões web desses serviços não os têm, mas \"Fazer uma pausa\" abre o app oficial pelos minutos que você escolher."
+   ],
+   [
+    "FeedMinus e minulo são o mesmo app?",
+    "Sim, são o mesmo app. O FeedMinus mudou de nome para minulo em setembro de 2026. A página da App Store, os recursos e o que é grátis não mudaram. Se você instalou com o nome antigo, ao atualizar mantém tudo e passa a ver o nome novo."
+   ],
+   [
+    "Em quais idiomas o minulo está disponível? Existe versão para Android?",
+    "O minulo é um app para iPhone disponível em português, inglês, japonês, alemão, francês, espanhol e italiano. Você escolhe o idioma no app, em Perfil > Ajustes > Idioma. Por enquanto não há versão para Android."
+   ]
+  ]
+ },
+ "it": {
+  "dir": "it/",
+  "store": "it",
+  "badge": "appstore-it-it",
+  "home": "Home",
+  "title": "minulo – Domande frequenti",
+  "lede": "minulo è un'app per iPhone che ti lascia usare i social e nasconde solo Reels, Shorts e post suggeriti. Qui trovi le risposte alle domande più frequenti.",
+  "badgeAlt": "Scarica su App Store",
+  "updated": "Aggiornato il 27 settembre 2026",
+  "qa": [
+   [
+    "Posso nascondere solo i Reels di Instagram e continuare a usare i DM?",
+    "Sì. Quando apri Instagram dentro minulo, le schede Reels ed Esplora e i post suggeriti non vengono mostrati. I DM, i post dei tuoi amici, i tuoi post e i profili continuano a funzionare. Scegli cosa nascondere una voce alla volta, e nascondere è gratis."
+   ],
+   [
+    "Posso nascondere solo gli Shorts di YouTube?",
+    "Sì. Quando apri YouTube dentro minulo, lo scaffale degli Shorts nella home e la scheda Shorts non vengono mostrati. La ricerca, le iscrizioni e i video di durata normale restano disponibili. Nascondere gli Shorts è gratis."
+   ],
+   [
+    "Che cosa succede alle app ufficiali di Instagram e TikTok?",
+    "minulo usa Tempo di utilizzo dell'iPhone per impedire l'apertura delle app ufficiali che scegli. Quando provi ad aprirne una, compare la schermata «Bloccato» e il pulsante «Apri minulo» ti porta in minulo. Scegliere le app e attivare il blocco è gratis."
+   ],
+   [
+    "Quali servizi supporta minulo?",
+    "minulo supporta 10 servizi: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn e Snapchat. Per ogni servizio scegli cosa nascondere una voce alla volta, per esempio Reels, Shorts, post suggeriti o schede Esplora."
+   ],
+   [
+    "La mia password è al sicuro?",
+    "minulo non riceve mai il tuo nome utente né la tua password. Accedi direttamente dalla pagina di accesso ufficiale di ogni servizio. minulo non raccoglie né conserva nome utente, password o contenuto dei DM, e tutto il tuo diario resta sul tuo iPhone."
+   ],
+   [
+    "Che cosa succede ai Reels che gli amici mi mandano nei DM?",
+    "Quando apri un Reel o uno Short ricevuto in DM, minulo ti ferma prima del flusso infinito di video verticali. Se vuoi davvero guardarlo, tocca «Apri per 5 min» per vederlo per cinque minuti. Dopo cinque minuti il blocco si riattiva da solo."
+   ],
+   [
+    "minulo è gratis? Che cosa aggiunge Pro?",
+    "Nascondere Reels, Shorts e post suggeriti, e bloccare le app ufficiali, è gratis. minulo Pro aggiunge programmazioni che cambiano da sole in base al giorno e all'ora, la Modalità blindata, che rende più faticoso disattivare il blocco, e più liste di blocco. I prezzi sono indicati su App Store nella tua valuta, e il piano annuale include un mese di prova gratuita."
+   ],
+   [
+    "Posso usare minulo se pubblico sui social per lavoro?",
+    "Sì. Pubblicare foto, commentare e rispondere ai DM funziona dentro minulo. Pubblicare storie, i messaggi vocali e le chiamate non sono disponibili perché le versioni web di questi servizi non li hanno, ma «Fai una pausa» apre l'app ufficiale per i minuti che scegli."
+   ],
+   [
+    "FeedMinus e minulo sono la stessa app?",
+    "Sì, sono la stessa app. FeedMinus ha cambiato nome in minulo a settembre 2026. La pagina di App Store, le funzioni e ciò che è gratis non sono cambiati. Se l'hai installata con il vecchio nome, aggiornandola conservi tutto e vedi il nuovo nome."
+   ],
+   [
+    "In quali lingue è disponibile minulo? Esiste una versione per Android?",
+    "minulo è un'app per iPhone disponibile in italiano, inglese, giapponese, tedesco, francese, spagnolo e portoghese. Scegli la lingua nell'app, in Profilo > Impostazioni > Lingua. Al momento non esiste una versione per Android."
+   ]
+  ]
+ }
+}
