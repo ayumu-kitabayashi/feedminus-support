@@ -17,6 +17,7 @@ import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / 'tools' / 'faq.json').read_text())
+CMP = json.loads((ROOT / 'tools' / 'compare.json').read_text())   # ★選び方のページ（比較）。他社の記述は App Store の説明と評価件数だけ
 SITE = 'https://minulo.app/'
 LANGS = ['ja', 'en', 'de', 'fr', 'es', 'pt', 'it']
 NAMES = {'ja': '日本語', 'en': 'English', 'de': 'Deutsch', 'fr': 'Français', 'es': 'Español', 'pt': 'Português', 'it': 'Italiano'}
@@ -45,6 +46,15 @@ footer .langs a,footer .langs b{margin-right:12px;white-space:nowrap}
 footer .langs a{color:var(--ink3);text-decoration:none}
 footer .langs b{color:var(--ink);font-weight:600}
 footer p{margin:10px 0 0}
+.also{margin:0 0 26px;font-size:14.5px}
+.also a{color:var(--pri);text-decoration:none;font-weight:600}
+.tw{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:18px;margin:0 0 22px}
+table{border-collapse:collapse;width:100%;min-width:560px;font-size:14.5px;line-height:1.6}
+th,td{text-align:left;vertical-align:top;padding:12px 14px;border-bottom:1px solid var(--line)}
+th{font-size:12.5px;color:var(--ink3);font-weight:600}
+tr:last-child td{border-bottom:none}
+td:first-child{font-weight:600;color:var(--ink);white-space:nowrap}
+.src{font-size:13px;color:var(--ink3);margin:18px 0 0}
 @media (max-width:520px){h1{font-size:25px}.qa{padding:18px 18px}}
 """
 
@@ -105,7 +115,73 @@ def page(lang: str) -> str:
 <h1>{html.escape(d['title'])}</h1>
 <p class="lede">{html.escape(d['lede'])}</p>
 <p class="upd">{html.escape(d['updated'])}</p>
+<p class="also"><a href="compare.html">{html.escape(CMP[lang]['title'])} →</a></p>
 {qa}
+<div class="cta"><a href="{store}"><img src="{up}badges/{d['badge']}.svg" alt="{html.escape(d['badgeAlt'])}" height="54"></a></div>
+</main>
+<footer><div class="langs">{langs}</div><p>© 2026 minulo</p></footer>
+</div>
+</body>
+</html>
+"""
+
+
+def compare(lang: str) -> str:
+    d, c = DATA[lang], CMP[lang]
+    up = '' if d['dir'] == '' else '../'
+    url = SITE + d['dir'] + 'compare.html'
+    store = f"https://apps.apple.com/{d['store']}/app/id6809352229"
+    alts = '\n'.join(
+        f'<link rel="alternate" hreflang="{l}" href="{SITE}{DATA[l]["dir"]}compare.html">' for l in LANGS)
+    alts += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}compare.html">'
+    ld_art = {'@context': 'https://schema.org', '@type': 'Article', 'headline': c['title'], 'description': c['lede'],
+              'inLanguage': INLANG[lang], 'datePublished': '2026-09-27', 'dateModified': '2026-09-27',
+              'author': {'@type': 'Person', 'name': 'Ayumu Kitabayashi'},
+              'publisher': {'@type': 'Organization', 'name': 'minulo', 'url': SITE},
+              'mainEntityOfPage': url}
+    ld_faq = {'@context': 'https://schema.org', '@type': 'FAQPage', 'inLanguage': INLANG[lang],
+              'mainEntity': [{'@type': 'Question', 'name': q,
+                              'acceptedAnswer': {'@type': 'Answer', 'text': a}} for q, a in c['qa']]}
+    head = ''.join(f'<th>{html.escape(x)}</th>' for x in c['cols'])
+    body = ''.join('<tr>' + ''.join(f'<td>{html.escape(x)}</td>' for x in r) + '</tr>' for r in c['rows'])
+    qa = '\n'.join(
+        f'<section class="qa"><h2>{html.escape(q)}</h2><p>{html.escape(a)}</p></section>' for q, a in c['qa'])
+    langs = ''.join(
+        (f'<b>{NAMES[l]}</b>' if l == lang else
+         f'<a href="{up}{DATA[l]["dir"]}compare.html" hreflang="{l}" lang="{l}">{NAMES[l]}</a>') for l in LANGS)
+    return f"""<!doctype html>
+<html lang="{INLANG[lang]}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{html.escape(c['title'])} | minulo</title>
+<meta name="description" content="{html.escape(c['lede'])}">
+<link rel="canonical" href="{url}">
+{alts}
+<link rel="icon" href="{up}icon-32.png" sizes="32x32">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{html.escape(c['title'])}">
+<meta property="og:description" content="{html.escape(c['lede'])}">
+<meta property="og:url" content="{url}">
+<meta property="og:image" content="{SITE}og.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&family=M+PLUS+2:wght@400;500;600&display=swap" rel="stylesheet">
+<script type="application/ld+json">{json.dumps(ld_art, ensure_ascii=False)}</script>
+<script type="application/ld+json">{json.dumps(ld_faq, ensure_ascii=False)}</script>
+<style>{CSS}</style>
+</head>
+<body>
+<div class="wrap">
+<header><a href="{up}{d['dir']}" aria-label="{html.escape(d['home'])}"><img src="{up}logo-trim.png" alt="minulo" width="140" height="24"></a></header>
+<main>
+<h1>{html.escape(c['title'])}</h1>
+<p class="lede">{html.escape(c['lede'])}</p>
+<p class="upd">{html.escape(d['updated'])}</p>
+<div class="tw"><table><tr>{head}</tr>{body}</table></div>
+{qa}
+<p class="src">{html.escape(c['src'])}</p>
+<p class="also"><a href="faq.html">{html.escape(c['more'])} →</a></p>
 <div class="cta"><a href="{store}"><img src="{up}badges/{d['badge']}.svg" alt="{html.escape(d['badgeAlt'])}" height="54"></a></div>
 </main>
 <footer><div class="langs">{langs}</div><p>© 2026 minulo</p></footer>
@@ -117,9 +193,10 @@ def page(lang: str) -> str:
 
 def main():
     for lang in LANGS:
-        out = ROOT / DATA[lang]['dir'] / 'faq.html'
-        out.write_text(page(lang))
-        print('書き出し', out.relative_to(ROOT))
+        for name, fn in (('faq.html', page), ('compare.html', compare)):
+            out = ROOT / DATA[lang]['dir'] / name
+            out.write_text(fn(lang))
+            print('書き出し', out.relative_to(ROOT))
 
 
 if __name__ == '__main__':

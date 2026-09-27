@@ -1,0 +1,338 @@
+{
+ "ja": {
+  "title": "リールだけ消したいときの、アプリの選び方",
+  "lede": "リールやショート動画に時間を取られるとき、iPhone で使える方法は大きく2つあります。アプリの一部だけを消す方法と、アプリ全体を止める方法です。違いと、向いている人をまとめました。",
+  "cols": [
+   "方式",
+   "できること",
+   "DM・投稿",
+   "主なアプリ"
+  ],
+  "rows": [
+   [
+    "一部だけ消す",
+    "リール・ショート・おすすめ投稿だけを表示しない",
+    "そのまま使える",
+    "minulo、SocialLite、UNDOOMED、ScrollGuard（Safari の拡張）"
+   ],
+   [
+    "アプリ全体を止める・遅らせる",
+    "公式アプリを時間帯や使った時間で止める。開く前に待たせる",
+    "止めている間は使えない",
+    "Opal、one sec、ScreenZen、iPhone のスクリーンタイム"
+   ]
+  ],
+  "qa": [
+   [
+    "リールだけ消すアプリと、アプリを止めるアプリはどう違いますか？",
+    "一部だけ消すアプリは、SNS をアプリの中のブラウザや Safari の拡張で開き、リール、ショート、おすすめ投稿だけを表示しません。DM や投稿はそのまま使えます。アプリを止めるアプリは、スクリーンタイムの仕組みで公式アプリそのものを開けなくするので、止めている間は DM も使えません。"
+   ],
+   [
+    "iPhoneのスクリーンタイムだけで、リールを消せますか？",
+    "iPhone のスクリーンタイムは、アプリ全体に使用時間の制限をかける仕組みです。Instagram の中のリールのタブだけを止めることはできません。リールだけを消して DM を残したいときは、一部だけ消すタイプのアプリを使います。"
+   ],
+   [
+    "仕事でSNSを使う人には、どちらが向いていますか？",
+    "仕事の連絡や投稿で SNS を開く必要がある人には、一部だけ消すタイプが向いています。DM や投稿は使えるまま、リールやおすすめ投稿のように時間を取られる部分だけを消せます。アプリ全体を止めるタイプは、SNS を開く必要がない時間帯に向いています。"
+   ],
+   [
+    "minuloはどちらのタイプですか？",
+    "minulo は両方を組み合わせています。SNS は minulo の中で開き、リール、ショート、おすすめ投稿だけを消します。さらに iPhone のスクリーンタイムで公式アプリを止め、開こうとすると minulo に案内します。どちらの機能も無料で使えます。"
+   ],
+   [
+    "minuloとSocialLiteの違いは何ですか？",
+    "どちらもリールやショートを消し、DM を残すタイプのアプリです。SocialLite は米国の App Store で評価が 7,689 件あり、このタイプでよく使われています。minulo は日本語を含む7言語に対応し、公式アプリのブロックと、DM で届いたリールを5分だけ開く機能を無料で使えます。"
+   ]
+  ],
+  "src": "minulo 以外のアプリについての記述は、各アプリの App Store の説明と評価件数（2026年9月27日、米国のストア）に基づきます。",
+  "more": "よくある質問"
+ },
+ "en": {
+  "title": "How to choose an app to hide Reels",
+  "lede": "When Reels and Shorts take too much of your time, there are two main ways to deal with it on iPhone: hide only part of an app, or stop the whole app. Here is how they differ and who each one suits.",
+  "cols": [
+   "Approach",
+   "What it does",
+   "DMs and posting",
+   "Examples"
+  ],
+  "rows": [
+   [
+    "Hide only part",
+    "Hides Reels, Shorts and suggested posts only",
+    "Keep working",
+    "minulo, SocialLite, UNDOOMED, ScrollGuard (Safari extension)"
+   ],
+   [
+    "Stop or delay the whole app",
+    "Blocks official apps by schedule or usage, or makes you wait before opening",
+    "Unavailable while blocked",
+    "Opal, one sec, ScreenZen, iPhone Screen Time"
+   ]
+  ],
+  "qa": [
+   [
+    "What is the difference between hiding Reels and blocking the app?",
+    "Apps that hide only part open social media in an in-app browser or a Safari extension and hide Reels, Shorts and suggested posts. DMs and posting keep working. Apps that block use Screen Time to stop the official app from opening, so DMs are unavailable while it is blocked."
+   ],
+   [
+    "Can iPhone Screen Time alone hide Reels?",
+    "iPhone Screen Time puts a time limit on a whole app. It cannot stop only the Reels tab inside Instagram. If you want to hide Reels and keep your DMs, use an app that hides only part of the service."
+   ],
+   [
+    "Which approach suits people who use social media for work?",
+    "If you need social media for messages or posting at work, an app that hides only part suits you better. DMs and posting keep working while the time-consuming parts, such as Reels and suggested posts, are hidden. Blocking the whole app suits hours when you do not need social media at all."
+   ],
+   [
+    "Which type is minulo?",
+    "minulo combines both. Social media opens inside minulo with only Reels, Shorts and suggested posts hidden. minulo also uses iPhone Screen Time to stop the official apps and sends you to minulo when you try to open them. Both features are free."
+   ],
+   [
+    "How is minulo different from SocialLite?",
+    "Both hide Reels and Shorts while keeping DMs. SocialLite has 7,689 ratings on the US App Store and is widely used for this. minulo supports seven languages, including Japanese, and blocking the official apps and opening a Reel from a DM for five minutes are free."
+   ]
+  ],
+  "src": "Statements about apps other than minulo are based on each app's App Store description and rating count (US App Store, September 27, 2026).",
+  "more": "FAQ"
+ },
+ "de": {
+  "title": "So wählst du eine App, um Reels auszublenden",
+  "lede": "Wenn Reels und Shorts zu viel Zeit kosten, gibt es auf dem iPhone zwei Wege: nur einen Teil einer App ausblenden oder die ganze App stoppen. Hier siehst du die Unterschiede und für wen sich was eignet.",
+  "cols": [
+   "Weg",
+   "Was passiert",
+   "DMs und Posten",
+   "Beispiele"
+  ],
+  "rows": [
+   [
+    "Nur einen Teil ausblenden",
+    "Blendet nur Reels, Shorts und vorgeschlagene Beiträge aus",
+    "Funktionieren weiter",
+    "minulo, SocialLite, UNDOOMED, ScrollGuard (Safari-Erweiterung)"
+   ],
+   [
+    "Ganze App stoppen oder verzögern",
+    "Blockiert offizielle Apps nach Zeitplan oder Nutzung oder lässt dich vor dem Öffnen warten",
+    "Während der Blockierung nicht verfügbar",
+    "Opal, one sec, ScreenZen, Bildschirmzeit des iPhones"
+   ]
+  ],
+  "qa": [
+   [
+    "Was ist der Unterschied zwischen Reels ausblenden und die App blockieren?",
+    "Apps, die nur einen Teil ausblenden, öffnen Social Media in einem eigenen Browser oder über eine Safari-Erweiterung und zeigen Reels, Shorts und vorgeschlagene Beiträge nicht an. DMs und Posten funktionieren weiter. Apps, die blockieren, nutzen die Bildschirmzeit, damit sich die offizielle App nicht öffnet; währenddessen gehen auch keine DMs."
+   ],
+   [
+    "Kann die Bildschirmzeit des iPhones allein Reels ausblenden?",
+    "Die Bildschirmzeit des iPhones begrenzt die Nutzungszeit einer ganzen App. Nur den Reels-Tab in Instagram kann sie nicht stoppen. Wenn du Reels ausblenden und DMs behalten willst, brauchst du eine App, die nur einen Teil ausblendet."
+   ],
+   [
+    "Was passt, wenn ich Social Media beruflich nutze?",
+    "Wenn du Social Media für Nachrichten oder Beiträge im Job brauchst, passt eine App, die nur einen Teil ausblendet, besser. DMs und Posten funktionieren weiter, während zeitraubende Teile wie Reels und vorgeschlagene Beiträge verschwinden. Die ganze App zu blockieren passt zu Zeiten, in denen du Social Media gar nicht brauchst."
+   ],
+   [
+    "Welcher Typ ist minulo?",
+    "minulo verbindet beides. Social Media öffnet sich in minulo, und nur Reels, Shorts und vorgeschlagene Beiträge werden ausgeblendet. Zusätzlich stoppt minulo mit der Bildschirmzeit die offiziellen Apps und leitet dich beim Öffnen zu minulo. Beides ist kostenlos."
+   ],
+   [
+    "Worin unterscheidet sich minulo von SocialLite?",
+    "Beide blenden Reels und Shorts aus und lassen DMs funktionieren. SocialLite hat im US-App-Store 7.689 Bewertungen und wird dafür viel genutzt. minulo gibt es in sieben Sprachen, darunter Deutsch, und das Blockieren der offiziellen Apps sowie das Öffnen eines Reels aus einer DM für fünf Minuten sind kostenlos."
+   ]
+  ],
+  "src": "Aussagen über andere Apps als minulo beruhen auf der jeweiligen App-Store-Beschreibung und der Zahl der Bewertungen (US-App-Store, 27. September 2026).",
+  "more": "Häufige Fragen"
+ },
+ "fr": {
+  "title": "Comment choisir une app pour masquer les Reels",
+  "lede": "Quand les Reels et les Shorts prennent trop de temps, il existe deux grandes façons d'agir sur iPhone : masquer seulement une partie d'une app, ou bloquer l'app entière. Voici leurs différences et à qui chacune convient.",
+  "cols": [
+   "Approche",
+   "Ce qu'elle fait",
+   "DM et publications",
+   "Exemples"
+  ],
+  "rows": [
+   [
+    "Masquer seulement une partie",
+    "Masque uniquement les Reels, les Shorts et les publications suggérées",
+    "Restent utilisables",
+    "minulo, SocialLite, UNDOOMED, ScrollGuard (extension Safari)"
+   ],
+   [
+    "Bloquer ou retarder l'app entière",
+    "Bloque les apps officielles selon un horaire ou l'usage, ou fait patienter avant l'ouverture",
+    "Indisponibles pendant le blocage",
+    "Opal, one sec, ScreenZen, Temps d'écran de l'iPhone"
+   ]
+  ],
+  "qa": [
+   [
+    "Quelle différence entre masquer les Reels et bloquer l'app ?",
+    "Les apps qui masquent seulement une partie ouvrent les réseaux sociaux dans un navigateur intégré ou via une extension Safari, et n'affichent ni Reels, ni Shorts, ni publications suggérées. Les DM et les publications restent utilisables. Les apps qui bloquent utilisent Temps d'écran pour empêcher l'ouverture de l'app officielle ; pendant ce temps, les DM sont indisponibles."
+   ],
+   [
+    "Temps d'écran suffit-il pour masquer les Reels ?",
+    "Temps d'écran de l'iPhone limite la durée d'utilisation d'une app entière. Il ne peut pas bloquer seulement l'onglet Reels d'Instagram. Pour masquer les Reels et garder vos DM, utilisez une app qui masque seulement une partie du service."
+   ],
+   [
+    "Quelle approche convient si j'utilise les réseaux pour le travail ?",
+    "Si vous avez besoin des réseaux sociaux pour vos messages ou vos publications au travail, une app qui masque seulement une partie convient mieux. Les DM et les publications restent utilisables, tandis que les parties chronophages comme les Reels et les publications suggérées disparaissent. Bloquer l'app entière convient aux moments où vous n'en avez pas besoin."
+   ],
+   [
+    "De quel type est minulo ?",
+    "minulo combine les deux. Les réseaux sociaux s'ouvrent dans minulo, avec seulement les Reels, les Shorts et les publications suggérées masqués. minulo utilise aussi Temps d'écran pour bloquer les apps officielles et vous renvoie vers minulo quand vous essayez de les ouvrir. Les deux fonctions sont gratuites."
+   ],
+   [
+    "Quelle différence entre minulo et SocialLite ?",
+    "Les deux masquent les Reels et les Shorts tout en gardant les DM. SocialLite compte 7 689 notes sur l'App Store américain et est très utilisé pour cela. minulo est disponible en sept langues, dont le français, et bloquer les apps officielles ou ouvrir un Reel reçu en DM pendant cinq minutes est gratuit."
+   ]
+  ],
+  "src": "Les informations sur les apps autres que minulo proviennent de leur description et de leur nombre de notes sur l'App Store (App Store américain, 27 septembre 2026).",
+  "more": "Questions fréquentes"
+ },
+ "es": {
+  "title": "Cómo elegir una app para ocultar los Reels",
+  "lede": "Cuando los Reels y los Shorts te quitan demasiado tiempo, en el iPhone hay dos formas principales de actuar: ocultar solo una parte de la app o bloquear la app entera. Aquí tienes sus diferencias y para quién es cada una.",
+  "cols": [
+   "Forma",
+   "Qué hace",
+   "DMs y publicar",
+   "Ejemplos"
+  ],
+  "rows": [
+   [
+    "Ocultar solo una parte",
+    "Oculta solo los Reels, los Shorts y las publicaciones sugeridas",
+    "Siguen funcionando",
+    "minulo, SocialLite, UNDOOMED, ScrollGuard (extensión de Safari)"
+   ],
+   [
+    "Bloquear o retrasar la app entera",
+    "Bloquea las apps oficiales según horario o uso, o te hace esperar antes de abrirlas",
+    "No disponibles mientras dura el bloqueo",
+    "Opal, one sec, ScreenZen, Tiempo de uso del iPhone"
+   ]
+  ],
+  "qa": [
+   [
+    "¿Qué diferencia hay entre ocultar los Reels y bloquear la app?",
+    "Las apps que ocultan solo una parte abren las redes sociales en un navegador propio o con una extensión de Safari y no muestran Reels, Shorts ni publicaciones sugeridas. Los DMs y publicar siguen funcionando. Las apps que bloquean usan Tiempo de uso para impedir que se abra la app oficial, así que mientras tanto tampoco puedes usar los DMs."
+   ],
+   [
+    "¿Basta Tiempo de uso del iPhone para ocultar los Reels?",
+    "Tiempo de uso del iPhone pone un límite de tiempo a una app entera. No puede bloquear solo la pestaña de Reels dentro de Instagram. Si quieres ocultar los Reels y conservar tus DMs, usa una app que oculte solo una parte del servicio."
+   ],
+   [
+    "¿Qué forma conviene si uso las redes por trabajo?",
+    "Si necesitas las redes sociales para mensajes o publicaciones del trabajo, conviene una app que oculte solo una parte. Los DMs y publicar siguen funcionando, mientras desaparecen las partes que te roban tiempo, como los Reels y las publicaciones sugeridas. Bloquear la app entera conviene en horas en que no necesitas las redes."
+   ],
+   [
+    "¿De qué tipo es minulo?",
+    "minulo combina las dos. Las redes sociales se abren dentro de minulo con solo los Reels, los Shorts y las publicaciones sugeridas ocultos. Además, minulo usa Tiempo de uso para bloquear las apps oficiales y te lleva a minulo cuando intentas abrirlas. Las dos funciones son gratis."
+   ],
+   [
+    "¿En qué se diferencia minulo de SocialLite?",
+    "Las dos ocultan los Reels y los Shorts y mantienen los DMs. SocialLite tiene 7.689 valoraciones en el App Store de Estados Unidos y se usa mucho para esto. minulo está disponible en siete idiomas, entre ellos el español, y bloquear las apps oficiales o abrir durante cinco minutos un Reel recibido por DM es gratis."
+   ]
+  ],
+  "src": "La información sobre apps distintas de minulo se basa en su descripción y su número de valoraciones en el App Store (App Store de Estados Unidos, 27 de septiembre de 2026).",
+  "more": "Preguntas frecuentes"
+ },
+ "pt": {
+  "title": "Como escolher um app para ocultar os Reels",
+  "lede": "Quando os Reels e os Shorts tomam tempo demais, há duas formas principais de agir no iPhone: ocultar só uma parte do app ou bloquear o app inteiro. Veja as diferenças e para quem cada uma serve.",
+  "cols": [
+   "Forma",
+   "O que faz",
+   "DMs e publicar",
+   "Exemplos"
+  ],
+  "rows": [
+   [
+    "Ocultar só uma parte",
+    "Oculta só os Reels, os Shorts e as publicações sugeridas",
+    "Continuam funcionando",
+    "minulo, SocialLite, UNDOOMED, ScrollGuard (extensão do Safari)"
+   ],
+   [
+    "Bloquear ou atrasar o app inteiro",
+    "Bloqueia os apps oficiais por horário ou uso, ou faz você esperar antes de abrir",
+    "Indisponíveis durante o bloqueio",
+    "Opal, one sec, ScreenZen, Tempo de Uso do iPhone"
+   ]
+  ],
+  "qa": [
+   [
+    "Qual a diferença entre ocultar os Reels e bloquear o app?",
+    "Os apps que ocultam só uma parte abrem as redes sociais num navegador próprio ou numa extensão do Safari e não mostram Reels, Shorts nem publicações sugeridas. As DMs e publicar continuam funcionando. Os apps que bloqueiam usam o Tempo de Uso para impedir que o app oficial abra, então nesse período as DMs também ficam indisponíveis."
+   ],
+   [
+    "O Tempo de Uso do iPhone sozinho consegue ocultar os Reels?",
+    "O Tempo de Uso do iPhone limita o tempo de uso de um app inteiro. Ele não consegue bloquear só a aba Reels dentro do Instagram. Se você quer ocultar os Reels e manter as DMs, use um app que oculte só uma parte do serviço."
+   ],
+   [
+    "Qual forma serve para quem usa as redes a trabalho?",
+    "Se você precisa das redes sociais para mensagens ou publicações do trabalho, um app que oculta só uma parte serve melhor. As DMs e publicar continuam funcionando, enquanto somem as partes que tomam tempo, como os Reels e as publicações sugeridas. Bloquear o app inteiro serve para horários em que você não precisa das redes."
+   ],
+   [
+    "De que tipo é o minulo?",
+    "O minulo combina os dois. As redes sociais abrem dentro do minulo com só os Reels, os Shorts e as publicações sugeridas ocultos. Além disso, o minulo usa o Tempo de Uso para bloquear os apps oficiais e leva você ao minulo quando tenta abri-los. As duas funções são grátis."
+   ],
+   [
+    "Qual a diferença entre o minulo e o SocialLite?",
+    "Os dois ocultam os Reels e os Shorts e mantêm as DMs. O SocialLite tem 7.689 avaliações na App Store dos Estados Unidos e é bastante usado para isso. O minulo está disponível em sete idiomas, incluindo o português, e bloquear os apps oficiais ou abrir por cinco minutos um Reel recebido por DM é grátis."
+   ]
+  ],
+  "src": "As informações sobre apps que não são o minulo vêm da descrição e do número de avaliações de cada app na App Store (App Store dos Estados Unidos, 27 de setembro de 2026).",
+  "more": "Perguntas frequentes"
+ },
+ "it": {
+  "title": "Come scegliere un'app per nascondere i Reels",
+  "lede": "Quando Reels e Shorts ti rubano troppo tempo, su iPhone ci sono due modi principali per intervenire: nascondere solo una parte dell'app o bloccare l'app intera. Ecco le differenze e a chi è adatto ciascuno.",
+  "cols": [
+   "Modo",
+   "Che cosa fa",
+   "DM e pubblicare",
+   "Esempi"
+  ],
+  "rows": [
+   [
+    "Nascondere solo una parte",
+    "Nasconde solo Reels, Shorts e post suggeriti",
+    "Continuano a funzionare",
+    "minulo, SocialLite, UNDOOMED, ScrollGuard (estensione di Safari)"
+   ],
+   [
+    "Bloccare o ritardare l'app intera",
+    "Blocca le app ufficiali in base all'orario o all'uso, oppure ti fa aspettare prima di aprirle",
+    "Non disponibili durante il blocco",
+    "Opal, one sec, ScreenZen, Tempo di utilizzo dell'iPhone"
+   ]
+  ],
+  "qa": [
+   [
+    "Che differenza c'è tra nascondere i Reels e bloccare l'app?",
+    "Le app che nascondono solo una parte aprono i social in un browser interno o con un'estensione di Safari e non mostrano Reels, Shorts e post suggeriti. I DM e la pubblicazione continuano a funzionare. Le app che bloccano usano Tempo di utilizzo per impedire l'apertura dell'app ufficiale, quindi nel frattempo anche i DM non sono disponibili."
+   ],
+   [
+    "Tempo di utilizzo dell'iPhone basta per nascondere i Reels?",
+    "Tempo di utilizzo dell'iPhone limita il tempo d'uso di un'app intera. Non può bloccare solo la scheda Reels dentro Instagram. Se vuoi nascondere i Reels e tenere i DM, usa un'app che nasconde solo una parte del servizio."
+   ],
+   [
+    "Quale modo è adatto se uso i social per lavoro?",
+    "Se ti servono i social per messaggi o pubblicazioni di lavoro, è più adatta un'app che nasconde solo una parte. I DM e la pubblicazione continuano a funzionare, mentre spariscono le parti che rubano tempo, come Reels e post suggeriti. Bloccare l'app intera è adatto alle ore in cui i social non ti servono."
+   ],
+   [
+    "Di che tipo è minulo?",
+    "minulo combina i due. I social si aprono dentro minulo con solo Reels, Shorts e post suggeriti nascosti. In più minulo usa Tempo di utilizzo per bloccare le app ufficiali e ti porta in minulo quando provi ad aprirle. Entrambe le funzioni sono gratis."
+   ],
+   [
+    "Che differenza c'è tra minulo e SocialLite?",
+    "Entrambe nascondono Reels e Shorts e mantengono i DM. SocialLite ha 7.689 valutazioni sull'App Store statunitense ed è molto usata per questo. minulo è disponibile in sette lingue, tra cui l'italiano, e bloccare le app ufficiali o aprire per cinque minuti un Reel ricevuto in DM è gratis."
+   ]
+  ],
+  "src": "Le informazioni sulle app diverse da minulo si basano sulla descrizione e sul numero di valutazioni di ciascuna app su App Store (App Store statunitense, 27 settembre 2026).",
+  "more": "Domande frequenti"
+ }
+}
