@@ -171,4 +171,620 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/compare.html"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/compare.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/compare.html"/></url>
+  <url><loc>https://minulo.app/hide/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/index.html"/></url>
+  <url><loc>https://minulo.app/en/hide/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/index.html"/></url>
+  <url><loc>https://minulo.app/de/hide/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/index.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/index.html"/></url>
+  <url><loc>https://minulo.app/es/hide/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/index.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/index.html"/></url>
+  <url><loc>https://minulo.app/it/hide/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/index.html"/></url>
+  <url><loc>https://minulo.app/hide/instagram.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/instagram.html"/></url>
+  <url><loc>https://minulo.app/en/hide/instagram.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/instagram.html"/></url>
+  <url><loc>https://minulo.app/de/hide/instagram.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/instagram.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/instagram.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/instagram.html"/></url>
+  <url><loc>https://minulo.app/es/hide/instagram.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/instagram.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/instagram.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/instagram.html"/></url>
+  <url><loc>https://minulo.app/it/hide/instagram.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/instagram.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/instagram.html"/></url>
+  <url><loc>https://minulo.app/hide/youtube.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/youtube.html"/></url>
+  <url><loc>https://minulo.app/en/hide/youtube.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/youtube.html"/></url>
+  <url><loc>https://minulo.app/de/hide/youtube.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/youtube.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/youtube.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/youtube.html"/></url>
+  <url><loc>https://minulo.app/es/hide/youtube.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/youtube.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/youtube.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/youtube.html"/></url>
+  <url><loc>https://minulo.app/it/hide/youtube.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/youtube.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/youtube.html"/></url>
+  <url><loc>https://minulo.app/hide/tiktok.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/tiktok.html"/></url>
+  <url><loc>https://minulo.app/en/hide/tiktok.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/tiktok.html"/></url>
+  <url><loc>https://minulo.app/de/hide/tiktok.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/tiktok.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/tiktok.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/tiktok.html"/></url>
+  <url><loc>https://minulo.app/es/hide/tiktok.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/tiktok.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/tiktok.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/tiktok.html"/></url>
+  <url><loc>https://minulo.app/it/hide/tiktok.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/tiktok.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/tiktok.html"/></url>
+  <url><loc>https://minulo.app/hide/x.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/x.html"/></url>
+  <url><loc>https://minulo.app/en/hide/x.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/x.html"/></url>
+  <url><loc>https://minulo.app/de/hide/x.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/x.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/x.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/x.html"/></url>
+  <url><loc>https://minulo.app/es/hide/x.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/x.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/x.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/x.html"/></url>
+  <url><loc>https://minulo.app/it/hide/x.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/x.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/x.html"/></url>
+  <url><loc>https://minulo.app/hide/threads.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/threads.html"/></url>
+  <url><loc>https://minulo.app/en/hide/threads.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/threads.html"/></url>
+  <url><loc>https://minulo.app/de/hide/threads.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/threads.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/threads.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/threads.html"/></url>
+  <url><loc>https://minulo.app/es/hide/threads.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/threads.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/threads.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/threads.html"/></url>
+  <url><loc>https://minulo.app/it/hide/threads.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/threads.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/threads.html"/></url>
+  <url><loc>https://minulo.app/hide/facebook.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/facebook.html"/></url>
+  <url><loc>https://minulo.app/en/hide/facebook.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/facebook.html"/></url>
+  <url><loc>https://minulo.app/de/hide/facebook.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/facebook.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/facebook.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/facebook.html"/></url>
+  <url><loc>https://minulo.app/es/hide/facebook.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/facebook.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/facebook.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/facebook.html"/></url>
+  <url><loc>https://minulo.app/it/hide/facebook.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/facebook.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/facebook.html"/></url>
+  <url><loc>https://minulo.app/hide/pinterest.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/pinterest.html"/></url>
+  <url><loc>https://minulo.app/en/hide/pinterest.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/pinterest.html"/></url>
+  <url><loc>https://minulo.app/de/hide/pinterest.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/pinterest.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/pinterest.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/pinterest.html"/></url>
+  <url><loc>https://minulo.app/es/hide/pinterest.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/pinterest.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/pinterest.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/pinterest.html"/></url>
+  <url><loc>https://minulo.app/it/hide/pinterest.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/pinterest.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/pinterest.html"/></url>
+  <url><loc>https://minulo.app/hide/reddit.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/reddit.html"/></url>
+  <url><loc>https://minulo.app/en/hide/reddit.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/reddit.html"/></url>
+  <url><loc>https://minulo.app/de/hide/reddit.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/reddit.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/reddit.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/reddit.html"/></url>
+  <url><loc>https://minulo.app/es/hide/reddit.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/reddit.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/reddit.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/reddit.html"/></url>
+  <url><loc>https://minulo.app/it/hide/reddit.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/reddit.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/reddit.html"/></url>
+  <url><loc>https://minulo.app/hide/linkedin.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/linkedin.html"/></url>
+  <url><loc>https://minulo.app/en/hide/linkedin.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/linkedin.html"/></url>
+  <url><loc>https://minulo.app/de/hide/linkedin.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/linkedin.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/linkedin.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/linkedin.html"/></url>
+  <url><loc>https://minulo.app/es/hide/linkedin.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/linkedin.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/linkedin.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/linkedin.html"/></url>
+  <url><loc>https://minulo.app/it/hide/linkedin.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/linkedin.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/linkedin.html"/></url>
+  <url><loc>https://minulo.app/hide/snapchat.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/snapchat.html"/></url>
+  <url><loc>https://minulo.app/en/hide/snapchat.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/snapchat.html"/></url>
+  <url><loc>https://minulo.app/de/hide/snapchat.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/snapchat.html"/></url>
+  <url><loc>https://minulo.app/fr/hide/snapchat.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/snapchat.html"/></url>
+  <url><loc>https://minulo.app/es/hide/snapchat.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/snapchat.html"/></url>
+  <url><loc>https://minulo.app/pt/hide/snapchat.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/snapchat.html"/></url>
+  <url><loc>https://minulo.app/it/hide/snapchat.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/snapchat.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/snapchat.html"/></url>
 </urlset>

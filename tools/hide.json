@@ -1,0 +1,233 @@
+{
+ "ja": {
+  "sep": "、",
+  "hub": "SNSごとの消し方",
+  "hubLede": "minulo で、SNS ごとに何を消せるかと、そのやり方をまとめました。サービスを選んでください。",
+  "h1": "iPhoneで{name}の「{t0}」を消すには",
+  "lede": "minulo を使うと、{name} はそのまま使いながら、「{t0}」のように時間を取られる部分だけを非表示にできます。消せるものと、やり方をまとめました。",
+  "q1": "{name}で消せるものは何ですか？",
+  "a1": "minulo の中で {name} を開くと、次のものを1つずつ選んで非表示にできます。どれを消すかは、あとからいつでも変えられます。",
+  "q2": "消したあとも、何が使えますか？",
+  "a2": "{intents} は、minulo のホームからすぐに開けます。消したもの以外は、{name} のウェブ版と同じように使えます。",
+  "q3": "やり方は？",
+  "steps": [
+   "App Store で minulo を入れます。",
+   "ホームの「{add}」から {name} を選びます。",
+   "{name} の横の歯車を押し、消したいものをオンにします。",
+   "公式アプリも止めたいときは、「{block}」のタブでスクリーンタイムを許可し、「{apps}」に {name} を選びます。"
+  ],
+  "q4": "公式の{name}アプリはどうなりますか？",
+  "a4": "iPhone のスクリーンタイムの仕組みで、公式の {name} アプリを開けないようにできます。開こうとすると「{shTitle}」という画面が出て、「{shBtn}」のボタンから minulo に移れます。このブロックは無料です。",
+  "q5": "無料で使えますか？",
+  "a5": "{name} の非表示と、公式アプリのブロックは無料です。曜日や時間帯で自動で切り替わる予定、ロックモード、複数のブロックリストは minulo Pro の機能です。",
+  "other": "ほかのSNSの消し方",
+  "faq": "よくある質問",
+  "cmp": "アプリの選び方",
+  "st": "スクリーンタイム",
+  "ui": {
+   "add": "サービスを追加",
+   "block": "ブロック",
+   "apps": "ブロックするアプリ",
+   "shTitle": "ブロック中です",
+   "shBtn": "minulo を開く"
+  }
+ },
+ "en": {
+  "sep": ", ",
+  "hub": "How to hide feeds on each service",
+  "hubLede": "What minulo can hide on each social media service, and how to set it up. Choose a service.",
+  "h1": "How to hide {t0} on {name} (iPhone)",
+  "lede": "With minulo, you keep using {name} while hiding only the parts that take up your time, such as {t0}. Here is what you can hide and how to set it up.",
+  "q1": "What can I hide on {name}?",
+  "a1": "When you open {name} inside minulo, you can hide the following, one item at a time. You can change what is hidden at any time.",
+  "q2": "What still works after hiding?",
+  "a2": "{intents} open straight from the minulo home screen. Everything you have not hidden works like the {name} website.",
+  "q3": "How do I set it up?",
+  "steps": [
+   "Install minulo from the App Store.",
+   "On the home screen, tap \"{add}\" and choose {name}.",
+   "Tap the gear next to {name} and turn on what you want to hide.",
+   "To stop the official app too, open the \"{block}\" tab, allow Screen Time, and choose {name} in \"{apps}\"."
+  ],
+  "q4": "What happens to the official {name} app?",
+  "a4": "minulo uses iPhone Screen Time to stop the official {name} app from opening. When you try to open it, a \"{shTitle}\" screen appears, and its \"{shBtn}\" button takes you to minulo. Blocking is free.",
+  "q5": "Is it free?",
+  "a5": "Hiding content on {name} and blocking the official app are free. Schedules that switch automatically by day and time, Locked Mode and multiple block lists are part of minulo Pro.",
+  "other": "Other services",
+  "faq": "FAQ",
+  "cmp": "How to choose an app",
+  "st": "Screen Time",
+  "ui": {
+   "add": "Add a service",
+   "block": "Block",
+   "apps": "Apps to block",
+   "shTitle": "Blocked",
+   "shBtn": "Open minulo"
+  }
+ },
+ "de": {
+  "sep": ", ",
+  "hub": "So blendest du Feeds bei jedem Dienst aus",
+  "hubLede": "Was minulo bei jedem Dienst ausblenden kann und wie du es einrichtest. Wähle einen Dienst.",
+  "h1": "So blendest du „{t0}“ bei {name} aus (iPhone)",
+  "lede": "Mit minulo nutzt du {name} weiter und blendest nur die Teile aus, die Zeit kosten, zum Beispiel „{t0}“. Hier siehst du, was sich ausblenden lässt und wie es geht.",
+  "q1": "Was kann ich bei {name} ausblenden?",
+  "a1": "Wenn du {name} in minulo öffnest, kannst du Folgendes einzeln ausblenden. Was ausgeblendet ist, kannst du jederzeit ändern.",
+  "q2": "Was funktioniert danach noch?",
+  "a2": "{intents} öffnest du direkt vom minulo-Startbildschirm. Alles, was du nicht ausblendest, funktioniert wie die Website von {name}.",
+  "q3": "Wie richte ich es ein?",
+  "steps": [
+   "Installiere minulo aus dem App Store.",
+   "Tippe auf dem Startbildschirm auf „{add}“ und wähle {name}.",
+   "Tippe auf das Zahnrad neben {name} und schalte ein, was ausgeblendet werden soll.",
+   "Um auch die offizielle App zu stoppen, öffne den Tab „{block}“, erlaube die Bildschirmzeit und wähle {name} unter „{apps}“."
+  ],
+  "q4": "Was passiert mit der offiziellen App von {name}?",
+  "a4": "minulo nutzt die Bildschirmzeit des iPhones, damit sich die offizielle App von {name} nicht öffnen lässt. Beim Öffnen erscheint der Bildschirm „{shTitle}“, und die Taste „{shBtn}“ bringt dich zu minulo. Das Blockieren ist kostenlos.",
+  "q5": "Ist das kostenlos?",
+  "a5": "Das Ausblenden bei {name} und das Blockieren der offiziellen App sind kostenlos. Zeitpläne, die sich nach Wochentag und Uhrzeit umschalten, der Sperrmodus und mehrere Blocklisten gehören zu minulo Pro.",
+  "other": "Andere Dienste",
+  "faq": "Häufige Fragen",
+  "cmp": "App auswählen",
+  "st": "Bildschirmzeit",
+  "ui": {
+   "add": "Dienst hinzufügen",
+   "block": "Blockieren",
+   "apps": "Apps zum Blockieren",
+   "shTitle": "Blockiert",
+   "shBtn": "minulo öffnen"
+  }
+ },
+ "fr": {
+  "sep": ", ",
+  "hub": "Comment masquer le fil de chaque service",
+  "hubLede": "Ce que minulo peut masquer sur chaque réseau social, et comment le configurer. Choisissez un service.",
+  "h1": "Comment masquer « {t0} » sur {name} (iPhone)",
+  "lede": "Avec minulo, vous continuez à utiliser {name} en masquant seulement les parties qui prennent du temps, comme « {t0} ». Voici ce que vous pouvez masquer et comment faire.",
+  "q1": "Que puis-je masquer sur {name} ?",
+  "a1": "Quand vous ouvrez {name} dans minulo, vous pouvez masquer les éléments suivants, un par un. Vous pouvez changer ce qui est masqué à tout moment.",
+  "q2": "Qu'est-ce qui fonctionne encore ?",
+  "a2": "{intents} s'ouvrent directement depuis l'accueil de minulo. Tout ce que vous ne masquez pas fonctionne comme sur le site {de_name}.",
+  "q3": "Comment faire ?",
+  "steps": [
+   "Installez minulo depuis l'App Store.",
+   "Sur l'accueil, touchez « {add} » et choisissez {name}.",
+   "Touchez la roue dentée à côté {de_name} et activez ce que vous voulez masquer.",
+   "Pour bloquer aussi l'app officielle, ouvrez l'onglet « {block} », autorisez Temps d'écran et choisissez {name} dans « {apps} »."
+  ],
+  "q4": "Que devient l'app officielle {de_name} ?",
+  "a4": "minulo utilise Temps d'écran de l'iPhone pour empêcher l'ouverture de l'app officielle {de_name}. Si vous essayez de l'ouvrir, un écran « {shTitle} » apparaît, et son bouton « {shBtn} » vous amène dans minulo. Le blocage est gratuit.",
+  "q5": "Est-ce gratuit ?",
+  "a5": "Masquer du contenu sur {name} et bloquer l'app officielle est gratuit. Les plannings qui basculent selon le jour et l'heure, le mode verrouillé et plusieurs listes de blocage font partie de minulo Pro.",
+  "other": "Autres services",
+  "faq": "Questions fréquentes",
+  "cmp": "Choisir une app",
+  "st": "Temps d'écran",
+  "ui": {
+   "add": "Ajouter un service",
+   "block": "Blocage",
+   "apps": "Apps à bloquer",
+   "shTitle": "Bloqué",
+   "shBtn": "Ouvrir minulo"
+  }
+ },
+ "es": {
+  "sep": ", ",
+  "hub": "Cómo ocultar el feed de cada servicio",
+  "hubLede": "Qué puede ocultar minulo en cada red social y cómo configurarlo. Elige un servicio.",
+  "h1": "Cómo ocultar «{t0}» en {name} (iPhone)",
+  "lede": "Con minulo sigues usando {name} y ocultas solo las partes que te quitan tiempo, como «{t0}». Aquí tienes lo que puedes ocultar y cómo hacerlo.",
+  "q1": "¿Qué puedo ocultar en {name}?",
+  "a1": "Cuando abres {name} dentro de minulo, puedes ocultar lo siguiente, elemento por elemento. Puedes cambiar lo que ocultas cuando quieras.",
+  "q2": "¿Qué sigue funcionando?",
+  "a2": "{intents} se abren directamente desde el inicio de minulo. Todo lo que no ocultas funciona como en la web de {name}.",
+  "q3": "¿Cómo se configura?",
+  "steps": [
+   "Instala minulo desde el App Store.",
+   "En el inicio, toca «{add}» y elige {name}.",
+   "Toca el engranaje junto a {name} y activa lo que quieras ocultar.",
+   "Para bloquear también la app oficial, abre la pestaña «{block}», permite Tiempo de uso y elige {name} en «{apps}»."
+  ],
+  "q4": "¿Qué pasa con la app oficial de {name}?",
+  "a4": "minulo usa Tiempo de uso del iPhone para impedir que se abra la app oficial de {name}. Si intentas abrirla, aparece una pantalla de «{shTitle}» y su botón «{shBtn}» te lleva a minulo. El bloqueo es gratis.",
+  "q5": "¿Es gratis?",
+  "a5": "Ocultar contenido en {name} y bloquear la app oficial es gratis. Los horarios que cambian solos según el día y la hora, el modo bloqueado y varias listas de bloqueo son parte de minulo Pro.",
+  "other": "Otros servicios",
+  "faq": "Preguntas frecuentes",
+  "cmp": "Cómo elegir una app",
+  "st": "Tiempo de uso",
+  "ui": {
+   "add": "Agregar un servicio",
+   "block": "Bloquear",
+   "apps": "Apps que bloquear",
+   "shTitle": "Bloqueado",
+   "shBtn": "Abrir minulo"
+  }
+ },
+ "pt": {
+  "sep": ", ",
+  "hub": "Como ocultar o feed de cada serviço",
+  "hubLede": "O que o minulo pode ocultar em cada rede social e como configurar. Escolha um serviço.",
+  "h1": "Como ocultar \"{t0}\" no {name} (iPhone)",
+  "lede": "Com o minulo, você continua usando o {name} e oculta só as partes que tomam seu tempo, como \"{t0}\". Veja o que dá para ocultar e como fazer.",
+  "q1": "O que posso ocultar no {name}?",
+  "a1": "Quando você abre o {name} dentro do minulo, pode ocultar os itens a seguir, um por um. Você pode mudar o que fica oculto quando quiser.",
+  "q2": "O que continua funcionando?",
+  "a2": "{intents} abrem direto do início do minulo. Tudo o que você não ocultar funciona como no site do {name}.",
+  "q3": "Como configurar?",
+  "steps": [
+   "Instale o minulo pela App Store.",
+   "No início, toque em \"{add}\" e escolha o {name}.",
+   "Toque na engrenagem ao lado do {name} e ative o que quer ocultar.",
+   "Para bloquear também o app oficial, abra a aba \"{block}\", permita o Tempo de Uso e escolha o {name} em \"{apps}\"."
+  ],
+  "q4": "O que acontece com o app oficial do {name}?",
+  "a4": "O minulo usa o Tempo de Uso do iPhone para impedir que o app oficial do {name} abra. Ao tentar abrir, aparece a tela \"{shTitle}\", e o botão \"{shBtn}\" leva você ao minulo. O bloqueio é grátis.",
+  "q5": "É grátis?",
+  "a5": "Ocultar conteúdo no {name} e bloquear o app oficial é grátis. Agendamentos que mudam sozinhos conforme o dia e a hora, o Modo Bloqueado e várias listas de bloqueio fazem parte do minulo Pro.",
+  "other": "Outros serviços",
+  "faq": "Perguntas frequentes",
+  "cmp": "Como escolher um app",
+  "st": "Tempo de Uso",
+  "ui": {
+   "add": "Adicionar serviço",
+   "block": "Bloquear",
+   "apps": "Apps a bloquear",
+   "shTitle": "Bloqueado",
+   "shBtn": "Abrir o minulo"
+  }
+ },
+ "it": {
+  "sep": ", ",
+  "hub": "Come nascondere il feed di ogni servizio",
+  "hubLede": "Che cosa può nascondere minulo su ogni social e come configurarlo. Scegli un servizio.",
+  "h1": "Come nascondere «{t0}» su {name} (iPhone)",
+  "lede": "Con minulo continui a usare {name} e nascondi solo le parti che ti rubano tempo, come «{t0}». Ecco che cosa puoi nascondere e come fare.",
+  "q1": "Che cosa posso nascondere su {name}?",
+  "a1": "Quando apri {name} dentro minulo, puoi nascondere le voci seguenti, una alla volta. Puoi cambiare ciò che è nascosto in qualsiasi momento.",
+  "q2": "Che cosa continua a funzionare?",
+  "a2": "{intents} si aprono direttamente dalla home di minulo. Tutto ciò che non nascondi funziona come sul sito di {name}.",
+  "q3": "Come si configura?",
+  "steps": [
+   "Installa minulo da App Store.",
+   "Nella home, tocca «{add}» e scegli {name}.",
+   "Tocca l'ingranaggio accanto a {name} e attiva ciò che vuoi nascondere.",
+   "Per bloccare anche l'app ufficiale, apri la scheda «{block}», consenti Tempo di utilizzo e scegli {name} in «{apps}»."
+  ],
+  "q4": "Che cosa succede all'app ufficiale di {name}?",
+  "a4": "minulo usa Tempo di utilizzo dell'iPhone per impedire l'apertura dell'app ufficiale di {name}. Quando provi ad aprirla compare la schermata «{shTitle}», e il pulsante «{shBtn}» ti porta in minulo. Il blocco è gratis.",
+  "q5": "È gratis?",
+  "a5": "Nascondere contenuti su {name} e bloccare l'app ufficiale è gratis. Le programmazioni che cambiano da sole in base al giorno e all'ora, la Modalità blindata e più liste di blocco fanno parte di minulo Pro.",
+  "other": "Altri servizi",
+  "faq": "Domande frequenti",
+  "cmp": "Come scegliere un'app",
+  "st": "Tempo di utilizzo",
+  "ui": {
+   "add": "Aggiungi un servizio",
+   "block": "Blocco",
+   "apps": "App da bloccare",
+   "shTitle": "Bloccato",
+   "shBtn": "Apri minulo"
+  }
+ }
+}

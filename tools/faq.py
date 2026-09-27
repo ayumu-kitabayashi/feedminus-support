@@ -17,7 +17,8 @@ import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / 'tools' / 'faq.json').read_text())
-CMP = json.loads((ROOT / 'tools' / 'compare.json').read_text())   # ★選び方のページ（比較）。他社の記述は App Store の説明と評価件数だけ
+CMP = json.loads((ROOT / 'tools' / 'compare.json').read_text())
+HIDE = json.loads((ROOT / 'tools' / 'hide.json').read_text())   # SNS ごとの消し方（tools/hide.py）の見出し   # ★選び方のページ（比較）。他社の記述は App Store の説明と評価件数だけ
 SITE = 'https://minulo.app/'
 LANGS = ['ja', 'en', 'de', 'fr', 'es', 'pt', 'it']
 NAMES = {'ja': '日本語', 'en': 'English', 'de': 'Deutsch', 'fr': 'Français', 'es': 'Español', 'pt': 'Português', 'it': 'Italiano'}
@@ -115,7 +116,7 @@ def page(lang: str) -> str:
 <h1>{html.escape(d['title'])}</h1>
 <p class="lede">{html.escape(d['lede'])}</p>
 <p class="upd">{html.escape(d['updated'])}</p>
-<p class="also"><a href="compare.html">{html.escape(CMP[lang]['title'])} →</a></p>
+<p class="also"><a href="compare.html">{html.escape(CMP[lang]['title'])} →</a>　<a href="hide/index.html">{html.escape(HIDE[lang]['hub'])} →</a></p>
 {qa}
 <div class="cta"><a href="{store}"><img src="{up}badges/{d['badge']}.svg" alt="{html.escape(d['badgeAlt'])}" height="54"></a></div>
 </main>
@@ -181,7 +182,7 @@ def compare(lang: str) -> str:
 <div class="tw"><table><tr>{head}</tr>{body}</table></div>
 {qa}
 <p class="src">{html.escape(c['src'])}</p>
-<p class="also"><a href="faq.html">{html.escape(c['more'])} →</a></p>
+<p class="also"><a href="faq.html">{html.escape(c['more'])} →</a>　<a href="hide/index.html">{html.escape(HIDE[lang]['hub'])} →</a></p>
 <div class="cta"><a href="{store}"><img src="{up}badges/{d['badge']}.svg" alt="{html.escape(d['badgeAlt'])}" height="54"></a></div>
 </main>
 <footer><div class="langs">{langs}</div><p>© 2026 minulo</p></footer>
