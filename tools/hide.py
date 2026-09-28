@@ -118,7 +118,11 @@ def service(lang, sid):
     name, tr = r['name'], r['tr'][lang]
     # ★フランス語の「de」は母音の前で d' になる（de Instagram → d'Instagram）
     de_name = ("d'" + name) if name[0].lower() in 'aeiou' else ('de ' + name)
-    kw = dict(name=name, de_name=de_name, t0=short(tr['rows'][0]), intents=join(lang, tr['intents'], t['sep']), **t['ui'])
+    k0 = tr['intents'][0]
+    # ★見出しを「◯◯だけ消して、△△は使う」に（2026-09-28・ChatGPT への聞き方に合わせる）。英語は文中なので小文字と言い換え
+    K0EN = {'Subscribed': 'subscribed communities', 'Saved': 'saved Pins', 'Following': 'Following feed', 'Chat': 'chats'}
+    k0l = K0EN.get(k0, k0.lower()) if lang == 'en' else k0
+    kw = dict(name=name, de_name=de_name, t0=short(tr['rows'][0]), intents=join(lang, tr['intents'], t['sep']), k0=k0, k0l=k0l, **t['ui'])
     h1, lede = fill(t['h1'], **kw), fill(t['lede'], **kw)
     steps = [fill(s, **kw) for s in t['steps']]
     qas = [(fill(t['q1'], **kw), fill(t['a1'], **kw), tr['rows']),

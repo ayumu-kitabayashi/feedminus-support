@@ -15,9 +15,8 @@ HERE = pathlib.Path(__file__).resolve().parent
 _s = importlib.util.spec_from_file_location('faq', HERE / 'faq.py')
 F = importlib.util.module_from_spec(_s); _s.loader.exec_module(F)
 D = json.loads((HERE / 'alts.json').read_text())
-LANGS = ['ja', 'en']
+LANGS = ['ja', 'en', 'de', 'fr', 'es', 'pt', 'it']
 PATH = 'alternatives.html'
-STORE = {'ja': 'jp', 'en': 'us'}
 
 EXTRA = """
 .disc{font-size:14px;color:var(--ink3);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:0 0 22px}
@@ -34,6 +33,12 @@ tr.me td{background:var(--priSoft,#ECEEFF)}
 """
 
 
+def num(n, lang):
+    """桁の区切りをその言語の書き方に（ドイツ語などで 7,776 は小数に読める）"""
+    s = f'{n:,}'
+    return s.replace(',', '.') if lang in ('de', 'es', 'pt', 'it') else s.replace(',', '\u202f') if lang == 'fr' else s
+
+
 def page(lang):
     t = D['t'][lang]; d = F.DATA[lang]
     url = F.SITE + d['dir'] + PATH
@@ -42,7 +47,7 @@ def page(lang):
     alts = '\n'.join(f'<link rel="alternate" hreflang="{l}" href="{F.SITE}{F.DATA[l]["dir"]}{PATH}">' for l in LANGS)
     alts += f'\n<link rel="alternate" hreflang="x-default" href="{F.SITE}en/{PATH}">'
     items = [{'@type': 'ListItem', 'position': i + 1, 'item': {'@type': 'MobileApplication', 'name': a['name'], 'operatingSystem': 'iOS',
-              'applicationCategory': 'UtilitiesApplication', 'url': f'https://apps.apple.com/{STORE[lang]}/app/id{a["id"]}'}}
+              'applicationCategory': 'UtilitiesApplication', 'url': f'https://apps.apple.com/{d["store"]}/app/id{a["id"]}'}}
              for i, a in enumerate(D['apps'])]
     ld = [
         {'@context': 'https://schema.org', '@type': 'Article', 'headline': title, 'description': lede, 'inLanguage': F.INLANG[lang],
@@ -58,11 +63,11 @@ def page(lang):
     lds = '\n'.join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)
     rows = []
     for a in D['apps']:
-        link = f'https://apps.apple.com/{STORE[lang]}/app/id{a["id"]}'
+        link = f'https://apps.apple.com/{d["store"]}/app/id{a["id"]}'
         cls = ' class="me"' if a['name'] == 'minulo' else ''
         rows.append(f'<tr{cls}><td><a href="{link}">{html.escape(a["name"])}</a></td><td>{html.escape(a["how"][lang])}</td>'
                     f'<td>{html.escape(a["nets"][lang])}</td><td>{html.escape(a["free"][lang])}</td><td>{html.escape(a["dms"][lang])}</td>'
-                    f'<td>{html.escape(a["also"][lang])}</td><td class="n">{a["ratings"]:,}</td></tr>')
+                    f'<td>{html.escape(a["also"][lang])}</td><td class="n">{num(a["ratings"], lang)}</td></tr>')
     head = ''.join(f'<th>{html.escape(c)}</th>' for c in t['cols'])
     qa = '\n'.join(f'<section class="qa"><h2>{html.escape(q)}</h2><p>{html.escape(a)}</p></section>' for q, a in t['qa'])
     store = f"https://apps.apple.com/{d['store']}/app/id6809352229"

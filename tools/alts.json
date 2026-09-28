@@ -7,23 +7,48 @@
    "ratings": 0,
    "how": {
     "en": "Opens each network's official website inside the app and hides chosen parts. Can also lock the official apps with Screen Time and send you to minulo instead.",
-    "ja": "各SNSの公式ページをアプリの中で開き、選んだ部分を表示しない。スクリーンタイムで公式アプリを止め、minulo に案内することもできる。"
+    "ja": "各SNSの公式ページをアプリの中で開き、選んだ部分を表示しない。スクリーンタイムで公式アプリを止め、minulo に案内することもできる。",
+    "de": "Öffnet die offizielle Website jedes Netzwerks in der App und blendet ausgewählte Bereiche aus. Kann außerdem die offiziellen Apps per Bildschirmzeit sperren und dich stattdessen zu minulo weiterleiten.",
+    "fr": "Ouvre le site officiel de chaque réseau dans l'application et masque les éléments choisis. Peut aussi verrouiller les applications officielles avec Temps d'écran et vous rediriger vers minulo.",
+    "es": "Abre la web oficial de cada red dentro de la app y oculta las partes que elijas. También puede bloquear las apps oficiales con Tiempo de uso y llevarte a minulo en su lugar.",
+    "pt": "Abre o site oficial de cada rede dentro do app e esconde as partes que você escolher. Também pode bloquear os apps oficiais com o Tempo de Uso e levar você ao minulo no lugar deles.",
+    "it": "Apre il sito ufficiale di ogni social all'interno dell'app e nasconde le parti scelte. Può anche bloccare le app ufficiali con Tempo di utilizzo e portarti invece su minulo."
    },
    "nets": {
     "en": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)",
-    "ja": "Instagram・YouTube・TikTok・X・Threads・Facebook・Pinterest・Reddit・LinkedIn・Snapchat（10）"
+    "ja": "Instagram・YouTube・TikTok・X・Threads・Facebook・Pinterest・Reddit・LinkedIn・Snapchat（10）",
+    "de": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)",
+    "fr": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)",
+    "es": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)",
+    "pt": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)",
+    "it": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)"
    },
    "free": {
     "en": "Hiding is free. Pro adds schedules, lock mode and multiple block lists.",
-    "ja": "消す機能は無料。予定・ロックモード・複数のリストは Pro。"
+    "ja": "消す機能は無料。予定・ロックモード・複数のリストは Pro。",
+    "de": "Das Ausblenden ist kostenlos. Pro bietet zusätzlich Zeitpläne, einen Sperrmodus und mehrere Sperrlisten.",
+    "fr": "Le masquage est gratuit. Pro ajoute les plannings, le mode verrouillage et plusieurs listes de blocage.",
+    "es": "Ocultar es gratis. Pro añade horarios, modo bloqueo y varias listas de bloqueo.",
+    "pt": "Esconder é grátis. O Pro adiciona agendamentos, modo de bloqueio e várias listas de bloqueio.",
+    "it": "Nascondere è gratis. Pro aggiunge programmazioni, modalità blocco e più liste di blocco."
    },
    "dms": {
     "en": "Yes",
-    "ja": "使える"
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
    },
    "also": {
     "en": "iPhone, Mac, Chrome",
-    "ja": "iPhone・Mac・Chrome"
+    "ja": "iPhone・Mac・Chrome",
+    "de": "iPhone, Mac, Chrome",
+    "fr": "iPhone, Mac, Chrome",
+    "es": "iPhone, Mac, Chrome",
+    "pt": "iPhone, Mac, Chrome",
+    "it": "iPhone, Mac, Chrome"
    }
   },
   {
@@ -32,23 +57,48 @@
    "ratings": 7776,
    "how": {
     "en": "A focused browsing view for social platforms (the description does not detail the method).",
-    "ja": "SNSを絞った表示で開く（説明に仕組みの詳細はない）。"
+    "ja": "SNSを絞った表示で開く（説明に仕組みの詳細はない）。",
+    "de": "Eine reduzierte Ansicht zum Surfen auf sozialen Plattformen (die Beschreibung erklärt die Methode nicht näher).",
+    "fr": "Un affichage de navigation épuré pour les plateformes sociales (la description ne détaille pas la méthode).",
+    "es": "Una vista de navegación centrada para redes sociales (la descripción no detalla el método).",
+    "pt": "Uma visualização de navegação focada para redes sociais (a descrição não detalha o método).",
+    "it": "Una vista di navigazione più mirata per le piattaforme social (la descrizione non ne spiega nel dettaglio il metodo)."
    },
    "nets": {
     "en": "Instagram, YouTube and other platforms",
-    "ja": "Instagram・YouTube ほか"
+    "ja": "Instagram・YouTube ほか",
+    "de": "Instagram, YouTube und weitere Plattformen",
+    "fr": "Instagram, YouTube et d'autres plateformes",
+    "es": "Instagram, YouTube y otras plataformas",
+    "pt": "Instagram, YouTube e outras plataformas",
+    "it": "Instagram, YouTube e altre piattaforme"
    },
    "free": {
     "en": "Free app; in-app purchases available.",
-    "ja": "無料。アプリ内課金あり。"
+    "ja": "無料。アプリ内課金あり。",
+    "de": "Kostenlose App; In-App-Käufe verfügbar.",
+    "fr": "Application gratuite ; achats intégrés disponibles.",
+    "es": "App gratuita; con compras dentro de la app.",
+    "pt": "App gratuito; com compras no app.",
+    "it": "App gratuita; acquisti in-app disponibili."
    },
    "dms": {
     "en": "Yes",
-    "ja": "使える"
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
    },
    "also": {
     "en": "—",
-    "ja": "—"
+    "ja": "—",
+    "de": "—",
+    "fr": "—",
+    "es": "—",
+    "pt": "—",
+    "it": "—"
    }
   },
   {
@@ -57,23 +107,48 @@
    "ratings": 103,
    "how": {
     "en": "Opens each network's mobile website in its own private browser and filters the page.",
-    "ja": "各SNSのモバイル版サイトを自前のブラウザで開き、表示を絞る。"
+    "ja": "各SNSのモバイル版サイトを自前のブラウザで開き、表示を絞る。",
+    "de": "Öffnet die mobile Website jedes Netzwerks in einem eigenen privaten Browser und filtert die Seite.",
+    "fr": "Ouvre le site mobile de chaque réseau dans son propre navigateur privé et filtre la page.",
+    "es": "Abre la web móvil de cada red en su propio navegador privado y filtra la página.",
+    "pt": "Abre o site mobile de cada rede em um navegador privado próprio e filtra a página.",
+    "it": "Apre il sito mobile di ogni social nel proprio browser privato e filtra la pagina."
    },
    "nets": {
     "en": "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (no TikTok or Snapchat)",
-    "ja": "Instagram・Threads・Reddit・Facebook・X・YouTube・LinkedIn（TikTok・Snapchat は非対応）"
+    "ja": "Instagram・Threads・Reddit・Facebook・X・YouTube・LinkedIn（TikTok・Snapchat は非対応）",
+    "de": "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (kein TikTok oder Snapchat)",
+    "fr": "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (ni TikTok ni Snapchat)",
+    "es": "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (sin TikTok ni Snapchat)",
+    "pt": "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (sem TikTok nem Snapchat)",
+    "it": "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (niente TikTok né Snapchat)"
    },
    "free": {
     "en": "Many features free; Plus and Pro add more.",
-    "ja": "多くの機能が無料。Plus・Pro で追加。"
+    "ja": "多くの機能が無料。Plus・Pro で追加。",
+    "de": "Viele Funktionen kostenlos; Plus und Pro bieten mehr.",
+    "fr": "Beaucoup de fonctions gratuites ; Plus et Pro en ajoutent d'autres.",
+    "es": "Muchas funciones gratis; Plus y Pro añaden más.",
+    "pt": "Muitos recursos grátis; Plus e Pro adicionam mais.",
+    "it": "Molte funzioni gratuite; Plus e Pro ne aggiungono altre."
    },
    "dms": {
     "en": "Yes (Messages Only mode)",
-    "ja": "使える（メッセージだけのモード）"
+    "ja": "使える（メッセージだけのモード）",
+    "de": "Ja (Modus „Messages Only“)",
+    "fr": "Oui (mode Messages Only)",
+    "es": "Sí (modo Messages Only)",
+    "pt": "Sim (modo Messages Only)",
+    "it": "Sì (modalità Messages Only)"
    },
    "also": {
     "en": "—",
-    "ja": "—"
+    "ja": "—",
+    "de": "—",
+    "fr": "—",
+    "es": "—",
+    "pt": "—",
+    "it": "—"
    }
   },
   {
@@ -82,23 +157,48 @@
    "ratings": 101,
    "how": {
     "en": "A Safari extension that hides feeds, Reels, Stories and Explore on social media websites.",
-    "ja": "Safari の拡張機能で、SNSのサイトのフィード・リール・ストーリーズ・発見を隠す。"
+    "ja": "Safari の拡張機能で、SNSのサイトのフィード・リール・ストーリーズ・発見を隠す。",
+    "de": "Eine Safari-Erweiterung, die Feeds, Reels, Stories und „Entdecken“ auf Social-Media-Websites ausblendet.",
+    "fr": "Une extension Safari qui masque les fils d'actualité, les Reels, les Stories et Explorer sur les sites des réseaux sociaux.",
+    "es": "Una extensión de Safari que oculta los feeds, los Reels, las historias y Explorar en las webs de redes sociales.",
+    "pt": "Uma extensão do Safari que esconde feeds, Reels, Stories e Explorar em sites de redes sociais.",
+    "it": "Un'estensione di Safari che nasconde feed, Reels, storie ed Esplora sui siti dei social network."
    },
    "nets": {
     "en": "Social media websites in Safari",
-    "ja": "Safari で開くSNSのサイト"
+    "ja": "Safari で開くSNSのサイト",
+    "de": "Social-Media-Websites in Safari",
+    "fr": "Sites de réseaux sociaux dans Safari",
+    "es": "Webs de redes sociales en Safari",
+    "pt": "Sites de redes sociais no Safari",
+    "it": "Siti dei social network in Safari"
    },
    "free": {
     "en": "Free with Premium features.",
-    "ja": "無料。Premium あり。"
+    "ja": "無料。Premium あり。",
+    "de": "Kostenlos, mit Premium-Funktionen.",
+    "fr": "Gratuit, avec des fonctions Premium.",
+    "es": "Gratis, con funciones Premium.",
+    "pt": "Grátis, com recursos Premium.",
+    "it": "Gratis, con funzioni Premium."
    },
    "dms": {
     "en": "Not stated",
-    "ja": "記載なし"
+    "ja": "記載なし",
+    "de": "Keine Angabe",
+    "fr": "Non précisé",
+    "es": "No se indica",
+    "pt": "Não informado",
+    "it": "Non indicato"
    },
    "also": {
     "en": "Requires iOS 18",
-    "ja": "iOS 18 以上"
+    "ja": "iOS 18 以上",
+    "de": "Erfordert iOS 18",
+    "fr": "Nécessite iOS 18",
+    "es": "Requiere iOS 18",
+    "pt": "Requer iOS 18",
+    "it": "Richiede iOS 18"
    }
   },
   {
@@ -107,23 +207,48 @@
    "ratings": 2,
    "how": {
     "en": "A Safari Web Extension for instagram.com and youtube.com.",
-    "ja": "instagram.com と youtube.com 向けの Safari 拡張機能。"
+    "ja": "instagram.com と youtube.com 向けの Safari 拡張機能。",
+    "de": "Eine Safari-Web-Erweiterung für instagram.com und youtube.com.",
+    "fr": "Une extension web Safari pour instagram.com et youtube.com.",
+    "es": "Una extensión web de Safari para instagram.com y youtube.com.",
+    "pt": "Uma extensão web do Safari para instagram.com e youtube.com.",
+    "it": "Un'estensione web di Safari per instagram.com e youtube.com."
    },
    "nets": {
     "en": "Instagram, YouTube",
-    "ja": "Instagram・YouTube"
+    "ja": "Instagram・YouTube",
+    "de": "Instagram, YouTube",
+    "fr": "Instagram, YouTube",
+    "es": "Instagram, YouTube",
+    "pt": "Instagram, YouTube",
+    "it": "Instagram, YouTube"
    },
    "free": {
     "en": "Fully free: no subscriptions or in-app purchases.",
-    "ja": "完全無料。サブスクもアプリ内課金もない。"
+    "ja": "完全無料。サブスクもアプリ内課金もない。",
+    "de": "Komplett kostenlos: keine Abos oder In-App-Käufe.",
+    "fr": "Entièrement gratuit : ni abonnement ni achats intégrés.",
+    "es": "Totalmente gratis: sin suscripciones ni compras dentro de la app.",
+    "pt": "Totalmente grátis: sem assinaturas nem compras no app.",
+    "it": "Completamente gratis: nessun abbonamento né acquisti in-app."
    },
    "dms": {
     "en": "Yes",
-    "ja": "使える"
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
    },
    "also": {
     "en": "Chrome extension",
-    "ja": "Chrome 拡張"
+    "ja": "Chrome 拡張",
+    "de": "Chrome-Erweiterung",
+    "fr": "Extension Chrome",
+    "es": "Extensión de Chrome",
+    "pt": "Extensão para Chrome",
+    "it": "Estensione per Chrome"
    }
   },
   {
@@ -132,23 +257,48 @@
    "ratings": 2,
    "how": {
     "en": "Loads instagram.com in its own in-app browser and hides chosen parts.",
-    "ja": "instagram.com を自前のアプリ内ブラウザで開き、選んだ部分を隠す。"
+    "ja": "instagram.com を自前のアプリ内ブラウザで開き、選んだ部分を隠す。",
+    "de": "Lädt instagram.com in einem eigenen In-App-Browser und blendet ausgewählte Bereiche aus.",
+    "fr": "Charge instagram.com dans son propre navigateur intégré et masque les éléments choisis.",
+    "es": "Carga instagram.com en su propio navegador integrado y oculta las partes que elijas.",
+    "pt": "Carrega o instagram.com em um navegador próprio dentro do app e esconde as partes que você escolher.",
+    "it": "Carica instagram.com nel proprio browser in-app e nasconde le parti scelte."
    },
    "nets": {
     "en": "Instagram only",
-    "ja": "Instagram だけ"
+    "ja": "Instagram だけ",
+    "de": "Nur Instagram",
+    "fr": "Instagram uniquement",
+    "es": "Solo Instagram",
+    "pt": "Só Instagram",
+    "it": "Solo Instagram"
    },
    "free": {
     "en": "Filtering is free; Premium is €2.99/month or €9.99 once.",
-    "ja": "消す機能は無料。Premium は月2.99ユーロか買い切り9.99ユーロ。"
+    "ja": "消す機能は無料。Premium は月2.99ユーロか買い切り9.99ユーロ。",
+    "de": "Das Filtern ist kostenlos; Premium kostet €2.99/Monat oder einmalig €9.99.",
+    "fr": "Le filtrage est gratuit ; Premium coûte €2.99/mois ou €9.99 en achat unique.",
+    "es": "Filtrar es gratis; Premium cuesta €2.99/mes o €9.99 en un solo pago.",
+    "pt": "Filtrar é grátis; o Premium custa €2.99/mês ou €9.99 em pagamento único.",
+    "it": "Il filtro è gratuito; Premium costa €2.99/mese o €9.99 una tantum."
    },
    "dms": {
     "en": "Yes",
-    "ja": "使える"
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
    },
    "also": {
     "en": "—",
-    "ja": "—"
+    "ja": "—",
+    "de": "—",
+    "fr": "—",
+    "es": "—",
+    "pt": "—",
+    "it": "—"
    }
   },
   {
@@ -157,23 +307,48 @@
    "ratings": 29,
    "how": {
     "en": "A browser for social media with per-site settings.",
-    "ja": "SNS用のブラウザ。サイトごとに設定する。"
+    "ja": "SNS用のブラウザ。サイトごとに設定する。",
+    "de": "Ein Browser für Social Media mit Einstellungen pro Website.",
+    "fr": "Un navigateur pour les réseaux sociaux, avec des réglages par site.",
+    "es": "Un navegador para redes sociales con ajustes para cada sitio.",
+    "pt": "Um navegador para redes sociais com configurações por site.",
+    "it": "Un browser per i social con impostazioni per ogni sito."
    },
    "nets": {
     "en": "Instagram, YouTube, X, Facebook",
-    "ja": "Instagram・YouTube・X・Facebook"
+    "ja": "Instagram・YouTube・X・Facebook",
+    "de": "Instagram, YouTube, X, Facebook",
+    "fr": "Instagram, YouTube, X, Facebook",
+    "es": "Instagram, YouTube, X, Facebook",
+    "pt": "Instagram, YouTube, X, Facebook",
+    "it": "Instagram, YouTube, X, Facebook"
    },
    "free": {
     "en": "Free with a Pro tier.",
-    "ja": "無料。Pro あり。"
+    "ja": "無料。Pro あり。",
+    "de": "Kostenlos, mit Pro-Version.",
+    "fr": "Gratuit, avec une offre Pro.",
+    "es": "Gratis, con un plan Pro.",
+    "pt": "Grátis, com um plano Pro.",
+    "it": "Gratis, con un piano Pro."
    },
    "dms": {
     "en": "Yes (DMs-only option)",
-    "ja": "使える（DMだけにする設定あり）"
+    "ja": "使える（DMだけにする設定あり）",
+    "de": "Ja (Option „nur DMs“)",
+    "fr": "Oui (option DM uniquement)",
+    "es": "Sí (opción solo DMs)",
+    "pt": "Sim (opção só DMs)",
+    "it": "Sì (opzione solo DM)"
    },
    "also": {
     "en": "Requires iOS 18",
-    "ja": "iOS 18 以上"
+    "ja": "iOS 18 以上",
+    "de": "Erfordert iOS 18",
+    "fr": "Nécessite iOS 18",
+    "es": "Requiere iOS 18",
+    "pt": "Requer iOS 18",
+    "it": "Richiede iOS 18"
    }
   },
   {
@@ -182,23 +357,48 @@
    "ratings": 33,
    "how": {
     "en": "Blocks Reels and Shorts or whole apps, and asks you to hold a button before unlocking (the description does not detail how Reels are blocked).",
-    "ja": "リールやショート、またはアプリ全体を止め、解除には長押しが要る（リールの止め方の詳細は説明にない）。"
+    "ja": "リールやショート、またはアプリ全体を止め、解除には長押しが要る（リールの止め方の詳細は説明にない）。",
+    "de": "Sperrt Reels und Shorts oder ganze Apps und verlangt vor dem Entsperren, dass du eine Taste gedrückt hältst (die Beschreibung erklärt nicht näher, wie Reels gesperrt werden).",
+    "fr": "Bloque les Reels et les Shorts, ou des applications entières, et vous demande de maintenir un bouton appuyé avant de débloquer (la description ne détaille pas comment les Reels sont bloqués).",
+    "es": "Bloquea Reels y Shorts o apps enteras, y te pide mantener pulsado un botón antes de desbloquear (la descripción no detalla cómo se bloquean los Reels).",
+    "pt": "Bloqueia Reels e Shorts ou apps inteiros, e pede que você segure um botão antes de desbloquear (a descrição não detalha como os Reels são bloqueados).",
+    "it": "Blocca Reels e Shorts o intere app, e chiede di tenere premuto un pulsante prima di sbloccare (la descrizione non spiega nel dettaglio come vengono bloccati i Reels)."
    },
    "nets": {
     "en": "Not listed",
-    "ja": "記載なし"
+    "ja": "記載なし",
+    "de": "Keine Angabe",
+    "fr": "Non précisé",
+    "es": "No se indica",
+    "pt": "Não informado",
+    "it": "Non indicato"
    },
    "free": {
     "en": "Free with in-app purchases.",
-    "ja": "無料。アプリ内課金あり。"
+    "ja": "無料。アプリ内課金あり。",
+    "de": "Kostenlos, mit In-App-Käufen.",
+    "fr": "Gratuit, avec achats intégrés.",
+    "es": "Gratis, con compras dentro de la app.",
+    "pt": "Grátis, com compras no app.",
+    "it": "Gratis, con acquisti in-app."
    },
    "dms": {
     "en": "Not stated",
-    "ja": "記載なし"
+    "ja": "記載なし",
+    "de": "Keine Angabe",
+    "fr": "Non précisé",
+    "es": "No se indica",
+    "pt": "Não informado",
+    "it": "Non indicato"
    },
    "also": {
     "en": "Requires iOS 18",
-    "ja": "iOS 18 以上"
+    "ja": "iOS 18 以上",
+    "de": "Erfordert iOS 18",
+    "fr": "Nécessite iOS 18",
+    "es": "Requiere iOS 18",
+    "pt": "Requer iOS 18",
+    "it": "Richiede iOS 18"
    }
   }
  ],
@@ -279,6 +479,201 @@
    ],
    "more": "SNSごとの消し方",
    "faq": "よくある質問",
+   "home": "minulo"
+  },
+  "de": {
+   "title": "Apps, die Instagram Reels und YouTube Shorts ausblenden – DMs bleiben nutzbar (2026)",
+   "lede": "Mehrere iPhone-Apps blenden Instagram Reels und YouTube Shorts aus, während DMs weiter funktionieren. Die meisten arbeiten auf eine von zwei Arten: mit einem In-App-Browser (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) oder als Safari-Erweiterung (ScrollGuard, Nope). minulo kann außerdem die offiziellen Apps per Bildschirmzeit sperren und dich zu seiner Ansicht ohne Reels weiterleiten.",
+   "disclose": "Diese Seite wurde vom Entwickler von minulo verfasst. Angaben zu anderen Apps stammen ausschließlich aus deren App-Store-Beschreibungen und US-Bewertungen, Stand {date}.",
+   "cols": [
+    "App",
+    "Funktionsweise",
+    "Netzwerke",
+    "Preis",
+    "DMs bleiben",
+    "Sonstiges",
+    "US-Bewertungen"
+   ],
+   "qa": [
+    [
+     "Welche App blendet Instagram-Reels aus, lässt aber die DMs funktionieren?",
+     "SocialLite, UNDOOMED, Awhile, LoomWeb, Nope und minulo geben alle an, dass DMs weiter funktionieren, während Reels ausgeblendet sind. Awhile deckt nur Instagram ab; Nope deckt Instagram und YouTube ab; UNDOOMED, LoomWeb und minulo decken mehrere Netzwerke ab. minulo unterstützt 10, darunter TikTok und Snapchat."
+    ],
+    [
+     "Kann eine dieser Apps Reels in der offiziellen Instagram-App entfernen?",
+     "Nur WallHabit gibt an, Teile von Apps wie Reels und Shorts sperren zu können, und die Beschreibung erklärt nicht, wie. Die anderen Apps zeigen Instagram in ihrem eigenen Browser oder in Safari an, statt die offizielle App zu verändern. minulo geht einen anderen Weg: Es kann die offizielle Instagram-App per Bildschirmzeit sperren, und wenn du sie öffnen willst, leitet es dich zu minulo weiter, wo Reels ausgeblendet sind."
+    ],
+    [
+     "Welche Option ist komplett kostenlos?",
+     "Nope gibt an, komplett kostenlos zu sein, ohne Abos oder In-App-Käufe, und deckt Instagram und YouTube in Safari ab. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen in allen 10 Netzwerken kostenlos; nur Zeitpläne, der Sperrmodus und mehrere Sperrlisten sind kostenpflichtig."
+    ],
+    [
+     "Was ist eine gute Alternative zu SocialLite?",
+     "SocialLite hat mit Abstand die meisten Bewertungen (7.776 in den USA). Wenn du eine andere App suchst, die DMs erhält und Kurzvideos ausblendet, decken UNDOOMED und minulo die meisten Netzwerke ab. minulo funktioniert außerdem auf dem Mac und in Chrome und unterstützt 7 Sprachen, ist aber neu und hat noch keine US-Bewertungen."
+    ],
+    [
+     "Ist das Einloggen über minulo sicher?",
+     "Du meldest dich auf der offiziellen Webseite des jeweiligen Netzwerks innerhalb von minulo an. minulo erhält und speichert weder deine ID noch dein Passwort und hat kein eigenes Konto. Die Nutzungsanalysen sind anonym und nicht mit dir verknüpft."
+    ]
+   ],
+   "more": "Reels Schritt für Schritt ausblenden",
+   "faq": "Häufige Fragen",
+   "home": "minulo"
+  },
+  "fr": {
+   "title": "Applis pour masquer les Reels Instagram et les Shorts YouTube sans perdre vos messages (2026)",
+   "lede": "Plusieurs applications iPhone masquent les Reels Instagram et les Shorts YouTube tout en gardant les messages privés. La plupart fonctionnent de l'une de ces deux façons : un navigateur intégré à l'application (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) ou une extension Safari (ScrollGuard, Nope). minulo peut aussi verrouiller les applications officielles avec Temps d'écran et vous rediriger vers son affichage sans Reels.",
+   "disclose": "Cette page est rédigée par le développeur de minulo. Les informations sur les autres applications proviennent uniquement de leur description sur l'App Store et de leurs notes aux États-Unis au {date}.",
+   "cols": [
+    "Application",
+    "Fonctionnement",
+    "Réseaux",
+    "Prix",
+    "Garde les DM",
+    "Autres",
+    "Notes (États-Unis)"
+   ],
+   "qa": [
+    [
+     "Quelle application masque les Reels Instagram mais garde les messages privés ?",
+     "SocialLite, UNDOOMED, Awhile, LoomWeb, Nope et minulo indiquent tous que les messages privés restent utilisables pendant que les Reels sont masqués. Awhile ne couvre qu'Instagram ; Nope couvre Instagram et YouTube ; UNDOOMED, LoomWeb et minulo couvrent plusieurs réseaux. minulo en prend en charge 10, dont TikTok et Snapchat."
+    ],
+    [
+     "Est-ce qu'une de ces applications peut supprimer les Reels dans l'application Instagram officielle ?",
+     "Seule WallHabit indique pouvoir bloquer des parties d'applications comme les Reels et les Shorts, et sa description n'explique pas comment. Les autres applications affichent Instagram dans leur propre navigateur ou dans Safari au lieu de modifier l'application officielle. minulo procède autrement : il peut verrouiller l'application Instagram officielle avec Temps d'écran et, quand vous essayez de l'ouvrir, vous redirige vers minulo, où les Reels sont masqués."
+    ],
+    [
+     "Quelle option est entièrement gratuite ?",
+     "Nope se dit entièrement gratuit, sans abonnement ni achats intégrés, et couvre Instagram et YouTube dans Safari. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; seuls les plannings, le mode verrouillage et les listes de blocage multiples sont payants."
+    ],
+    [
+     "Quelle bonne alternative à SocialLite ?",
+     "SocialLite a de loin le plus de notes (7 776 aux États-Unis). Si vous cherchez une autre application qui garde les messages privés et masque les vidéos courtes, UNDOOMED et minulo couvrent le plus de réseaux. minulo fonctionne aussi sur Mac et Chrome et est disponible en 7 langues, mais il est récent et n'a pas encore de notes aux États-Unis."
+    ],
+    [
+     "Est-ce sûr de se connecter via minulo ?",
+     "Vous vous connectez sur la page web officielle de chaque réseau, dans minulo. minulo ne reçoit ni ne stocke votre identifiant ou votre mot de passe, et n'a pas de compte propre. Les statistiques d'utilisation sont anonymes et ne sont pas liées à vous."
+    ]
+   ],
+   "more": "Masquer les Reels étape par étape",
+   "faq": "Questions fréquentes",
+   "home": "minulo"
+  },
+  "es": {
+   "title": "Apps para ocultar los Reels de Instagram y los Shorts de YouTube sin perder los mensajes directos (2026)",
+   "lede": "Varias apps para iPhone ocultan los Reels de Instagram y los Shorts de YouTube sin quitarte los mensajes directos. La mayoría funciona de una de estas dos formas: un navegador dentro de la app (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) o una extensión de Safari (ScrollGuard, Nope). minulo también puede bloquear las apps oficiales con Tiempo de uso y llevarte a su vista sin Reels.",
+   "disclose": "Esta página la ha escrito el desarrollador de minulo. Los datos sobre otras apps proceden únicamente de sus descripciones en la App Store y de sus valoraciones en EE. UU. a fecha de {date}.",
+   "cols": [
+    "App",
+    "Cómo funciona",
+    "Redes",
+    "Precio",
+    "Mantiene los mensajes",
+    "Otros",
+    "Valoraciones en EE. UU."
+   ],
+   "qa": [
+    [
+     "¿Qué app oculta los Reels de Instagram pero deja usar los mensajes directos?",
+     "SocialLite, UNDOOMED, Awhile, LoomWeb, Nope y minulo dicen que los mensajes directos siguen funcionando mientras los Reels están ocultos. Awhile solo cubre Instagram; Nope cubre Instagram y YouTube; UNDOOMED, LoomWeb y minulo cubren varias redes. minulo es compatible con 10, entre ellas TikTok y Snapchat."
+    ],
+    [
+     "¿Alguna de estas apps puede quitar los Reels dentro de la app oficial de Instagram?",
+     "Solo WallHabit dice que puede bloquear partes de apps como los Reels y los Shorts, y su descripción no explica cómo. Las demás apps muestran Instagram en su propio navegador o en Safari en lugar de modificar la app oficial. minulo sigue otro camino: puede bloquear la app oficial de Instagram con Tiempo de uso y, cuando intentas abrirla, te lleva a minulo, donde los Reels están ocultos."
+    ],
+    [
+     "¿Qué opción es completamente gratis?",
+     "Nope dice que es totalmente gratis, sin suscripciones ni compras dentro de la app, y cubre Instagram y YouTube en Safari. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis en las 10 redes; solo los horarios, el modo bloqueo y las listas de bloqueo múltiples son de pago."
+    ],
+    [
+     "¿Cuál es una buena alternativa a SocialLite?",
+     "SocialLite es, con diferencia, la que tiene más valoraciones (7.776 en EE. UU.). Si buscas otra app que mantenga los mensajes directos y oculte los vídeos cortos, UNDOOMED y minulo son las que cubren más redes. minulo también funciona en Mac y Chrome y está disponible en 7 idiomas, pero es nueva y aún no tiene valoraciones en EE. UU."
+    ],
+    [
+     "¿Es seguro iniciar sesión con minulo?",
+     "Inicias sesión en la página web oficial de cada red dentro de minulo. minulo no recibe ni guarda tu ID ni tu contraseña, y no tiene cuenta propia. Las estadísticas de uso son anónimas y no están vinculadas a ti."
+    ]
+   ],
+   "more": "Cómo ocultar los Reels paso a paso",
+   "faq": "Preguntas frecuentes",
+   "home": "minulo"
+  },
+  "pt": {
+   "title": "Apps que escondem os Reels do Instagram e os Shorts do YouTube sem perder as DMs (2026)",
+   "lede": "Vários apps para iPhone escondem os Reels do Instagram e os Shorts do YouTube e mantêm as DMs funcionando. A maioria funciona de uma de duas formas: um navegador dentro do app (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) ou uma extensão do Safari (ScrollGuard, Nope). O minulo também pode bloquear os apps oficiais com o Tempo de Uso e levar você para a visualização dele sem Reels.",
+   "disclose": "Esta página foi escrita pelo desenvolvedor do minulo. As informações sobre outros apps vêm apenas das descrições deles na App Store e das avaliações nos EUA em {date}.",
+   "cols": [
+    "App",
+    "Como funciona",
+    "Redes",
+    "Preço",
+    "Mantém as DMs",
+    "Outros",
+    "Avaliações nos EUA"
+   ],
+   "qa": [
+    [
+     "Qual app esconde os Reels do Instagram mas mantém as DMs?",
+     "SocialLite, UNDOOMED, Awhile, LoomWeb, Nope e minulo dizem que as DMs continuam funcionando enquanto os Reels ficam ocultos. O Awhile cobre só o Instagram; o Nope cobre Instagram e YouTube; UNDOOMED, LoomWeb e minulo cobrem várias redes. O minulo é compatível com 10, incluindo TikTok e Snapchat."
+    ],
+    [
+     "Algum desses apps consegue tirar os Reels dentro do app oficial do Instagram?",
+     "Só o WallHabit diz que consegue bloquear partes de apps, como Reels e Shorts, e a descrição dele não explica como. Os outros apps mostram o Instagram no próprio navegador ou no Safari, em vez de alterar o app oficial. O minulo segue outro caminho: ele pode bloquear o app oficial do Instagram com o Tempo de Uso e, quando você tenta abri-lo, leva você ao minulo, onde os Reels ficam ocultos."
+    ],
+    [
+     "Qual opção é totalmente grátis?",
+     "O Nope diz que é totalmente grátis, sem assinaturas nem compras no app, e cobre Instagram e YouTube no Safari. No minulo, esconder Reels, Shorts e posts sugeridos é grátis nas 10 redes; só agendamentos, modo de bloqueio e várias listas de bloqueio são pagos."
+    ],
+    [
+     "Qual é uma boa alternativa ao SocialLite?",
+     "O SocialLite tem, de longe, o maior número de avaliações (7.776 nos EUA). Se você quer outro app que mantenha as DMs e esconda vídeos curtos, UNDOOMED e minulo são os que cobrem mais redes. O minulo também funciona no Mac e no Chrome e está disponível em 7 idiomas, mas é novo e ainda não tem avaliações nos EUA."
+    ],
+    [
+     "É seguro fazer login pelo minulo?",
+     "Você faz login na página oficial de cada rede, aberta dentro do minulo. O minulo não recebe nem armazena seu ID ou sua senha, e não tem conta própria. As estatísticas de uso são anônimas e não ficam vinculadas a você."
+    ]
+   ],
+   "more": "Como esconder os Reels passo a passo",
+   "faq": "Perguntas frequentes",
+   "home": "minulo"
+  },
+  "it": {
+   "title": "App per nascondere i Reels di Instagram e gli Shorts di YouTube senza perdere i DM (2026)",
+   "lede": "Diverse app per iPhone nascondono i Reels di Instagram e gli Shorts di YouTube lasciando funzionare i DM. La maggior parte funziona in uno di due modi: un browser interno all'app (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) o un'estensione di Safari (ScrollGuard, Nope). minulo può anche bloccare le app ufficiali con Tempo di utilizzo e portarti alla sua vista senza Reels.",
+   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. Le informazioni sulle altre app provengono solo dalle loro descrizioni sull'App Store e dalle valutazioni negli Stati Uniti al {date}.",
+   "cols": [
+    "App",
+    "Come funziona",
+    "Social",
+    "Prezzo",
+    "DM attivi",
+    "Altro",
+    "Valutazioni USA"
+   ],
+   "qa": [
+    [
+     "Quale app nasconde i Reels di Instagram ma mantiene i DM?",
+     "SocialLite, UNDOOMED, Awhile, LoomWeb, Nope e minulo dichiarano tutte che i DM continuano a funzionare mentre i Reels sono nascosti. Awhile copre solo Instagram; Nope copre Instagram e YouTube; UNDOOMED, LoomWeb e minulo coprono più social. minulo ne supporta 10, tra cui TikTok e Snapchat."
+    ],
+    [
+     "Qualcuna di queste app può togliere i Reels dentro l'app ufficiale di Instagram?",
+     "Solo WallHabit dichiara di poter bloccare parti delle app come Reels e Shorts, e la sua descrizione non spiega come. Le altre app mostrano Instagram nel proprio browser o in Safari invece di modificare l'app ufficiale. minulo segue un'altra strada: può bloccare l'app ufficiale di Instagram con Tempo di utilizzo e, quando provi ad aprirla, ti porta su minulo, dove i Reels sono nascosti."
+    ],
+    [
+     "Quale opzione è completamente gratuita?",
+     "Nope dichiara di essere completamente gratuita, senza abbonamenti né acquisti in-app, e copre Instagram e YouTube in Safari. In minulo nascondere Reels, Shorts e post suggeriti è gratis su tutti e 10 i social; a pagamento ci sono solo le programmazioni, la modalità blocco e le liste di blocco multiple."
+    ],
+    [
+     "Qual è una buona alternativa a SocialLite?",
+     "SocialLite ha di gran lunga più valutazioni (7.776 negli Stati Uniti). Se cerchi un'altra app che mantenga i DM e nasconda i video brevi, UNDOOMED e minulo sono quelle che coprono più social. minulo funziona anche su Mac e Chrome ed è disponibile in 7 lingue, ma è nuova e non ha ancora valutazioni negli Stati Uniti."
+    ],
+    [
+     "È sicuro fare il login con minulo?",
+     "Accedi dalla pagina web ufficiale di ogni social, aperta dentro minulo. minulo non riceve né memorizza il tuo ID o la tua password e non ha un account proprio. Le statistiche di utilizzo sono anonime e non sono collegate a te."
+    ]
+   ],
+   "more": "Come nascondere i Reels passo dopo passo",
+   "faq": "Domande frequenti",
    "home": "minulo"
   }
  }
