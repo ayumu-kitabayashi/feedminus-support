@@ -1,0 +1,285 @@
+{
+ "checked": "2026-09-28",
+ "apps": [
+  {
+   "name": "minulo",
+   "id": 6809352229,
+   "ratings": 0,
+   "how": {
+    "en": "Opens each network's official website inside the app and hides chosen parts. Can also lock the official apps with Screen Time and send you to minulo instead.",
+    "ja": "各SNSの公式ページをアプリの中で開き、選んだ部分を表示しない。スクリーンタイムで公式アプリを止め、minulo に案内することもできる。"
+   },
+   "nets": {
+    "en": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)",
+    "ja": "Instagram・YouTube・TikTok・X・Threads・Facebook・Pinterest・Reddit・LinkedIn・Snapchat（10）"
+   },
+   "free": {
+    "en": "Hiding is free. Pro adds schedules, lock mode and multiple block lists.",
+    "ja": "消す機能は無料。予定・ロックモード・複数のリストは Pro。"
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える"
+   },
+   "also": {
+    "en": "iPhone, Mac, Chrome",
+    "ja": "iPhone・Mac・Chrome"
+   }
+  },
+  {
+   "name": "SocialLite",
+   "id": 6757661674,
+   "ratings": 7776,
+   "how": {
+    "en": "A focused browsing view for social platforms (the description does not detail the method).",
+    "ja": "SNSを絞った表示で開く（説明に仕組みの詳細はない）。"
+   },
+   "nets": {
+    "en": "Instagram, YouTube and other platforms",
+    "ja": "Instagram・YouTube ほか"
+   },
+   "free": {
+    "en": "Free app; in-app purchases available.",
+    "ja": "無料。アプリ内課金あり。"
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える"
+   },
+   "also": {
+    "en": "—",
+    "ja": "—"
+   }
+  },
+  {
+   "name": "UNDOOMED",
+   "id": 6751837079,
+   "ratings": 103,
+   "how": {
+    "en": "Opens each network's mobile website in its own private browser and filters the page.",
+    "ja": "各SNSのモバイル版サイトを自前のブラウザで開き、表示を絞る。"
+   },
+   "nets": {
+    "en": "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (no TikTok or Snapchat)",
+    "ja": "Instagram・Threads・Reddit・Facebook・X・YouTube・LinkedIn（TikTok・Snapchat は非対応）"
+   },
+   "free": {
+    "en": "Many features free; Plus and Pro add more.",
+    "ja": "多くの機能が無料。Plus・Pro で追加。"
+   },
+   "dms": {
+    "en": "Yes (Messages Only mode)",
+    "ja": "使える（メッセージだけのモード）"
+   },
+   "also": {
+    "en": "—",
+    "ja": "—"
+   }
+  },
+  {
+   "name": "ScrollGuard",
+   "id": 6754183872,
+   "ratings": 101,
+   "how": {
+    "en": "A Safari extension that hides feeds, Reels, Stories and Explore on social media websites.",
+    "ja": "Safari の拡張機能で、SNSのサイトのフィード・リール・ストーリーズ・発見を隠す。"
+   },
+   "nets": {
+    "en": "Social media websites in Safari",
+    "ja": "Safari で開くSNSのサイト"
+   },
+   "free": {
+    "en": "Free with Premium features.",
+    "ja": "無料。Premium あり。"
+   },
+   "dms": {
+    "en": "Not stated",
+    "ja": "記載なし"
+   },
+   "also": {
+    "en": "Requires iOS 18",
+    "ja": "iOS 18 以上"
+   }
+  },
+  {
+   "name": "Nope",
+   "id": 6768192042,
+   "ratings": 2,
+   "how": {
+    "en": "A Safari Web Extension for instagram.com and youtube.com.",
+    "ja": "instagram.com と youtube.com 向けの Safari 拡張機能。"
+   },
+   "nets": {
+    "en": "Instagram, YouTube",
+    "ja": "Instagram・YouTube"
+   },
+   "free": {
+    "en": "Fully free: no subscriptions or in-app purchases.",
+    "ja": "完全無料。サブスクもアプリ内課金もない。"
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える"
+   },
+   "also": {
+    "en": "Chrome extension",
+    "ja": "Chrome 拡張"
+   }
+  },
+  {
+   "name": "Awhile",
+   "id": 6763551826,
+   "ratings": 2,
+   "how": {
+    "en": "Loads instagram.com in its own in-app browser and hides chosen parts.",
+    "ja": "instagram.com を自前のアプリ内ブラウザで開き、選んだ部分を隠す。"
+   },
+   "nets": {
+    "en": "Instagram only",
+    "ja": "Instagram だけ"
+   },
+   "free": {
+    "en": "Filtering is free; Premium is €2.99/month or €9.99 once.",
+    "ja": "消す機能は無料。Premium は月2.99ユーロか買い切り9.99ユーロ。"
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える"
+   },
+   "also": {
+    "en": "—",
+    "ja": "—"
+   }
+  },
+  {
+   "name": "LoomWeb",
+   "id": 6754727620,
+   "ratings": 29,
+   "how": {
+    "en": "A browser for social media with per-site settings.",
+    "ja": "SNS用のブラウザ。サイトごとに設定する。"
+   },
+   "nets": {
+    "en": "Instagram, YouTube, X, Facebook",
+    "ja": "Instagram・YouTube・X・Facebook"
+   },
+   "free": {
+    "en": "Free with a Pro tier.",
+    "ja": "無料。Pro あり。"
+   },
+   "dms": {
+    "en": "Yes (DMs-only option)",
+    "ja": "使える（DMだけにする設定あり）"
+   },
+   "also": {
+    "en": "Requires iOS 18",
+    "ja": "iOS 18 以上"
+   }
+  },
+  {
+   "name": "WallHabit",
+   "id": 6751423279,
+   "ratings": 33,
+   "how": {
+    "en": "Blocks Reels and Shorts or whole apps, and asks you to hold a button before unlocking (the description does not detail how Reels are blocked).",
+    "ja": "リールやショート、またはアプリ全体を止め、解除には長押しが要る（リールの止め方の詳細は説明にない）。"
+   },
+   "nets": {
+    "en": "Not listed",
+    "ja": "記載なし"
+   },
+   "free": {
+    "en": "Free with in-app purchases.",
+    "ja": "無料。アプリ内課金あり。"
+   },
+   "dms": {
+    "en": "Not stated",
+    "ja": "記載なし"
+   },
+   "also": {
+    "en": "Requires iOS 18",
+    "ja": "iOS 18 以上"
+   }
+  }
+ ],
+ "t": {
+  "en": {
+   "title": "Apps that hide Instagram Reels and YouTube Shorts but keep your DMs (2026)",
+   "lede": "Several iPhone apps hide Instagram Reels and YouTube Shorts while keeping DMs. Most work in one of two ways: an in-app browser (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) or a Safari extension (ScrollGuard, Nope). minulo can also lock the official apps with Screen Time and send you to its Reels-free view.",
+   "disclose": "This page is written by the developer of minulo. Facts about other apps come only from their App Store descriptions and US ratings as of {date}.",
+   "cols": [
+    "App",
+    "How it works",
+    "Networks",
+    "Price",
+    "Keeps DMs",
+    "Other",
+    "US ratings"
+   ],
+   "qa": [
+    [
+     "Which app hides Instagram Reels but keeps DMs?",
+     "SocialLite, UNDOOMED, Awhile, LoomWeb, Nope and minulo all say DMs keep working while Reels are hidden. Awhile covers Instagram only; Nope covers Instagram and YouTube; UNDOOMED, LoomWeb and minulo cover several networks. minulo supports 10, including TikTok and Snapchat."
+    ],
+    [
+     "Can any of these apps remove Reels inside the official Instagram app?",
+     "Only WallHabit says it can block parts of apps such as Reels and Shorts, and its description does not explain how. The other apps show Instagram in their own browser or in Safari rather than changing the official app. minulo takes a different route: it can lock the official Instagram app with Screen Time, and when you try to open it, it sends you to minulo, where Reels are hidden."
+    ],
+    [
+     "Which option is completely free?",
+     "Nope says it is fully free, with no subscriptions or in-app purchases, and covers Instagram and YouTube in Safari. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks; only schedules, lock mode and multiple block lists are paid."
+    ],
+    [
+     "What is a good SocialLite alternative?",
+     "SocialLite has by far the most ratings (7,776 in the US). If you want another app that keeps DMs and hides short videos, UNDOOMED and minulo cover the most networks. minulo also works on Mac and Chrome and supports 7 languages, but it is new and has no US ratings yet."
+    ],
+    [
+     "Is minulo safe to log in with?",
+     "You log in on each network's official web page inside minulo. minulo does not receive or store your ID or password, and it has no account of its own. Usage analytics are anonymous and not linked to you."
+    ]
+   ],
+   "more": "Hide Reels step by step",
+   "faq": "Frequently asked questions",
+   "home": "minulo"
+  },
+  "ja": {
+   "title": "リールとショートを消して、DMは残せるアプリの比較（2026年）",
+   "lede": "Instagram のリールや YouTube のショートを消しつつ、DM は使える iPhone アプリはいくつかあります。仕組みの多くは、アプリの中のブラウザで開くもの（SocialLite・UNDOOMED・Awhile・LoomWeb・minulo）か、Safari の拡張機能（ScrollGuard・Nope）です。minulo は、公式アプリをスクリーンタイムで止めて、リールの消えた画面へ案内することもできます。",
+   "disclose": "このページは minulo の開発者が書いています。ほかのアプリについては、{date} 時点の App Store の説明と米国の評価数だけをもとにしています。",
+   "cols": [
+    "アプリ",
+    "仕組み",
+    "対応SNS",
+    "料金",
+    "DM",
+    "そのほか",
+    "米国の評価数"
+   ],
+   "qa": [
+    [
+     "インスタのリールだけ消して、DMを使えるアプリはどれ？",
+     "SocialLite・UNDOOMED・Awhile・LoomWeb・Nope・minulo は、どれもリールを隠したまま DM は使えると説明しています。Awhile は Instagram だけ、Nope は Instagram と YouTube、UNDOOMED・LoomWeb・minulo は複数のSNSに対応しています。minulo は TikTok と Snapchat を含む10のSNSに対応しています。"
+    ],
+    [
+     "公式のInstagramアプリの中でリールを消せるアプリはある？",
+     "アプリの一部（リールやショート）を止められると説明しているのは WallHabit だけで、その仕組みは説明に書かれていません。ほかのアプリは、公式アプリを変えるのではなく、自前のブラウザか Safari で Instagram を表示します。minulo は別のやり方で、公式の Instagram アプリをスクリーンタイムで止め、開こうとするとリールが消えた minulo へ案内できます。"
+    ],
+    [
+     "完全に無料で使えるのはどれ？",
+     "Nope は、サブスクもアプリ内課金もない完全無料だと説明しており、Safari で Instagram と YouTube に使えます。minulo は、10のSNSでリール・ショート・おすすめ投稿を消す機能が無料で、有料なのは予定・ロックモード・複数のリストだけです。"
+    ],
+    [
+     "SocialLiteの代わりになるアプリは？",
+     "評価の数は SocialLite が群を抜いて多く、米国で7,776件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSが多いのは UNDOOMED と minulo です。minulo は Mac と Chrome でも使え、7言語に対応していますが、新しいアプリなので米国の評価はまだありません。"
+    ],
+    [
+     "minuloでログインしても安全？",
+     "ログインは、minulo の中で開いた各SNSの公式ページで行います。minulo は ID もパスワードも受け取らず、保存もしません。minulo 自体のアカウントもありません。使われ方の記録は匿名で、個人と結びつきません。"
+    ]
+   ],
+   "more": "SNSごとの消し方",
+   "faq": "よくある質問",
+   "home": "minulo"
+  }
+ }
+}

@@ -787,4 +787,12 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/hide/snapchat.html"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/hide/snapchat.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/hide/snapchat.html"/></url>
+  <url><loc>https://minulo.app/alternatives.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/alternatives.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/alternatives.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/alternatives.html"/><lastmod>2026-09-28</lastmod></url>
+  <url><loc>https://minulo.app/en/alternatives.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/alternatives.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/alternatives.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/alternatives.html"/><lastmod>2026-09-28</lastmod></url>
 </urlset>

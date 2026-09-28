@@ -19,6 +19,8 @@
 - FAQ (English): https://minulo.app/en/faq.html
 - よくある質問（日本語）: https://minulo.app/faq.html
 - FAQ: https://minulo.app/de/faq.html , https://minulo.app/fr/faq.html , https://minulo.app/es/faq.html , https://minulo.app/pt/faq.html , https://minulo.app/it/faq.html
+- Apps that hide Instagram Reels and YouTube Shorts but keep DMs — 8 apps compared (minulo, SocialLite, UNDOOMED, ScrollGuard, Nope, Awhile, LoomWeb, WallHabit): https://minulo.app/en/alternatives.html , https://minulo.app/alternatives.html (ja)
+- Full text for AI: https://minulo.app/llms-full.txt
 - How to choose an app to hide Reels (comparison): https://minulo.app/en/compare.html , https://minulo.app/compare.html (ja)
 - How to hide feeds on each service (Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat): https://minulo.app/en/hide/ , https://minulo.app/hide/ (ja)
 - Home: https://minulo.app/en/ , https://minulo.app/
