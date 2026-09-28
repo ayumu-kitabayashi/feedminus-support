@@ -1,0 +1,168 @@
+# minulo
+
+> minulo (formerly FeedMinus) is an iPhone app that keeps social media usable while hiding Reels, Shorts and recommended posts. DMs, search and posting keep working. Hiding is free.
+
+- App Store: https://apps.apple.com/app/id6809352229
+- Developer: Ayumu Kitabayashi (Japan)
+- Platform: iPhone (iOS). No Android version.
+- Languages: English, Japanese, German, French, Spanish, Portuguese, Italian
+- Services: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
+
+## What it does
+- Opens each service's own website inside the app with Reels, Shorts, Explore tabs and suggested posts hidden. You choose what to hide, one item at a time.
+- Uses iPhone Screen Time to stop the official apps you choose from opening; a "Blocked" screen offers "Open minulo" instead.
+- Reels or Shorts sent in DMs pause before the endless feed; "Open for 5 min" lets you watch for five minutes.
+- Sign-in happens on each service's official page. minulo never receives or stores IDs, passwords or DM contents. Records stay on the device.
+- Free: hiding Reels/Shorts/suggested posts, blocking official apps. minulo Pro: schedules, Locked Mode, multiple block lists (yearly plan has a one-month free trial).
+
+## Pages
+- FAQ (English): https://minulo.app/en/faq.html
+- よくある質問（日本語）: https://minulo.app/faq.html
+- FAQ: https://minulo.app/de/faq.html , https://minulo.app/fr/faq.html , https://minulo.app/es/faq.html , https://minulo.app/pt/faq.html , https://minulo.app/it/faq.html
+- How to choose an app to hide Reels (comparison): https://minulo.app/en/compare.html , https://minulo.app/compare.html (ja)
+- How to hide feeds on each service (Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat): https://minulo.app/en/hide/ , https://minulo.app/hide/ (ja)
+- Home: https://minulo.app/en/ , https://minulo.app/
+- Privacy: https://minulo.app/privacy.html
+
+---
+
+# minulo FAQ (en)
+
+minulo is an iPhone app that keeps your social media working while hiding Reels, Shorts and recommended posts. Here are answers to the questions people ask most.
+
+## Can I hide Instagram Reels and still use DMs?
+
+Yes. When you open Instagram inside minulo, the Reels and Explore tabs and suggested posts are not shown. Your DMs, your friends' posts, your own posts and profiles keep working. You choose what to hide one item at a time, and hiding is free.
+
+## Can I hide only YouTube Shorts?
+
+Yes. When you open YouTube inside minulo, the Shorts shelf on the home screen and the Shorts tab are not shown. Search, your subscriptions and regular-length videos keep working. Hiding Shorts is free.
+
+## What happens to the official Instagram and TikTok apps?
+
+minulo uses iPhone Screen Time to stop the official apps you choose from opening. When you try to open one, a "Blocked" screen appears, and its "Open minulo" button takes you to minulo instead. Choosing apps and turning blocking on are free.
+
+## Which social media services does minulo support?
+
+minulo supports 10 services: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn and Snapchat. For each service, you choose what to hide one item at a time, such as Reels, Shorts, suggested posts or Explore tabs.
+
+## Is my password safe?
+
+minulo never receives your ID or password. You sign in directly on each service's official sign-in page. minulo does not collect or store your ID, password or the contents of your DMs, and all of your records stay on your iPhone.
+
+## What happens to Reels that friends send me in DMs?
+
+When you open a Reel or Short sent to you in a DM, minulo pauses before the endless vertical video feed begins. If you really want to watch it, tap "Open for 5 min" to watch for five minutes. After five minutes, blocking turns back on automatically.
+
+## Is minulo free? What does Pro add?
+
+Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. minulo Pro adds schedules that switch automatically by day and time, Locked Mode, which makes turning blocking off take effort, and multiple block lists. Prices are shown in the App Store in your local currency, and the yearly plan includes a one-month free trial.
+
+## Can I use minulo if I post to social media for work?
+
+Yes. Posting photos, commenting and replying to DMs work inside minulo. Posting Stories, voice messages and calls are not available because the web versions of these services do not have them, but "Take a break" opens the official app for the minutes you choose.
+
+## Are FeedMinus and minulo the same app?
+
+Yes, they are the same app. FeedMinus was renamed minulo in September 2026. The App Store page, the features and what is free have not changed. If you installed it under the old name, updating the app keeps everything and shows the new name.
+
+## Which languages does minulo support? Is there an Android version?
+
+minulo is an iPhone app available in English, Japanese, German, French, Spanish, Portuguese and Italian. You can choose a language in Profile > Settings > Language. There is no Android version at the moment.
+
+# How to choose an app to hide Reels (en)
+
+When Reels and Shorts take too much of your time, there are two main ways to deal with it on iPhone: hide only part of an app, or stop the whole app. Here is how they differ and who each one suits.
+
+## What is the difference between hiding Reels and blocking the app?
+
+Apps that hide only part open social media in an in-app browser or a Safari extension and hide Reels, Shorts and suggested posts. DMs and posting keep working. Apps that block use Screen Time to stop the official app from opening, so DMs are unavailable while it is blocked.
+
+## Can iPhone Screen Time alone hide Reels?
+
+iPhone Screen Time puts a time limit on a whole app. It cannot stop only the Reels tab inside Instagram. If you want to hide Reels and keep your DMs, use an app that hides only part of the service.
+
+## Which approach suits people who use social media for work?
+
+If you need social media for messages or posting at work, an app that hides only part suits you better. DMs and posting keep working while the time-consuming parts, such as Reels and suggested posts, are hidden. Blocking the whole app suits hours when you do not need social media at all.
+
+## Which type is minulo?
+
+minulo combines both. Social media opens inside minulo with only Reels, Shorts and suggested posts hidden. minulo also uses iPhone Screen Time to stop the official apps and sends you to minulo when you try to open them. Both features are free.
+
+## How is minulo different from SocialLite?
+
+Both hide Reels and Shorts while keeping DMs. SocialLite has 7,689 ratings on the US App Store and is widely used for this. minulo supports seven languages, including Japanese, and blocking the official apps and opening a Reel from a DM for five minutes are free.
+
+Statements about apps other than minulo are based on each app's App Store description and rating count (US App Store, September 27, 2026).
+
+# minulo のよくある質問 (ja)
+
+minulo は、SNS はそのまま使いながら、リール・ショート動画・おすすめ投稿だけを非表示にする iPhone アプリです。よく聞かれることに、1つずつ答えます。
+
+## Instagramのリールだけを消して、DMは使えますか？
+
+はい、使えます。minulo の中で Instagram を開くと、リールと発見のタブ、おすすめの投稿が表示されない状態になります。DM、友だちの投稿、自分の投稿、プロフィールはそのまま使えます。消すものは1つずつ選べて、この非表示の機能は無料です。
+
+## YouTubeのショート動画だけを非表示にできますか？
+
+はい、できます。minulo の中で YouTube を開くと、ホームのショートの棚とショートのタブが表示されなくなります。検索、登録チャンネル、ふつうの長さの動画はそのまま見られます。ショート動画を非表示にする機能は無料です。
+
+## 公式のInstagramやTikTokのアプリはどうなりますか？
+
+minulo は、iPhone のスクリーンタイムの仕組みを使って、選んだ公式アプリを開けないようにできます。開こうとすると「ブロック中です」という画面が出て、「minulo を開く」のボタンから minulo に移れます。止めるアプリを選ぶのも、ブロックを入れるのも無料です。
+
+## どのSNSに対応していますか？
+
+minulo は10のサービスに対応しています。Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat です。サービスごとに、リール、ショート、おすすめの投稿、発見のタブなど、消すものを1つずつ選べます。
+
+## IDやパスワードは安全ですか？
+
+minulo に ID やパスワードを渡すことはありません。ログインは、各 SNS が用意している公式のログインページで直接行います。minulo が ID、パスワード、DM の中身を取得したり保存したりすることはなく、記録はすべて iPhone の中だけに保存されます。
+
+## DMで送られてきたリールはどうなりますか？
+
+DM で送られてきたリールやショートを開くと、縦に続く動画の流れに入る前に、minulo がいったん止めます。どうしても見たいときは「5分だけ開く」を押すと、5分間だけ見られます。5分たつと、自動でまた止まります。
+
+## 無料で使えますか？ Proでは何が増えますか？
+
+リール、ショート動画、おすすめ投稿の非表示と、公式アプリのブロックは無料です。minulo Pro では、曜日や時間帯で自動で切り替わる予定、解除に手間をかけるロックモード、複数のブロックリストが使えます。料金は月額1,480円、または年額6,800円（1か月の無料体験つき）です。
+
+## 仕事でSNSに投稿する必要があっても使えますか？
+
+使えます。写真つきの投稿、コメント、DM への返信は minulo の中でも行えます。ストーリーズの投稿、ボイスメッセージ、通話は各 SNS のウェブ版に無いため使えませんが、「休憩する」を押すと、選んだ時間だけ公式アプリを開けます。
+
+## FeedMinusとminuloは同じアプリですか？
+
+はい、同じアプリです。FeedMinus は2026年9月に名前を minulo に変えました。App Store のページ、機能、無料で使える範囲は変わっていません。以前の名前で入れた人も、アップデートすればそのまま minulo として使えます。
+
+## どの言語で使えますか？ Androidでも使えますか？
+
+minulo は iPhone 向けのアプリで、日本語、英語、ドイツ語、フランス語、スペイン語、ポルトガル語、イタリア語で使えます。言語は、アプリの「プロフィール」→「設定」→「言語」で選べます。Android 版は今のところありません。
+
+# リールだけ消したいときの、アプリの選び方 (ja)
+
+リールやショート動画に時間を取られるとき、iPhone で使える方法は大きく2つあります。アプリの一部だけを消す方法と、アプリ全体を止める方法です。違いと、向いている人をまとめました。
+
+## リールだけ消すアプリと、アプリを止めるアプリはどう違いますか？
+
+一部だけ消すアプリは、SNS をアプリの中のブラウザや Safari の拡張で開き、リール、ショート、おすすめ投稿だけを表示しません。DM や投稿はそのまま使えます。アプリを止めるアプリは、スクリーンタイムの仕組みで公式アプリそのものを開けなくするので、止めている間は DM も使えません。
+
+## iPhoneのスクリーンタイムだけで、リールを消せますか？
+
+iPhone のスクリーンタイムは、アプリ全体に使用時間の制限をかける仕組みです。Instagram の中のリールのタブだけを止めることはできません。リールだけを消して DM を残したいときは、一部だけ消すタイプのアプリを使います。
+
+## 仕事でSNSを使う人には、どちらが向いていますか？
+
+仕事の連絡や投稿で SNS を開く必要がある人には、一部だけ消すタイプが向いています。DM や投稿は使えるまま、リールやおすすめ投稿のように時間を取られる部分だけを消せます。アプリ全体を止めるタイプは、SNS を開く必要がない時間帯に向いています。
+
+## minuloはどちらのタイプですか？
+
+minulo は両方を組み合わせています。SNS は minulo の中で開き、リール、ショート、おすすめ投稿だけを消します。さらに iPhone のスクリーンタイムで公式アプリを止め、開こうとすると minulo に案内します。どちらの機能も無料で使えます。
+
+## minuloとSocialLiteの違いは何ですか？
+
+どちらもリールやショートを消し、DM を残すタイプのアプリです。SocialLite は米国の App Store で評価が 7,689 件あり、このタイプでよく使われています。minulo は日本語を含む7言語に対応し、公式アプリのブロックと、DM で届いたリールを5分だけ開く機能を無料で使えます。
+
+minulo 以外のアプリについての記述は、各アプリの App Store の説明と評価件数（2026年9月27日、米国のストア）に基づきます。
+
