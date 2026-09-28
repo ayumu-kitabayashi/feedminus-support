@@ -17,6 +17,9 @@ F = importlib.util.module_from_spec(_s); _s.loader.exec_module(F)
 D = json.loads((HERE / 'alts.json').read_text())
 LANGS = ['ja', 'en', 'de', 'fr', 'es', 'pt', 'it']
 PATH = 'alternatives.html'
+# 手引き（tools/guides.py）は日英だけ
+GUIDES = {'ja': '<a href="turn-off-instagram-reels.html">Instagramのリールをオフにする方法 →</a><a href="block-youtube-shorts.html">YouTubeのショートを止める方法 →</a>',
+          'en': '<a href="turn-off-instagram-reels.html">How to turn off Instagram Reels →</a><a href="block-youtube-shorts.html">How to block YouTube Shorts →</a>'}
 
 EXTRA = """
 .disc{font-size:14px;color:var(--ink3);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:0 0 22px}
@@ -108,7 +111,7 @@ def page(lang):
 {''.join(rows)}
 </table></div>
 {qa}
-<div class="links"><a href="hide/index.html">{html.escape(t['more'])} →</a><a href="faq.html">{html.escape(t['faq'])} →</a></div>
+<div class="links">{GUIDES.get(lang, '')}<a href="hide/index.html">{html.escape(t['more'])} →</a><a href="faq.html">{html.escape(t['faq'])} →</a></div>
 <div class="cta"><a href="{store}"><img src="{up}badges/{d['badge']}.svg" alt="{html.escape(d['badgeAlt'])}" height="54"></a></div>
 </main>
 <footer><div class="langs">{langs}</div><p>© 2026 minulo</p></footer>

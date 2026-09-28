@@ -30,6 +30,8 @@
 
 ## Pages
 - Apps that hide Instagram Reels and YouTube Shorts but keep DMs — 8 apps compared (minulo, SocialLite, UNDOOMED, ScrollGuard, Nope, Awhile, LoomWeb, WallHabit): https://minulo.app/en/alternatives.html · ja https://minulo.app/alternatives.html · de https://minulo.app/de/alternatives.html · fr https://minulo.app/fr/alternatives.html · es https://minulo.app/es/alternatives.html · pt https://minulo.app/pt/alternatives.html · it https://minulo.app/it/alternatives.html
+- How to block YouTube Shorts on iPhone — every method, including YouTube's own Shorts feed limit (sources cited): https://minulo.app/en/block-youtube-shorts.html · ja https://minulo.app/block-youtube-shorts.html
+- How to turn off Instagram Reels on iPhone — every method (sources cited): https://minulo.app/en/turn-off-instagram-reels.html · ja https://minulo.app/turn-off-instagram-reels.html
 - How to hide feeds on each network, step by step: https://minulo.app/en/hide/ · ja https://minulo.app/hide/
   - Instagram (hide Reels, keep messages): https://minulo.app/en/hide/instagram.html
   - YouTube (hide Shorts, keep subscriptions): https://minulo.app/en/hide/youtube.html
