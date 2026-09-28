@@ -1,0 +1,1058 @@
+{
+ "block-youtube-shorts.html": {
+  "src": [
+   [
+    "YouTube Help: Shorts feed limit",
+    "https://support.google.com/youtube/answer/16671528"
+   ],
+   [
+    "9to5Google (2026-04-15): YouTube Shorts can now be turned off with a zero-minute timer",
+    "https://9to5google.com/2026/04/15/youtube-shorts-turn-off-zero-minute-timer-setting/"
+   ],
+   [
+    "YouTube Help: Show fewer Shorts / Not interested",
+    "https://support.google.com/youtube/answer/6342839"
+   ],
+   [
+    "YouTube Help: Watch history and recommendations",
+    "https://support.google.com/youtube/answer/95725"
+   ],
+   [
+    "YouTube Blog (2026-01-14): supervised teen accounts",
+    "https://blog.youtube/news-and-events/updates-youtube-supervised-accounts-teens/"
+   ],
+   [
+    "Apple: Content & Privacy Restrictions on iPhone",
+    "https://support.apple.com/guide/iphone/iph3ff83f3b1/ios"
+   ]
+  ],
+  "en": {
+   "title": "How to block YouTube Shorts on iPhone and keep normal videos (every method, 2026)",
+   "lede": "The quickest built-in way is YouTube's Shorts feed limit: in the YouTube app, go to You → Settings → Time management → Shorts feed limit and choose 0. For adults the limit can be dismissed, and Shorts can still appear in Subscriptions and shared links. If you want a stop you can't just tap away, an app such as minulo hides Shorts in its own view and can lock the official YouTube app with Screen Time.",
+   "cols": [
+    "Method",
+    "What it does",
+    "Limits"
+   ],
+   "rows": [
+    [
+     "<b>Shorts feed limit set to 0</b> (YouTube app)",
+     "Stops the Shorts feed from the home screen and Shorts tab once you reach the limit. 0 minutes became available to everyone from April 2026.",
+     "Adults can dismiss the limit. Shorts in Subscriptions and from links remain. App only, not youtube.com. Whether Shorts leave search results is unclear."
+    ],
+    [
+     "<b>Show fewer Shorts</b> (⋮ on the Shorts shelf)",
+     "Hides the Shorts shelf you tapped and tells YouTube you want fewer.",
+     "YouTube does not say how long it lasts. Shorts can come back."
+    ],
+    [
+     "<b>Turn off watch history</b>",
+     "YouTube removes homepage recommendations when you have no relevant recent history.",
+     "YouTube's help page does not say this removes the Shorts tab."
+    ],
+    [
+     "<b>Supervised teen account</b>",
+     "Parents can set a Shorts scrolling timer, including zero.",
+     "Only for supervised teen accounts."
+    ],
+    [
+     "<b>iPhone Screen Time</b>",
+     "App Limits can limit or block the whole YouTube app.",
+     "It cannot target Shorts only. Blocking just the /shorts address in Safari is not documented by Apple."
+    ],
+    [
+     "<b>Apps that hide Shorts</b> (minulo, UNDOOMED, Nope, LoomWeb and others)",
+     "Show YouTube in their own view or in Safari with Shorts hidden; normal videos, search and subscriptions keep working.",
+     "The official YouTube app itself is not changed. minulo can lock the official app with Screen Time and send you to minulo instead."
+    ]
+   ],
+   "qa": [
+    [
+     "Can I turn off YouTube Shorts completely?",
+     "Not completely inside the YouTube app for an adult account. Setting the Shorts feed limit to 0 removes the Shorts feed after the limit, but adults can dismiss it, and Shorts still appear in Subscriptions and in links people send you."
+    ],
+    [
+     "Does the Shorts limit work on youtube.com in Safari?",
+     "YouTube's help page describes the Shorts feed limit for the YouTube app only. On youtube.com, apps that work in Safari or in their own browser, such as Nope or minulo, can hide Shorts."
+    ],
+    [
+     "How can I stop opening the YouTube app out of habit?",
+     "iPhone Screen Time can block the whole YouTube app. minulo uses Screen Time the same way, but when you try to open YouTube it offers minulo instead, where Shorts are hidden and normal videos still play."
+    ]
+   ],
+   "disclose": "This page is written by the developer of minulo. Facts about YouTube and iPhone settings come from the sources listed below, checked on {date}. Menu names can change with app and iOS updates.",
+   "srcTitle": "Sources",
+   "more": "Apps that hide Shorts compared",
+   "moreHref": "alternatives.html",
+   "faq": "Hide Shorts with minulo",
+   "faqHref": "hide/youtube.html"
+  },
+  "ja": {
+   "title": "iPhoneでYouTubeのショートだけを止めて、ふつうの動画は見る方法（すべての方法・2026年）",
+   "lede": "いちばん手早い公式の方法は、YouTube アプリの、ショートのフィードの上限です。YouTube アプリの設定にある、ショートのフィードの上限を 0 にします（英語の画面では You → Settings → Time management → Shorts feed limit。日本語の表示名は確かめていません）。ただし大人のアカウントでは上限の表示を閉じられ、登録チャンネルや送られてきたリンクからはショートが出ます。閉じるだけでは戻れない止め方がほしいなら、minulo のようなアプリで、ショートを消した画面で見て、公式の YouTube アプリはスクリーンタイムで止める方法があります。",
+   "cols": [
+    "方法",
+    "できること",
+    "限界"
+   ],
+   "rows": [
+    [
+     "<b>ショートのフィードの上限を 0 に</b>（YouTube アプリ。英語の画面では Shorts feed limit）",
+     "上限に達すると、ホームとショートのタブのショートが止まる。2026年4月から、誰でも 0 分を選べる。",
+     "大人は上限を閉じられる。登録チャンネルやリンクのショートは残る。アプリだけで、youtube.com では使えない。検索結果から消えるかははっきりしない。"
+    ],
+    [
+     "<b>ショートの表示を減らす</b>（ショートの棚の ⋮。英語の画面では Show fewer Shorts）",
+     "押した棚を隠し、ショートを減らしたいと YouTube に伝える。",
+     "どれくらい続くかは公式に書かれていない。また出てくることがある。"
+    ],
+    [
+     "<b>再生履歴をオフ</b>",
+     "最近の履歴がないと、ホームのおすすめが表示されなくなる。",
+     "ショートのタブまで消えるとは、公式のヘルプに書かれていない。"
+    ],
+    [
+     "<b>保護者が見守る10代のアカウント</b>",
+     "保護者がショートを見る時間に上限をかけられる（0 も可）。",
+     "見守りの設定をした10代のアカウントだけ。"
+    ],
+    [
+     "<b>iPhone のスクリーンタイム</b>",
+     "YouTube アプリ全体の時間を制限する、または止める。",
+     "ショートだけは狙えない。Safari で /shorts のアドレスだけを止められるとは、Apple は説明していない。"
+    ],
+    [
+     "<b>ショートを消すアプリ</b>（minulo・UNDOOMED・Nope・LoomWeb など）",
+     "自前の画面か Safari で YouTube を開き、ショートを表示しない。ふつうの動画・検索・登録チャンネルは使える。",
+     "公式の YouTube アプリそのものは変わらない。minulo は公式アプリをスクリーンタイムで止め、minulo へ案内できる。"
+    ]
+   ],
+   "qa": [
+    [
+     "YouTubeのショートを完全にオフにできる？",
+     "大人のアカウントでは、YouTube アプリの中だけで完全にはオフにできません。ショートのフィードの上限を 0 にすると、上限のあとはショートのフィードが止まりますが、大人は上限の表示を閉じられます。登録チャンネルや送られてきたリンクのショートも残ります。"
+    ],
+    [
+     "ショートの上限は、Safari の youtube.com でも効く？",
+     "YouTube のヘルプでは、ショートのフィードの上限は YouTube アプリの機能として説明されています。youtube.com でショートを消したい場合は、Safari や自前のブラウザで動く Nope や minulo のようなアプリが使えます。"
+    ],
+    [
+     "つい YouTube アプリを開いてしまうのを止めるには？",
+     "iPhone のスクリーンタイムで YouTube アプリ全体を止められます。minulo も同じスクリーンタイムの仕組みを使いますが、YouTube を開こうとすると minulo に案内し、そこではショートが消えたまま、ふつうの動画は見られます。"
+    ]
+   ],
+   "disclose": "このページは minulo の開発者が書いています。YouTube と iPhone の設定については、下の出典を {date} に確かめました。メニューの名前は、アプリや iOS の更新で変わることがあります。",
+   "srcTitle": "出典",
+   "more": "ショートを消すアプリの比較",
+   "moreHref": "alternatives.html",
+   "faq": "minulo でショートを消す",
+   "faqHref": "hide/youtube.html"
+  },
+  "de": {
+   "title": "YouTube Shorts auf dem iPhone blockieren und normale Videos behalten (alle Methoden, 2026)",
+   "lede": "Der schnellste eingebaute Weg ist das Shorts-Feed-Limit (auf dem englischen Bildschirm „Shorts feed limit“): In der YouTube-App unter Du → Einstellungen → Zeitmanagement das Limit auf 0 setzen (englisch: You → Settings → Time management → Shorts feed limit). Erwachsene können das Limit allerdings wegklicken, und Shorts erscheinen weiterhin unter Abos und in geteilten Links. Wenn du eine Sperre willst, die sich nicht einfach wegtippen lässt, blendet eine App wie minulo Shorts in ihrer eigenen Ansicht aus und kann die offizielle YouTube-App mit Bildschirmzeit sperren.",
+   "cols": [
+    "Methode",
+    "Was sie bewirkt",
+    "Grenzen"
+   ],
+   "rows": [
+    [
+     "<b>Shorts-Feed-Limit auf 0</b> (YouTube-App; englisch „Shorts feed limit“)",
+     "Stoppt den Shorts-Feed auf der Startseite und im Shorts-Tab, sobald das Limit erreicht ist. 0 Minuten sind seit April 2026 für alle verfügbar.",
+     "Erwachsene können das Limit wegklicken. Shorts in Abos und aus Links bleiben. Nur in der App, nicht auf youtube.com. Ob Shorts aus den Suchergebnissen verschwinden, ist unklar."
+    ],
+    [
+     "<b>Weniger Shorts anzeigen</b> (⋮ am Shorts-Regal; englisch „Show fewer Shorts“)",
+     "Blendet das angetippte Shorts-Regal aus und teilt YouTube mit, dass du weniger willst.",
+     "YouTube sagt nicht, wie lange das anhält. Shorts können zurückkommen."
+    ],
+    [
+     "<b>Wiedergabeverlauf deaktivieren</b>",
+     "YouTube entfernt Empfehlungen auf der Startseite, wenn es keinen relevanten aktuellen Verlauf gibt.",
+     "Die YouTube-Hilfe sagt nicht, dass dadurch der Shorts-Tab verschwindet."
+    ],
+    [
+     "<b>Beaufsichtigtes Teenager-Konto</b>",
+     "Eltern können einen Timer fürs Scrollen durch Shorts einstellen, auch auf null.",
+     "Nur für beaufsichtigte Teenager-Konten."
+    ],
+    [
+     "<b>iPhone-Bildschirmzeit</b>",
+     "App-Limits können die ganze YouTube-App begrenzen oder sperren.",
+     "Sie kann nicht gezielt nur Shorts treffen. Dass sich nur die Adresse /shorts in Safari sperren lässt, ist von Apple nicht dokumentiert."
+    ],
+    [
+     "<b>Apps, die Shorts ausblenden</b> (minulo, UNDOOMED, Nope, LoomWeb und andere)",
+     "Zeigen YouTube in einer eigenen Ansicht oder in Safari ohne Shorts; normale Videos, Suche und Abos funktionieren weiter.",
+     "Die offizielle YouTube-App selbst wird nicht verändert. minulo kann die offizielle App mit Bildschirmzeit sperren und dich stattdessen zu minulo schicken."
+    ]
+   ],
+   "qa": [
+    [
+     "Kann ich YouTube Shorts komplett ausschalten?",
+     "Bei einem Erwachsenenkonto nicht komplett innerhalb der YouTube-App. Wenn du das Shorts-Feed-Limit auf 0 setzt, verschwindet der Shorts-Feed nach dem Limit, aber Erwachsene können es wegklicken, und Shorts erscheinen weiterhin unter Abos und in Links, die dir jemand schickt."
+    ],
+    [
+     "Funktioniert das Shorts-Limit auch auf youtube.com in Safari?",
+     "Die YouTube-Hilfe beschreibt das Shorts-Feed-Limit nur für die YouTube-App. Auf youtube.com können Apps, die in Safari oder in einem eigenen Browser laufen, etwa Nope oder minulo, Shorts ausblenden."
+    ],
+    [
+     "Wie höre ich auf, die YouTube-App aus Gewohnheit zu öffnen?",
+     "Die iPhone-Bildschirmzeit kann die ganze YouTube-App sperren. minulo nutzt Bildschirmzeit auf dieselbe Weise, bietet dir beim Öffnen von YouTube aber minulo an, wo Shorts ausgeblendet sind und normale Videos weiterlaufen."
+    ]
+   ],
+   "disclose": "Diese Seite stammt vom Entwickler von minulo. Angaben zu YouTube- und iPhone-Einstellungen stammen aus den unten genannten Quellen, geprüft am {date}. Menünamen können sich mit App- und iOS-Updates ändern.",
+   "srcTitle": "Quellen",
+   "more": "Apps, die Shorts ausblenden, im Vergleich",
+   "moreHref": "alternatives.html",
+   "faq": "Shorts mit minulo ausblenden",
+   "faqHref": "hide/youtube.html"
+  },
+  "fr": {
+   "title": "Bloquer les Shorts YouTube sur iPhone et garder les vidéos normales (toutes les méthodes, 2026)",
+   "lede": "La méthode intégrée la plus rapide est la limite du fil Shorts (Shorts feed limit à l'écran en anglais) : dans l'app YouTube, allez dans Vous → Paramètres → Gestion du temps et réglez la limite sur 0 (en anglais : You → Settings → Time management → Shorts feed limit). Un adulte peut toutefois ignorer la limite, et les Shorts apparaissent encore dans Abonnements et dans les liens partagés. Pour un blocage qu'on ne peut pas simplement fermer, une app comme minulo masque les Shorts dans sa propre vue et peut verrouiller l'app YouTube officielle avec Temps d'écran.",
+   "cols": [
+    "Méthode",
+    "Ce qu'elle fait",
+    "Limites"
+   ],
+   "rows": [
+    [
+     "<b>Limite du fil Shorts à 0</b> (app YouTube ; « Shorts feed limit » en anglais)",
+     "Arrête le fil Shorts sur l'accueil et dans l'onglet Shorts une fois la limite atteinte. 0 minute est disponible pour tous depuis avril 2026.",
+     "Un adulte peut ignorer la limite. Les Shorts dans Abonnements et via des liens restent. App uniquement, pas youtube.com. On ne sait pas clairement si les Shorts disparaissent des résultats de recherche."
+    ],
+    [
+     "<b>Afficher moins de Shorts</b> (⋮ sur l'étagère Shorts ; « Show fewer Shorts » en anglais)",
+     "Masque l'étagère Shorts touchée et indique à YouTube que vous en voulez moins.",
+     "YouTube ne dit pas combien de temps cela dure. Les Shorts peuvent revenir."
+    ],
+    [
+     "<b>Désactiver l'historique des vidéos regardées</b>",
+     "YouTube retire les recommandations de l'accueil quand vous n'avez pas d'historique récent pertinent.",
+     "L'aide de YouTube ne dit pas que cela retire l'onglet Shorts."
+    ],
+    [
+     "<b>Compte ado supervisé</b>",
+     "Les parents peuvent régler un minuteur de défilement des Shorts, y compris à zéro.",
+     "Uniquement pour les comptes ados supervisés."
+    ],
+    [
+     "<b>Temps d'écran de l'iPhone</b>",
+     "Les limites d'app peuvent limiter ou bloquer toute l'app YouTube.",
+     "Il ne peut pas cibler uniquement les Shorts. Bloquer seulement l'adresse /shorts dans Safari n'est pas documenté par Apple."
+    ],
+    [
+     "<b>Apps qui masquent les Shorts</b> (minulo, UNDOOMED, Nope, LoomWeb et d'autres)",
+     "Affichent YouTube dans leur propre vue ou dans Safari sans les Shorts ; vidéos normales, recherche et abonnements continuent de fonctionner.",
+     "L'app YouTube officielle elle-même n'est pas modifiée. minulo peut verrouiller l'app officielle avec Temps d'écran et vous envoyer vers minulo à la place."
+    ]
+   ],
+   "qa": [
+    [
+     "Peut-on désactiver complètement les Shorts YouTube ?",
+     "Pas complètement dans l'app YouTube avec un compte adulte. Régler la limite du fil Shorts sur 0 retire le fil Shorts après la limite, mais un adulte peut l'ignorer, et les Shorts apparaissent encore dans Abonnements et dans les liens qu'on vous envoie."
+    ],
+    [
+     "La limite des Shorts fonctionne-t-elle sur youtube.com dans Safari ?",
+     "L'aide de YouTube décrit la limite du fil Shorts pour l'app YouTube uniquement. Sur youtube.com, des apps qui fonctionnent dans Safari ou dans leur propre navigateur, comme Nope ou minulo, peuvent masquer les Shorts."
+    ],
+    [
+     "Comment arrêter d'ouvrir l'app YouTube par réflexe ?",
+     "Temps d'écran sur iPhone peut bloquer toute l'app YouTube. minulo utilise Temps d'écran de la même façon, mais quand vous essayez d'ouvrir YouTube, il vous propose minulo, où les Shorts sont masqués et les vidéos normales se lisent toujours."
+    ]
+   ],
+   "disclose": "Cette page est rédigée par le développeur de minulo. Les informations sur les réglages de YouTube et de l'iPhone proviennent des sources ci-dessous, vérifiées le {date}. Les noms des menus peuvent changer avec les mises à jour des apps et d'iOS.",
+   "srcTitle": "Sources",
+   "more": "Comparatif des apps qui masquent les Shorts",
+   "moreHref": "alternatives.html",
+   "faq": "Masquer les Shorts avec minulo",
+   "faqHref": "hide/youtube.html"
+  },
+  "es": {
+   "title": "Cómo bloquear los Shorts de YouTube en iPhone y seguir viendo vídeos normales (todos los métodos, 2026)",
+   "lede": "La forma integrada más rápida es el límite del feed de Shorts (Shorts feed limit en la pantalla en inglés): en la app de YouTube, ve a Tú → Configuración → Gestión del tiempo y elige 0 (en inglés: You → Settings → Time management → Shorts feed limit). Los adultos pueden descartar el límite, y los Shorts siguen apareciendo en Suscripciones y en enlaces compartidos. Si quieres un freno que no se quite con un toque, una app como minulo oculta los Shorts en su propia vista y puede bloquear la app oficial de YouTube con Tiempo de uso.",
+   "cols": [
+    "Método",
+    "Qué hace",
+    "Límites"
+   ],
+   "rows": [
+    [
+     "<b>Límite del feed de Shorts en 0</b> (app de YouTube; «Shorts feed limit» en inglés)",
+     "Detiene el feed de Shorts en la página de inicio y en la pestaña Shorts al llegar al límite. Los 0 minutos están disponibles para todos desde abril de 2026.",
+     "Los adultos pueden descartar el límite. Los Shorts de Suscripciones y de enlaces siguen ahí. Solo en la app, no en youtube.com. No está claro si los Shorts desaparecen de los resultados de búsqueda."
+    ],
+    [
+     "<b>Mostrar menos Shorts</b> (⋮ en la fila de Shorts; «Show fewer Shorts» en inglés)",
+     "Oculta la fila de Shorts que tocaste y le dice a YouTube que quieres ver menos.",
+     "YouTube no dice cuánto dura. Los Shorts pueden volver."
+    ],
+    [
+     "<b>Desactivar el historial de reproducciones</b>",
+     "YouTube quita las recomendaciones de la página de inicio cuando no tienes historial reciente relevante.",
+     "La ayuda de YouTube no dice que esto quite la pestaña Shorts."
+    ],
+    [
+     "<b>Cuenta supervisada para adolescentes</b>",
+     "Los padres pueden fijar un temporizador para deslizar Shorts, incluso en cero.",
+     "Solo para cuentas supervisadas de adolescentes."
+    ],
+    [
+     "<b>Tiempo de uso del iPhone</b>",
+     "Los límites de apps pueden limitar o bloquear toda la app de YouTube.",
+     "No puede apuntar solo a los Shorts. Bloquear solo la dirección /shorts en Safari no está documentado por Apple."
+    ],
+    [
+     "<b>Apps que ocultan los Shorts</b> (minulo, UNDOOMED, Nope, LoomWeb y otras)",
+     "Muestran YouTube en su propia vista o en Safari sin Shorts; los vídeos normales, la búsqueda y las suscripciones siguen funcionando.",
+     "La app oficial de YouTube no cambia. minulo puede bloquear la app oficial con Tiempo de uso y llevarte a minulo en su lugar."
+    ]
+   ],
+   "qa": [
+    [
+     "¿Se pueden desactivar por completo los Shorts de YouTube?",
+     "No por completo dentro de la app de YouTube con una cuenta de adulto. Poner el límite del feed de Shorts en 0 quita el feed de Shorts tras el límite, pero los adultos pueden descartarlo, y los Shorts siguen apareciendo en Suscripciones y en los enlaces que te envían."
+    ],
+    [
+     "¿El límite de Shorts funciona en youtube.com en Safari?",
+     "La ayuda de YouTube describe el límite del feed de Shorts solo para la app de YouTube. En youtube.com, las apps que funcionan en Safari o en su propio navegador, como Nope o minulo, pueden ocultar los Shorts."
+    ],
+    [
+     "¿Cómo dejo de abrir la app de YouTube por costumbre?",
+     "Tiempo de uso del iPhone puede bloquear toda la app de YouTube. minulo usa Tiempo de uso de la misma forma, pero cuando intentas abrir YouTube te ofrece minulo, donde los Shorts están ocultos y los vídeos normales se siguen reproduciendo."
+    ]
+   ],
+   "disclose": "Esta página la escribe el desarrollador de minulo. La información sobre los ajustes de YouTube y del iPhone procede de las fuentes indicadas abajo, comprobadas el {date}. Los nombres de los menús pueden cambiar con las actualizaciones de las apps y de iOS.",
+   "srcTitle": "Fuentes",
+   "more": "Comparativa de apps que ocultan los Shorts",
+   "moreHref": "alternatives.html",
+   "faq": "Ocultar los Shorts con minulo",
+   "faqHref": "hide/youtube.html"
+  },
+  "pt": {
+   "title": "Como bloquear o YouTube Shorts no iPhone e continuar vendo vídeos normais (todos os métodos, 2026)",
+   "lede": "O jeito nativo mais rápido é o limite do feed de Shorts (Shorts feed limit na tela em inglês): no app do YouTube, vá em Você → Configurações → Gerenciamento de tempo e escolha 0 (em inglês: You → Settings → Time management → Shorts feed limit). Adultos podem dispensar o limite, e os Shorts ainda aparecem em Inscrições e em links compartilhados. Se você quer um bloqueio que não se desfaz com um toque, um app como o minulo oculta os Shorts na própria visualização e pode bloquear o app oficial do YouTube com o Tempo de Uso.",
+   "cols": [
+    "Método",
+    "O que faz",
+    "Limitações"
+   ],
+   "rows": [
+    [
+     "<b>Limite do feed de Shorts em 0</b> (app do YouTube; \"Shorts feed limit\" em inglês)",
+     "Interrompe o feed de Shorts na página inicial e na aba Shorts quando o limite é atingido. A opção de 0 minuto passou a estar disponível para todos em abril de 2026.",
+     "Adultos podem dispensar o limite. Shorts em Inscrições e vindos de links continuam. Só no app, não no youtube.com. Não está claro se os Shorts somem dos resultados de busca."
+    ],
+    [
+     "<b>Mostrar menos Shorts</b> (⋮ na prateleira de Shorts; \"Show fewer Shorts\" em inglês)",
+     "Oculta a prateleira de Shorts tocada e avisa o YouTube que você quer menos.",
+     "O YouTube não diz quanto tempo isso dura. Os Shorts podem voltar."
+    ],
+    [
+     "<b>Desativar o histórico de exibição</b>",
+     "O YouTube remove as recomendações da página inicial quando você não tem histórico recente relevante.",
+     "A ajuda do YouTube não diz que isso remove a aba Shorts."
+    ],
+    [
+     "<b>Conta supervisionada de adolescente</b>",
+     "Os pais podem definir um timer para rolar Shorts, inclusive zero.",
+     "Só para contas supervisionadas de adolescentes."
+    ],
+    [
+     "<b>Tempo de Uso do iPhone</b>",
+     "Os limites de apps podem limitar ou bloquear o app do YouTube inteiro.",
+     "Não consegue mirar só os Shorts. Bloquear apenas o endereço /shorts no Safari não é documentado pela Apple."
+    ],
+    [
+     "<b>Apps que ocultam os Shorts</b> (minulo, UNDOOMED, Nope, LoomWeb e outros)",
+     "Mostram o YouTube na própria visualização ou no Safari sem Shorts; vídeos normais, busca e inscrições continuam funcionando.",
+     "O app oficial do YouTube em si não muda. O minulo pode bloquear o app oficial com o Tempo de Uso e levar você para o minulo."
+    ]
+   ],
+   "qa": [
+    [
+     "Dá para desativar o YouTube Shorts completamente?",
+     "Não completamente dentro do app do YouTube em uma conta de adulto. Colocar o limite do feed de Shorts em 0 remove o feed de Shorts depois do limite, mas adultos podem dispensá-lo, e os Shorts ainda aparecem em Inscrições e nos links que mandam para você."
+    ],
+    [
+     "O limite de Shorts funciona no youtube.com pelo Safari?",
+     "A ajuda do YouTube descreve o limite do feed de Shorts só para o app do YouTube. No youtube.com, apps que funcionam no Safari ou em navegador próprio, como o Nope ou o minulo, podem ocultar os Shorts."
+    ],
+    [
+     "Como parar de abrir o app do YouTube por hábito?",
+     "O Tempo de Uso do iPhone pode bloquear o app do YouTube inteiro. O minulo usa o Tempo de Uso do mesmo jeito, mas quando você tenta abrir o YouTube ele oferece o minulo, onde os Shorts ficam ocultos e os vídeos normais continuam tocando."
+    ]
+   ],
+   "disclose": "Esta página foi escrita pelo desenvolvedor do minulo. As informações sobre as configurações do YouTube e do iPhone vêm das fontes listadas abaixo, verificadas em {date}. Os nomes dos menus podem mudar com atualizações dos apps e do iOS.",
+   "srcTitle": "Fontes",
+   "more": "Comparativo de apps que ocultam os Shorts",
+   "moreHref": "alternatives.html",
+   "faq": "Ocultar os Shorts com o minulo",
+   "faqHref": "hide/youtube.html"
+  },
+  "it": {
+   "title": "Come bloccare gli Shorts di YouTube su iPhone e continuare a guardare i video normali (tutti i metodi, 2026)",
+   "lede": "Il modo integrato più rapido è il limite del feed Shorts (Shorts feed limit nella schermata in inglese): nell'app YouTube vai su Tu → Impostazioni → Gestione del tempo e scegli 0 (in inglese: You → Settings → Time management → Shorts feed limit). Gli adulti però possono ignorare il limite, e gli Shorts compaiono ancora in Iscrizioni e nei link condivisi. Se vuoi un blocco che non si chiude con un tocco, un'app come minulo nasconde gli Shorts nella propria vista e può bloccare l'app ufficiale di YouTube con Tempo di utilizzo.",
+   "cols": [
+    "Metodo",
+    "Cosa fa",
+    "Limiti"
+   ],
+   "rows": [
+    [
+     "<b>Limite del feed Shorts a 0</b> (app YouTube; «Shorts feed limit» in inglese)",
+     "Ferma il feed Shorts nella home e nella scheda Shorts quando raggiungi il limite. 0 minuti è disponibile per tutti da aprile 2026.",
+     "Gli adulti possono ignorare il limite. Gli Shorts in Iscrizioni e dai link restano. Solo nell'app, non su youtube.com. Non è chiaro se gli Shorts spariscano dai risultati di ricerca."
+    ],
+    [
+     "<b>Mostra meno Shorts</b> (⋮ sulla sezione Shorts; «Show fewer Shorts» in inglese)",
+     "Nasconde la sezione Shorts che hai toccato e dice a YouTube che ne vuoi meno.",
+     "YouTube non dice quanto dura. Gli Shorts possono tornare."
+    ],
+    [
+     "<b>Disattivare la cronologia visualizzazioni</b>",
+     "YouTube rimuove i consigli dalla home quando non hai una cronologia recente pertinente.",
+     "La guida di YouTube non dice che questo rimuove la scheda Shorts."
+    ],
+    [
+     "<b>Account supervisionato per teenager</b>",
+     "I genitori possono impostare un timer per lo scorrimento degli Shorts, anche a zero.",
+     "Solo per gli account supervisionati dei teenager."
+    ],
+    [
+     "<b>Tempo di utilizzo dell'iPhone</b>",
+     "I limiti app possono limitare o bloccare l'intera app YouTube.",
+     "Non può colpire solo gli Shorts. Bloccare solo l'indirizzo /shorts in Safari non è documentato da Apple."
+    ],
+    [
+     "<b>App che nascondono gli Shorts</b> (minulo, UNDOOMED, Nope, LoomWeb e altre)",
+     "Mostrano YouTube nella propria vista o in Safari senza Shorts; video normali, ricerca e iscrizioni continuano a funzionare.",
+     "L'app ufficiale di YouTube in sé non cambia. minulo può bloccare l'app ufficiale con Tempo di utilizzo e mandarti su minulo."
+    ]
+   ],
+   "qa": [
+    [
+     "Si possono disattivare del tutto gli Shorts di YouTube?",
+     "Non del tutto dentro l'app YouTube con un account adulto. Impostare il limite del feed Shorts a 0 toglie il feed Shorts dopo il limite, ma gli adulti possono ignorarlo, e gli Shorts compaiono ancora in Iscrizioni e nei link che ti mandano."
+    ],
+    [
+     "Il limite degli Shorts funziona su youtube.com in Safari?",
+     "La guida di YouTube descrive il limite del feed Shorts solo per l'app YouTube. Su youtube.com, le app che funzionano in Safari o in un proprio browser, come Nope o minulo, possono nascondere gli Shorts."
+    ],
+    [
+     "Come smetto di aprire l'app YouTube per abitudine?",
+     "Tempo di utilizzo dell'iPhone può bloccare l'intera app YouTube. minulo usa Tempo di utilizzo allo stesso modo, ma quando provi ad aprire YouTube ti propone minulo, dove gli Shorts sono nascosti e i video normali si vedono ancora."
+    ]
+   ],
+   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. Le informazioni sulle impostazioni di YouTube e dell'iPhone provengono dalle fonti elencate sotto, verificate il {date}. I nomi dei menu possono cambiare con gli aggiornamenti delle app e di iOS.",
+   "srcTitle": "Fonti",
+   "more": "Confronto tra app che nascondono gli Shorts",
+   "moreHref": "alternatives.html",
+   "faq": "Nascondere gli Shorts con minulo",
+   "faqHref": "hide/youtube.html"
+  }
+ },
+ "turn-off-instagram-reels.html": {
+  "src": [
+   [
+    "Meta (2022-03-23): Following and Favorites feeds",
+    "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+   ],
+   [
+    "Instagram Help: Set a daily time limit",
+    "https://help.instagram.com/2049425491975359/"
+   ],
+   [
+    "Instagram Help: Sleep mode",
+    "https://help.instagram.com/688407339404755/"
+   ],
+   [
+    "Meta (2024-09-17): Instagram Teen Accounts",
+    "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+   ],
+   [
+    "Apple: Content & Privacy Restrictions on iPhone",
+    "https://support.apple.com/guide/iphone/iph3ff83f3b1/ios"
+   ]
+  ],
+  "en": {
+   "title": "How to turn off Instagram Reels on iPhone and keep your DMs (every method, 2026)",
+   "lede": "We could not find any setting in Instagram's official help pages that turns off Reels for an adult account. The closest built-in options are the Following feed, a daily time limit reminder and Sleep mode, and iPhone Screen Time can only block the whole app. To hide Reels but keep DMs, use an app that shows Instagram with Reels hidden, such as minulo, UNDOOMED, Awhile, SocialLite, LoomWeb or Nope.",
+   "cols": [
+    "Method",
+    "What it does",
+    "Limits"
+   ],
+   "rows": [
+    [
+     "<b>Following feed</b> (tap the Instagram logo)",
+     "Shows posts from accounts you follow in time order, without suggested posts, going back 30 days.",
+     "The Reels tab is still there."
+    ],
+    [
+     "<b>Daily time limit</b>",
+     "Reminds you after the time you set.",
+     "A reminder, not a block. It covers all of Instagram, not just Reels."
+    ],
+    [
+     "<b>Sleep mode</b> (formerly Quiet mode)",
+     "Mutes notifications and auto-replies to DMs.",
+     "Does not hide Reels."
+    ],
+    [
+     "<b>Teen Accounts</b>",
+     "For teens: a reminder after 60 minutes a day and sleep mode from 10 PM to 7 AM.",
+     "Only for teen accounts. Reels are not removed."
+    ],
+    [
+     "<b>iPhone Screen Time</b>",
+     "Limits or blocks the whole Instagram app, or instagram.com in Safari.",
+     "It cannot block Reels only, and blocking the app also blocks DMs."
+    ],
+    [
+     "<b>Apps that hide Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Show Instagram in their own view or in Safari with Reels and suggested posts hidden; DMs keep working.",
+     "The official Instagram app is not changed. minulo can lock the official app with Screen Time and send you to minulo instead."
+    ]
+   ],
+   "qa": [
+    [
+     "Is there a setting to turn off Reels on Instagram?",
+     "We could not find one in Instagram's official help pages as of September 2026. The Following feed removes suggested posts from your feed, but the Reels tab stays."
+    ],
+    [
+     "Can Screen Time block only Instagram Reels?",
+     "No. Screen Time App Limits work on the whole app, and website blocking works on whole addresses. Blocking Instagram this way also blocks your DMs."
+    ],
+    [
+     "How do I hide Reels but keep DMs?",
+     "Use an app that opens Instagram with Reels hidden. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb and Nope all say DMs keep working. minulo also covers 9 other networks and can lock the official Instagram app so you open minulo instead."
+    ]
+   ],
+   "disclose": "This page is written by the developer of minulo. Facts about Instagram and iPhone settings come from the sources listed below, checked on {date}. Menu names can change with app and iOS updates.",
+   "srcTitle": "Sources",
+   "more": "Apps that hide Reels compared",
+   "moreHref": "alternatives.html",
+   "faq": "Hide Reels with minulo",
+   "faqHref": "hide/instagram.html"
+  },
+  "ja": {
+   "title": "iPhoneでInstagramのリールをオフにして、DMは使う方法（すべての方法・2026年）",
+   "lede": "Instagram の公式のヘルプでは、大人のアカウントでリールをオフにする設定は見つかりませんでした。公式にあるのは、フォロー中のフィード、1日の利用時間のお知らせ、スリープモード（Sleep mode）で、iPhone のスクリーンタイムではアプリ全体しか止められません。リールは消して DM は使いたいなら、リールを消した状態で Instagram を開けるアプリ（minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope）を使います。",
+   "cols": [
+    "方法",
+    "できること",
+    "限界"
+   ],
+   "rows": [
+    [
+     "<b>フォロー中のフィード</b>（Instagram のロゴを押す）",
+     "フォローしている人の投稿を新しい順に、おすすめなしで表示する（30日前まで）。",
+     "リールのタブは残る。"
+    ],
+    [
+     "<b>1日の利用時間の上限</b>（英語の画面では Daily time limit）",
+     "決めた時間を過ぎるとお知らせが出る。",
+     "お知らせで、止まるわけではない。リールだけでなく Instagram 全体が対象。"
+    ],
+    [
+     "<b>スリープモード</b>（英語の画面では Sleep mode。旧 Quiet mode）",
+     "通知を止め、DM に自動で返信する。",
+     "リールは消えない。"
+    ],
+    [
+     "<b>10代のアカウント</b>",
+     "10代は、1日60分でお知らせ、夜10時〜朝7時はスリープモード。",
+     "10代のアカウントだけ。リールは消えない。"
+    ],
+    [
+     "<b>iPhone のスクリーンタイム</b>",
+     "Instagram アプリ全体、または Safari の instagram.com を制限・停止する。",
+     "リールだけは止められない。アプリを止めると DM も止まる。"
+    ],
+    [
+     "<b>リールを消すアプリ</b>（minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope）",
+     "自前の画面か Safari で Instagram を開き、リールとおすすめ投稿を表示しない。DM は使える。",
+     "公式の Instagram アプリそのものは変わらない。minulo は公式アプリをスクリーンタイムで止め、minulo へ案内できる。"
+    ]
+   ],
+   "qa": [
+    [
+     "Instagramにリールをオフにする設定はある？",
+     "2026年9月の時点で、Instagram の公式のヘルプには見つかりませんでした。フォロー中のフィードにすると、フィードからおすすめ投稿は消えますが、リールのタブは残ります。"
+    ],
+    [
+     "スクリーンタイムでリールだけを止められる？",
+     "止められません。スクリーンタイムの時間制限はアプリ全体に、サイトの制限はアドレス全体にかかります。この方法で Instagram を止めると、DM も使えなくなります。"
+    ],
+    [
+     "リールは消して、DMは使うには？",
+     "リールを消した状態で Instagram を開けるアプリを使います。minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope は、どれも DM は使えると説明しています。minulo はほかの9つのSNSにも対応し、公式の Instagram アプリを止めて minulo へ案内することもできます。"
+    ]
+   ],
+   "disclose": "このページは minulo の開発者が書いています。Instagram と iPhone の設定については、下の出典を {date} に確かめました。メニューの名前は、アプリや iOS の更新で変わることがあります。",
+   "srcTitle": "出典",
+   "more": "リールを消すアプリの比較",
+   "moreHref": "alternatives.html",
+   "faq": "minulo でリールを消す",
+   "faqHref": "hide/instagram.html"
+  },
+  "de": {
+   "title": "Instagram Reels auf dem iPhone ausschalten und Direktnachrichten behalten (alle Methoden, 2026)",
+   "lede": "In den offiziellen Hilfeseiten von Instagram konnten wir keine Einstellung finden, mit der sich Reels bei einem Erwachsenenkonto ausschalten lassen. Am nächsten kommen der Gefolgt-Feed, eine Erinnerung zum täglichen Zeitlimit und der Schlafmodus; die iPhone-Bildschirmzeit kann nur die ganze App sperren. Um Reels auszublenden und Direktnachrichten zu behalten, nutze eine App, die Instagram ohne Reels zeigt, etwa minulo, UNDOOMED, Awhile, SocialLite, LoomWeb oder Nope.",
+   "cols": [
+    "Methode",
+    "Was sie bewirkt",
+    "Grenzen"
+   ],
+   "rows": [
+    [
+     "<b>Gefolgt-Feed</b> (auf das Instagram-Logo tippen; englisch „Following“)",
+     "Zeigt Beiträge von Konten, denen du folgst, chronologisch und ohne vorgeschlagene Beiträge, bis zu 30 Tage zurück.",
+     "Der Reels-Tab bleibt."
+    ],
+    [
+     "<b>Tägliches Zeitlimit</b> (englisch „Daily time limit“)",
+     "Erinnert dich nach der eingestellten Zeit.",
+     "Eine Erinnerung, keine Sperre. Gilt für ganz Instagram, nicht nur für Reels."
+    ],
+    [
+     "<b>Schlafmodus</b> (englisch „Sleep mode“, früher Quiet mode)",
+     "Schaltet Benachrichtigungen stumm und beantwortet Direktnachrichten automatisch.",
+     "Blendet Reels nicht aus."
+    ],
+    [
+     "<b>Teen-Konten</b>",
+     "Für Teenager: eine Erinnerung nach 60 Minuten am Tag und Schlafmodus von 22 bis 7 Uhr.",
+     "Nur für Teen-Konten. Reels werden nicht entfernt."
+    ],
+    [
+     "<b>iPhone-Bildschirmzeit</b>",
+     "Begrenzt oder sperrt die ganze Instagram-App oder instagram.com in Safari.",
+     "Sie kann nicht nur Reels sperren, und wer die App sperrt, sperrt auch die Direktnachrichten."
+    ],
+    [
+     "<b>Apps, die Reels ausblenden</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Zeigen Instagram in einer eigenen Ansicht oder in Safari ohne Reels und vorgeschlagene Beiträge; Direktnachrichten funktionieren weiter.",
+     "Die offizielle Instagram-App wird nicht verändert. minulo kann die offizielle App mit Bildschirmzeit sperren und dich stattdessen zu minulo schicken."
+    ]
+   ],
+   "qa": [
+    [
+     "Gibt es bei Instagram eine Einstellung, um Reels auszuschalten?",
+     "Wir konnten mit Stand September 2026 keine in den offiziellen Hilfeseiten von Instagram finden. Der Gefolgt-Feed entfernt vorgeschlagene Beiträge aus deinem Feed, aber der Reels-Tab bleibt."
+    ],
+    [
+     "Kann die Bildschirmzeit nur Instagram Reels sperren?",
+     "Nein. App-Limits der Bildschirmzeit gelten für die ganze App, Website-Sperren für ganze Adressen. Wer Instagram so sperrt, sperrt auch die Direktnachrichten."
+    ],
+    [
+     "Wie blende ich Reels aus und behalte die Direktnachrichten?",
+     "Nutze eine App, die Instagram ohne Reels öffnet. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb und Nope geben alle an, dass Direktnachrichten weiter funktionieren. minulo deckt außerdem 9 weitere Netzwerke ab und kann die offizielle Instagram-App sperren, sodass du stattdessen minulo öffnest."
+    ]
+   ],
+   "disclose": "Diese Seite stammt vom Entwickler von minulo. Angaben zu Instagram- und iPhone-Einstellungen stammen aus den unten genannten Quellen, geprüft am {date}. Menünamen können sich mit App- und iOS-Updates ändern.",
+   "srcTitle": "Quellen",
+   "more": "Apps, die Reels ausblenden, im Vergleich",
+   "moreHref": "alternatives.html",
+   "faq": "Reels mit minulo ausblenden",
+   "faqHref": "hide/instagram.html"
+  },
+  "fr": {
+   "title": "Désactiver les Reels Instagram sur iPhone et garder vos messages (toutes les méthodes, 2026)",
+   "lede": "Nous n'avons trouvé, dans l'aide officielle d'Instagram, aucun réglage qui désactive les Reels pour un compte adulte. Les options intégrées les plus proches sont le fil Abonnements, un rappel de limite de temps quotidienne et le mode Sommeil ; Temps d'écran sur iPhone ne peut bloquer que l'app entière. Pour masquer les Reels tout en gardant vos messages, utilisez une app qui affiche Instagram sans Reels, comme minulo, UNDOOMED, Awhile, SocialLite, LoomWeb ou Nope.",
+   "cols": [
+    "Méthode",
+    "Ce qu'elle fait",
+    "Limites"
+   ],
+   "rows": [
+    [
+     "<b>Fil Abonnements</b> (touchez le logo Instagram ; « Following » en anglais)",
+     "Affiche les publications des comptes que vous suivez par ordre chronologique, sans publications suggérées, sur 30 jours.",
+     "L'onglet Reels reste là."
+    ],
+    [
+     "<b>Limite de temps quotidienne</b> (« Daily time limit » en anglais)",
+     "Vous envoie un rappel après la durée choisie.",
+     "Un rappel, pas un blocage. Elle couvre tout Instagram, pas seulement les Reels."
+    ],
+    [
+     "<b>Mode Sommeil</b> (« Sleep mode » en anglais, anciennement Quiet mode)",
+     "Coupe les notifications et répond automatiquement aux messages.",
+     "Ne masque pas les Reels."
+    ],
+    [
+     "<b>Comptes Ado</b>",
+     "Pour les ados : un rappel après 60 minutes par jour et le mode Sommeil de 22 h à 7 h.",
+     "Uniquement pour les comptes ados. Les Reels ne sont pas retirés."
+    ],
+    [
+     "<b>Temps d'écran de l'iPhone</b>",
+     "Limite ou bloque toute l'app Instagram, ou instagram.com dans Safari.",
+     "Il ne peut pas bloquer uniquement les Reels, et bloquer l'app bloque aussi les messages."
+    ],
+    [
+     "<b>Apps qui masquent les Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Affichent Instagram dans leur propre vue ou dans Safari sans Reels ni publications suggérées ; les messages continuent de fonctionner.",
+     "L'app Instagram officielle n'est pas modifiée. minulo peut verrouiller l'app officielle avec Temps d'écran et vous envoyer vers minulo à la place."
+    ]
+   ],
+   "qa": [
+    [
+     "Existe-t-il un réglage pour désactiver les Reels sur Instagram ?",
+     "Nous n'en avons trouvé aucun dans l'aide officielle d'Instagram en septembre 2026. Le fil Abonnements retire les publications suggérées de votre fil, mais l'onglet Reels reste."
+    ],
+    [
+     "Temps d'écran peut-il bloquer uniquement les Reels Instagram ?",
+     "Non. Les limites d'app de Temps d'écran s'appliquent à toute l'app, et le blocage de sites à des adresses entières. Bloquer Instagram ainsi bloque aussi vos messages."
+    ],
+    [
+     "Comment masquer les Reels tout en gardant les messages ?",
+     "Utilisez une app qui ouvre Instagram sans Reels. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb et Nope indiquent tous que les messages continuent de fonctionner. minulo couvre aussi 9 autres réseaux et peut verrouiller l'app Instagram officielle pour que vous ouvriez minulo à la place."
+    ]
+   ],
+   "disclose": "Cette page est rédigée par le développeur de minulo. Les informations sur les réglages d'Instagram et de l'iPhone proviennent des sources ci-dessous, vérifiées le {date}. Les noms des menus peuvent changer avec les mises à jour des apps et d'iOS.",
+   "srcTitle": "Sources",
+   "more": "Comparatif des apps qui masquent les Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Masquer les Reels avec minulo",
+   "faqHref": "hide/instagram.html"
+  },
+  "es": {
+   "title": "Cómo desactivar los Reels de Instagram en iPhone y seguir usando los mensajes (todos los métodos, 2026)",
+   "lede": "No encontramos en la ayuda oficial de Instagram ningún ajuste que desactive los Reels en una cuenta de adulto. Lo más parecido que trae es el feed Seguidos, un recordatorio de límite de tiempo diario y el modo Descanso; Tiempo de uso del iPhone solo puede bloquear la app entera. Para ocultar los Reels y seguir usando los mensajes, usa una app que muestre Instagram sin Reels, como minulo, UNDOOMED, Awhile, SocialLite, LoomWeb o Nope.",
+   "cols": [
+    "Método",
+    "Qué hace",
+    "Límites"
+   ],
+   "rows": [
+    [
+     "<b>Feed Seguidos</b> (toca el logo de Instagram; «Following» en inglés)",
+     "Muestra las publicaciones de las cuentas que sigues en orden cronológico, sin publicaciones sugeridas, de los últimos 30 días.",
+     "La pestaña Reels sigue ahí."
+    ],
+    [
+     "<b>Límite de tiempo diario</b> («Daily time limit» en inglés)",
+     "Te avisa cuando pasa el tiempo que elegiste.",
+     "Es un recordatorio, no un bloqueo. Abarca todo Instagram, no solo los Reels."
+    ],
+    [
+     "<b>Modo Descanso</b> («Sleep mode» en inglés, antes Quiet mode)",
+     "Silencia las notificaciones y responde automáticamente a los mensajes.",
+     "No oculta los Reels."
+    ],
+    [
+     "<b>Cuentas de adolescente</b>",
+     "Para adolescentes: un recordatorio tras 60 minutos al día y modo Descanso de 22:00 a 7:00.",
+     "Solo para cuentas de adolescente. Los Reels no se quitan."
+    ],
+    [
+     "<b>Tiempo de uso del iPhone</b>",
+     "Limita o bloquea toda la app de Instagram, o instagram.com en Safari.",
+     "No puede bloquear solo los Reels, y bloquear la app también bloquea los mensajes."
+    ],
+    [
+     "<b>Apps que ocultan los Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Muestran Instagram en su propia vista o en Safari sin Reels ni publicaciones sugeridas; los mensajes siguen funcionando.",
+     "La app oficial de Instagram no cambia. minulo puede bloquear la app oficial con Tiempo de uso y llevarte a minulo en su lugar."
+    ]
+   ],
+   "qa": [
+    [
+     "¿Hay algún ajuste para desactivar los Reels en Instagram?",
+     "No encontramos ninguno en la ayuda oficial de Instagram a septiembre de 2026. El feed Seguidos quita las publicaciones sugeridas de tu feed, pero la pestaña Reels se queda."
+    ],
+    [
+     "¿Tiempo de uso puede bloquear solo los Reels de Instagram?",
+     "No. Los límites de apps de Tiempo de uso se aplican a toda la app, y el bloqueo de sitios web a direcciones completas. Si bloqueas Instagram así, también bloqueas tus mensajes."
+    ],
+    [
+     "¿Cómo oculto los Reels y sigo usando los mensajes?",
+     "Usa una app que abra Instagram sin Reels. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb y Nope indican que los mensajes siguen funcionando. minulo además cubre otras 9 redes y puede bloquear la app oficial de Instagram para que abras minulo en su lugar."
+    ]
+   ],
+   "disclose": "Esta página la escribe el desarrollador de minulo. La información sobre los ajustes de Instagram y del iPhone procede de las fuentes indicadas abajo, comprobadas el {date}. Los nombres de los menús pueden cambiar con las actualizaciones de las apps y de iOS.",
+   "srcTitle": "Fuentes",
+   "more": "Comparativa de apps que ocultan los Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Ocultar los Reels con minulo",
+   "faqHref": "hide/instagram.html"
+  },
+  "pt": {
+   "title": "Como desativar os Reels do Instagram no iPhone e continuar usando as DMs (todos os métodos, 2026)",
+   "lede": "Não encontramos nas páginas oficiais de ajuda do Instagram nenhuma configuração que desative os Reels em uma conta de adulto. As opções nativas mais próximas são o feed Seguindo, um lembrete de limite de tempo diário e o Modo descanso; o Tempo de Uso do iPhone só consegue bloquear o app inteiro. Para ocultar os Reels e manter as DMs, use um app que mostre o Instagram sem Reels, como minulo, UNDOOMED, Awhile, SocialLite, LoomWeb ou Nope.",
+   "cols": [
+    "Método",
+    "O que faz",
+    "Limitações"
+   ],
+   "rows": [
+    [
+     "<b>Feed Seguindo</b> (toque no logo do Instagram; \"Following\" em inglês)",
+     "Mostra posts das contas que você segue em ordem cronológica, sem posts sugeridos, dos últimos 30 dias.",
+     "A aba Reels continua lá."
+    ],
+    [
+     "<b>Limite de tempo diário</b> (\"Daily time limit\" em inglês)",
+     "Lembra você depois do tempo definido.",
+     "É um lembrete, não um bloqueio. Vale para o Instagram inteiro, não só para os Reels."
+    ],
+    [
+     "<b>Modo descanso</b> (\"Sleep mode\" em inglês, antes Quiet mode)",
+     "Silencia as notificações e responde DMs automaticamente.",
+     "Não oculta os Reels."
+    ],
+    [
+     "<b>Contas de adolescente</b>",
+     "Para adolescentes: um lembrete depois de 60 minutos por dia e modo descanso das 22h às 7h.",
+     "Só para contas de adolescente. Os Reels não são removidos."
+    ],
+    [
+     "<b>Tempo de Uso do iPhone</b>",
+     "Limita ou bloqueia o app do Instagram inteiro, ou o instagram.com no Safari.",
+     "Não consegue bloquear só os Reels, e bloquear o app também bloqueia as DMs."
+    ],
+    [
+     "<b>Apps que ocultam os Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Mostram o Instagram na própria visualização ou no Safari sem Reels e sem posts sugeridos; as DMs continuam funcionando.",
+     "O app oficial do Instagram não muda. O minulo pode bloquear o app oficial com o Tempo de Uso e levar você para o minulo."
+    ]
+   ],
+   "qa": [
+    [
+     "Existe uma configuração para desativar os Reels no Instagram?",
+     "Não encontramos nenhuma nas páginas oficiais de ajuda do Instagram em setembro de 2026. O feed Seguindo remove os posts sugeridos do seu feed, mas a aba Reels continua."
+    ],
+    [
+     "O Tempo de Uso consegue bloquear só os Reels do Instagram?",
+     "Não. Os limites de apps do Tempo de Uso valem para o app inteiro, e o bloqueio de sites vale para endereços inteiros. Bloquear o Instagram desse jeito também bloqueia as suas DMs."
+    ],
+    [
+     "Como ocultar os Reels e continuar usando as DMs?",
+     "Use um app que abra o Instagram sem Reels. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb e Nope dizem que as DMs continuam funcionando. O minulo também cobre outras 9 redes e pode bloquear o app oficial do Instagram para você abrir o minulo no lugar."
+    ]
+   ],
+   "disclose": "Esta página foi escrita pelo desenvolvedor do minulo. As informações sobre as configurações do Instagram e do iPhone vêm das fontes listadas abaixo, verificadas em {date}. Os nomes dos menus podem mudar com atualizações dos apps e do iOS.",
+   "srcTitle": "Fontes",
+   "more": "Comparativo de apps que ocultam os Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Ocultar os Reels com o minulo",
+   "faqHref": "hide/instagram.html"
+  },
+  "it": {
+   "title": "Come disattivare i Reels di Instagram su iPhone e continuare a usare i DM (tutti i metodi, 2026)",
+   "lede": "Nelle pagine di assistenza ufficiali di Instagram non abbiamo trovato alcuna impostazione che disattivi i Reels per un account adulto. Le opzioni integrate più vicine sono il feed Seguiti, un promemoria del limite di tempo giornaliero e la modalità Riposo; Tempo di utilizzo dell'iPhone può bloccare solo l'intera app. Per nascondere i Reels e tenere i DM, usa un'app che mostra Instagram senza Reels, come minulo, UNDOOMED, Awhile, SocialLite, LoomWeb o Nope.",
+   "cols": [
+    "Metodo",
+    "Cosa fa",
+    "Limiti"
+   ],
+   "rows": [
+    [
+     "<b>Feed Seguiti</b> (tocca il logo di Instagram; «Following» in inglese)",
+     "Mostra i post degli account che segui in ordine cronologico, senza post suggeriti, fino a 30 giorni fa.",
+     "La scheda Reels resta."
+    ],
+    [
+     "<b>Limite di tempo giornaliero</b> («Daily time limit» in inglese)",
+     "Ti avvisa dopo il tempo che hai impostato.",
+     "È un promemoria, non un blocco. Vale per tutto Instagram, non solo per i Reels."
+    ],
+    [
+     "<b>Modalità Riposo</b> («Sleep mode» in inglese, prima Quiet mode)",
+     "Silenzia le notifiche e risponde automaticamente ai DM.",
+     "Non nasconde i Reels."
+    ],
+    [
+     "<b>Account per teenager</b>",
+     "Per i teenager: un promemoria dopo 60 minuti al giorno e modalità Riposo dalle 22:00 alle 7:00.",
+     "Solo per gli account dei teenager. I Reels non vengono rimossi."
+    ],
+    [
+     "<b>Tempo di utilizzo dell'iPhone</b>",
+     "Limita o blocca l'intera app Instagram, oppure instagram.com in Safari.",
+     "Non può bloccare solo i Reels, e bloccare l'app blocca anche i DM."
+    ],
+    [
+     "<b>App che nascondono i Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Mostrano Instagram nella propria vista o in Safari senza Reels né post suggeriti; i DM continuano a funzionare.",
+     "L'app ufficiale di Instagram non cambia. minulo può bloccare l'app ufficiale con Tempo di utilizzo e mandarti su minulo."
+    ]
+   ],
+   "qa": [
+    [
+     "C'è un'impostazione per disattivare i Reels su Instagram?",
+     "Non ne abbiamo trovata nessuna nelle pagine di assistenza ufficiali di Instagram a settembre 2026. Il feed Seguiti toglie i post suggeriti dal tuo feed, ma la scheda Reels resta."
+    ],
+    [
+     "Tempo di utilizzo può bloccare solo i Reels di Instagram?",
+     "No. I limiti app di Tempo di utilizzo valgono per l'intera app, e il blocco dei siti per indirizzi interi. Bloccando Instagram così blocchi anche i tuoi DM."
+    ],
+    [
+     "Come nascondo i Reels e continuo a usare i DM?",
+     "Usa un'app che apre Instagram senza Reels. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb e Nope dichiarano tutte che i DM continuano a funzionare. minulo copre anche altri 9 social e può bloccare l'app ufficiale di Instagram così apri minulo al suo posto."
+    ]
+   ],
+   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. Le informazioni sulle impostazioni di Instagram e dell'iPhone provengono dalle fonti elencate sotto, verificate il {date}. I nomi dei menu possono cambiare con gli aggiornamenti delle app e di iOS.",
+   "srcTitle": "Fonti",
+   "more": "Confronto tra app che nascondono i Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Nascondere i Reels con minulo",
+   "faqHref": "hide/instagram.html"
+  }
+ },
+ "opal-alternatives.html": {
+  "src": [
+   [
+    "App Store: Opal: Screen Time Control",
+    "https://apps.apple.com/us/app/id1497465230"
+   ],
+   [
+    "App Store: one sec | screen time + focus",
+    "https://apps.apple.com/us/app/id1532875441"
+   ],
+   [
+    "App Store: ScreenZen- Screen Time Control",
+    "https://apps.apple.com/us/app/id1541027222"
+   ],
+   [
+    "App Store: Brick - Ditch Distractions",
+    "https://apps.apple.com/us/app/id6448794069"
+   ],
+   [
+    "App Store: minulo: Reels & Shorts Blocker",
+    "https://apps.apple.com/us/app/id6809352229"
+   ],
+   [
+    "Apple: Screen Time on iPhone",
+    "https://support.apple.com/guide/iphone/iph3ff83f3b1/ios"
+   ]
+  ],
+  "en": {
+   "title": "Opal alternatives that still let you use Instagram DMs (2026)",
+   "lede": "Opal, Brick and iPhone Screen Time block or limit the whole app, so while Instagram is blocked its DMs are blocked too. one sec and ScreenZen add a pause before an app opens instead. If you want Reels and Shorts gone but DMs available, an app that hides only those parts, such as minulo, fits better; minulo can also lock the official apps and send you to its Reels-free view.",
+   "cols": [
+    "App",
+    "How it limits you",
+    "While limited, can you use DMs?"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b> (88,671 US ratings)",
+     "App limits and app blockers for the apps you choose, with real-time data, leaderboards and rewards.",
+     "No, not inside a blocked app: the whole app is blocked, messages included."
+    ],
+    [
+     "<b>Brick</b> (55,407)",
+     "A physical device plus an app; tap it to block chosen apps and websites. One-time purchase.",
+     "No, not inside a blocked app. Unblocking needs the physical Brick."
+    ],
+    [
+     "<b>iPhone Screen Time</b> (built in)",
+     "App Limits and Downtime for whole apps; website limits in Safari.",
+     "No, not inside a limited app. It cannot target Reels only."
+    ],
+    [
+     "<b>one sec</b> (23,622)",
+     "Delays opening an app with a pause (for example a breathing animation); can send you out after a set time.",
+     "Yes, after the pause, but Reels and the feed are there too. Free for one app; Pro for more."
+    ],
+    [
+     "<b>ScreenZen</b> (50,501)",
+     "Delays opening, interrupts scrolling, optional strict blocks by time or number of opens.",
+     "Yes after the delay unless you set a strict block; Reels are there too."
+    ],
+    [
+     "<b>minulo</b> (new, 0 US ratings)",
+     "Hides Reels, Shorts and suggested posts on 10 networks in its own view; can lock the official apps with Screen Time and send you to minulo.",
+     "Yes. DMs, friends' posts and search keep working while Reels and Shorts stay hidden. Hiding is free."
+    ]
+   ],
+   "qa": [
+    [
+     "What is a good Opal alternative if I still need Instagram DMs?",
+     "Apps that hide only Reels and Shorts leave DMs working. minulo shows Instagram and 9 other networks with Reels, Shorts and suggested posts hidden, and it can lock the official Instagram app so you open minulo instead. Hiding is free."
+    ],
+    [
+     "Does Opal block Instagram DMs?",
+     "Opal blocks the apps you choose, so while Instagram is blocked you cannot open it at all, which includes your DMs. Opal's description talks about app limits and app blockers; it does not describe hiding parts of an app."
+    ],
+    [
+     "Is a pause app like one sec better than blocking?",
+     "one sec says it delays access instead of blocking, which it describes as psychologically different, and reports that app usage drops by 57% on average. After the pause the whole app opens, Reels included. minulo removes Reels and Shorts instead, so what you open is already without them."
+    ]
+   ],
+   "disclose": "This page is written by the developer of minulo. Facts about other apps come only from their App Store descriptions and US ratings as of {date}.",
+   "srcTitle": "Sources",
+   "more": "Apps that hide Reels compared",
+   "moreHref": "alternatives.html",
+   "faq": "How to turn off Instagram Reels",
+   "faqHref": "turn-off-instagram-reels.html"
+  },
+  "ja": {
+   "title": "Opal の代わりに、Instagram の DM は使えるアプリ（2026年）",
+   "lede": "Opal・Brick・iPhone のスクリーンタイムは、アプリ全体を止めたり制限したりするので、Instagram を止めている間は DM も使えません。one sec と ScreenZen は、止める代わりにアプリを開く前に間を置きます。リールやショートは消して DM は使いたいなら、その部分だけを消す minulo のようなアプリが合います。minulo は、公式アプリを止めてリールの消えた画面に案内することもできます。",
+   "cols": [
+    "アプリ",
+    "止め方",
+    "止めている間、DM は使える？"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b>（米国の評価 88,671件）",
+     "選んだアプリの時間制限とブロック。利用データ・ランキング・ごほうびもある。",
+     "止めているアプリの中では使えない。アプリ全体が止まるので、メッセージも止まる。"
+    ],
+    [
+     "<b>Brick</b>（55,407件）",
+     "手元の小さな機器とアプリの組み合わせ。機器にスマホをタッチして、選んだアプリやサイトを止める。買い切り。",
+     "止めているアプリの中では使えない。解除には機器が要る。"
+    ],
+    [
+     "<b>iPhone のスクリーンタイム</b>（標準の機能）",
+     "アプリ全体の時間制限・休止時間と、Safari のサイトの制限。",
+     "制限しているアプリの中では使えない。リールだけは狙えない。"
+    ],
+    [
+     "<b>one sec</b>（23,622件）",
+     "アプリを開く前に間を置く（深呼吸の画面など）。決めた時間で外に出すこともできる。",
+     "間のあとなら使える。ただしリールやフィードもそのまま。1つのアプリなら無料、それ以上は Pro。"
+    ],
+    [
+     "<b>ScreenZen</b>（50,501件）",
+     "開く前に待たせる、スクロールを中断する、時間や回数で強く止める、を選べる。",
+     "強く止める設定にしなければ、待ったあとは使える。リールもそのまま。"
+    ],
+    [
+     "<b>minulo</b>（新しいアプリ・米国の評価 0件）",
+     "10のSNSで、リール・ショート・おすすめ投稿を自前の画面で消す。公式アプリをスクリーンタイムで止め、minulo に案内できる。",
+     "使える。リールとショートは消えたまま、DM・友だちの投稿・検索は使える。消す機能は無料。"
+    ]
+   ],
+   "qa": [
+    [
+     "InstagramのDMは使いたい。Opalの代わりになるアプリは？",
+     "リールやショートだけを消すアプリなら、DM は使えます。minulo は、Instagram とほかの9つのSNSを、リール・ショート・おすすめ投稿を消した状態で開けます。公式の Instagram アプリを止めて、minulo へ案内することもできます。消す機能は無料です。"
+    ],
+    [
+     "OpalはInstagramのDMも止める？",
+     "Opal は選んだアプリそのものを止めるので、Instagram を止めている間は、DM も含めてアプリを開けません。Opal の説明にあるのは、アプリの時間制限とブロックで、アプリの一部だけを隠す機能は書かれていません。"
+    ],
+    [
+     "one secのように間を置くアプリは、ブロックより良い？",
+     "one sec は、止めるのではなく開くのを遅らせる方式で、心理的に違いがあると説明しており、アプリの利用が平均57%減ったとしています。ただし間のあとはアプリ全体が開き、リールもそのままです。minulo はリールとショートを消すので、開いた画面には最初からそれがありません。"
+    ]
+   ],
+   "disclose": "このページは minulo の開発者が書いています。ほかのアプリについては、{date} 時点の App Store の説明と米国の評価数だけをもとにしています。",
+   "srcTitle": "出典",
+   "more": "リールを消すアプリの比較",
+   "moreHref": "alternatives.html",
+   "faq": "Instagramのリールをオフにする方法",
+   "faqHref": "turn-off-instagram-reels.html"
+  }
+ }
+}

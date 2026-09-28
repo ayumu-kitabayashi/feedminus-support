@@ -1,0 +1,152 @@
+{
+ "opal-alternatives.html": {
+  "src": [
+   [
+    "App Store: Opal: Screen Time Control",
+    "https://apps.apple.com/us/app/id1497465230"
+   ],
+   [
+    "App Store: one sec | screen time + focus",
+    "https://apps.apple.com/us/app/id1532875441"
+   ],
+   [
+    "App Store: ScreenZen- Screen Time Control",
+    "https://apps.apple.com/us/app/id1541027222"
+   ],
+   [
+    "App Store: Brick - Ditch Distractions",
+    "https://apps.apple.com/us/app/id6448794069"
+   ],
+   [
+    "App Store: minulo: Reels & Shorts Blocker",
+    "https://apps.apple.com/us/app/id6809352229"
+   ],
+   [
+    "Apple: Screen Time on iPhone",
+    "https://support.apple.com/guide/iphone/iph3ff83f3b1/ios"
+   ]
+  ],
+  "en": {
+   "title": "Opal alternatives that still let you use Instagram DMs (2026)",
+   "lede": "Opal, Brick and iPhone Screen Time block or limit the whole app, so while Instagram is blocked its DMs are blocked too. one sec and ScreenZen add a pause before an app opens instead. If you want Reels and Shorts gone but DMs available, an app that hides only those parts, such as minulo, fits better; minulo can also lock the official apps and send you to its Reels-free view.",
+   "cols": [
+    "App",
+    "How it limits you",
+    "While limited, can you use DMs?"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b> (88,671 US ratings)",
+     "App limits and app blockers for the apps you choose, with real-time data, leaderboards and rewards.",
+     "No, not inside a blocked app: the whole app is blocked, messages included."
+    ],
+    [
+     "<b>Brick</b> (55,407)",
+     "A physical device plus an app; tap it to block chosen apps and websites. One-time purchase.",
+     "No, not inside a blocked app. Unblocking needs the physical Brick."
+    ],
+    [
+     "<b>iPhone Screen Time</b> (built in)",
+     "App Limits and Downtime for whole apps; website limits in Safari.",
+     "No, not inside a limited app. It cannot target Reels only."
+    ],
+    [
+     "<b>one sec</b> (23,622)",
+     "Delays opening an app with a pause (for example a breathing animation); can send you out after a set time.",
+     "Yes, after the pause, but Reels and the feed are there too. Free for one app; Pro for more."
+    ],
+    [
+     "<b>ScreenZen</b> (50,501)",
+     "Delays opening, interrupts scrolling, optional strict blocks by time or number of opens.",
+     "Yes after the delay unless you set a strict block; Reels are there too."
+    ],
+    [
+     "<b>minulo</b> (new, 0 US ratings)",
+     "Hides Reels, Shorts and suggested posts on 10 networks in its own view; can lock the official apps with Screen Time and send you to minulo.",
+     "Yes. DMs, friends' posts and search keep working while Reels and Shorts stay hidden. Hiding is free."
+    ]
+   ],
+   "qa": [
+    [
+     "What is a good Opal alternative if I still need Instagram DMs?",
+     "Apps that hide only Reels and Shorts leave DMs working. minulo shows Instagram and 9 other networks with Reels, Shorts and suggested posts hidden, and it can lock the official Instagram app so you open minulo instead. Hiding is free."
+    ],
+    [
+     "Does Opal block Instagram DMs?",
+     "Opal blocks the apps you choose, so while Instagram is blocked you cannot open it at all, which includes your DMs. Opal's description talks about app limits and app blockers; it does not describe hiding parts of an app."
+    ],
+    [
+     "Is a pause app like one sec better than blocking?",
+     "one sec says it delays access instead of blocking, which it describes as psychologically different, and reports that app usage drops by 57% on average. After the pause the whole app opens, Reels included. minulo removes Reels and Shorts instead, so what you open is already without them."
+    ]
+   ],
+   "disclose": "This page is written by the developer of minulo. Facts about other apps come only from their App Store descriptions and US ratings as of {date}.",
+   "srcTitle": "Sources",
+   "more": "Apps that hide Reels compared",
+   "moreHref": "alternatives.html",
+   "faq": "How to turn off Instagram Reels",
+   "faqHref": "turn-off-instagram-reels.html"
+  },
+  "ja": {
+   "title": "Opal の代わりに、Instagram の DM は使えるアプリ（2026年）",
+   "lede": "Opal・Brick・iPhone のスクリーンタイムは、アプリ全体を止めたり制限したりするので、Instagram を止めている間は DM も使えません。one sec と ScreenZen は、止める代わりにアプリを開く前に間を置きます。リールやショートは消して DM は使いたいなら、その部分だけを消す minulo のようなアプリが合います。minulo は、公式アプリを止めてリールの消えた画面に案内することもできます。",
+   "cols": [
+    "アプリ",
+    "止め方",
+    "止めている間、DM は使える？"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b>（米国の評価 88,671件）",
+     "選んだアプリの時間制限とブロック。利用データ・ランキング・ごほうびもある。",
+     "止めているアプリの中では使えない。アプリ全体が止まるので、メッセージも止まる。"
+    ],
+    [
+     "<b>Brick</b>（55,407件）",
+     "手元の小さな機器とアプリの組み合わせ。機器にスマホをタッチして、選んだアプリやサイトを止める。買い切り。",
+     "止めているアプリの中では使えない。解除には機器が要る。"
+    ],
+    [
+     "<b>iPhone のスクリーンタイム</b>（標準の機能）",
+     "アプリ全体の時間制限・休止時間と、Safari のサイトの制限。",
+     "制限しているアプリの中では使えない。リールだけは狙えない。"
+    ],
+    [
+     "<b>one sec</b>（23,622件）",
+     "アプリを開く前に間を置く（深呼吸の画面など）。決めた時間で外に出すこともできる。",
+     "間のあとなら使える。ただしリールやフィードもそのまま。1つのアプリなら無料、それ以上は Pro。"
+    ],
+    [
+     "<b>ScreenZen</b>（50,501件）",
+     "開く前に待たせる、スクロールを中断する、時間や回数で強く止める、を選べる。",
+     "強く止める設定にしなければ、待ったあとは使える。リールもそのまま。"
+    ],
+    [
+     "<b>minulo</b>（新しいアプリ・米国の評価 0件）",
+     "10のSNSで、リール・ショート・おすすめ投稿を自前の画面で消す。公式アプリをスクリーンタイムで止め、minulo に案内できる。",
+     "使える。リールとショートは消えたまま、DM・友だちの投稿・検索は使える。消す機能は無料。"
+    ]
+   ],
+   "qa": [
+    [
+     "InstagramのDMは使いたい。Opalの代わりになるアプリは？",
+     "リールやショートだけを消すアプリなら、DM は使えます。minulo は、Instagram とほかの9つのSNSを、リール・ショート・おすすめ投稿を消した状態で開けます。公式の Instagram アプリを止めて、minulo へ案内することもできます。消す機能は無料です。"
+    ],
+    [
+     "OpalはInstagramのDMも止める？",
+     "Opal は選んだアプリそのものを止めるので、Instagram を止めている間は、DM も含めてアプリを開けません。Opal の説明にあるのは、アプリの時間制限とブロックで、アプリの一部だけを隠す機能は書かれていません。"
+    ],
+    [
+     "one secのように間を置くアプリは、ブロックより良い？",
+     "one sec は、止めるのではなく開くのを遅らせる方式で、心理的に違いがあると説明しており、アプリの利用が平均57%減ったとしています。ただし間のあとはアプリ全体が開き、リールもそのままです。minulo はリールとショートを消すので、開いた画面には最初からそれがありません。"
+    ]
+   ],
+   "disclose": "このページは minulo の開発者が書いています。ほかのアプリについては、{date} 時点の App Store の説明と米国の評価数だけをもとにしています。",
+   "srcTitle": "出典",
+   "more": "リールを消すアプリの比較",
+   "moreHref": "alternatives.html",
+   "faq": "Instagramのリールをオフにする方法",
+   "faqHref": "turn-off-instagram-reels.html"
+  }
+ }
+}

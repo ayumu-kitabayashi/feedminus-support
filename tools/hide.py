@@ -121,7 +121,7 @@ def service(lang, sid):
     k0 = tr['intents'][0]
     # ★見出しを「◯◯だけ消して、△△は使う」に（2026-09-28・ChatGPT への聞き方に合わせる）。英語は文中なので小文字と言い換え
     K0EN = {'Subscribed': 'subscribed communities', 'Saved': 'saved Pins', 'Following': 'Following feed', 'Chat': 'chats'}
-    k0l = K0EN.get(k0, k0.lower()) if lang == 'en' else k0
+    k0l = K0EN.get(k0, k0.lower()) if lang == 'en' else (k0[:1].lower() + k0[1:]) if lang in ('fr', 'es', 'pt', 'it') else k0
     kw = dict(name=name, de_name=de_name, t0=short(tr['rows'][0]), intents=join(lang, tr['intents'], t['sep']), k0=k0, k0l=k0l, **t['ui'])
     h1, lede = fill(t['h1'], **kw), fill(t['lede'], **kw)
     steps = [fill(s, **kw) for s in t['steps']]

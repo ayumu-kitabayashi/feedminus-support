@@ -18,8 +18,15 @@ D = json.loads((HERE / 'alts.json').read_text())
 LANGS = ['ja', 'en', 'de', 'fr', 'es', 'pt', 'it']
 PATH = 'alternatives.html'
 # 手引き（tools/guides.py）は日英だけ
-GUIDES = {'ja': '<a href="turn-off-instagram-reels.html">Instagramのリールをオフにする方法 →</a><a href="block-youtube-shorts.html">YouTubeのショートを止める方法 →</a>',
-          'en': '<a href="turn-off-instagram-reels.html">How to turn off Instagram Reels →</a><a href="block-youtube-shorts.html">How to block YouTube Shorts →</a>'}
+GUIDES = {
+    'ja': '<a href="turn-off-instagram-reels.html">Instagramのリールをオフにする方法 →</a><a href="block-youtube-shorts.html">YouTubeのショートを止める方法 →</a><a href="opal-alternatives.html">Opalの代わりになるアプリ →</a>',
+    'en': '<a href="turn-off-instagram-reels.html">How to turn off Instagram Reels →</a><a href="block-youtube-shorts.html">How to block YouTube Shorts →</a><a href="opal-alternatives.html">Opal alternatives that keep DMs →</a>',
+    'de': '<a href="turn-off-instagram-reels.html">Instagram Reels ausschalten →</a><a href="block-youtube-shorts.html">YouTube Shorts blockieren →</a>',
+    'fr': '<a href="turn-off-instagram-reels.html">Désactiver les Reels Instagram →</a><a href="block-youtube-shorts.html">Bloquer les Shorts YouTube →</a>',
+    'es': '<a href="turn-off-instagram-reels.html">Desactivar los Reels de Instagram →</a><a href="block-youtube-shorts.html">Bloquear los Shorts de YouTube →</a>',
+    'pt': '<a href="turn-off-instagram-reels.html">Desativar os Reels do Instagram →</a><a href="block-youtube-shorts.html">Bloquear o YouTube Shorts →</a>',
+    'it': '<a href="turn-off-instagram-reels.html">Disattivare i Reels di Instagram →</a><a href="block-youtube-shorts.html">Bloccare gli Shorts di YouTube →</a>',
+}
 
 EXTRA = """
 .disc{font-size:14px;color:var(--ink3);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:0 0 22px}
