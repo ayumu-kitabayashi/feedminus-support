@@ -48,6 +48,18 @@
    [
     "どの言語で使えますか？ Androidでも使えますか？",
     "minulo は iPhone 向けのアプリで、日本語、英語、ドイツ語、フランス語、スペイン語、ポルトガル語、イタリア語で使えます。言語は、アプリの「プロフィール」→「設定」→「言語」で選べます。Android 版は今のところありません。"
+   ],
+   [
+    "SocialLiteとminuloは何が違いますか？",
+    "どちらも、リールやショートのような短い動画を消して、DM は残すアプリです。minulo はさらに、iPhone のスクリーンタイムで公式アプリを止めて minulo に案内でき、10のSNSに対応し、Mac と Chrome でも使えます。評価の数は SocialLite がずっと多く、米国で7,776件です（2026年9月時点）。minulo は2026年9月に公開したばかりの新しいアプリです。"
+   ],
+   [
+    "YouTubeでショートの上限を0にできるようになりました。minuloは要りますか？",
+    "YouTube をアプリだけで使い、上限が出たら自分でやめられるなら、YouTube のショートのフィードの上限で足りるかもしれません。ただ、大人のアカウントでは上限の表示を閉じられ、youtube.com やほかのSNSには効きません。minulo は自前の画面でショートを消し、Instagram・TikTok などほか9つのSNSにも対応し、公式アプリを止めることもできます。"
+   ],
+   [
+    "Opalとminuloは何が違いますか？",
+    "Opal はアプリ全体を止めるので、Instagram を止めている間は DM も使えません。minulo はリール・ショート・おすすめ投稿だけを消すので、DM や友だちの投稿は使えます。どちらも iPhone のスクリーンタイムでアプリを止めますが、minulo は閉じた扉の代わりに、リールの消えた minulo の画面へ案内します。"
    ]
   ]
  },
@@ -100,6 +112,18 @@
    [
     "Which languages does minulo support? Is there an Android version?",
     "minulo is an iPhone app available in English, Japanese, German, French, Spanish, Portuguese and Italian. You can choose a language in Profile > Settings > Language. There is no Android version at the moment."
+   ],
+   [
+    "How is minulo different from SocialLite?",
+    "Both hide short videos such as Reels and Shorts and keep your DMs. minulo can also lock the official apps with iPhone Screen Time and send you to minulo instead, covers 10 networks, and also works on Mac and Chrome. SocialLite has far more ratings (7,776 in the US as of September 2026); minulo launched in September 2026 and is still new."
+   ],
+   [
+    "YouTube now lets me set the Shorts limit to 0. Do I still need minulo?",
+    "If you only use YouTube in its app and are happy to stop yourself when the limit appears, YouTube's own Shorts feed limit may be enough. For adults the limit can be dismissed, and it does not cover youtube.com or other networks. minulo hides Shorts in its own view, also covers Instagram, TikTok and 7 more networks, and can lock the official apps."
+   ],
+   [
+    "How is minulo different from Opal?",
+    "Opal blocks whole apps, so while Instagram is blocked, its DMs are blocked too. minulo hides only Reels, Shorts and suggested posts, so DMs and friends' posts keep working. Both use iPhone Screen Time to lock apps; minulo sends you to its own Reels-free view instead of a closed door."
    ]
   ]
  },
@@ -152,6 +176,18 @@
    [
     "In welchen Sprachen gibt es minulo? Gibt es eine Android-Version?",
     "minulo ist eine iPhone-App auf Deutsch, Englisch, Japanisch, Französisch, Spanisch, Portugiesisch und Italienisch. Die Sprache wählst du in der App unter Profil > Einstellungen > Sprache. Eine Android-Version gibt es derzeit nicht."
+   ],
+   [
+    "Was ist der Unterschied zwischen minulo und SocialLite?",
+    "Beide blenden kurze Videos wie Reels und Shorts aus und lassen dir deine DMs. minulo kann außerdem die offiziellen Apps mit der Bildschirmzeit des iPhones sperren und dich stattdessen zu minulo schicken, unterstützt 10 Dienste und funktioniert auch auf dem Mac und in Chrome. SocialLite hat weit mehr Bewertungen (7.776 in den USA, Stand September 2026); minulo ist im September 2026 erschienen und noch neu."
+   ],
+   [
+    "Bei YouTube kann ich das Shorts-Limit jetzt auf 0 setzen. Brauche ich minulo dann noch?",
+    "Wenn du YouTube nur in der App nutzt und bereit bist, selbst aufzuhören, sobald das Limit erscheint, kann YouTubes eigenes Shorts-Limit (Shorts feed limit) reichen. Erwachsene können das Limit allerdings wegklicken, und es gilt nicht für youtube.com oder andere Dienste. minulo blendet Shorts in seiner eigenen Ansicht aus, unterstützt auch Instagram, TikTok und 7 weitere Dienste und kann die offiziellen Apps sperren."
+   ],
+   [
+    "Was ist der Unterschied zwischen minulo und Opal?",
+    "Opal blockiert ganze Apps. Solange Instagram blockiert ist, sind also auch die DMs blockiert. minulo blendet nur Reels, Shorts und vorgeschlagene Beiträge aus, sodass DMs und die Beiträge deiner Freunde weiter funktionieren. Beide nutzen die Bildschirmzeit des iPhones, um Apps zu sperren; minulo schickt dich dann in seine eigene Ansicht ohne Reels statt vor eine verschlossene Tür."
    ]
   ]
  },
@@ -204,6 +240,18 @@
    [
     "En quelles langues minulo est-il disponible ? Existe-t-il une version Android ?",
     "minulo est une app iPhone disponible en français, anglais, japonais, allemand, espagnol, portugais et italien. Vous choisissez la langue dans l'app, dans Profil > Réglages > Langue. Il n'existe pas de version Android pour le moment."
+   ],
+   [
+    "Quelle est la différence entre minulo et SocialLite ?",
+    "Les deux masquent les vidéos courtes comme les Reels et les Shorts, et vous laissent vos DM. minulo peut en plus verrouiller les apps officielles avec Temps d'écran de l'iPhone et vous envoyer dans minulo à la place, prend en charge 10 services et fonctionne aussi sur Mac et dans Chrome. SocialLite a bien plus d'évaluations (7 776 aux États-Unis en septembre 2026) ; minulo est sorti en septembre 2026 et est encore récent."
+   ],
+   [
+    "YouTube permet maintenant de régler la limite des Shorts sur 0. Ai-je encore besoin de minulo ?",
+    "Si vous utilisez YouTube uniquement dans son app et que vous êtes prêt à vous arrêter vous-même quand la limite apparaît, la limite de Shorts de YouTube (Shorts feed limit) peut suffire. Pour les adultes, la limite peut être ignorée d'un geste, et elle ne couvre ni youtube.com ni les autres services. minulo masque les Shorts dans sa propre vue, prend aussi en charge Instagram, TikTok et 7 autres services, et peut verrouiller les apps officielles."
+   ],
+   [
+    "Quelle est la différence entre minulo et Opal ?",
+    "Opal bloque des apps entières : tant qu'Instagram est bloqué, ses DM le sont aussi. minulo ne masque que les Reels, les Shorts et les publications suggérées, donc les DM et les publications de vos amis restent utilisables. Les deux utilisent Temps d'écran de l'iPhone pour verrouiller les apps ; minulo vous envoie alors dans sa propre vue sans Reels plutôt que devant une porte fermée."
    ]
   ]
  },
@@ -256,6 +304,18 @@
    [
     "¿En qué idiomas está minulo? ¿Hay versión para Android?",
     "minulo es una app para iPhone disponible en español, inglés, japonés, alemán, francés, portugués e italiano. Eliges el idioma en la app, en Perfil > Ajustes > Idioma. Por ahora no hay versión para Android."
+   ],
+   [
+    "¿En qué se diferencia minulo de SocialLite?",
+    "Los dos ocultan videos cortos como los Reels y los Shorts y te dejan usar los DMs. minulo además puede bloquear las apps oficiales con Tiempo de uso del iPhone y llevarte a minulo en su lugar, admite 10 servicios y también funciona en Mac y en Chrome. SocialLite tiene muchas más valoraciones (7.776 en EE. UU. a septiembre de 2026); minulo salió en septiembre de 2026 y todavía es nuevo."
+   ],
+   [
+    "YouTube ya deja poner el límite de Shorts en 0. ¿Todavía necesito minulo?",
+    "Si solo usas YouTube en su app y te parece bien detenerte tú mismo cuando aparece el límite, el límite de Shorts de YouTube (Shorts feed limit) puede bastar. Para los adultos, el límite se puede descartar, y no cubre youtube.com ni otros servicios. minulo oculta los Shorts en su propia vista, también admite Instagram, TikTok y 7 servicios más, y puede bloquear las apps oficiales."
+   ],
+   [
+    "¿En qué se diferencia minulo de Opal?",
+    "Opal bloquea apps enteras, así que mientras Instagram está bloqueado, sus DMs también lo están. minulo oculta solo los Reels, los Shorts y las publicaciones sugeridas, así que los DMs y las publicaciones de tus amigos siguen funcionando. Los dos usan Tiempo de uso del iPhone para bloquear apps; minulo te lleva a su propia vista sin Reels en lugar de dejarte ante una puerta cerrada."
    ]
   ]
  },
@@ -308,6 +368,18 @@
    [
     "Em quais idiomas o minulo está disponível? Existe versão para Android?",
     "O minulo é um app para iPhone disponível em português, inglês, japonês, alemão, francês, espanhol e italiano. Você escolhe o idioma no app, em Perfil > Ajustes > Idioma. Por enquanto não há versão para Android."
+   ],
+   [
+    "Qual é a diferença entre o minulo e o SocialLite?",
+    "Os dois ocultam vídeos curtos como Reels e Shorts e deixam você usar as DMs. O minulo também pode bloquear os apps oficiais com o Tempo de Uso do iPhone e levar você ao minulo no lugar deles, suporta 10 serviços e também funciona no Mac e no Chrome. O SocialLite tem muito mais avaliações (7.776 nos EUA em setembro de 2026); o minulo foi lançado em setembro de 2026 e ainda é novo."
+   ],
+   [
+    "O YouTube agora deixa colocar o limite de Shorts em 0. Ainda preciso do minulo?",
+    "Se você só usa o YouTube no app e não se importa de parar por conta própria quando o limite aparece, o limite de Shorts do próprio YouTube (Shorts feed limit) pode bastar. Para adultos, o limite pode ser dispensado, e ele não vale para o youtube.com nem para outros serviços. O minulo oculta os Shorts na própria visualização, também suporta Instagram, TikTok e mais 7 serviços, e pode bloquear os apps oficiais."
+   ],
+   [
+    "Qual é a diferença entre o minulo e o Opal?",
+    "O Opal bloqueia apps inteiros, então enquanto o Instagram está bloqueado, as DMs também ficam bloqueadas. O minulo oculta só Reels, Shorts e publicações sugeridas, então as DMs e as publicações dos seus amigos continuam funcionando. Os dois usam o Tempo de Uso do iPhone para bloquear apps; o minulo leva você à própria visualização sem Reels em vez de a uma porta fechada."
    ]
   ]
  },
@@ -360,6 +432,18 @@
    [
     "In quali lingue è disponibile minulo? Esiste una versione per Android?",
     "minulo è un'app per iPhone disponibile in italiano, inglese, giapponese, tedesco, francese, spagnolo e portoghese. Scegli la lingua nell'app, in Profilo > Impostazioni > Lingua. Al momento non esiste una versione per Android."
+   ],
+   [
+    "Che differenza c'è tra minulo e SocialLite?",
+    "Entrambe nascondono i video brevi come Reels e Shorts e ti lasciano i DM. minulo può anche bloccare le app ufficiali con Tempo di utilizzo dell'iPhone e mandarti invece in minulo, supporta 10 servizi e funziona anche su Mac e in Chrome. SocialLite ha molte più valutazioni (7.776 negli Stati Uniti a settembre 2026); minulo è uscita a settembre 2026 ed è ancora nuova."
+   ],
+   [
+    "Ora su YouTube posso impostare il limite degli Shorts a 0. Mi serve ancora minulo?",
+    "Se usi YouTube solo nella sua app e ti va bene fermarti da solo quando compare il limite, il limite degli Shorts di YouTube (Shorts feed limit) può bastare. Per gli adulti il limite si può ignorare, e non vale per youtube.com né per altri servizi. minulo nasconde gli Shorts nella propria vista, supporta anche Instagram, TikTok e altri 7 servizi, e può bloccare le app ufficiali."
+   ],
+   [
+    "Che differenza c'è tra minulo e Opal?",
+    "Opal blocca app intere, quindi finché Instagram è bloccato sono bloccati anche i DM. minulo nasconde solo Reels, Shorts e post suggeriti, quindi i DM e i post dei tuoi amici continuano a funzionare. Entrambe usano Tempo di utilizzo dell'iPhone per bloccare le app; minulo ti porta nella propria vista senza Reels invece che davanti a una porta chiusa."
    ]
   ]
  }

@@ -1053,6 +1053,311 @@
    "moreHref": "alternatives.html",
    "faq": "Instagramのリールをオフにする方法",
    "faqHref": "turn-off-instagram-reels.html"
+  },
+  "de": {
+   "title": "Opal-Alternativen, mit denen du Instagram-DMs weiter nutzen kannst (2026)",
+   "lede": "Opal, Brick und die Bildschirmzeit des iPhones blockieren oder begrenzen die ganze App. Solange Instagram blockiert ist, sind also auch die DMs blockiert. one sec und ScreenZen schalten stattdessen eine Pause vor das Öffnen einer App. Wenn Reels und Shorts weg sein sollen, DMs aber verfügbar bleiben, passt eine App besser, die nur diese Teile ausblendet, etwa minulo; minulo kann außerdem die offiziellen Apps sperren und dich in seine Ansicht ohne Reels schicken.",
+   "cols": [
+    "App",
+    "Wie sie dich begrenzt",
+    "DMs während der Begrenzung nutzbar?"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b> (88.671 US-Bewertungen)",
+     "App-Limits und App-Blocker für die Apps, die du auswählst, mit Echtzeitdaten, Bestenlisten und Belohnungen.",
+     "Nein, nicht in einer blockierten App: Die ganze App ist blockiert, Nachrichten eingeschlossen."
+    ],
+    [
+     "<b>Brick</b> (55.407)",
+     "Ein physisches Gerät plus App; tippe darauf, um ausgewählte Apps und Websites zu blockieren. Einmalkauf.",
+     "Nein, nicht in einer blockierten App. Zum Entsperren brauchst du den physischen Brick."
+    ],
+    [
+     "<b>Bildschirmzeit des iPhones</b> (integriert)",
+     "App-Limits und Auszeit für ganze Apps; Website-Limits in Safari.",
+     "Nein, nicht in einer begrenzten App. Nur Reels gezielt zu begrenzen, geht nicht."
+    ],
+    [
+     "<b>one sec</b> (23.622)",
+     "Verzögert das Öffnen einer App mit einer Pause (zum Beispiel einer Atemanimation); kann dich nach einer festgelegten Zeit hinausschicken.",
+     "Ja, nach der Pause, aber Reels und der Feed sind dann auch da. Kostenlos für eine App; Pro für mehr."
+    ],
+    [
+     "<b>ScreenZen</b> (50.501)",
+     "Verzögert das Öffnen, unterbricht das Scrollen, optional strikte Sperren nach Zeit oder Anzahl der Öffnungen.",
+     "Ja, nach der Verzögerung, sofern du keine strikte Sperre einstellst; Reels sind dann auch da."
+    ],
+    [
+     "<b>minulo</b> (neu, 0 US-Bewertungen)",
+     "Blendet Reels, Shorts und vorgeschlagene Beiträge in 10 Diensten in seiner eigenen Ansicht aus; kann die offiziellen Apps mit Bildschirmzeit sperren und dich zu minulo schicken.",
+     "Ja. DMs, die Beiträge deiner Freunde und die Suche funktionieren weiter, während Reels und Shorts ausgeblendet bleiben. Das Ausblenden ist kostenlos."
+    ]
+   ],
+   "qa": [
+    [
+     "Was ist eine gute Opal-Alternative, wenn ich Instagram-DMs weiter brauche?",
+     "Apps, die nur Reels und Shorts ausblenden, lassen die DMs funktionieren. minulo zeigt Instagram und 9 weitere Dienste mit ausgeblendeten Reels, Shorts und vorgeschlagenen Beiträgen und kann die offizielle Instagram-App sperren, sodass du stattdessen minulo öffnest. Das Ausblenden ist kostenlos."
+    ],
+    [
+     "Blockiert Opal Instagram-DMs?",
+     "Opal blockiert die Apps, die du auswählst. Solange Instagram blockiert ist, kannst du es also gar nicht öffnen, und das schließt deine DMs ein. Opals Beschreibung spricht von App-Limits und App-Blockern; das Ausblenden einzelner Teile einer App beschreibt sie nicht."
+    ],
+    [
+     "Ist eine Pausen-App wie one sec besser als Blockieren?",
+     "one sec sagt, dass es den Zugriff verzögert, statt zu blockieren, was es als psychologisch anders beschreibt, und gibt an, dass die App-Nutzung im Durchschnitt um 57% sinkt. Nach der Pause öffnet sich die ganze App, Reels eingeschlossen. minulo entfernt stattdessen Reels und Shorts, sodass das, was du öffnest, sie schon nicht mehr enthält."
+    ]
+   ],
+   "disclose": "Diese Seite wurde vom Entwickler von minulo geschrieben. Angaben zu anderen Apps stammen nur aus ihren App-Store-Beschreibungen und US-Bewertungen, Stand {date}.",
+   "srcTitle": "Quellen",
+   "more": "Apps, die Reels ausblenden, im Vergleich",
+   "moreHref": "alternatives.html",
+   "faq": "Instagram-Reels ausschalten",
+   "faqHref": "turn-off-instagram-reels.html"
+  },
+  "fr": {
+   "title": "Alternatives à Opal qui vous laissent utiliser les DM Instagram (2026)",
+   "lede": "Opal, Brick et Temps d'écran de l'iPhone bloquent ou limitent l'app entière : tant qu'Instagram est bloqué, ses DM le sont aussi. one sec et ScreenZen ajoutent plutôt une pause avant l'ouverture d'une app. Si vous voulez vous débarrasser des Reels et des Shorts tout en gardant vos DM, une app qui ne masque que ces parties, comme minulo, convient mieux ; minulo peut aussi verrouiller les apps officielles et vous envoyer dans sa vue sans Reels.",
+   "cols": [
+    "App",
+    "Comment elle vous limite",
+    "Pendant la limite, les DM sont-ils utilisables ?"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b> (88 671 évaluations aux États-Unis)",
+     "Limites et blocage des apps que vous choisissez, avec données en temps réel, classements et récompenses.",
+     "Non, pas dans une app bloquée : toute l'app est bloquée, messages compris."
+    ],
+    [
+     "<b>Brick</b> (55 407)",
+     "Un objet physique plus une app ; touchez-le pour bloquer les apps et sites choisis. Achat unique.",
+     "Non, pas dans une app bloquée. Le déblocage nécessite le Brick physique."
+    ],
+    [
+     "<b>Temps d'écran de l'iPhone</b> (intégré)",
+     "Limites d'app et temps d'arrêt pour des apps entières ; limites de sites dans Safari.",
+     "Non, pas dans une app limitée. Il ne peut pas cibler uniquement les Reels."
+    ],
+    [
+     "<b>one sec</b> (23 622)",
+     "Retarde l'ouverture d'une app avec une pause (par exemple une animation de respiration) ; peut vous faire sortir après un temps défini.",
+     "Oui, après la pause, mais les Reels et le fil sont là aussi. Gratuit pour une app ; Pro pour davantage."
+    ],
+    [
+     "<b>ScreenZen</b> (50 501)",
+     "Retarde l'ouverture, interrompt le défilement, blocages stricts facultatifs selon l'heure ou le nombre d'ouvertures.",
+     "Oui après le délai, sauf si vous réglez un blocage strict ; les Reels sont là aussi."
+    ],
+    [
+     "<b>minulo</b> (récent, 0 évaluation aux États-Unis)",
+     "Masque les Reels, les Shorts et les publications suggérées sur 10 services dans sa propre vue ; peut verrouiller les apps officielles avec Temps d'écran et vous envoyer dans minulo.",
+     "Oui. Les DM, les publications de vos amis et la recherche restent utilisables pendant que les Reels et les Shorts restent masqués. Le masquage est gratuit."
+    ]
+   ],
+   "qa": [
+    [
+     "Quelle bonne alternative à Opal si j'ai encore besoin des DM Instagram ?",
+     "Les apps qui ne masquent que les Reels et les Shorts laissent les DM fonctionner. minulo affiche Instagram et 9 autres services avec les Reels, les Shorts et les publications suggérées masqués, et peut verrouiller l'app officielle d'Instagram pour que vous ouvriez minulo à la place. Le masquage est gratuit."
+    ],
+    [
+     "Opal bloque-t-il les DM Instagram ?",
+     "Opal bloque les apps que vous choisissez : tant qu'Instagram est bloqué, vous ne pouvez pas l'ouvrir du tout, DM compris. La description d'Opal parle de limites et de blocage d'apps ; elle ne décrit pas le masquage de parties d'une app."
+    ],
+    [
+     "Une app de pause comme one sec vaut-elle mieux qu'un blocage ?",
+     "one sec dit retarder l'accès au lieu de bloquer, ce qu'il décrit comme psychologiquement différent, et indique que l'utilisation des apps baisse de 57% en moyenne. Après la pause, toute l'app s'ouvre, Reels compris. minulo retire plutôt les Reels et les Shorts, si bien que ce que vous ouvrez en est déjà dépourvu."
+    ]
+   ],
+   "disclose": "Cette page est rédigée par le développeur de minulo. Les informations sur les autres apps proviennent uniquement de leurs descriptions sur l'App Store et de leurs évaluations aux États-Unis au {date}.",
+   "srcTitle": "Sources",
+   "more": "Comparatif des apps qui masquent les Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Comment désactiver les Reels d'Instagram",
+   "faqHref": "turn-off-instagram-reels.html"
+  },
+  "es": {
+   "title": "Alternativas a Opal que te dejan seguir usando los DMs de Instagram (2026)",
+   "lede": "Opal, Brick y Tiempo de uso del iPhone bloquean o limitan la app entera, así que mientras Instagram está bloqueado, sus DMs también lo están. one sec y ScreenZen, en cambio, añaden una pausa antes de que se abra una app. Si quieres que desaparezcan los Reels y los Shorts pero seguir teniendo los DMs, encaja mejor una app que oculte solo esas partes, como minulo; minulo también puede bloquear las apps oficiales y llevarte a su vista sin Reels.",
+   "cols": [
+    "App",
+    "Cómo te limita",
+    "Mientras limita, ¿puedes usar los DMs?"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b> (88.671 valoraciones en EE. UU.)",
+     "Límites y bloqueo de las apps que elijas, con datos en tiempo real, clasificaciones y recompensas.",
+     "No, no dentro de una app bloqueada: se bloquea la app entera, mensajes incluidos."
+    ],
+    [
+     "<b>Brick</b> (55.407)",
+     "Un dispositivo físico más una app; lo tocas para bloquear las apps y webs elegidas. Pago único.",
+     "No, no dentro de una app bloqueada. Para desbloquear hace falta el Brick físico."
+    ],
+    [
+     "<b>Tiempo de uso del iPhone</b> (integrado)",
+     "Límites de apps y tiempo de inactividad para apps enteras; límites de sitios web en Safari.",
+     "No, no dentro de una app limitada. No puede limitar solo los Reels."
+    ],
+    [
+     "<b>one sec</b> (23.622)",
+     "Retrasa la apertura de una app con una pausa (por ejemplo, una animación de respiración); puede sacarte tras un tiempo fijado.",
+     "Sí, después de la pausa, pero los Reels y el feed también están ahí. Gratis para una app; Pro para más."
+    ],
+    [
+     "<b>ScreenZen</b> (50.501)",
+     "Retrasa la apertura, interrumpe el scroll y ofrece bloqueos estrictos opcionales por hora o por número de aperturas.",
+     "Sí, tras la espera, salvo que configures un bloqueo estricto; los Reels también están ahí."
+    ],
+    [
+     "<b>minulo</b> (nuevo, 0 valoraciones en EE. UU.)",
+     "Oculta Reels, Shorts y publicaciones sugeridas en 10 servicios dentro de su propia vista; puede bloquear las apps oficiales con Tiempo de uso y llevarte a minulo.",
+     "Sí. Los DMs, las publicaciones de tus amigos y la búsqueda siguen funcionando mientras los Reels y los Shorts siguen ocultos. Ocultar es gratis."
+    ]
+   ],
+   "qa": [
+    [
+     "¿Cuál es una buena alternativa a Opal si sigo necesitando los DMs de Instagram?",
+     "Las apps que ocultan solo los Reels y los Shorts dejan funcionar los DMs. minulo muestra Instagram y otros 9 servicios con los Reels, los Shorts y las publicaciones sugeridas ocultos, y puede bloquear la app oficial de Instagram para que abras minulo en su lugar. Ocultar es gratis."
+    ],
+    [
+     "¿Opal bloquea los DMs de Instagram?",
+     "Opal bloquea las apps que elijas, así que mientras Instagram está bloqueado no puedes abrirlo en absoluto, y eso incluye tus DMs. La descripción de Opal habla de límites y bloqueo de apps; no describe ocultar partes de una app."
+    ],
+    [
+     "¿Es mejor una app de pausa como one sec que bloquear?",
+     "one sec dice que retrasa el acceso en lugar de bloquearlo, algo que describe como psicológicamente distinto, e indica que el uso de las apps baja un 57% de media. Tras la pausa se abre la app entera, Reels incluidos. minulo, en cambio, quita los Reels y los Shorts, así que lo que abres ya viene sin ellos."
+    ]
+   ],
+   "disclose": "Esta página la escribe el desarrollador de minulo. Los datos sobre otras apps provienen solo de sus descripciones en el App Store y de sus valoraciones en EE. UU. a {date}.",
+   "srcTitle": "Fuentes",
+   "more": "Comparativa de apps que ocultan los Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Cómo desactivar los Reels de Instagram",
+   "faqHref": "turn-off-instagram-reels.html"
+  },
+  "pt": {
+   "title": "Alternativas ao Opal que deixam você continuar usando as DMs do Instagram (2026)",
+   "lede": "Opal, Brick e o Tempo de Uso do iPhone bloqueiam ou limitam o app inteiro, então enquanto o Instagram está bloqueado, as DMs também ficam bloqueadas. one sec e ScreenZen, em vez disso, colocam uma pausa antes de um app abrir. Se você quer que Reels e Shorts sumam mas as DMs continuem disponíveis, um app que oculta só essas partes, como o minulo, se encaixa melhor; o minulo também pode bloquear os apps oficiais e levar você à visualização dele sem Reels.",
+   "cols": [
+    "App",
+    "Como ele limita você",
+    "Durante o limite, dá para usar as DMs?"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b> (88.671 avaliações nos EUA)",
+     "Limites e bloqueio dos apps que você escolher, com dados em tempo real, rankings e recompensas.",
+     "Não, não dentro de um app bloqueado: o app inteiro fica bloqueado, mensagens incluídas."
+    ],
+    [
+     "<b>Brick</b> (55.407)",
+     "Um dispositivo físico mais um app; toque nele para bloquear os apps e sites escolhidos. Compra única.",
+     "Não, não dentro de um app bloqueado. Para desbloquear é preciso o Brick físico."
+    ],
+    [
+     "<b>Tempo de Uso do iPhone</b> (nativo)",
+     "Limites de Apps e Tempo Inativo para apps inteiros; limites de sites no Safari.",
+     "Não, não dentro de um app limitado. Ele não consegue limitar só os Reels."
+    ],
+    [
+     "<b>one sec</b> (23.622)",
+     "Atrasa a abertura de um app com uma pausa (por exemplo, uma animação de respiração); pode tirar você do app depois de um tempo definido.",
+     "Sim, depois da pausa, mas os Reels e o feed também estão lá. Grátis para um app; Pro para mais."
+    ],
+    [
+     "<b>ScreenZen</b> (50.501)",
+     "Atrasa a abertura, interrompe a rolagem e oferece bloqueios rígidos opcionais por horário ou número de aberturas.",
+     "Sim, depois da espera, a não ser que você configure um bloqueio rígido; os Reels também estão lá."
+    ],
+    [
+     "<b>minulo</b> (novo, 0 avaliações nos EUA)",
+     "Oculta Reels, Shorts e publicações sugeridas em 10 serviços na própria visualização; pode bloquear os apps oficiais com o Tempo de Uso e levar você ao minulo.",
+     "Sim. As DMs, as publicações dos amigos e a busca continuam funcionando enquanto Reels e Shorts ficam ocultos. Ocultar é grátis."
+    ]
+   ],
+   "qa": [
+    [
+     "Qual é uma boa alternativa ao Opal se eu ainda preciso das DMs do Instagram?",
+     "Apps que ocultam só Reels e Shorts deixam as DMs funcionando. O minulo mostra o Instagram e outros 9 serviços com Reels, Shorts e publicações sugeridas ocultos, e pode bloquear o app oficial do Instagram para que você abra o minulo no lugar dele. Ocultar é grátis."
+    ],
+    [
+     "O Opal bloqueia as DMs do Instagram?",
+     "O Opal bloqueia os apps que você escolher, então enquanto o Instagram está bloqueado você não consegue abri-lo de jeito nenhum, e isso inclui suas DMs. A descrição do Opal fala de limites e bloqueio de apps; ela não descreve ocultar partes de um app."
+    ],
+    [
+     "Um app de pausa como o one sec é melhor que bloquear?",
+     "O one sec diz que atrasa o acesso em vez de bloquear, o que descreve como psicologicamente diferente, e informa que o uso dos apps cai 57% em média. Depois da pausa, o app inteiro abre, Reels incluídos. O minulo, em vez disso, remove Reels e Shorts, então o que você abre já vem sem eles."
+    ]
+   ],
+   "disclose": "Esta página é escrita pelo desenvolvedor do minulo. As informações sobre outros apps vêm apenas das descrições deles na App Store e das avaliações nos EUA em {date}.",
+   "srcTitle": "Fontes",
+   "more": "Comparação de apps que ocultam os Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Como desativar os Reels do Instagram",
+   "faqHref": "turn-off-instagram-reels.html"
+  },
+  "it": {
+   "title": "Alternative a Opal che ti lasciano usare i DM di Instagram (2026)",
+   "lede": "Opal, Brick e Tempo di utilizzo dell'iPhone bloccano o limitano l'intera app, quindi finché Instagram è bloccato sono bloccati anche i DM. one sec e ScreenZen invece aggiungono una pausa prima che un'app si apra. Se vuoi far sparire Reels e Shorts ma avere ancora i DM, è più adatta un'app che nasconde solo quelle parti, come minulo; minulo può anche bloccare le app ufficiali e mandarti nella sua vista senza Reels.",
+   "cols": [
+    "App",
+    "Come ti limita",
+    "Durante il limite, puoi usare i DM?"
+   ],
+   "rows": [
+    [
+     "<b>Opal</b> (88.671 valutazioni negli Stati Uniti)",
+     "Limiti e blocco delle app che scegli, con dati in tempo reale, classifiche e premi.",
+     "No, non dentro un'app bloccata: viene bloccata l'intera app, messaggi compresi."
+    ],
+    [
+     "<b>Brick</b> (55.407)",
+     "Un dispositivo fisico più un'app; lo tocchi per bloccare app e siti scelti. Acquisto una tantum.",
+     "No, non dentro un'app bloccata. Per sbloccare serve il Brick fisico."
+    ],
+    [
+     "<b>Tempo di utilizzo dell'iPhone</b> (integrato)",
+     "Limitazioni app e Tempo di inattività per app intere; limiti per i siti web in Safari.",
+     "No, non dentro un'app limitata. Non può limitare solo i Reels."
+    ],
+    [
+     "<b>one sec</b> (23.622)",
+     "Ritarda l'apertura di un'app con una pausa (per esempio un'animazione di respirazione); può farti uscire dopo un tempo stabilito.",
+     "Sì, dopo la pausa, ma ci sono anche i Reels e il feed. Gratis per un'app; Pro per averne di più."
+    ],
+    [
+     "<b>ScreenZen</b> (50.501)",
+     "Ritarda l'apertura, interrompe lo scorrimento e offre blocchi rigidi facoltativi per orario o numero di aperture.",
+     "Sì, dopo l'attesa, a meno che tu non imposti un blocco rigido; ci sono anche i Reels."
+    ],
+    [
+     "<b>minulo</b> (nuova, 0 valutazioni negli Stati Uniti)",
+     "Nasconde Reels, Shorts e post suggeriti su 10 servizi nella propria vista; può bloccare le app ufficiali con Tempo di utilizzo e mandarti in minulo.",
+     "Sì. I DM, i post degli amici e la ricerca continuano a funzionare mentre Reels e Shorts restano nascosti. Nascondere è gratis."
+    ]
+   ],
+   "qa": [
+    [
+     "Qual è una buona alternativa a Opal se mi servono ancora i DM di Instagram?",
+     "Le app che nascondono solo Reels e Shorts lasciano funzionare i DM. minulo mostra Instagram e altri 9 servizi con Reels, Shorts e post suggeriti nascosti, e può bloccare l'app ufficiale di Instagram così apri minulo al suo posto. Nascondere è gratis."
+    ],
+    [
+     "Opal blocca i DM di Instagram?",
+     "Opal blocca le app che scegli, quindi finché Instagram è bloccato non puoi aprirlo affatto, e questo include i tuoi DM. La descrizione di Opal parla di limiti e blocco delle app; non descrive il nascondere parti di un'app."
+    ],
+    [
+     "Un'app di pausa come one sec è meglio del blocco?",
+     "one sec dice di ritardare l'accesso invece di bloccarlo, cosa che descrive come psicologicamente diversa, e riporta che l'uso delle app cala in media del 57%. Dopo la pausa si apre l'intera app, Reels compresi. minulo invece toglie Reels e Shorts, così ciò che apri ne è già privo."
+    ]
+   ],
+   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. Le informazioni sulle altre app provengono solo dalle loro descrizioni su App Store e dalle valutazioni negli Stati Uniti al {date}.",
+   "srcTitle": "Fonti",
+   "more": "Confronto tra le app che nascondono i Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Come disattivare i Reels di Instagram",
+   "faqHref": "turn-off-instagram-reels.html"
   }
  }
 }
