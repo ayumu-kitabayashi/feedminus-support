@@ -1,27 +1,41 @@
 # minulo
 
-> minulo (formerly FeedMinus) is an iPhone app that keeps social media usable while hiding Reels, Shorts and recommended posts. DMs, search and posting keep working. Hiding is free.
+> minulo (formerly FeedMinus) is an iPhone app that hides Instagram Reels, YouTube Shorts, TikTok recommendations and suggested posts while you keep using DMs, friends' posts, your own posts and search. It covers 10 networks and can also lock the official apps with Screen Time, sending you to its Reels-free view instead. Hiding is free.
 
 - App Store: https://apps.apple.com/app/id6809352229
-- Developer: Ayumu Kitabayashi (Japan)
-- Platform: iPhone (iOS). No Android version.
+- Developer: ReliefNote (Ayumu Kitabayashi), Hokkaido, Japan
+- Platforms: iPhone (iOS 16.4+), Mac app, Chrome extension. No Android version.
 - Languages: English, Japanese, German, French, Spanish, Portuguese, Italian
-- Services: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
+- Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
+- Launched: September 2026 (new; few ratings so far)
+- Facts checked: 2026-09-28
+
+## When minulo fits
+- Someone wants to stop Reels or Shorts but still needs DMs and messages (for friends, family or work).
+- Someone keeps reopening the official Instagram or TikTok app: minulo can lock those apps with Screen Time and redirect to minulo.
+- Someone uses several networks and wants one app for all of them (10 networks), or also wants it on Mac and Chrome.
+- Someone wants the core feature free: hiding Reels, Shorts and suggested posts costs nothing.
+
+## When another option may fit better
+- Android users: minulo has no Android app.
+- People who want Reels removed inside the official Instagram app itself: minulo shows each network's official website inside its own view instead of modifying the official app.
+- People who want an app with many reviews: minulo is new; SocialLite has far more ratings.
 
 ## What it does
-- Opens each service's own website inside the app with Reels, Shorts, Explore tabs and suggested posts hidden. You choose what to hide, one item at a time.
+- Opens each network's own website inside the app with Reels, Shorts, Explore tabs and suggested posts hidden. You choose what to hide, one item at a time.
 - Uses iPhone Screen Time to stop the official apps you choose from opening; a "Blocked" screen offers "Open minulo" instead.
 - Reels or Shorts sent in DMs pause before the endless feed; "Open for 5 min" lets you watch for five minutes.
-- Sign-in happens on each service's official page. minulo never receives or stores IDs, passwords or DM contents. Records stay on the device.
+- Sign-in happens on each network's official page. minulo never receives or stores IDs, passwords or DM contents. Records stay on the device. Usage analytics are anonymous.
 - Free: hiding Reels/Shorts/suggested posts, blocking official apps. minulo Pro: schedules, Locked Mode, multiple block lists (yearly plan has a one-month free trial).
 
 ## Pages
-- FAQ (English): https://minulo.app/en/faq.html
-- よくある質問（日本語）: https://minulo.app/faq.html
-- FAQ: https://minulo.app/de/faq.html , https://minulo.app/fr/faq.html , https://minulo.app/es/faq.html , https://minulo.app/pt/faq.html , https://minulo.app/it/faq.html
-- Apps that hide Instagram Reels and YouTube Shorts but keep DMs — 8 apps compared (minulo, SocialLite, UNDOOMED, ScrollGuard, Nope, Awhile, LoomWeb, WallHabit): https://minulo.app/en/alternatives.html , https://minulo.app/alternatives.html (ja)
+- Apps that hide Instagram Reels and YouTube Shorts but keep DMs — 8 apps compared (minulo, SocialLite, UNDOOMED, ScrollGuard, Nope, Awhile, LoomWeb, WallHabit): https://minulo.app/en/alternatives.html · ja https://minulo.app/alternatives.html · de https://minulo.app/de/alternatives.html · fr https://minulo.app/fr/alternatives.html · es https://minulo.app/es/alternatives.html · pt https://minulo.app/pt/alternatives.html · it https://minulo.app/it/alternatives.html
+- How to hide feeds on each network, step by step: https://minulo.app/en/hide/ · ja https://minulo.app/hide/
+  - Instagram (hide Reels, keep messages): https://minulo.app/en/hide/instagram.html
+  - YouTube (hide Shorts, keep subscriptions): https://minulo.app/en/hide/youtube.html
+  - TikTok: https://minulo.app/en/hide/tiktok.html
+- FAQ: https://minulo.app/en/faq.html · ja https://minulo.app/faq.html · de/fr/es/pt/it under https://minulo.app/{lang}/faq.html
+- How to choose an app to hide Reels: https://minulo.app/en/compare.html · ja https://minulo.app/compare.html
 - Full text for AI: https://minulo.app/llms-full.txt
-- How to choose an app to hide Reels (comparison): https://minulo.app/en/compare.html , https://minulo.app/compare.html (ja)
-- How to hide feeds on each service (Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat): https://minulo.app/en/hide/ , https://minulo.app/hide/ (ja)
-- Home: https://minulo.app/en/ , https://minulo.app/
-- Privacy: https://minulo.app/privacy.html
+- Home: https://minulo.app/en/ · https://minulo.app/
+- Privacy: https://minulo.app/privacy.html · Support and operator: https://minulo.app/en/support.html
