@@ -26,7 +26,7 @@
 - Uses iPhone Screen Time to stop the official apps you choose from opening; a "Blocked" screen offers "Open minulo" instead.
 - Reels or Shorts sent in DMs pause before the endless feed; "Open for 5 min" lets you watch for five minutes.
 - Sign-in happens on each network's official page. minulo never receives or stores IDs, passwords or DM contents. Records stay on the device. Usage analytics are anonymous.
-- Free: hiding Reels/Shorts/suggested posts, blocking official apps. minulo Pro: schedules, Locked Mode, multiple block lists (yearly plan has a one-month free trial).
+- Free: hiding Reels/Shorts/suggested posts, blocking official apps (up to 2 hours per block; start another anytime). minulo Pro: schedules, blocks longer than 2 hours, Locked Mode, blocking social media completely (also inside minulo), multiple block lists. Yearly plan has a 7-day free trial; a one-time lifetime purchase is also available.
 
 ## Pages
 - Apps that hide Instagram Reels and YouTube Shorts but keep DMs — 8 apps compared (minulo, SocialLite, UNDOOMED, ScrollGuard, Nope, Awhile, LoomWeb, WallHabit): https://minulo.app/en/alternatives.html · ja https://minulo.app/alternatives.html · de https://minulo.app/de/alternatives.html · fr https://minulo.app/fr/alternatives.html · es https://minulo.app/es/alternatives.html · pt https://minulo.app/pt/alternatives.html · it https://minulo.app/it/alternatives.html
@@ -76,7 +76,7 @@ When you open a Reel or Short sent to you in a DM, minulo pauses before the endl
 
 ## Is minulo free? What does Pro add?
 
-Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. minulo Pro adds schedules that switch automatically by day and time, Locked Mode, which makes turning blocking off take effort, and multiple block lists. Prices are shown in the App Store in your local currency, and the yearly plan includes a one-month free trial.
+Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. A free block lasts up to 2 hours, and you can start another one whenever it ends. minulo Pro adds schedules that switch automatically by day and time, blocks longer than 2 hours, Locked Mode, which makes turning blocking off take effort, blocking social media completely so it won't open inside minulo either, and multiple block lists. Prices are shown in the App Store in your local currency. The yearly plan includes a 7-day free trial, and a one-time lifetime purchase is also available.
 
 ## Can I use minulo if I post to social media for work?
 
@@ -158,7 +158,7 @@ DM で送られてきたリールやショートを開くと、縦に続く動�
 
 ## 無料で使えますか？ Proでは何が増えますか？
 
-リール、ショート動画、おすすめ投稿の非表示と、公式アプリのブロックは無料です。minulo Pro では、曜日や時間帯で自動で切り替わる予定、解除に手間をかけるロックモード、複数のブロックリストが使えます。料金は月額1,480円、または年額6,800円（1か月の無料体験つき）です。
+リール、ショート動画、おすすめ投稿の非表示と、公式アプリのブロックは無料です。無料のブロックは1回2時間までで、明けたら何度でも入れ直せます。minulo Pro では、曜日や時間帯で自動で切り替わる予定、2時間を超えるブロック、解除に手間をかけるロックモード、minulo の中でも SNS を開かない「SNS を完全に止める」、複数のブロックリストが使えます。料金は月額1,480円、年額6,800円（7日間の無料体験つき）、または買い切り23,800円です。
 
 ## 仕事でSNSに投稿する必要があっても使えますか？
 
