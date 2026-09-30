@@ -91,7 +91,7 @@ minulo is an iPhone app available in English, Japanese, German, French, Spanish,
 
 ## How is minulo different from SocialLite?
 
-Both hide short videos such as Reels and Shorts and keep your DMs. minulo can also lock the official apps with iPhone Screen Time and send you to minulo instead, covers 10 networks, and also works on Mac and Chrome. SocialLite has far more ratings (7,776 in the US as of September 2026); minulo launched in September 2026 and is still new.
+Both hide Reels and Shorts, keep your DMs, and can lock the official apps with iPhone Screen Time and send you to their own view. SocialLite has far more ratings (7,912 in the US as of September 30, 2026). minulo also covers TikTok, Threads, Pinterest and LinkedIn, which SocialLite's App Store page does not mention, and has a Chrome extension. Hiding Reels, Shorts and suggested posts in minulo is free. minulo launched in September 2026 and is still new.
 
 ## YouTube now lets me set the Shorts limit to 0. Do I still need minulo?
 
@@ -123,7 +123,7 @@ minulo combines both. Social media opens inside minulo with only Reels, Shorts a
 
 ## How is minulo different from SocialLite?
 
-Both hide Reels and Shorts while keeping DMs. SocialLite has 7,689 ratings on the US App Store and is widely used for this. minulo supports seven languages, including Japanese, and blocking the official apps and opening a Reel from a DM for five minutes are free.
+Both hide Reels and Shorts, keep your DMs, and can lock the official apps with iPhone Screen Time and send you to their own view. SocialLite has far more ratings (7,912 in the US as of September 30, 2026). minulo also covers TikTok, Threads, Pinterest and LinkedIn, which SocialLite's App Store page does not mention, and has a Chrome extension. Hiding Reels, Shorts and suggested posts in minulo is free. minulo launched in September 2026 and is still new.
 
 Statements about apps other than minulo are based on each app's App Store description and rating count (US App Store, September 27, 2026).
 
@@ -173,7 +173,7 @@ minulo は iPhone 向けのアプリで、日本語、英語、ドイツ語、�
 
 ## SocialLiteとminuloは何が違いますか？
 
-どちらも、リールやショートのような短い動画を消して、DM は残すアプリです。minulo はさらに、iPhone のスクリーンタイムで公式アプリを止めて minulo に案内でき、10のSNSに対応し、Mac と Chrome でも使えます。評価の数は SocialLite がずっと多く、米国で7,776件です（2026年9月時点）。minulo は2026年9月に公開したばかりの新しいアプリです。
+どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で7,912件です（2026年9月30日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
 ## YouTubeでショートの上限を0にできるようになりました。minuloは要りますか？
 
@@ -205,7 +205,7 @@ minulo は両方を組み合わせています。SNS は minulo の中で開き�
 
 ## minuloとSocialLiteの違いは何ですか？
 
-どちらもリールやショートを消し、DM を残すタイプのアプリです。SocialLite は米国の App Store で評価が 7,689 件あり、このタイプでよく使われています。minulo は日本語を含む7言語に対応し、公式アプリのブロックと、DM で届いたリールを5分だけ開く機能を無料で使えます。
+どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で7,912件です（2026年9月30日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
 minulo 以外のアプリについての記述は、各アプリの App Store の説明と評価件数（2026年9月27日、米国のストア）に基づきます。
 
