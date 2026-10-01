@@ -1359,5 +1359,260 @@
    "faq": "Come disattivare i Reels di Instagram",
    "faqHref": "turn-off-instagram-reels.html"
   }
+ },
+ "sociallite-alternatives.html": {
+  "checked": "2026-10-01",
+  "src": [
+   [
+    "App Store: SocialLite",
+    "https://apps.apple.com/us/app/id6757661674"
+   ],
+   [
+    "App Store: minulo",
+    "https://apps.apple.com/us/app/id6809352229"
+   ],
+   [
+    "App Store: UNDOOMED",
+    "https://apps.apple.com/us/app/id6751837079"
+   ],
+   [
+    "App Store: Awhile",
+    "https://apps.apple.com/us/app/id6763551826"
+   ],
+   [
+    "App Store: LoomWeb",
+    "https://apps.apple.com/us/app/id6754727620"
+   ],
+   [
+    "App Store: ScrollGuard",
+    "https://apps.apple.com/us/app/id6754183872"
+   ],
+   [
+    "App Store: Nope",
+    "https://apps.apple.com/us/app/id6768192042"
+   ]
+  ],
+  "en": {
+   "title": "SocialLite alternatives: apps that hide Reels and Shorts and keep your DMs (2026)",
+   "lede": "SocialLite hides short-form video feeds, recommendations and Explore pages while keeping DMs, and it can block the official apps and send you to SocialLite. minulo, UNDOOMED, Awhile and LoomWeb work the same way: they open social networks in their own view with those parts hidden. ScrollGuard and Nope are Safari extensions instead. minulo also covers TikTok, Threads, Pinterest and LinkedIn, has a Chrome extension, and its hiding is free. SocialLite has far more ratings and adds push notifications for Instagram and Snapchat.",
+   "cols": [
+    "App",
+    "How it works",
+    "Networks",
+    "Price (App Store page)"
+   ],
+   "qa": [
+    [
+     "What is a good alternative to SocialLite?",
+     "It depends on what you need. For the same approach, an app that shows social networks with Reels and Shorts hidden while DMs keep working, look at minulo, UNDOOMED, Awhile and LoomWeb. minulo covers the most networks of these (10, including TikTok, Threads, Pinterest and LinkedIn) and can lock the official apps; Awhile is Instagram only. If you only browse in Safari, ScrollGuard and Nope are extensions."
+    ],
+    [
+     "How is minulo different from SocialLite?",
+     "Both hide Reels and Shorts, keep DMs, and can lock the official apps and send you to their own view. On their App Store pages, minulo lists TikTok, Threads, Pinterest and LinkedIn, which SocialLite's page does not mention, and minulo also has a Chrome extension and a Mac app. SocialLite has push notifications for Instagram and Snapchat, which minulo does not, and far more ratings (about 8,000 in the US); minulo launched in September 2026."
+    ],
+    [
+     "Is there a free alternative to SocialLite?",
+     "Nope is fully free with no in-app purchases, but it only works in Safari on instagram.com and youtube.com. In minulo, hiding Reels, Shorts and suggested posts is free; Pro adds schedules and Locked Mode. SocialLite itself is a free download with in-app purchases."
+    ]
+   ],
+   "disclose": "This page is written by the developer of minulo. Facts about other apps come only from their App Store descriptions, release notes and US ratings as of {date}.",
+   "srcTitle": "Sources",
+   "more": "Apps that hide Reels compared",
+   "moreHref": "alternatives.html",
+   "faq": "How to turn off Instagram Reels",
+   "faqHref": "turn-off-instagram-reels.html",
+   "rows": [
+    [
+     "<b>SocialLite</b> (7,966 US ratings)",
+     "Its own focused view of social networks. Blocks short-form video feeds, recommendations, Explore, live and shopping tabs, and ads; can block the official apps and redirect to SocialLite. Push notifications for Instagram and Snapchat (version 3.1.2).",
+     "Instagram, YouTube, Snapchat, X, Reddit and others (TikTok not mentioned)",
+     "Free download; in-app purchases."
+    ],
+    [
+     "<b>minulo</b> (new, 0 US ratings)",
+     "Opens each network's official website inside the app and hides chosen parts. Can also lock the official apps with Screen Time and send you to minulo instead.",
+     "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)",
+     "Hiding is free. Pro adds schedules, lock mode and multiple block lists."
+    ],
+    [
+     "<b>UNDOOMED</b> (103 US ratings)",
+     "Opens each network's mobile website in its own private browser and filters the page.",
+     "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (no TikTok or Snapchat)",
+     "Many features free; Plus and Pro add more."
+    ],
+    [
+     "<b>Awhile</b> (2 US ratings)",
+     "Loads instagram.com in its own in-app browser and hides chosen parts.",
+     "Instagram only",
+     "Filtering is free; Premium is €2.99/month or €9.99 once."
+    ],
+    [
+     "<b>LoomWeb</b> (29 US ratings)",
+     "A browser for social media with per-site settings.",
+     "Instagram, YouTube, X, Facebook",
+     "Free with a Pro tier."
+    ],
+    [
+     "<b>ScrollGuard</b> (101 US ratings)",
+     "A Safari extension that hides feeds, Reels, Stories and Explore on social media websites.",
+     "Social media websites in Safari",
+     "Free with Premium features."
+    ],
+    [
+     "<b>Nope</b> (2 US ratings)",
+     "A Safari Web Extension for instagram.com and youtube.com.",
+     "Instagram, YouTube",
+     "Fully free: no subscriptions or in-app purchases."
+    ]
+   ]
+  },
+  "ja": {
+   "title": "SocialLite の代わりになるアプリ：リールとショートを消して DM は使える（2026年）",
+   "lede": "SocialLite は、ショート動画のフィード・おすすめ・発見ページを消して DM は残すアプリで、公式アプリを止めて SocialLite に案内することもできます。同じ仕組みのアプリには、minulo・UNDOOMED・Awhile・LoomWeb があります。どれも自前の画面で SNS を開き、その部分を消します。ScrollGuard と Nope は Safari の機能拡張です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能があり、消す機能は無料です。SocialLite は評価の数がずっと多く、Instagram と Snapchat のプッシュ通知にも対応しています。",
+   "cols": [
+    "アプリ",
+    "仕組み",
+    "対応SNS",
+    "料金（App Store の表示）"
+   ],
+   "qa": [
+    [
+     "SocialLite の代わりになるアプリは？",
+     "何を求めるかで変わります。SocialLite と同じく、リールとショートを消した画面で SNS を開き、DM は使えるアプリなら、minulo・UNDOOMED・Awhile・LoomWeb があります。この中で対応SNSがいちばん多いのは minulo（TikTok・Threads・Pinterest・LinkedIn を含む10）で、公式アプリを止めることもできます。Awhile は Instagram だけです。Safari だけで見るなら、機能拡張の ScrollGuard と Nope があります。"
+    ],
+    [
+     "minulo と SocialLite の違いは？",
+     "どちらもリールとショートを消し、DM は使え、公式アプリを止めて自分の画面に案内できます。App Store のページで比べると、minulo には SocialLite のページに書かれていない TikTok・Threads・Pinterest・LinkedIn があり、Chrome の拡張機能と Mac 版もあります。SocialLite には minulo に無い Instagram と Snapchat のプッシュ通知があり、評価の数もずっと多い（米国で約8,000件）です。minulo は2026年9月に公開されたばかりです。"
+    ],
+    [
+     "無料で使える SocialLite の代わりは？",
+     "Nope はアプリ内課金も無く完全に無料ですが、Safari の instagram.com と youtube.com でしか効きません。minulo は、リール・ショート・おすすめ投稿を消す機能が無料で、予定やロックモードなどが Pro です。SocialLite 自体も、無料でダウンロードできてアプリ内課金があります。"
+    ]
+   ],
+   "disclose": "このページは minulo の開発者が書いています。他社のアプリについては、{date} 時点の App Store の説明・更新履歴・米国の評価数だけをもとにしています。",
+   "srcTitle": "出典",
+   "more": "リールを消せるアプリの比較",
+   "moreHref": "alternatives.html",
+   "faq": "Instagram のリールをオフにする方法",
+   "faqHref": "turn-off-instagram-reels.html",
+   "rows": [
+    [
+     "<b>SocialLite</b>（米国の評価 7,966件）",
+     "自前の画面で SNS を表示する。ショート動画のフィード・おすすめ・発見・ライブ・ショッピングのタブと広告を消し、公式アプリを止めて SocialLite に案内できる。Instagram と Snapchat のプッシュ通知に対応（3.1.2）。",
+     "Instagram・YouTube・Snapchat・X・Reddit など（TikTok の記載なし）",
+     "無料。アプリ内課金あり。"
+    ],
+    [
+     "<b>minulo</b>（新しいアプリ・米国の評価 0件）",
+     "各SNSの公式ページをアプリの中で開き、選んだ部分を表示しない。スクリーンタイムで公式アプリを止め、minulo に案内することもできる。",
+     "Instagram・YouTube・TikTok・X・Threads・Facebook・Pinterest・Reddit・LinkedIn・Snapchat（10）",
+     "消す機能は無料。予定・ロックモード・複数のリストは Pro。"
+    ],
+    [
+     "<b>UNDOOMED</b>（米国の評価 103件）",
+     "各SNSのモバイル版サイトを自前のブラウザで開き、表示を絞る。",
+     "Instagram・Threads・Reddit・Facebook・X・YouTube・LinkedIn（TikTok・Snapchat は非対応）",
+     "多くの機能が無料。Plus・Pro で追加。"
+    ],
+    [
+     "<b>Awhile</b>（米国の評価 2件）",
+     "instagram.com を自前のアプリ内ブラウザで開き、選んだ部分を隠す。",
+     "Instagram だけ",
+     "消す機能は無料。Premium は月2.99ユーロか買い切り9.99ユーロ。"
+    ],
+    [
+     "<b>LoomWeb</b>（米国の評価 29件）",
+     "SNS用のブラウザ。サイトごとに設定する。",
+     "Instagram・YouTube・X・Facebook",
+     "無料。Pro あり。"
+    ],
+    [
+     "<b>ScrollGuard</b>（米国の評価 101件）",
+     "Safari の拡張機能で、SNSのサイトのフィード・リール・ストーリーズ・発見を隠す。",
+     "Safari で開くSNSのサイト",
+     "無料。Premium あり。"
+    ],
+    [
+     "<b>Nope</b>（米国の評価 2件）",
+     "instagram.com と youtube.com 向けの Safari 拡張機能。",
+     "Instagram・YouTube",
+     "完全無料。サブスクもアプリ内課金もない。"
+    ]
+   ]
+  },
+  "fr": {
+   "title": "Alternatives à SocialLite : applis qui masquent les Reels et les Shorts et gardent vos DM (2026)",
+   "lede": "SocialLite masque les fils de vidéos courtes, les recommandations et Explorer tout en gardant les messages privés, et peut bloquer les applis officielles pour vous renvoyer vers SocialLite. minulo, UNDOOMED, Awhile et LoomWeb fonctionnent de la même façon : ils ouvrent les réseaux dans leur propre vue en masquant ces parties. ScrollGuard et Nope sont plutôt des extensions Safari. minulo couvre aussi TikTok, Threads, Pinterest et LinkedIn, propose une extension Chrome, et le masquage est gratuit. SocialLite a beaucoup plus de notes et ajoute des notifications push pour Instagram et Snapchat.",
+   "cols": [
+    "Appli",
+    "Fonctionnement",
+    "Réseaux",
+    "Prix (page App Store)"
+   ],
+   "qa": [
+    [
+     "Quelle est une bonne alternative à SocialLite ?",
+     "Tout dépend de ce qu'il vous faut. Pour la même approche, une appli qui affiche les réseaux sans Reels ni Shorts tout en gardant les DM, regardez minulo, UNDOOMED, Awhile et LoomWeb. minulo couvre le plus de réseaux parmi elles (10, dont TikTok, Threads, Pinterest et LinkedIn) et peut verrouiller les applis officielles ; Awhile ne gère qu'Instagram. Si vous naviguez seulement dans Safari, ScrollGuard et Nope sont des extensions."
+    ],
+    [
+     "Quelle différence entre minulo et SocialLite ?",
+     "Les deux masquent les Reels et les Shorts, gardent les DM et peuvent verrouiller les applis officielles pour vous renvoyer vers leur propre vue. Sur leurs pages App Store, minulo cite TikTok, Threads, Pinterest et LinkedIn, que la page de SocialLite ne mentionne pas, et minulo a aussi une extension Chrome et une version Mac. SocialLite propose des notifications push pour Instagram et Snapchat, que minulo n'a pas, et beaucoup plus de notes (environ 8 000 aux États-Unis) ; minulo est sorti en septembre 2026."
+    ],
+    [
+     "Existe-t-il une alternative gratuite à SocialLite ?",
+     "Nope est entièrement gratuit, sans achats intégrés, mais ne fonctionne que dans Safari sur instagram.com et youtube.com. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit ; Pro ajoute les plannings et le Mode verrouillé. SocialLite est lui-même gratuit au téléchargement, avec des achats intégrés."
+    ]
+   ],
+   "disclose": "Cette page est rédigée par le développeur de minulo. Les informations sur les autres applis proviennent uniquement de leurs descriptions App Store, notes de version et nombre de notes aux États-Unis au {date}.",
+   "srcTitle": "Sources",
+   "more": "Comparatif des applis qui masquent les Reels",
+   "moreHref": "alternatives.html",
+   "faq": "Désactiver les Reels Instagram",
+   "faqHref": "turn-off-instagram-reels.html",
+   "rows": [
+    [
+     "<b>SocialLite</b> (7 966 notes aux États-Unis)",
+     "Sa propre vue épurée des réseaux. Bloque les fils de vidéos courtes, les recommandations, Explorer, les onglets live et shopping et les pubs ; peut bloquer les apps officielles et rediriger vers SocialLite. Notifications push pour Instagram et Snapchat (version 3.1.2).",
+     "Instagram, YouTube, Snapchat, X, Reddit et d'autres (TikTok non mentionné)",
+     "Téléchargement gratuit ; achats intégrés."
+    ],
+    [
+     "<b>minulo</b> (nouvelle, 0 note aux États-Unis)",
+     "Ouvre le site officiel de chaque réseau dans l'application et masque les éléments choisis. Peut aussi verrouiller les applications officielles avec Temps d'écran et vous rediriger vers minulo.",
+     "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)",
+     "Le masquage est gratuit. Pro ajoute les plannings, le mode verrouillage et plusieurs listes de blocage."
+    ],
+    [
+     "<b>UNDOOMED</b> (103 notes aux États-Unis)",
+     "Ouvre le site mobile de chaque réseau dans son propre navigateur privé et filtre la page.",
+     "Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (ni TikTok ni Snapchat)",
+     "Beaucoup de fonctions gratuites ; Plus et Pro en ajoutent d'autres."
+    ],
+    [
+     "<b>Awhile</b> (2 notes aux États-Unis)",
+     "Charge instagram.com dans son propre navigateur intégré et masque les éléments choisis.",
+     "Instagram uniquement",
+     "Le filtrage est gratuit ; Premium coûte €2.99/mois ou €9.99 en achat unique."
+    ],
+    [
+     "<b>LoomWeb</b> (29 notes aux États-Unis)",
+     "Un navigateur pour les réseaux sociaux, avec des réglages par site.",
+     "Instagram, YouTube, X, Facebook",
+     "Gratuit, avec une offre Pro."
+    ],
+    [
+     "<b>ScrollGuard</b> (101 notes aux États-Unis)",
+     "Une extension Safari qui masque les fils d'actualité, les Reels, les Stories et Explorer sur les sites des réseaux sociaux.",
+     "Sites de réseaux sociaux dans Safari",
+     "Gratuit, avec des fonctions Premium."
+    ],
+    [
+     "<b>Nope</b> (2 notes aux États-Unis)",
+     "Une extension web Safari pour instagram.com et youtube.com.",
+     "Instagram, YouTube",
+     "Entièrement gratuit : ni abonnement ni achats intégrés."
+    ]
+   ]
+  }
  }
 }

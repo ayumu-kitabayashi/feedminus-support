@@ -40,6 +40,7 @@ def langs_of(path): return [l for l in ALL if l in G[path]]   # ページごと�
 
 def page(path, lang):
     g = G[path]; t = g[lang]; d = F.DATA[lang]
+    ck = g.get('checked', CHECKED)   # ページごとに確かめた日（無ければ共通の日）
     url = F.SITE + d['dir'] + path
     up = '' if d['dir'] == '' else '../'
     LANGS = langs_of(path)
@@ -47,7 +48,7 @@ def page(path, lang):
     alts += f'\n<link rel="alternate" hreflang="x-default" href="{F.SITE}en/{path}">'
     ld = [
         {'@context': 'https://schema.org', '@type': 'Article', 'headline': t['title'], 'description': t['lede'], 'inLanguage': F.INLANG[lang],
-         'datePublished': CHECKED, 'dateModified': CHECKED, 'url': url,
+         'datePublished': ck, 'dateModified': ck, 'url': url,
          'author': {'@type': 'Organization', 'name': 'ReliefNote' if lang != 'ja' else 'リリーフノート', 'url': F.SITE},
          'citation': [u for _, u in g['src']]},
         {'@context': 'https://schema.org', '@type': 'FAQPage', 'inLanguage': F.INLANG[lang],
@@ -90,8 +91,8 @@ def page(path, lang):
 <main>
 <h1>{html.escape(t['title'])}</h1>
 <p class="lede">{html.escape(t['lede'])}</p>
-<p class="upd"><time datetime="{CHECKED}">{CHECKED}</time></p>
-<p class="disc">{html.escape(t['disclose'].replace('{date}', CHECKED))}</p>
+<p class="upd"><time datetime="{ck}">{ck}</time></p>
+<p class="disc">{html.escape(t['disclose'].replace('{date}', ck))}</p>
 <div class="tw"><table><tr>{head}</tr>{rows}</table></div>
 {qa}
 <section class="qa"><h2>{html.escape(t['srcTitle'])}</h2><ol class="src">{src}</ol></section>
