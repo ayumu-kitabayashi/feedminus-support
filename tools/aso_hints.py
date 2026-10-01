@@ -5,7 +5,8 @@ import sys, urllib.parse, urllib.request, plistlib, json
 SF = {"jp": "143462", "us": "143441", "gb": "143444", "ca": "143455", "au": "143460", "fr": "143442",
       "de": "143443", "it": "143450", "es": "143454", "mx": "143468", "br": "143503", "kr": "143466",
       "nl": "143452", "pt": "143453", "in": "143467", "tr": "143480", "pl": "143478", "se": "143456",
-      "tw": "143470", "id": "143476", "th": "143475", "vn": "143471", "sa": "143479", "ae": "143481"}
+      "tw": "143470", "id": "143476", "th": "143475", "vn": "143471", "sa": "143479", "ae": "143481",
+      "ua": "143492", "gr": "143448", "cz": "143489", "hu": "143482", "ro": "143487"}
 UA = "AppStore/3.0 iOS/18.0 model/iPhone16,1 hwp/t8130 build/22A3354 (6; dt:310) AMS/1"
 def hints(cc, term):
     u = "https://search.itunes.apple.com/WebObjects/MZSearchHints.woa/wa/hints?" + urllib.parse.urlencode({"clientApplication": "Software", "term": term})
