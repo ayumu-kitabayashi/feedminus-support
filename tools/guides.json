@@ -1946,6 +1946,222 @@
    "moreHref": "sociallite-alternatives.html",
    "faq": "Comparatif des apps qui masquent les Reels",
    "faqHref": "alternatives.html"
+  },
+  "it": {
+   "title": "Cosa non piace delle app che bloccano Reels e Shorts: abbiamo letto tutte le 1.405 recensioni di SocialLite sull’App Store (2026)",
+   "lede": "Abbiamo letto e classificato tutte le 1.405 recensioni App Store di SocialLite, un’app che nasconde Reels e Shorts (60 paesi, da febbraio a settembre 2026). La critica più frequente: l’app è lenta, pesante o si blocca, in circa il 30% dei voti bassi. Più rare ma quasi sempre legate a un voto basso: niente cambio tra più account, limiti di Tempo di utilizzo che toccano siti non correlati, problemi di accesso e il prezzo dell’abbonamento.",
+   "cols": [
+    "Critica",
+    "Numero (su 466 recensioni da 1 a 3 stelle)",
+    "Quanto più spesso che nei voti alti",
+    "Cosa controllare scegliendo un’app"
+   ],
+   "rows": [
+    [
+     "<b>Lenta, pesante o si blocca</b>",
+     "143 (30,7%)",
+     "×1,4",
+     "Quanto velocemente si aprono i feed"
+    ],
+    [
+     "<b>La funzione principale è a pagamento</b> (per esempio nascondere i post consigliati)",
+     "51 (10,9%)",
+     "×3,7",
+     "Cosa viene nascosto gratis"
+    ],
+    [
+     "<b>Introduzione lunga, ripetuta o insistente</b>",
+     "48 (10,3%)",
+     "×5,7",
+     "Se si può iniziare subito"
+    ],
+    [
+     "<b>Troppo cara, abbonamento non gradito</b>",
+     "46 (9,9%)",
+     "×8,8",
+     "Le formule (mensile, annuale, acquisto unico)"
+    ],
+    [
+     "<b>Alcuni contenuti non vengono nascosti</b>",
+     "41 (8,8%)",
+     "×3,4",
+     "Se ciò che vuoi far sparire sparisce davvero"
+    ],
+    [
+     "<b>Effetti collaterali di Tempo di utilizzo</b> (siti non correlati bloccati, limite impossibile da togliere)",
+     "20 (4,3%)",
+     "×19,1",
+     "Se i limiti restano sui servizi scelti"
+    ],
+    [
+     "<b>Account sospeso o accesso segnalato come sospetto</b>",
+     "18 (3,9%)",
+     "×8,6",
+     "Se l’accesso avviene sulla pagina ufficiale"
+    ],
+    [
+     "<b>Impossibile accedere, o disconnessioni</b>",
+     "15 (3,2%)",
+     "×9,5",
+     "Restare connessi"
+    ],
+    [
+     "<b>Impossibile passare da un account all’altro</b>",
+     "12 (2,6%)",
+     "×22,9",
+     "Cambiare account se ne usi più di uno"
+    ],
+    [
+     "<b>Recensione richiesta con insistenza</b>",
+     "8 (1,7%)",
+     "nessuna nei voti alti",
+     "Se l’app chiede un voto prima dell’uso"
+    ]
+   ],
+   "qa": [
+    [
+     "Che cosa avete studiato?",
+     "Tutte le 1.405 recensioni App Store di SocialLite (Block Reels&Shorts), dal 1° febbraio al 18 settembre 2026, in 60 paesi. Abbiamo letto per intero le 484 recensioni da 1 a 3 stelle e le abbiamo divise in 20 categorie. Per distinguere le critiche frequenti da quelle che abbassano il voto, abbiamo confrontato anche quanto spesso compaiono nei voti alti. Lo sviluppatore non aveva risposto a nessuna delle 1.405 recensioni."
+    ],
+    [
+     "Qual è la critica più frequente?",
+     "Lentezza, pesantezza e blocchi: 150 dei 484 voti bassi, circa il 30%. È un punto debole comune alle app che aprono la versione web dei social nella propria schermata."
+    ],
+    [
+     "Quali critiche sono più legate ai voti bassi?",
+     "Alcune critiche sono rare ma arrivano quasi sempre con un voto basso: impossibile cambiare account (22,9 volte più frequente che nei voti alti), limiti di Tempo di utilizzo che toccano siti non correlati (×19,1), accessi falliti (×9,5), prezzo e abbonamento (×8,8), account sospesi o segnalati (×8,6)."
+    ],
+    [
+     "Cosa dicevano le recensioni sulla versione gratuita?",
+     "La critica più frequente: nascondere i post consigliati era a pagamento, quindi la versione gratuita lasciava ancora scorrere. Nelle recensioni a 5 stelle, invece, si lodava spesso il poter usare gratis le funzioni principali. Ciò che è gratuito divide nettamente i voti."
+    ],
+    [
+     "Quali funzioni vengono richieste?",
+     "266 recensioni contenevano una richiesta. Le più frequenti: pubblicare, le Storie e le chiamate (110), poi le notifiche (61). Nessuna di queste funziona nella versione web dei social: è un limite comune a questo tipo di app."
+    ],
+    [
+     "Cosa controllare scegliendo un’app?",
+     "Cinque controlli evitano la maggior parte dei motivi dei voti bassi: se i post consigliati vengono nascosti gratis; se l’accesso avviene sulla pagina ufficiale di ogni servizio; se i limiti di Tempo di utilizzo restano sui servizi scelti; se puoi cambiare account quando ne hai più di uno; se puoi aprire l’app ufficiale quando ti servono Storie o chiamate."
+    ],
+    [
+     "Come ha usato minulo questi risultati?",
+     "minulo nasconde gratis i post consigliati. L’accesso avviene sulla pagina ufficiale di ogni servizio e minulo non vede mai la tua password. Invece pubblicare Storie, le chiamate e i messaggi vocali non funzionano nemmeno dentro minulo. Quando ti servono, puoi aprire l’app ufficiale per un numero di minuti scelto."
+    ]
+   ],
+   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. SocialLite è un’app dello stesso tipo di minulo, quindi un concorrente. Le recensioni sono pubbliche sull’App Store e sono state raccolte fino al 18 settembre 2026. I numeri per categoria della tabella riguardano le prime 1.355 recensioni, fino al 6 settembre 2026 (466 delle quali da 1 a 3 stelle). Pubblicato il {date}.",
+   "srcTitle": "Fonti",
+   "more": "App per nascondere i Reels a confronto",
+   "moreHref": "alternatives.html",
+   "faq": "Domande frequenti",
+   "faqHref": "faq.html"
+  },
+  "de": {
+   "title": "Was Nutzer an Apps stört, die Reels und Shorts blockieren: Wir haben alle 1.405 App-Store-Bewertungen von SocialLite gelesen (2026)",
+   "lede": "Wir haben alle 1.405 App-Store-Bewertungen von SocialLite gelesen und eingeordnet, einer App, die Reels und Shorts ausblendet (60 Länder, Februar bis September 2026). Die häufigste Kritik: Die App ist langsam, schwer oder stürzt ab – in etwa 30 % der schlechten Bewertungen. Seltener, aber fast immer mit einer schlechten Bewertung verbunden: kein Wechsel zwischen mehreren Konten, Bildschirmzeit-Sperren, die fremde Websites treffen, Anmeldeprobleme und der Abo-Preis.",
+   "cols": [
+    "Kritik",
+    "Anzahl (von 466 Bewertungen mit 1 bis 3 Sternen)",
+    "Wie viel häufiger als in guten Bewertungen",
+    "Worauf man bei der Wahl einer App achten sollte"
+   ],
+   "rows": [
+    [
+     "<b>Langsam, schwer oder stürzt ab</b>",
+     "143 (30,7 %)",
+     "×1,4",
+     "Wie schnell sich die Feeds öffnen"
+    ],
+    [
+     "<b>Die Kernfunktion kostet Geld</b> (z. B. empfohlene Beiträge ausblenden)",
+     "51 (10,9 %)",
+     "×3,7",
+     "Was kostenlos ausgeblendet wird"
+    ],
+    [
+     "<b>Lange, wiederholte oder aufdringliche Einführung</b>",
+     "48 (10,3 %)",
+     "×5,7",
+     "Ob man sofort loslegen kann"
+    ],
+    [
+     "<b>Zu teuer, Abo unbeliebt</b>",
+     "46 (9,9 %)",
+     "×8,8",
+     "Preismodelle (monatlich, jährlich, Einmalkauf)"
+    ],
+    [
+     "<b>Inhalte werden nicht ausgeblendet</b>",
+     "41 (8,8 %)",
+     "×3,4",
+     "Ob wirklich verschwindet, was verschwinden soll"
+    ],
+    [
+     "<b>Nebenwirkungen der Bildschirmzeit</b> (fremde Websites gesperrt, Sperre lässt sich nicht entfernen)",
+     "20 (4,3 %)",
+     "×19,1",
+     "Ob die Sperren bei den gewählten Diensten bleiben"
+    ],
+    [
+     "<b>Konto gesperrt oder Anmeldung als verdächtig markiert</b>",
+     "18 (3,9 %)",
+     "×8,6",
+     "Ob die Anmeldung auf der offiziellen Seite erfolgt"
+    ],
+    [
+     "<b>Anmeldung klappt nicht oder bricht ab</b>",
+     "15 (3,2 %)",
+     "×9,5",
+     "Ob man angemeldet bleibt"
+    ],
+    [
+     "<b>Kein Wechsel zwischen mehreren Konten</b>",
+     "12 (2,6 %)",
+     "×22,9",
+     "Ob man das Konto wechseln kann, wenn man mehrere hat"
+    ],
+    [
+     "<b>Bewertung wird eingefordert</b>",
+     "8 (1,7 %)",
+     "keine in guten Bewertungen",
+     "Ob die App vor der Nutzung nach einer Bewertung fragt"
+    ]
+   ],
+   "qa": [
+    [
+     "Was wurde untersucht?",
+     "Alle 1.405 App-Store-Bewertungen von SocialLite (Block Reels&Shorts) vom 1. Februar bis 18. September 2026 aus 60 Ländern. Die 484 Bewertungen mit 1 bis 3 Sternen haben wir vollständig gelesen und in 20 Kategorien eingeteilt. Um häufige Kritik von Kritik zu unterscheiden, die die Bewertung drückt, haben wir auch verglichen, wie oft sie in guten Bewertungen vorkommt. Der Entwickler hatte auf keine der 1.405 Bewertungen geantwortet."
+    ],
+    [
+     "Was ist die häufigste Kritik?",
+     "Langsamkeit, Schwerfälligkeit und Abstürze: 150 der 484 schlechten Bewertungen, also etwa 30 %. Das ist eine gemeinsame Schwäche von Apps, die die Webversion sozialer Medien in ihrer eigenen Ansicht öffnen."
+    ],
+    [
+     "Welche Kritik hängt am stärksten mit schlechten Bewertungen zusammen?",
+     "Manche Kritik ist selten, kommt aber fast immer mit einer schlechten Bewertung: kein Kontowechsel (22,9-mal häufiger als in guten Bewertungen), Bildschirmzeit-Sperren, die fremde Websites treffen (×19,1), fehlgeschlagene Anmeldungen (×9,5), Preis und Abo (×8,8) sowie gesperrte oder markierte Konten (×8,6)."
+    ],
+    [
+     "Was sagten die Bewertungen über die kostenlose Version?",
+     "Am häufigsten: Empfohlene Beiträge auszublenden kostete Geld, sodass man in der Gratisversion weiter scrollen konnte. In 5-Sterne-Bewertungen wurde dagegen oft gelobt, dass die Hauptfunktionen kostenlos sind. Was kostenlos ist, trennt die Bewertungen deutlich."
+    ],
+    [
+     "Welche Funktionen werden gewünscht?",
+     "266 Bewertungen enthielten einen Wunsch. Am häufigsten: Posten, Stories und Anrufe (110), danach Benachrichtigungen (61). Nichts davon funktioniert in der Webversion sozialer Medien – eine gemeinsame Grenze dieser Art von App."
+    ],
+    [
+     "Worauf sollte ich bei der Wahl einer App achten?",
+     "Fünf Punkte vermeiden die meisten Gründe für schlechte Bewertungen: ob empfohlene Beiträge kostenlos ausgeblendet werden; ob die Anmeldung auf der offiziellen Seite jedes Dienstes erfolgt; ob die Bildschirmzeit-Sperren bei den gewählten Diensten bleiben; ob man bei mehreren Konten wechseln kann; ob man die offizielle App öffnen kann, wenn man Stories oder Anrufe braucht."
+    ],
+    [
+     "Wie hat minulo diese Ergebnisse genutzt?",
+     "minulo blendet empfohlene Beiträge kostenlos aus. Die Anmeldung erfolgt auf der offiziellen Seite jedes Dienstes, und minulo sieht dein Passwort nie. Stories posten, Anrufe und Sprachnachrichten funktionieren dagegen auch in minulo nicht. Wenn du sie brauchst, kannst du die offizielle App für eine gewählte Anzahl Minuten öffnen."
+    ]
+   ],
+   "disclose": "Diese Seite wurde vom Entwickler von minulo geschrieben. SocialLite ist eine App derselben Art wie minulo, also ein Mitbewerber. Die Bewertungen sind im App Store öffentlich und wurden bis zum 18. September 2026 gesammelt. Die Zahlen pro Kategorie in der Tabelle beziehen sich auf die ersten 1.355 Bewertungen bis zum 6. September 2026 (davon 466 mit 1 bis 3 Sternen). Veröffentlicht am {date}.",
+   "srcTitle": "Quellen",
+   "more": "Apps zum Ausblenden von Reels im Vergleich",
+   "moreHref": "alternatives.html",
+   "faq": "Häufige Fragen",
+   "faqHref": "faq.html"
   }
  }
 }
