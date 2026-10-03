@@ -2163,5 +2163,292 @@
    "faq": "Häufige Fragen",
    "faqHref": "faq.html"
   }
+ },
+ "minulo-vs-sociallite.html": {
+  "checked": "2026-10-03",
+  "src": [
+   [
+    "App Store (US): SocialLite-Block Reels&Shorts",
+    "https://apps.apple.com/us/app/sociallite-block-reels-shorts/id6757661674"
+   ],
+   [
+    "App Store (US): minulo",
+    "https://apps.apple.com/us/app/id6809352229"
+   ]
+  ],
+  "ja": {
+   "title": "minulo と SocialLite の違い：リールを消して DM は残すアプリを比べる（2026年）",
+   "lede": "どちらも、SNS を自分の画面で開いてリール・ショート動画・おすすめ投稿を消し、DM は残すアプリです。SocialLite は評価の数がずっと多く、Instagram と Snapchat のプッシュ通知に対応しています。minulo は TikTok・Threads・Pinterest・LinkedIn などを含む10の SNS に対応し、Mac 版と Chrome の拡張機能があり、消す機能は無料です。通知が欲しいなら SocialLite、TikTok なども一緒に消したいなら minulo が合います。",
+   "cols": [
+    "項目",
+    "minulo",
+    "SocialLite"
+   ],
+   "rows": [
+    [
+     "<b>仕組み</b>",
+     "各SNSの公式ページをアプリの中で開き、選んだ部分を表示しない",
+     "アプリの中で SNS を開き、中毒性の高い部分を取り除く"
+    ],
+    [
+     "<b>消えるもの</b>",
+     "リール・ショート動画・おすすめ投稿・発見タブ・広告",
+     "ショート動画のフィード・おすすめ・発見ページ・ライブとショッピングのタブ・広告"
+    ],
+    [
+     "<b>残るもの</b>",
+     "DM・友だちの投稿・自分の投稿と返信・検索",
+     "DM・自分で開いたプロフィール・友だちが送った投稿・投稿と共有"
+    ],
+    [
+     "<b>対応しているSNS</b>",
+     "Instagram・YouTube・TikTok・X・Threads・Facebook・Reddit・Snapchat・Pinterest・LinkedIn（10）",
+     "Instagram・YouTube・Snapchat・X・Reddit など（App Store の説明と更新履歴に書かれているもの）"
+    ],
+    [
+     "<b>DMで届いた動画</b>",
+     "次々に流れる画面に入る前に止まる。見たいときは5分だけ開ける",
+     "その1本は見られるが、次の動画へは進めない"
+    ],
+    [
+     "<b>公式アプリを止める</b>",
+     "スクリーンタイムで止めて、minulo に案内する（無料）",
+     "アプリのブロックと連携あり（更新履歴より）"
+    ],
+    [
+     "<b>通知</b>",
+     "なし",
+     "Instagram と Snapchat のプッシュ通知あり（3.1.2）"
+    ],
+    [
+     "<b>iPhone 以外</b>",
+     "Mac 版・Chrome の拡張機能",
+     "iPad に対応（更新履歴より）"
+    ],
+    [
+     "<b>アプリの言語</b>",
+     "日本語・英語など7言語",
+     "日本語・英語など9言語"
+    ],
+    [
+     "<b>料金（米国の App Store）</b>",
+     "無料。Pro は月額 $9.99・年額 $39.99。消す機能は無料",
+     "無料。Pro は複数の価格が表示（月額 $6.99〜$17.99・年額 $47.90〜$99.99）、家族プランもあり"
+    ],
+    [
+     "<b>米国の評価</b>",
+     "まだ0件（2026年9月公開）",
+     "8,140件・★4.7（2026年1月公開）"
+    ]
+   ],
+   "qa": [
+    [
+     "minulo と SocialLite はどう違いますか？",
+     "仕組みはよく似ていて、どちらも SNS を自分の画面で開き、リールやおすすめを消して DM は残します。違いは、対応する SNS の数（minulo は TikTok・Threads・Pinterest・LinkedIn を含む10）、通知（SocialLite は Instagram と Snapchat のプッシュ通知に対応）、iPhone 以外で使えるか（minulo は Mac 版と Chrome の拡張機能）、評価の数（SocialLite がずっと多い）です。"
+    ],
+    [
+     "どちらを選べばいいですか？",
+     "Instagram の通知を見逃したくない人や、たくさんの評価がある実績を重視する人には SocialLite が合います。TikTok や Threads も一緒に消したい人、パソコンでも同じように使いたい人、公式アプリを止めて minulo に切り替えたい人には minulo が合います。どちらも無料で試せます。"
+    ],
+    [
+     "SocialLite は日本語で使えますか？",
+     "App Store の情報では、SocialLite は日本語を含む9言語に対応しています。minulo は日本語を含む7言語です。"
+    ],
+    [
+     "無料でどこまで使えますか？",
+     "minulo は、リール・ショート動画・おすすめ投稿を消す機能と、公式アプリを止める機能が無料です。予定に合わせた自動ブロックやロックモードなどが Pro です。SocialLite も無料でダウンロードでき、アプリ内課金があります。どの機能が無料かは、SocialLite の App Store の説明には書かれていません。"
+    ],
+    [
+     "ログインは安全ですか？",
+     "minulo では、ログインは各SNSの公式ページで行い、パスワードを minulo が預かることはありません。SocialLite は、情報を端末の中に保存し、サーバーには送らないと説明しています。"
+    ]
+   ],
+   "disclose": "このページは minulo の開発者が書いています。SocialLite については、{date} 時点の App Store の説明・更新履歴・米国の評価数と料金の表示だけをもとにしています。",
+   "srcTitle": "出典",
+   "more": "SocialLite の代わりになるアプリ",
+   "moreHref": "sociallite-alternatives.html",
+   "faq": "リールを消せるアプリの比較",
+   "faqHref": "alternatives.html"
+  },
+  "en": {
+   "title": "minulo vs SocialLite: two apps that hide Reels and keep your DMs (2026)",
+   "lede": "Both apps open social media in their own view, hide Reels, Shorts and recommended posts, and keep your DMs. SocialLite has far more ratings and supports push notifications for Instagram and Snapchat. minulo works with 10 services, including TikTok, Threads, Pinterest and LinkedIn, has a Mac app and a Chrome extension, and hiding is free. If you want notifications, SocialLite fits; if you also want TikTok and others cleaned up, minulo fits.",
+   "cols": [
+    "",
+    "minulo",
+    "SocialLite"
+   ],
+   "rows": [
+    [
+     "<b>How it works</b>",
+     "Opens each service's official page in the app and hides the parts you choose",
+     "Opens social media in the app and removes the most addictive features"
+    ],
+    [
+     "<b>What disappears</b>",
+     "Reels, Shorts, recommended posts, Explore tabs, ads",
+     "Short-form video feeds, recommendations, Explore pages, Live and Shopping tabs, ads"
+    ],
+    [
+     "<b>What stays</b>",
+     "DMs, friends' posts, your own posts and replies, search",
+     "DMs, profiles you open, content friends send you, posting and sharing"
+    ],
+    [
+     "<b>Services</b>",
+     "Instagram, YouTube, TikTok, X, Threads, Facebook, Reddit, Snapchat, Pinterest, LinkedIn (10)",
+     "Instagram, YouTube, Snapchat, X, Reddit and others (as named in its App Store description and release notes)"
+    ],
+    [
+     "<b>A video sent in DMs</b>",
+     "Stops before the endless feed; you can open it for 5 minutes",
+     "You can watch that one video but can't scroll to the next"
+    ],
+    [
+     "<b>Locking the official apps</b>",
+     "Locks them with Screen Time and sends you to minulo (free)",
+     "App blocking and linking (per its release notes)"
+    ],
+    [
+     "<b>Notifications</b>",
+     "None",
+     "Push notifications for Instagram and Snapchat (3.1.2)"
+    ],
+    [
+     "<b>Beyond iPhone</b>",
+     "Mac app and Chrome extension",
+     "iPad support (per its release notes)"
+    ],
+    [
+     "<b>App languages</b>",
+     "7, including English and Japanese",
+     "9, including English and Japanese"
+    ],
+    [
+     "<b>Price (US App Store)</b>",
+     "Free. Pro is $9.99/month or $39.99/year. Hiding is free",
+     "Free. Pro shows several prices ($6.99–$17.99/month, $47.90–$99.99/year), plus Family plans"
+    ],
+    [
+     "<b>US ratings</b>",
+     "None yet (released September 2026)",
+     "8,140, ★4.7 (released January 2026)"
+    ]
+   ],
+   "qa": [
+    [
+     "What is the difference between minulo and SocialLite?",
+     "They work in a very similar way: both open social media in their own view, hide Reels and recommendations, and keep DMs. The differences are how many services they cover (minulo has 10, including TikTok, Threads, Pinterest and LinkedIn), notifications (SocialLite supports push for Instagram and Snapchat), use beyond the iPhone (minulo has a Mac app and a Chrome extension) and track record (SocialLite has far more ratings)."
+    ],
+    [
+     "Which one should I choose?",
+     "SocialLite suits you if you don't want to miss Instagram notifications or you value a long list of ratings. minulo suits you if you also want TikTok or Threads cleaned up, want the same thing on your computer, or want the official apps locked so you land in minulo instead. Both are free to try."
+    ],
+    [
+     "Is minulo free?",
+     "Hiding Reels, Shorts and recommended posts is free, and so is locking the official apps. Scheduled blocking and Locked Mode are part of Pro. SocialLite is also free to download with in-app purchases; its App Store description doesn't say which features are free."
+    ],
+    [
+     "Is it safe to sign in?",
+     "With minulo you sign in on each service's official page, so minulo never sees your password. SocialLite says it stores your information on your device and does not send it to its servers."
+    ]
+   ],
+   "disclose": "This page is written by the developer of minulo. Everything about SocialLite comes only from its App Store description, release notes, US rating count and listed prices as of {date}.",
+   "srcTitle": "Sources",
+   "more": "Alternatives to SocialLite",
+   "moreHref": "sociallite-alternatives.html",
+   "faq": "Apps that hide Reels compared",
+   "faqHref": "alternatives.html"
+  },
+  "fr": {
+   "title": "minulo ou SocialLite : deux apps qui masquent les Reels et gardent vos messages (2026)",
+   "lede": "Les deux apps ouvrent les réseaux dans leur propre écran, masquent les Reels, les Shorts et les publications recommandées, et gardent vos messages. SocialLite a bien plus de notes et prend en charge les notifications d’Instagram et de Snapchat. minulo fonctionne avec 10 réseaux, dont TikTok, Threads, Pinterest et LinkedIn, existe sur Mac et en extension Chrome, et masquer est gratuit. Si vous tenez aux notifications, prenez SocialLite ; si vous voulez aussi faire le ménage sur TikTok et ailleurs, prenez minulo.",
+   "cols": [
+    "",
+    "minulo",
+    "SocialLite"
+   ],
+   "rows": [
+    [
+     "<b>Fonctionnement</b>",
+     "Ouvre la page officielle de chaque réseau dans l’app et masque ce que vous choisissez",
+     "Ouvre les réseaux dans l’app et retire les fonctions les plus addictives"
+    ],
+    [
+     "<b>Ce qui disparaît</b>",
+     "Reels, Shorts, publications recommandées, onglets Explorer, pubs",
+     "Fils de vidéos courtes, recommandations, pages Explorer, onglets Live et Shopping, pubs"
+    ],
+    [
+     "<b>Ce qui reste</b>",
+     "Messages, publications des amis, vos publications et réponses, recherche",
+     "Messages, profils que vous ouvrez, contenus envoyés par des amis, publier et partager"
+    ],
+    [
+     "<b>Réseaux</b>",
+     "Instagram, YouTube, TikTok, X, Threads, Facebook, Reddit, Snapchat, Pinterest, LinkedIn (10)",
+     "Instagram, YouTube, Snapchat, X, Reddit, entre autres (cités dans sa description et ses notes de version)"
+    ],
+    [
+     "<b>Une vidéo reçue en message</b>",
+     "S’arrête avant le fil sans fin ; vous pouvez l’ouvrir 5 minutes",
+     "Vous pouvez voir cette vidéo, mais pas passer à la suivante"
+    ],
+    [
+     "<b>Verrouiller les apps officielles</b>",
+     "Avec Temps d’écran, puis redirection vers minulo (gratuit)",
+     "Blocage et liaison des apps (d’après ses notes de version)"
+    ],
+    [
+     "<b>Notifications</b>",
+     "Aucune",
+     "Notifications d’Instagram et de Snapchat (3.1.2)"
+    ],
+    [
+     "<b>Au-delà de l’iPhone</b>",
+     "App Mac et extension Chrome",
+     "Prise en charge de l’iPad (d’après ses notes de version)"
+    ],
+    [
+     "<b>Langues de l’app</b>",
+     "7, dont le français",
+     "9, dont le français"
+    ],
+    [
+     "<b>Prix (App Store américain)</b>",
+     "Gratuit. Pro à 9,99 $/mois ou 39,99 $/an. Masquer reste gratuit",
+     "Gratuit. Pro affiche plusieurs prix (6,99 à 17,99 $/mois, 47,90 à 99,99 $/an), plus des offres Famille"
+    ],
+    [
+     "<b>Notes aux États-Unis</b>",
+     "Aucune pour l’instant (sortie en septembre 2026)",
+     "8 140, ★4,7 (sortie en janvier 2026)"
+    ]
+   ],
+   "qa": [
+    [
+     "Quelle différence entre minulo et SocialLite ?",
+     "Elles fonctionnent de façon très proche : les deux ouvrent les réseaux dans leur propre écran, masquent les Reels et les recommandations, et gardent les messages. Les différences : le nombre de réseaux (10 pour minulo, dont TikTok, Threads, Pinterest et LinkedIn), les notifications (SocialLite les prend en charge pour Instagram et Snapchat), l’usage hors iPhone (minulo existe sur Mac et en extension Chrome) et l’historique (SocialLite a bien plus de notes)."
+    ],
+    [
+     "Laquelle choisir ?",
+     "SocialLite vous conviendra si vous ne voulez pas rater les notifications d’Instagram ou si vous accordez de l’importance au nombre de notes. minulo vous conviendra si vous voulez aussi faire le ménage sur TikTok ou Threads, retrouver la même chose sur votre ordinateur, ou verrouiller les apps officielles pour arriver dans minulo. Les deux s’essaient gratuitement."
+    ],
+    [
+     "minulo est-il gratuit ?",
+     "Masquer les Reels, les Shorts et les publications recommandées est gratuit, tout comme verrouiller les apps officielles. Le blocage programmé et le mode verrouillé font partie de Pro. SocialLite se télécharge aussi gratuitement, avec des achats intégrés ; sa description ne précise pas quelles fonctions sont gratuites."
+    ],
+    [
+     "La connexion est-elle sûre ?",
+     "Avec minulo, vous vous connectez sur la page officielle de chaque réseau : minulo ne voit jamais votre mot de passe. SocialLite indique conserver vos informations sur votre appareil, sans les envoyer à ses serveurs."
+    ]
+   ],
+   "disclose": "Cette page est écrite par le développeur de minulo. Tout ce qui concerne SocialLite vient uniquement de sa description sur l’App Store, de ses notes de version, de son nombre de notes et de ses prix affichés aux États-Unis au {date}.",
+   "srcTitle": "Sources",
+   "more": "Alternatives à SocialLite",
+   "moreHref": "sociallite-alternatives.html",
+   "faq": "Comparatif des apps qui masquent les Reels",
+   "faqHref": "alternatives.html"
+  }
  }
 }
