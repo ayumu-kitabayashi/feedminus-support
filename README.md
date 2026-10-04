@@ -14,9 +14,21 @@ minulo opens each network's official website inside the app and hides the parts 
 
 ## Useful pages
 
-- [Apps that hide Instagram Reels and YouTube Shorts but keep your DMs — 8 apps compared](https://minulo.app/en/alternatives.html)
+Comparisons and guides (English):
+
+- [Best iPhone apps that hide Instagram Reels and YouTube Shorts but keep your DMs](https://minulo.app/en/alternatives.html)
+- [minulo vs SocialLite: two apps that hide Reels and keep your DMs](https://minulo.app/en/minulo-vs-sociallite.html)
+- [SocialLite alternatives](https://minulo.app/en/sociallite-alternatives.html)
+- [Opal alternatives that still let you use Instagram DMs](https://minulo.app/en/opal-alternatives.html)
+- [What people dislike about Reels and Shorts blocker apps — all 1,405 App Store reviews of SocialLite read](https://minulo.app/en/reels-blocker-app-reviews.html)
+- [How to choose an app to hide Reels](https://minulo.app/en/compare.html)
+- [How to turn off Instagram Reels on iPhone](https://minulo.app/en/turn-off-instagram-reels.html)
+- [How to block YouTube Shorts on iPhone](https://minulo.app/en/block-youtube-shorts.html)
 - [How to hide Reels, Shorts and feeds on each network](https://minulo.app/en/hide/index.html)
 - [FAQ](https://minulo.app/en/faq.html)
+
+Other languages: [日本語](https://minulo.app/alternatives.html) · [Français](https://minulo.app/fr/alternatives.html) · [Deutsch](https://minulo.app/de/alternatives.html) · [Español](https://minulo.app/es/alternatives.html) · [Português](https://minulo.app/pt/alternatives.html) · [Italiano](https://minulo.app/it/alternatives.html)
+
 - [Privacy policy](https://minulo.app/privacy.html) · [Support](https://minulo.app/en/support.html)
 
 This repository holds the source of the minulo website (GitHub Pages). minulo is made by ReliefNote, a sole proprietorship in Hokkaido, Japan.
