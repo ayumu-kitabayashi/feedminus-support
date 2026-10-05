@@ -307,6 +307,43 @@ footer .bottom .langs .dot{opacity:.35}
 .store.sm img{height:40px}
 .dock .store img{height:50px}
 .dock .store{justify-content:center}
+
+/* ── 立体（製品の Btn・Raised と同じ作り）2026-10-05 北林「LPもボタン等の立体化。製品のUIUXを真似て」──
+   ・ボタン：面の真下に同じ形の底 2px（青なら #434DC4）＋面の下端に濃い帯 3px。押すと底のぶん沈み、底が消える
+   ・カード：2px の枠（#E8E2D8）＋真下に同じ色の底 4px。ぼかした影は使わない（製品と同じ。厚みは底の色だけで出す）
+   ・App Store の公式バッジは Apple の決まりで手を加えない */
+:root{--bord:#E8E2D8;--skyBord:#CBDEF7}
+.btn{box-shadow:0 2px 0 var(--priDeep),inset 0 -3px 0 rgba(0,0,0,.18);transition:transform .06s ease,box-shadow .06s ease}
+.btn:hover{background:var(--pri);filter:brightness(1.05)}
+.btn:active{transform:translateY(2px);box-shadow:inset 0 -1px 0 rgba(0,0,0,.18)}
+.btn.sm{box-shadow:0 2px 0 var(--priDeep),inset 0 -3px 0 rgba(0,0,0,.18)}
+.btn.line{background:var(--card);border:1.5px solid var(--bord);box-shadow:0 2px 0 var(--bord),inset 0 -3px 0 rgba(0,0,0,.05)}
+.btn.line:hover{background:var(--card);border-color:var(--bord);filter:none}
+.btn.white{box-shadow:0 2px 0 #AEB5F5,inset 0 -3px 0 rgba(13,18,59,.10)}
+.btn.white:hover{background:#fff;filter:none}
+.btn.line:active,.btn.white:active{transform:translateY(2px);box-shadow:none}
+.langmenu summary{box-shadow:0 2px 0 var(--bord);transition:transform .06s ease}
+.langmenu summary:active{transform:translateY(2px);box-shadow:none}
+.langmenu ul{border:2px solid var(--bord);box-shadow:0 4px 0 var(--bord)}
+.pill{box-shadow:0 2px 0 #3E46B0,inset 0 -2px 0 rgba(0,0,0,.16)}
+
+.chip,.row,.vow,.pane.keep,.stat,.streak,.funnel .keep{border:2px solid var(--bord);box-shadow:0 4px 0 var(--bord)}
+.sky .chip,.sky .row{border-color:var(--skyBord);box-shadow:0 4px 0 var(--skyBord)}
+.pane.cut{box-shadow:0 4px 0 #000}
+.navy .chip,.procard{box-shadow:0 4px 0 rgba(0,0,0,.30)}
+.navy .pane{box-shadow:0 4px 0 rgba(0,0,0,.30)}
+.navy .pane.paid{box-shadow:0 4px 0 rgba(20,24,90,.75)}
+
+/* スイッチ：製品の入っているスイッチ（青の面・下に濃い青の帯・濃い青の輪） */
+.sw{box-shadow:inset 0 -3px 0 var(--priDeep),0 0 0 2px var(--priDeep)}
+.sw::after{box-shadow:0 2px 0 rgba(13,18,59,.22)}
+
+/* よくある質問：1問ずつ立体のカード（製品の折りたたみの札と同じ） */
+.faq{border-top:none;display:flex;flex-direction:column;gap:14px}
+.faq details{background:var(--card);border:2px solid var(--bord);border-radius:22px;box-shadow:0 4px 0 var(--bord);padding:0 24px}
+.faq summary{padding:20px 0}
+.faq .a{padding:0 0 22px}
+@media (prefers-reduced-motion:reduce){.btn,.langmenu summary{transition:none}}
 </style>
 </head>
 <body>
