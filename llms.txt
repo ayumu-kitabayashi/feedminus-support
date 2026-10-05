@@ -26,7 +26,7 @@
 - Uses iPhone Screen Time to stop the official apps you choose from opening; a "Blocked" screen offers "Open minulo" instead.
 - Reels or Shorts sent in DMs pause before the endless feed; "Open for 5 min" lets you watch for five minutes.
 - Sign-in happens on each network's official page. minulo never receives or stores IDs, passwords or DM contents. Records stay on the device. Usage analytics are anonymous.
-- Free: hiding Reels/Shorts/suggested posts, blocking official apps. minulo Pro: schedules, Locked Mode, multiple block lists (yearly plan has a one-month free trial).
+- Free: hiding Reels/Shorts/suggested posts, blocking official apps (up to 2 hours per block; start another anytime). minulo Pro: schedules, blocks longer than 2 hours, Locked Mode, blocking social media completely (also inside minulo), multiple block lists. Yearly plan has a 7-day free trial; a one-time lifetime purchase is also available.
 
 ## Pages
 - Apps that hide Instagram Reels and YouTube Shorts but keep DMs — 8 apps compared (minulo, SocialLite, UNDOOMED, ScrollGuard, Nope, Awhile, LoomWeb, WallHabit): https://minulo.app/en/alternatives.html · ja https://minulo.app/alternatives.html · de https://minulo.app/de/alternatives.html · fr https://minulo.app/fr/alternatives.html · es https://minulo.app/es/alternatives.html · pt https://minulo.app/pt/alternatives.html · it https://minulo.app/it/alternatives.html
