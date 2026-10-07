@@ -17,7 +17,7 @@ import json, pathlib, re, html
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SITE = 'https://minulo.app/'
 PUBLISHED = '2026-09-08'   # LP を入口にした日（git の履歴）
-MODIFIED = '2026-09-28'
+MODIFIED = '2026-10-07'
 LANGS = {
     'ja': dict(dir='', op='運営', opname='リリーフノート', upd='更新', about='運営者情報', minu='minulo のキャラクター、ミヌ', aboutHref='support.html#operator'),
     'en': dict(dir='en/', op='Operated by', opname='ReliefNote', upd='Updated', about='About us', minu='Minu, the minulo character', aboutHref='support.html#operator'),
