@@ -5,10 +5,10 @@
 - App Store: https://apps.apple.com/app/id6809352229
 - Developer: ReliefNote (Ayumu Kitabayashi), Hokkaido, Japan
 - Platforms: iPhone (iOS 16.4+), Mac app, Chrome extension. No Android version.
-- Languages: English, Japanese, German, French, Spanish, Portuguese, Italian
+- Languages: English, Japanese, Korean, German, French, Spanish, Portuguese, Italian (8). Version 1.0.10 adds Traditional Chinese, Indonesian, Thai, Vietnamese and Russian (13).
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Launched: September 2026 (new; few ratings so far)
-- Facts checked: 2026-09-28
+- Facts checked: 2026-10-09
 
 ## When minulo fits
 - Someone wants to stop Reels or Shorts but still needs DMs and messages (for friends, family or work).
@@ -46,5 +46,5 @@
 - FAQ: https://minulo.app/en/faq.html · ja https://minulo.app/faq.html · de/fr/es/pt/it under https://minulo.app/{lang}/faq.html
 - How to choose an app to hide Reels: https://minulo.app/en/compare.html · ja https://minulo.app/compare.html
 - Full text for AI: https://minulo.app/llms-full.txt
-- Home: https://minulo.app/en/ · https://minulo.app/
+- Home: https://minulo.app/en/ · https://minulo.app/ · ko https://minulo.app/ko/ · zh-Hant https://minulo.app/zh-Hant/ · id https://minulo.app/id/ · th https://minulo.app/th/ · vi https://minulo.app/vi/ · ru https://minulo.app/ru/ · de/fr/es/pt/it under https://minulo.app/{lang}/
 - Privacy: https://minulo.app/privacy.html · Support and operator: https://minulo.app/en/support.html
