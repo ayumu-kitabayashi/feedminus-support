@@ -212,3 +212,122 @@ minulo は両方を組み合わせています。SNS は minulo の中で開き�
 
 minulo 以外のアプリについての記述は、各アプリの App Store の説明と評価件数（2026年9月27日、米国のストア）に基づきます。
 
+# スマホ制限アプリのおすすめ7選（iPhone・無料あり・2026年）SNS制限・勉強の集中に (ja)
+
+iPhone でスマホの使いすぎを止めるアプリは、大きく3つに分かれます。アプリ全体を止める（スクリーンタイム・Opal・ScreenZen）、開く前に間を置く（one sec・ScreenZen）、SNS のリールやショートだけを消す（minulo・SocialLite）。勉強中だけ止めたいなら、集中タイマーの Forest も使えます。どれも入手は無料です。
+
+## 無料で使えるスマホ制限アプリは？
+
+iPhone のスクリーンタイムは標準の機能で、無料です。この表のアプリも入手は無料で、無料でできる範囲はアプリごとに違います。たとえば one sec は1つのアプリまで無料です。minulo は、リールやショートを消す機能と、1回2時間までの公式アプリのブロックが無料です。
+
+## SNSだけを制限するアプリは？
+
+SNS をまるごと止めるなら、スクリーンタイムでカテゴリ（iOS 26 までは「SNS」、iOS 27 では「ソーシャルメディア」など）に時間を決めるか、Opal で SNS のアプリを選んで止めます。DM は使いながらリールやショートだけを止めたいなら、minulo や SocialLite のように、その部分だけを消すアプリが合います。
+
+## 勉強に集中できる無料のアプリは？
+
+Forest は、スマホを置いている間に木が育つ集中タイマーで、集中中は許可したアプリ以外をブロックできます（iOS 16 以降）。アプリを入れたくなければ、スクリーンタイムの休止時間で勉強の時間帯を決める方法もあります。
+
+## 制限したアプリを自分で消してしまわないようにするには？
+
+スクリーンタイムの「コンテンツとプライバシーの制限」→「iTunesおよびApp Storeでの購入」で「Appの削除」を「許可しない」にすると、アプリを削除できなくなります（iOS 26 の画面）。スクリーンタイム・パスコードを自分以外の人に決めてもらうと、自分では設定を戻せません。
+
+# インスタのリールだけ時間制限する方法（iPhone・2026年）見過ぎ防止の設定とアプリ (ja)
+
+Instagram の公式のヘルプでは、リールだけに時間制限をかける設定は見つかりませんでした。公式の「1日の利用時間の上限」は Instagram 全体についてのお知らせで、止まるわけではありません。iPhone のスクリーンタイムは Instagram アプリ全体を止めるので、DM も使えなくなります。DM は使いながらリールの見過ぎを防ぐなら、リールを消した状態で Instagram を開けるアプリ（minulo・SocialLite など）で、リールそのものを画面から消すのがいちばん近い方法です。
+
+## インスタのリールだけに時間制限をかけられる？
+
+2026年10月時点で、Instagram の公式のヘルプにも iPhone のスクリーンタイムにも、リールだけを対象にした時間制限は見つかりませんでした。どちらも Instagram 全体（スクリーンタイムの iOS 27 ではカテゴリ）が対象です。
+
+## インスタの見過ぎを防ぐ方法は？
+
+使う時間を決めるなら、Instagram の1日の利用時間の上限（お知らせ）か、スクリーンタイムの制限（パスコードで止められる）を使います。見過ぎの原因がリールなら、リールそのものを表示しないアプリで Instagram を開く方法もあります。
+
+## おすすめのリールやホームのリールを消すには？
+
+Instagram のロゴを押して「フォロー中」にすると、フォローしている人の投稿だけが新しい順に並び、おすすめは出ません。ただしリールのタブは残ります。タブごと消したいなら、minulo のようなリールを消すアプリを使います。
+
+## DMで友だちから届いたリールは見られる？
+
+minulo では見られます。届いたリールは果てしないフィードに続く前で止まり、「5分だけ開く」を押すと5分間見られます。
+
+# スクリーンタイムでインスタが制限できない・反映されないときの直し方（iPhone・2026年） (ja)
+
+スクリーンタイムで Instagram を制限したのに使えてしまう原因は、主に5つです。制限は初期設定では無視できる、Safari などで instagram.com を開いている、iOS 27 で設定の仕組みが変わった、ファミリー共有のデバイスが最新でない、Instagram が「常に許可」に入っている。上から順に確かめてください。
+
+## 制限時間を過ぎてもインスタが使えるのはなぜ？
+
+スクリーンタイムの制限は、初期設定では制限に達しても無視できるからです。スクリーンタイム・パスコードを設定して「制限終了時にブロック」をオンにすると、パスコードなしでは使えなくなります。
+
+## スクリーンタイムで、インスタだけ使えるのはなぜ？
+
+Instagram が「常に許可」に入っていると、休止時間や制限に関係なく使えます。「スクリーンタイム」→「常に許可」を確かめてください。逆に、休止時間中でもインスタだけは使いたいときは、ここに入れます。
+
+## スクリーンタイムでインスタのリールだけを制限できる？
+
+できません。スクリーンタイムの制限はアプリ全体（iOS 27 ではカテゴリ）に、Web サイトの制限はアドレス全体にかかります。リールだけ止めたいときは、リールを消すアプリを使います。
+
+## 子どものインスタの制限が反映されないときは？
+
+ファミリー共有のすべてのデバイスを最新のソフトウェアにアップデートし、保護者のデバイスからスクリーンタイムを設定します。iOS 27 の新しい設定は、グループのすべてのデバイスが iOS 27 以降でないと使えません。
+
+# Best apps to limit screen time on iPhone: app and social media blockers (2026) (en)
+
+Apps that limit screen time on iPhone fall into three groups. Some block whole apps (Screen Time, Opal, ScreenZen), some add a pause before an app opens (one sec, ScreenZen), and some hide only Reels and Shorts inside social media (minulo, SocialLite). If you only want to stay off your phone while studying, the Forest focus timer is another option. All of them are free to download.
+
+## Are there free apps to limit screen time on iPhone?
+
+Yes. iPhone Screen Time is built in and free, and every app in this table is free to download. What is free differs by app: one sec is free for one app, and in minulo hiding Reels and Shorts and blocking the official apps for up to 2 hours at a time are free.
+
+## What is the best social media blocker app?
+
+It depends on what you want to keep. To block social media entirely, use Screen Time with a category limit or an app blocker like Opal. To keep DMs and block only Reels and Shorts, use an app that hides those parts, such as minulo or SocialLite.
+
+## Which app helps you focus on studying?
+
+Forest is a focus timer that blocks apps outside your Allow List during a session (iOS 16 or later). Without another app, you can schedule study hours with Screen Time Downtime.
+
+## How do I stop myself from deleting the blocker app?
+
+In Screen Time, go to Content & Privacy Restrictions, then iTunes & App Store Purchases, and set Deleting Apps to Don't Allow (iOS 26 screens). If someone else sets your Screen Time passcode, you cannot change it back yourself.
+
+# How to limit only Reels on Instagram: Reels time limit on iPhone (2026) (en)
+
+We could not find any setting in Instagram's official help pages that puts a time limit on Reels only. Instagram's daily time limit is a reminder for all of Instagram, not a block. iPhone Screen Time blocks the whole Instagram app, so DMs stop too. To cut down on Reels but keep DMs, the closest option is an app that opens Instagram with Reels hidden, such as minulo or SocialLite.
+
+## Can you set a time limit for Instagram Reels only?
+
+As of October 2026 we could not find one, either in Instagram's official help pages or in iPhone Screen Time. Both work on all of Instagram (or a category, on iOS 27).
+
+## How do I limit Reels time on Instagram?
+
+Set a daily time limit in Instagram (a reminder) or a Screen Time limit (a block, with a passcode). Both cover all of Instagram. If Reels are the problem, open Instagram in an app that hides Reels instead.
+
+## How do I restrict suggested Reels on my home feed?
+
+Tap the Instagram logo and choose Following to see only posts from accounts you follow, in time order, without suggestions. The Reels tab stays. To remove it, use an app that hides Reels, such as minulo.
+
+## Can I still watch Reels my friends send in DMs?
+
+In minulo, yes. A Reel sent in a DM pauses before the endless feed, and Open for 5 min lets you watch for five minutes.
+
+# Screen Time limit not working for Instagram on iPhone? How to fix it (2026) (en)
+
+When a Screen Time limit for Instagram doesn't stop you, there are five usual causes: limits can be ignored by default, you are opening instagram.com in Safari, iOS 27 changed how limits work, devices in Family Sharing are not up to date, or Instagram is on the Always Allowed list. Check them in this order.
+
+## Why is my Instagram Screen Time limit not working?
+
+Most often because Screen Time limits can be ignored by default. Set a Screen Time passcode and turn on Block at End of Limit so the app can't be used without the passcode. Also check Safari (instagram.com), Always Allowed and, on iOS 27, Time Allowances.
+
+## Why can I still open Instagram in Safari?
+
+An app limit applies to the app. On iOS 26, add instagram.com under Never Allow in Content & Privacy Restrictions > Web Content. On iOS 27, a Time Allowance also covers a website the app declares as associated.
+
+## Can Screen Time limit only Instagram Reels?
+
+No. Screen Time limits apply to whole apps (categories on iOS 27), and website blocking applies to whole addresses. To stop only Reels, use an app that hides them.
+
+## Why don't Screen Time limits work on my child's iPhone?
+
+Update every device in your Family Sharing group to the latest software and set Screen Time from the parent's device. The new iOS 27 controls only work when every device in the group runs iOS 27 or later.
