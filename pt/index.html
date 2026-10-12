@@ -33,7 +33,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "MobileApplication", "featureList": ["Escolha o que ocultar em cada rede", "Bloqueie os apps oficiais (grátis)", "Reels recebidos por mensagem param antes do feed", "Durante um bloqueio, as redes no navegador também param", "Você entra pelo site oficial de cada rede, e o minulo não vê sua senha", "Funciona com Instagram, YouTube, TikTok, X, Threads, Facebook, Reddit, Snapchat, Pinterest e LinkedIn"], "name": "minulo", "alternateName": "FeedMinus", "operatingSystem": "iOS", "applicationCategory": "UtilitiesApplication", "description": "App de iPhone que oculta Reels, Shorts e posts recomendados, de graça. Mensagens e busca seguem normais, e o minulo nunca vê sua senha.", "inLanguage": "pt-BR", "url": "https://minulo.app/pt/", "installUrl": "https://apps.apple.com/br/app/id6809352229", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "@id": "https://minulo.app/#app", "publisher": {"@id": "https://minulo.app/#org"}}, {"@type": "Organization", "@id": "https://minulo.app/#org", "name": "ReliefNote", "alternateName": "リリーフノート", "url": "https://minulo.app/", "logo": "https://minulo.app/icon-180.png", "email": "workflowai.japan@gmail.com", "founder": {"@type": "Person", "name": "Ayumu Kitabayashi"}}, {"@type": "WebSite", "@id": "https://minulo.app/#website", "name": "minulo", "url": "https://minulo.app/", "inLanguage": "pt-BR", "publisher": {"@id": "https://minulo.app/#org"}}, {"@type": "WebPage", "@id": "https://minulo.app/pt/#page", "url": "https://minulo.app/pt/", "name": "minulo — Fique nas redes. Pare a rolagem infinita.", "description": "App de iPhone que oculta Reels, Shorts e posts recomendados, de graça. Mensagens e busca seguem normais, e o minulo nunca vê sua senha.", "inLanguage": "pt-BR", "isPartOf": {"@id": "https://minulo.app/#website"}, "about": {"@id": "https://minulo.app/#app"}, "datePublished": "2026-09-08", "dateModified": "2026-10-07"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "MobileApplication", "featureList": ["Escolha o que ocultar em cada rede", "Bloqueie os apps oficiais (grátis)", "Reels recebidos por mensagem param antes do feed", "Durante um bloqueio, as redes no navegador também param", "Você entra pelo site oficial de cada rede, e o minulo não vê sua senha", "Funciona com Instagram, YouTube, TikTok, X, Threads, Facebook, Reddit, Snapchat, Pinterest e LinkedIn"], "name": "minulo", "alternateName": "FeedMinus", "operatingSystem": "iOS", "applicationCategory": "UtilitiesApplication", "description": "App de iPhone que oculta Reels, Shorts e posts recomendados, de graça. Mensagens e busca seguem normais, e o minulo nunca vê sua senha.", "inLanguage": "pt-BR", "url": "https://minulo.app/pt/", "installUrl": "https://apps.apple.com/br/app/id6809352229", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "@id": "https://minulo.app/#app", "publisher": {"@id": "https://minulo.app/#org"}}, {"@type": "Organization", "@id": "https://minulo.app/#org", "name": "ReliefNote", "alternateName": "リリーフノート", "url": "https://minulo.app/", "logo": "https://minulo.app/icon-180.png", "email": "workflowai.japan@gmail.com", "founder": {"@type": "Person", "name": "Ayumu Kitabayashi"}}, {"@type": "WebSite", "@id": "https://minulo.app/#website", "name": "minulo", "url": "https://minulo.app/", "inLanguage": "pt-BR", "publisher": {"@id": "https://minulo.app/#org"}}, {"@type": "WebPage", "@id": "https://minulo.app/pt/#page", "url": "https://minulo.app/pt/", "name": "minulo — Fique nas redes. Pare a rolagem infinita.", "description": "App de iPhone que oculta Reels, Shorts e posts recomendados, de graça. Mensagens e busca seguem normais, e o minulo nunca vê sua senha.", "inLanguage": "pt-BR", "isPartOf": {"@id": "https://minulo.app/#website"}, "about": {"@id": "https://minulo.app/#app"}, "datePublished": "2026-09-08", "dateModified": "2026-10-12"}]}</script>
 <style>
 :root{
   --ink:#17181D; --ink2:#686972; --ink3:#74757D;
@@ -350,6 +350,14 @@ footer .bottom .langs .dot{opacity:.35}
 .faq summary{padding:20px 0}
 .faq .a{padding:0 0 22px}
 @media (prefers-reduced-motion:reduce){.btn,.langmenu summary{transition:none}}
+/* 質問に答えるページへの列（10/12） */
+.guides{max-width:880px;margin:0 auto 64px;text-align:left}
+.guides .gl{text-align:center;font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--ink2);margin-bottom:14px}
+.guides .gs{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+.guides a{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--card);border:1px solid var(--line);
+ border-radius:16px;padding:15px 18px;font-size:14.5px;font-weight:600;line-height:1.5}
+.guides a:hover{border-color:var(--pri);color:var(--priDeep)}
+.guides a::after{content:"→";color:var(--pri);font-size:13px;flex:none}
 </style>
 </head>
 <body>
@@ -399,7 +407,9 @@ footer .bottom .langs .dot{opacity:.35}
 </div></div></section>
 
 <section class="band" id="how"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>Mensagens e posts,<br>como sempre.</h2></div>
+  <div class="txt"><h2>Mensagens e posts,<br>como sempre.</h2>
+    <div class="chips"><div class="chip">Login na página oficial de cada rede</div><div class="chip">Nunca guardamos sua senha</div></div>
+  </div>
   <div class="fig" style="display:flex;align-items:flex-end;gap:14px;justify-content:center">
     <div class="phone" style="--pw:236px"><img src="../en/m/ph-rules.png" alt="Escolhendo o que ocultar no Instagram" width="760" height="1574"></div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:10px;padding-bottom:26px">
@@ -487,6 +497,7 @@ footer .bottom .langs .dot{opacity:.35}
 
 
 <section class="band close" style="padding-top:0"><div class="wrap">
+  <nav class="guides" aria-label="Saiba mais"><p class="gl">Saiba mais</p><div class="gs"><a href="./faq.html">Perguntas frequentes</a><a href="./minulo-vs-sociallite.html">minulo vs SocialLite</a><a href="./opal-alternatives.html">Alternativas ao Opal</a><a href="./turn-off-instagram-reels.html">Desativar os Reels do Instagram</a></div></nav>
   <div class="trio" style="margin-bottom:34px">
     <div style="text-align:center"><img class="minu" src="../m/celebrating.png" alt="Minu, o personagem do minulo" width="500" height="389" style="--mw:110px"></div>
     <img class="minu" src="../m/default.png" alt="Minu, o personagem do minulo" width="452" height="336" style="--mw:150px">

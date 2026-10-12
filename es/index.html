@@ -33,7 +33,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "MobileApplication", "featureList": ["Elige qué ocultar en cada red", "Bloquea las apps oficiales (gratis)", "Los Reels que te envían se detienen en la entrada", "Durante un bloqueo, también bloquea las redes en el navegador", "Inicias sesión en la página oficial de cada red, así que minulo nunca ve tu contraseña", "Funciona con Instagram, YouTube, TikTok, X, Threads, Facebook, Reddit, Snapchat, Pinterest y LinkedIn"], "name": "minulo", "alternateName": "FeedMinus", "operatingSystem": "iOS", "applicationCategory": "UtilitiesApplication", "description": "Oculta Reels, Shorts y publicaciones recomendadas en tu iPhone. Los mensajes y la búsqueda siguen igual. Ocultar es gratis y minulo nunca ve tu contraseña.", "inLanguage": "es", "url": "https://minulo.app/es/", "installUrl": "https://apps.apple.com/es/app/id6809352229", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "@id": "https://minulo.app/#app", "publisher": {"@id": "https://minulo.app/#org"}}, {"@type": "Organization", "@id": "https://minulo.app/#org", "name": "ReliefNote", "alternateName": "リリーフノート", "url": "https://minulo.app/", "logo": "https://minulo.app/icon-180.png", "email": "workflowai.japan@gmail.com", "founder": {"@type": "Person", "name": "Ayumu Kitabayashi"}}, {"@type": "WebSite", "@id": "https://minulo.app/#website", "name": "minulo", "url": "https://minulo.app/", "inLanguage": "es", "publisher": {"@id": "https://minulo.app/#org"}}, {"@type": "WebPage", "@id": "https://minulo.app/es/#page", "url": "https://minulo.app/es/", "name": "minulo — Quédate con las redes. Deja el scroll infinito.", "description": "Oculta Reels, Shorts y publicaciones recomendadas en tu iPhone. Los mensajes y la búsqueda siguen igual. Ocultar es gratis y minulo nunca ve tu contraseña.", "inLanguage": "es", "isPartOf": {"@id": "https://minulo.app/#website"}, "about": {"@id": "https://minulo.app/#app"}, "datePublished": "2026-09-08", "dateModified": "2026-10-07"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "MobileApplication", "featureList": ["Elige qué ocultar en cada red", "Bloquea las apps oficiales (gratis)", "Los Reels que te envían se detienen en la entrada", "Durante un bloqueo, también bloquea las redes en el navegador", "Inicias sesión en la página oficial de cada red, así que minulo nunca ve tu contraseña", "Funciona con Instagram, YouTube, TikTok, X, Threads, Facebook, Reddit, Snapchat, Pinterest y LinkedIn"], "name": "minulo", "alternateName": "FeedMinus", "operatingSystem": "iOS", "applicationCategory": "UtilitiesApplication", "description": "Oculta Reels, Shorts y publicaciones recomendadas en tu iPhone. Los mensajes y la búsqueda siguen igual. Ocultar es gratis y minulo nunca ve tu contraseña.", "inLanguage": "es", "url": "https://minulo.app/es/", "installUrl": "https://apps.apple.com/es/app/id6809352229", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "@id": "https://minulo.app/#app", "publisher": {"@id": "https://minulo.app/#org"}}, {"@type": "Organization", "@id": "https://minulo.app/#org", "name": "ReliefNote", "alternateName": "リリーフノート", "url": "https://minulo.app/", "logo": "https://minulo.app/icon-180.png", "email": "workflowai.japan@gmail.com", "founder": {"@type": "Person", "name": "Ayumu Kitabayashi"}}, {"@type": "WebSite", "@id": "https://minulo.app/#website", "name": "minulo", "url": "https://minulo.app/", "inLanguage": "es", "publisher": {"@id": "https://minulo.app/#org"}}, {"@type": "WebPage", "@id": "https://minulo.app/es/#page", "url": "https://minulo.app/es/", "name": "minulo — Quédate con las redes. Deja el scroll infinito.", "description": "Oculta Reels, Shorts y publicaciones recomendadas en tu iPhone. Los mensajes y la búsqueda siguen igual. Ocultar es gratis y minulo nunca ve tu contraseña.", "inLanguage": "es", "isPartOf": {"@id": "https://minulo.app/#website"}, "about": {"@id": "https://minulo.app/#app"}, "datePublished": "2026-09-08", "dateModified": "2026-10-12"}]}</script>
 <style>
 :root{
   --ink:#17181D; --ink2:#686972; --ink3:#74757D;
@@ -350,6 +350,14 @@ footer .bottom .langs .dot{opacity:.35}
 .faq summary{padding:20px 0}
 .faq .a{padding:0 0 22px}
 @media (prefers-reduced-motion:reduce){.btn,.langmenu summary{transition:none}}
+/* 質問に答えるページへの列（10/12） */
+.guides{max-width:880px;margin:0 auto 64px;text-align:left}
+.guides .gl{text-align:center;font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--ink2);margin-bottom:14px}
+.guides .gs{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+.guides a{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--card);border:1px solid var(--line);
+ border-radius:16px;padding:15px 18px;font-size:14.5px;font-weight:600;line-height:1.5}
+.guides a:hover{border-color:var(--pri);color:var(--priDeep)}
+.guides a::after{content:"→";color:var(--pri);font-size:13px;flex:none}
 </style>
 </head>
 <body>
@@ -399,7 +407,9 @@ footer .bottom .langs .dot{opacity:.35}
 </div></div></section>
 
 <section class="band" id="how"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>Mensajes y publicaciones,<br>como siempre.</h2></div>
+  <div class="txt"><h2>Mensajes y publicaciones,<br>como siempre.</h2>
+    <div class="chips"><div class="chip">Inicias sesión en la página oficial</div><div class="chip">Nunca guardamos tu contraseña</div></div>
+  </div>
   <div class="fig" style="display:flex;align-items:flex-end;gap:14px;justify-content:center">
     <div class="phone" style="--pw:236px"><img src="../en/m/ph-rules.png" alt="Eligiendo qué ocultar en Instagram" width="760" height="1574"></div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:10px;padding-bottom:26px">
@@ -487,6 +497,7 @@ footer .bottom .langs .dot{opacity:.35}
 
 
 <section class="band close" style="padding-top:0"><div class="wrap">
+  <nav class="guides" aria-label="Más información"><p class="gl">Más información</p><div class="gs"><a href="./faq.html">Preguntas frecuentes</a><a href="./minulo-vs-sociallite.html">minulo vs SocialLite</a><a href="./opal-alternatives.html">Alternativas a Opal</a><a href="./turn-off-instagram-reels.html">Desactivar los Reels de Instagram</a></div></nav>
   <div class="trio" style="margin-bottom:34px">
     <div style="text-align:center"><img class="minu" src="../m/celebrating.png" alt="Minu, el personaje de minulo" width="500" height="389" style="--mw:110px"></div>
     <img class="minu" src="../m/default.png" alt="Minu, el personaje de minulo" width="452" height="336" style="--mw:150px">

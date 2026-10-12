@@ -350,6 +350,14 @@ footer .bottom .langs .dot{opacity:.35}
 .faq summary{padding:20px 0}
 .faq .a{padding:0 0 22px}
 @media (prefers-reduced-motion:reduce){.btn,.langmenu summary{transition:none}}
+/* 質問に答えるページへの列（10/12） */
+.guides{max-width:880px;margin:0 auto 64px;text-align:left}
+.guides .gl{text-align:center;font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--ink2);margin-bottom:14px}
+.guides .gs{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+.guides a{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--card);border:1px solid var(--line);
+ border-radius:16px;padding:15px 18px;font-size:14.5px;font-weight:600;line-height:1.5}
+.guides a:hover{border-color:var(--pri);color:var(--priDeep)}
+.guides a::after{content:"→";color:var(--pri);font-size:13px;flex:none}
 </style>
 </head>
 <body>
@@ -399,7 +407,9 @@ footer .bottom .langs .dot{opacity:.35}
 </div></div></section>
 
 <section class="band" id="how"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>DMs and posts<br>still work.</h2></div>
+  <div class="txt"><h2>DMs and posts<br>still work.</h2>
+    <div class="chips"><div class="chip">Sign in on each app’s official page</div><div class="chip">We never store your password</div></div>
+  </div>
   <div class="fig" style="display:flex;align-items:flex-end;gap:14px;justify-content:center">
     <div class="phone" style="--pw:236px"><img src="m/ph-rules.png" alt="Choosing what to hide on Instagram" width="760" height="1574"></div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:10px;padding-bottom:26px">
@@ -488,6 +498,7 @@ footer .bottom .langs .dot{opacity:.35}
 
 
 <section class="band close" style="padding-top:0"><div class="wrap">
+  <nav class="guides" aria-label="Learn more"><p class="gl">Learn more</p><div class="gs"><a href="./faq.html">FAQ</a><a href="./minulo-vs-sociallite.html">minulo vs SocialLite</a><a href="./opal-alternatives.html">Opal alternatives</a><a href="./turn-off-instagram-reels.html">How to turn off Instagram Reels</a></div></nav>
   <div class="trio" style="margin-bottom:34px">
     <div style="text-align:center"><img class="minu" src="../m/celebrating.png" alt="Minu, the minulo character" width="500" height="389" style="--mw:110px"></div>
     <img class="minu" src="../m/default.png" alt="Minu, the minulo character" width="452" height="336" style="--mw:150px">
