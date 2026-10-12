@@ -349,6 +349,14 @@ footer .bottom .langs .dot{opacity:.35}
 @media (prefers-reduced-motion:reduce){.btn,.langmenu summary{transition:none}}
 /* Tiếng Việt：Figtree thiếu dấu tiếng Việt, dùng phông hệ thống */
 body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans",sans-serif}
+/* 質問に答えるページへの列（10/12） */
+.guides{max-width:880px;margin:0 auto 64px;text-align:left}
+.guides .gl{text-align:center;font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--ink2);margin-bottom:14px}
+.guides .gs{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+.guides a{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--card);border:1px solid var(--line);
+ border-radius:16px;padding:15px 18px;font-size:14.5px;font-weight:600;line-height:1.5}
+.guides a:hover{border-color:var(--pri);color:var(--priDeep)}
+.guides a::after{content:"→";color:var(--pri);font-size:13px;flex:none}
 </style>
 </head>
 <body>
@@ -488,6 +496,7 @@ body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans",sans-seri
 
 
 <section class="band close" style="padding-top:0"><div class="wrap">
+  <nav class="guides" aria-label="Tìm hiểu thêm" style="max-width:600px"><p class="gl">Tìm hiểu thêm</p><div class="gs"><a href="./faq.html">Câu hỏi thường gặp</a><a href="./minulo-vs-sociallite.html">minulo và SocialLite</a></div></nav>
   <div class="trio" style="margin-bottom:34px">
     <div style="text-align:center"><img class="minu" src="../m/celebrating.png" alt="Minu, nhân vật của minulo" width="500" height="389" style="--mw:110px"></div>
     <img class="minu" src="../m/default.png" alt="Minu, nhân vật của minulo" width="452" height="336" style="--mw:150px">
@@ -506,7 +515,7 @@ body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans",sans-seri
       <p class="tag">Mạng xã hội, vừa đủ dùng.</p>
     </div>
         <div><p class="fh">Ứng dụng</p><ul><li><a href="#can">Tính năng</a></li><li><a href="#how">Cách hoạt động</a></li><li><a href="#log">Thống kê</a></li><li><a href="#price">Giá</a></li></ul></div>
-        <div><p class="fh">Hỗ trợ</p><ul><li><a href="../en/faq.html" hreflang="en">Câu hỏi thường gặp (tiếng Anh)</a></li><li><a href="../en/support.html" hreflang="en">Gặp sự cố? (tiếng Anh)</a></li><li><a href="mailto:workflowai.japan@gmail.com">Liên hệ</a></li></ul></div>
+        <div><p class="fh">Hỗ trợ</p><ul><li><a href="./faq.html">Câu hỏi thường gặp</a></li><li><a href="../en/support.html" hreflang="en">Gặp sự cố? (tiếng Anh)</a></li><li><a href="mailto:workflowai.japan@gmail.com">Liên hệ</a></li></ul></div>
         <div><p class="fh">Pháp lý</p><ul><li><a href="../privacy.html">Chính sách quyền riêng tư</a></li><li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Điều khoản sử dụng</a></li></ul></div>
   </div>
   <div class="bottom"><span>© 2026 minulo<span class="dot" aria-hidden="true"> · </span><span class="opby">Vận hành bởi <a href="../en/support.html#operator">ReliefNote</a></span><span class="dot" aria-hidden="true"> · </span><span class="opby">Cập nhật <time datetime="2026-10-09">2026-10-09</time></span></span><span id="lang" class="langs"><a href="../" hreflang="ja" lang="ja">日本語</a><span class="dot" aria-hidden="true">·</span><a href="../en/" hreflang="en" lang="en">English</a><span class="dot" aria-hidden="true">·</span><a href="../de/" hreflang="de" lang="de">Deutsch</a><span class="dot" aria-hidden="true">·</span><a href="../fr/" hreflang="fr" lang="fr">Français</a><span class="dot" aria-hidden="true">·</span><a href="../es/" hreflang="es" lang="es">Español</a><span class="dot" aria-hidden="true">·</span><a href="../pt/" hreflang="pt" lang="pt">Português</a><span class="dot" aria-hidden="true">·</span><a href="../it/" hreflang="it" lang="it">Italiano</a><span class="dot" aria-hidden="true">·</span><a href="../ko/" hreflang="ko" lang="ko">한국어</a><span class="dot" aria-hidden="true">·</span><a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a><span class="dot" aria-hidden="true">·</span><a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a><span class="dot" aria-hidden="true">·</span><a href="../th/" hreflang="th" lang="th">ไทย</a><span class="dot" aria-hidden="true">·</span><b>Tiếng Việt</b><span class="dot" aria-hidden="true">·</span><a href="../ru/" hreflang="ru" lang="ru">Русский</a></span></div>

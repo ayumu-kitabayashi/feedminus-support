@@ -353,6 +353,14 @@ footer .bottom .langs .dot{opacity:.35}
 /* 한국어：어절 단위로 줄바꿈, 한글 글꼴 */
 body{font-family:"Figtree",system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif}
 h1,h2,h3,.chip,.pane li{word-break:keep-all}
+/* 質問に答えるページへの列（10/12） */
+.guides{max-width:880px;margin:0 auto 64px;text-align:left}
+.guides .gl{text-align:center;font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--ink2);margin-bottom:14px}
+.guides .gs{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+.guides a{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--card);border:1px solid var(--line);
+ border-radius:16px;padding:15px 18px;font-size:14.5px;font-weight:600;line-height:1.5}
+.guides a:hover{border-color:var(--pri);color:var(--priDeep)}
+.guides a::after{content:"→";color:var(--pri);font-size:13px;flex:none}
 </style>
 </head>
 <body>
@@ -492,6 +500,7 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
 
 
 <section class="band close" style="padding-top:0"><div class="wrap">
+  <nav class="guides" aria-label="자세히 알아보기" style="max-width:600px"><p class="gl">자세히 알아보기</p><div class="gs"><a href="./faq.html">자주 묻는 질문</a><a href="./minulo-vs-sociallite.html">minulo vs SocialLite</a></div></nav>
   <div class="trio" style="margin-bottom:34px">
     <div style="text-align:center"><img class="minu" src="../m/celebrating.png" alt="minulo 캐릭터 미누" width="500" height="389" style="--mw:110px"></div>
     <img class="minu" src="../m/default.png" alt="minulo 캐릭터 미누" width="452" height="336" style="--mw:150px">
@@ -510,7 +519,7 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
       <p class="tag">SNS는 원하는 만큼만.</p>
     </div>
         <div><p class="fh">앱</p><ul><li><a href="#can">기능</a></li><li><a href="#how">사용 방법</a></li><li><a href="#log">기록</a></li><li><a href="#price">요금</a></li></ul></div>
-        <div><p class="fh">지원</p><ul><li><a href="../en/faq.html" hreflang="en">자주 묻는 질문 (영어)</a></li><li><a href="../en/support.html" hreflang="en">문제가 있나요? (영어)</a></li><li><a href="mailto:workflowai.japan@gmail.com">문의</a></li></ul></div>
+        <div><p class="fh">지원</p><ul><li><a href="./faq.html">자주 묻는 질문</a></li><li><a href="../en/support.html" hreflang="en">문제가 있나요? (영어)</a></li><li><a href="mailto:workflowai.japan@gmail.com">문의</a></li></ul></div>
         <div><p class="fh">법적 고지</p><ul><li><a href="../privacy.html">개인정보 처리방침</a></li><li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">이용 약관</a></li></ul></div>
   </div>
   <div class="bottom"><span>© 2026 minulo<span class="dot" aria-hidden="true"> · </span><span class="opby">운영 <a href="../en/support.html#operator">ReliefNote</a></span><span class="dot" aria-hidden="true"> · </span><span class="opby">업데이트 <time datetime="2026-10-09">2026-10-09</time></span></span><span id="lang" class="langs"><a href="../" hreflang="ja" lang="ja">日本語</a><span class="dot" aria-hidden="true">·</span><a href="../en/" hreflang="en" lang="en">English</a><span class="dot" aria-hidden="true">·</span><a href="../de/" hreflang="de" lang="de">Deutsch</a><span class="dot" aria-hidden="true">·</span><a href="../fr/" hreflang="fr" lang="fr">Français</a><span class="dot" aria-hidden="true">·</span><a href="../es/" hreflang="es" lang="es">Español</a><span class="dot" aria-hidden="true">·</span><a href="../pt/" hreflang="pt" lang="pt">Português</a><span class="dot" aria-hidden="true">·</span><a href="../it/" hreflang="it" lang="it">Italiano</a><span class="dot" aria-hidden="true">·</span><b>한국어</b><span class="dot" aria-hidden="true">·</span><a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a><span class="dot" aria-hidden="true">·</span><a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a><span class="dot" aria-hidden="true">·</span><a href="../th/" hreflang="th" lang="th">ไทย</a><span class="dot" aria-hidden="true">·</span><a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a><span class="dot" aria-hidden="true">·</span><a href="../ru/" hreflang="ru" lang="ru">Русский</a></span></div>

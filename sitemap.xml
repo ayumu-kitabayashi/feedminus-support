@@ -198,62 +198,6 @@
   <url><loc>https://minulo.app/support.html</loc></url>
   <url><loc>https://minulo.app/en/support.html</loc></url>
   <url><loc>https://minulo.app/privacy.html</loc></url>
-  <url><loc>https://minulo.app/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
-  <url><loc>https://minulo.app/en/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
-  <url><loc>https://minulo.app/de/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
-  <url><loc>https://minulo.app/fr/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
-  <url><loc>https://minulo.app/es/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
-  <url><loc>https://minulo.app/pt/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
-  <url><loc>https://minulo.app/it/faq.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/></url>
   <url><loc>https://minulo.app/compare.html</loc>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/compare.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/compare.html"/>
@@ -1228,69 +1172,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/reels-blocker-app-reviews.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/reels-blocker-app-reviews.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/reels-blocker-app-reviews.html"/><lastmod>2026-10-02</lastmod></url>
-  <url><loc>https://minulo.app/minulo-vs-sociallite.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/minulo-vs-sociallite.html"/><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://minulo.app/en/minulo-vs-sociallite.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/minulo-vs-sociallite.html"/><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://minulo.app/de/minulo-vs-sociallite.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/minulo-vs-sociallite.html"/><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://minulo.app/fr/minulo-vs-sociallite.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/minulo-vs-sociallite.html"/><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://minulo.app/es/minulo-vs-sociallite.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/minulo-vs-sociallite.html"/><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://minulo.app/pt/minulo-vs-sociallite.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/minulo-vs-sociallite.html"/><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://minulo.app/it/minulo-vs-sociallite.html</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/minulo-vs-sociallite.html"/><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://minulo.app/smartphone-limit-apps.html</loc>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/smartphone-limit-apps.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/smartphone-limit-apps.html"/>
@@ -1315,4 +1196,368 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/screen-time-instagram-not-working.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/screen-time-instagram-not-working.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/screen-time-instagram-not-working.html"/><lastmod>2026-10-09</lastmod></url>
+  <url><loc>https://minulo.app/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/en/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/de/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/fr/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/es/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/pt/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/it/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/ko/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/zh-Hant/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/id/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/th/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/vi/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/ru/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/faq.html"/></url>
+  <url><loc>https://minulo.app/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/en/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/de/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/fr/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/es/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/pt/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/it/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/ko/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/zh-Hant/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/id/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/th/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/vi/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
+  <url><loc>https://minulo.app/ru/minulo-vs-sociallite.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://minulo.app/fr/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://minulo.app/es/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://minulo.app/zh-Hant/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://minulo.app/id/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://minulo.app/th/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/minulo-vs-sociallite.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/minulo-vs-sociallite.html"/></url>
 </urlset>

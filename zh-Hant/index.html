@@ -353,6 +353,14 @@ footer .bottom .langs .dot{opacity:.35}
 /* 繁體中文：避免用日文字形 */
 body{font-family:"Figtree",system-ui,-apple-system,"PingFang TC","Noto Sans TC","Microsoft JhengHei",sans-serif}
 .loop{letter-spacing:.04em}
+/* 質問に答えるページへの列（10/12） */
+.guides{max-width:880px;margin:0 auto 64px;text-align:left}
+.guides .gl{text-align:center;font-size:13px;font-weight:600;letter-spacing:.08em;color:var(--ink2);margin-bottom:14px}
+.guides .gs{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+.guides a{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--card);border:1px solid var(--line);
+ border-radius:16px;padding:15px 18px;font-size:14.5px;font-weight:600;line-height:1.5}
+.guides a:hover{border-color:var(--pri);color:var(--priDeep)}
+.guides a::after{content:"→";color:var(--pri);font-size:13px;flex:none}
 </style>
 </head>
 <body>
@@ -492,6 +500,7 @@ body{font-family:"Figtree",system-ui,-apple-system,"PingFang TC","Noto Sans TC",
 
 
 <section class="band close" style="padding-top:0"><div class="wrap">
+  <nav class="guides" aria-label="了解更多" style="max-width:600px"><p class="gl">了解更多</p><div class="gs"><a href="./faq.html">常見問題</a><a href="./minulo-vs-sociallite.html">minulo 與 SocialLite 比較</a></div></nav>
   <div class="trio" style="margin-bottom:34px">
     <div style="text-align:center"><img class="minu" src="../m/celebrating.png" alt="minulo 的角色 Minu" width="500" height="389" style="--mw:110px"></div>
     <img class="minu" src="../m/default.png" alt="minulo 的角色 Minu" width="452" height="336" style="--mw:150px">
@@ -510,7 +519,7 @@ body{font-family:"Figtree",system-ui,-apple-system,"PingFang TC","Noto Sans TC",
       <p class="tag">社群，只用你想要的分量。</p>
     </div>
         <div><p class="fh">App</p><ul><li><a href="#can">功能</a></li><li><a href="#how">運作方式</a></li><li><a href="#log">紀錄</a></li><li><a href="#price">價格</a></li></ul></div>
-        <div><p class="fh">支援</p><ul><li><a href="../en/faq.html" hreflang="en">常見問題（英文）</a></li><li><a href="../en/support.html" hreflang="en">遇到問題？（英文）</a></li><li><a href="mailto:workflowai.japan@gmail.com">聯絡我們</a></li></ul></div>
+        <div><p class="fh">支援</p><ul><li><a href="./faq.html">常見問題</a></li><li><a href="../en/support.html" hreflang="en">遇到問題？（英文）</a></li><li><a href="mailto:workflowai.japan@gmail.com">聯絡我們</a></li></ul></div>
         <div><p class="fh">法律資訊</p><ul><li><a href="../privacy.html">隱私權政策</a></li><li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">使用條款</a></li></ul></div>
   </div>
   <div class="bottom"><span>© 2026 minulo<span class="dot" aria-hidden="true"> · </span><span class="opby">營運 <a href="../en/support.html#operator">ReliefNote</a></span><span class="dot" aria-hidden="true"> · </span><span class="opby">更新 <time datetime="2026-10-09">2026-10-09</time></span></span><span id="lang" class="langs"><a href="../" hreflang="ja" lang="ja">日本語</a><span class="dot" aria-hidden="true">·</span><a href="../en/" hreflang="en" lang="en">English</a><span class="dot" aria-hidden="true">·</span><a href="../de/" hreflang="de" lang="de">Deutsch</a><span class="dot" aria-hidden="true">·</span><a href="../fr/" hreflang="fr" lang="fr">Français</a><span class="dot" aria-hidden="true">·</span><a href="../es/" hreflang="es" lang="es">Español</a><span class="dot" aria-hidden="true">·</span><a href="../pt/" hreflang="pt" lang="pt">Português</a><span class="dot" aria-hidden="true">·</span><a href="../it/" hreflang="it" lang="it">Italiano</a><span class="dot" aria-hidden="true">·</span><a href="../ko/" hreflang="ko" lang="ko">한국어</a><span class="dot" aria-hidden="true">·</span><b>繁體中文</b><span class="dot" aria-hidden="true">·</span><a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a><span class="dot" aria-hidden="true">·</span><a href="../th/" hreflang="th" lang="th">ไทย</a><span class="dot" aria-hidden="true">·</span><a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a><span class="dot" aria-hidden="true">·</span><a href="../ru/" hreflang="ru" lang="ru">Русский</a></span></div>
