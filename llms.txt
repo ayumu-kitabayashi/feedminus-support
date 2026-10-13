@@ -39,6 +39,7 @@
 - Best apps to limit screen time on iPhone — app blockers, social media blockers and study apps compared (Screen Time, Opal, ScreenZen, one sec, Forest, minulo, SocialLite; ratings as of 2026-10-09; how to choose by goal): https://minulo.app/en/smartphone-limit-apps.html · ja https://minulo.app/smartphone-limit-apps.html
 - How to limit only Reels on Instagram (Reels time limit on iPhone) — no Reels-only limit exists in Instagram's help or Screen Time; daily limit reminder, Screen Time steps for iOS 26 and iOS 27, hiding Reels while keeping DMs: https://minulo.app/en/limit-instagram-reels-time.html · ja https://minulo.app/limit-instagram-reels-time.html
 - Screen Time limit not working for Instagram on iPhone — causes and fixes from Apple Support (limits ignorable by default, instagram.com in Safari, iOS 27 Time Allowances, Family Sharing, Always Allowed): https://minulo.app/en/screen-time-instagram-not-working.html · ja https://minulo.app/screen-time-instagram-not-working.html
+- Studying without Reels and Shorts while keeping LINE/KakaoTalk and DMs (Screen Time, Focus, timer apps, hiding only the feed): ja https://minulo.app/study-focus.html · ko https://minulo.app/ko/study-focus.html
 - How to hide feeds on each network, step by step: https://minulo.app/en/hide/ · ja https://minulo.app/hide/
   - Instagram (hide Reels, keep messages): https://minulo.app/en/hide/instagram.html
   - YouTube (hide Shorts, keep subscriptions): https://minulo.app/en/hide/youtube.html

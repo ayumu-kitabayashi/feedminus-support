@@ -1580,4 +1580,10 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://minulo.app/pt/block-youtube-shorts.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://minulo.app/it/block-youtube-shorts.html"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/block-youtube-shorts.html"/></url>
+  <url><loc>https://minulo.app/study-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/study-focus.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/study-focus.html"/></url>
+  <url><loc>https://minulo.app/ko/study-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/study-focus.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/study-focus.html"/></url>
 </urlset>
