@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-02",
+ "checked": "2026-10-16",
  "apps": [
   {
    "name": "minulo",
@@ -54,7 +54,7 @@
   {
    "name": "SocialLite",
    "id": 6757661674,
-   "ratings": 8031,
+   "ratings": 8780,
    "how": {
     "en": "A focused view of social networks inside the app; can block the official apps with Screen Time and redirect to SocialLite (per its release notes).",
     "ja": "アプリの中で SNS を絞って表示。公式アプリをスクリーンタイムで止めて SocialLite に案内できる（更新履歴より）。",
@@ -104,7 +104,7 @@
   {
    "name": "UNDOOMED",
    "id": 6751837079,
-   "ratings": 103,
+   "ratings": 106,
    "how": {
     "en": "Opens each network's mobile website in its own private browser and filters the page.",
     "ja": "各SNSのモバイル版サイトを自前のブラウザで開き、表示を絞る。",
@@ -154,7 +154,7 @@
   {
    "name": "ScrollGuard",
    "id": 6754183872,
-   "ratings": 103,
+   "ratings": 110,
    "how": {
     "en": "A Safari extension that hides feeds, Reels, Stories and Explore on social media websites.",
     "ja": "Safari の拡張機能で、SNSのサイトのフィード・リール・ストーリーズ・発見を隠す。",
@@ -254,7 +254,7 @@
   {
    "name": "Awhile",
    "id": 6763551826,
-   "ratings": 2,
+   "ratings": 4,
    "how": {
     "en": "Loads instagram.com in its own in-app browser and hides chosen parts.",
     "ja": "instagram.com を自前のアプリ内ブラウザで開き、選んだ部分を隠す。",
@@ -304,7 +304,7 @@
   {
    "name": "LoomWeb",
    "id": 6754727620,
-   "ratings": 29,
+   "ratings": 32,
    "how": {
     "en": "A browser for social media with per-site settings.",
     "ja": "SNS用のブラウザ。サイトごとに設定する。",
@@ -354,7 +354,7 @@
   {
    "name": "WallHabit",
    "id": 6751423279,
-   "ratings": 33,
+   "ratings": 34,
    "how": {
     "en": "Blocks Reels and Shorts or whole apps, and asks you to hold a button before unlocking (the description does not detail how Reels are blocked).",
     "ja": "リールやショート、またはアプリ全体を止め、解除には長押しが要る（リールの止め方の詳細は説明にない）。",
@@ -400,6 +400,406 @@
     "pt": "Requer iOS 18",
     "it": "Richiede iOS 18"
    }
+  },
+  {
+   "name": "Sociano",
+   "id": 6760568406,
+   "how": {
+    "en": "Opens supported networks in its own controlled browser and blocks Reels, Shorts and feeds; also blocks chosen iPhone apps with Screen Time.",
+    "ja": "対応するSNSを自前の制御されたブラウザで開き、リール・ショート・フィードを止める。スクリーンタイムで選んだ iPhone のアプリも止める。",
+    "de": "Öffnet unterstützte Netzwerke im eigenen kontrollierten Browser und blockiert Reels, Shorts und Feeds; sperrt mit der Bildschirmzeit auch ausgewählte iPhone-Apps.",
+    "fr": "Ouvre les réseaux pris en charge dans son propre navigateur contrôlé et bloque Reels, Shorts et fils ; bloque aussi des apps iPhone choisies avec Temps d’écran.",
+    "es": "Abre las redes compatibles en su propio navegador controlado y bloquea Reels, Shorts y feeds; también bloquea apps del iPhone elegidas con Tiempo de uso.",
+    "pt": "Abre as redes compatíveis no próprio navegador controlado e bloqueia Reels, Shorts e feeds; também bloqueia apps do iPhone escolhidos com o Tempo de Uso.",
+    "it": "Apre i social supportati nel proprio browser controllato e blocca Reels, Shorts e feed; blocca anche app dell’iPhone scelte con Tempo di utilizzo."
+   },
+   "nets": {
+    "en": "Instagram, YouTube, X, Facebook, LinkedIn and others",
+    "ja": "Instagram・YouTube・X・Facebook・LinkedIn など",
+    "de": "Instagram, YouTube, X, Facebook, LinkedIn und weitere",
+    "fr": "Instagram, YouTube, X, Facebook, LinkedIn et d’autres",
+    "es": "Instagram, YouTube, X, Facebook, LinkedIn y otras",
+    "pt": "Instagram, YouTube, X, Facebook, LinkedIn e outras",
+    "it": "Instagram, YouTube, X, Facebook, LinkedIn e altri"
+   },
+   "free": {
+    "en": "Free to download.",
+    "ja": "無料でダウンロードできる。",
+    "de": "Kostenlos zum Herunterladen.",
+    "fr": "Téléchargement gratuit.",
+    "es": "Descarga gratuita.",
+    "pt": "Download grátis.",
+    "it": "Download gratuito."
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
+   },
+   "also": {
+    "en": "App blocker, schedules and daily limits",
+    "ja": "アプリのブロック・予定・1日の上限",
+    "de": "App-Sperre, Zeitpläne und Tageslimits",
+    "fr": "Blocage d’apps, plannings et limites quotidiennes",
+    "es": "Bloqueo de apps, horarios y límites diarios",
+    "pt": "Bloqueio de apps, horários e limites diários",
+    "it": "Blocco app, orari e limiti giornalieri"
+   },
+   "ratings": 10
+  },
+  {
+   "name": "Stillfeed",
+   "id": 6792934511,
+   "how": {
+    "en": "Opens Instagram and YouTube in its built-in browser with Reels, Explore and Shorts removed.",
+    "ja": "Instagram と YouTube を内蔵のブラウザで開き、リール・発見・ショートを消す。",
+    "de": "Öffnet Instagram und YouTube im eingebauten Browser, ohne Reels, „Entdecken“ und Shorts.",
+    "fr": "Ouvre Instagram et YouTube dans son navigateur intégré, sans Reels, Explorer ni Shorts.",
+    "es": "Abre Instagram y YouTube en su navegador integrado, sin Reels, Explorar ni Shorts.",
+    "pt": "Abre o Instagram e o YouTube no navegador integrado, sem Reels, Explorar e Shorts.",
+    "it": "Apre Instagram e YouTube nel browser integrato, senza Reels, Esplora e Shorts."
+   },
+   "nets": {
+    "en": "Instagram, YouTube",
+    "ja": "Instagram・YouTube",
+    "de": "Instagram, YouTube",
+    "fr": "Instagram, YouTube",
+    "es": "Instagram, YouTube",
+    "pt": "Instagram, YouTube",
+    "it": "Instagram, YouTube"
+   },
+   "free": {
+    "en": "Reels and Shorts blocking is free; Pro adds a following-only feed, Stories and feed blocking, and DMs only.",
+    "ja": "リールとショートを消すのは無料。Pro でフォロー中だけのフィード・ストーリーズやフィードの非表示・DM だけの表示。",
+    "de": "Reels- und Shorts-Sperre kostenlos; Pro bietet einen Feed nur mit gefolgten Konten, Stories- und Feed-Sperre sowie „nur DMs“.",
+    "fr": "Le blocage des Reels et des Shorts est gratuit ; Pro ajoute un fil des comptes suivis, le blocage des stories et du fil, et « DM uniquement ».",
+    "es": "Bloquear Reels y Shorts es gratis; Pro añade un feed solo de cuentas seguidas, bloqueo de historias y del feed, y «solo DMs».",
+    "pt": "Bloquear Reels e Shorts é grátis; o Pro adiciona um feed só com quem você segue, bloqueio de stories e do feed e «só DMs».",
+    "it": "Il blocco di Reels e Shorts è gratuito; Pro aggiunge un feed solo degli account seguiti, il blocco di storie e feed e «solo DM»."
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
+   },
+   "also": {
+    "en": "Weekly blocked stats",
+    "ja": "週ごとの止めた回数",
+    "de": "Wöchentliche Sperrstatistik",
+    "fr": "Statistiques hebdomadaires des blocages",
+    "es": "Estadísticas semanales de bloqueos",
+    "pt": "Estatísticas semanais de bloqueios",
+    "it": "Statistiche settimanali dei blocchi"
+   },
+   "ratings": 0
+  },
+  {
+   "name": "Unfeed",
+   "id": 6814847686,
+   "how": {
+    "en": "Opens networks in its own app with a filter that keeps the feed from loading.",
+    "ja": "SNSを自前のアプリで開き、フィードが読み込まれないように絞る。",
+    "de": "Öffnet Netzwerke in der eigenen App mit einem Filter, der den Feed gar nicht erst lädt.",
+    "fr": "Ouvre les réseaux dans sa propre app avec un filtre qui empêche le fil de se charger.",
+    "es": "Abre las redes en su propia app con un filtro que impide que se cargue el feed.",
+    "pt": "Abre as redes no próprio app com um filtro que impede o feed de carregar.",
+    "it": "Apre i social nella propria app con un filtro che non fa caricare il feed."
+   },
+   "nets": {
+    "en": "Instagram, TikTok, YouTube, X",
+    "ja": "Instagram・TikTok・YouTube・X",
+    "de": "Instagram, TikTok, YouTube, X",
+    "fr": "Instagram, TikTok, YouTube, X",
+    "es": "Instagram, TikTok, YouTube, X",
+    "pt": "Instagram, TikTok, YouTube, X",
+    "it": "Instagram, TikTok, YouTube, X"
+   },
+   "free": {
+    "en": "Free to download; Pro adds hiding ads, suggested posts and stories, and multiple accounts.",
+    "ja": "無料でダウンロードできる。Pro で広告・おすすめ投稿・ストーリーズの非表示と複数アカウント。",
+    "de": "Kostenlos zum Herunterladen; Pro blendet Werbung, Vorschläge und Stories aus und bietet mehrere Konten.",
+    "fr": "Téléchargement gratuit ; Pro masque pubs, suggestions et stories et gère plusieurs comptes.",
+    "es": "Descarga gratuita; Pro oculta anuncios, sugerencias e historias y permite varias cuentas.",
+    "pt": "Download grátis; o Pro esconde anúncios, sugestões e stories e permite várias contas.",
+    "it": "Download gratuito; Pro nasconde pubblicità, suggerimenti e storie e consente più account."
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
+   },
+   "also": {
+    "en": "Session timer, daily allowance, sleep mode",
+    "ja": "使う時間のタイマー・1日の上限・スリープモード",
+    "de": "Sitzungstimer, Tageskontingent, Schlafmodus",
+    "fr": "Minuteur de session, quota quotidien, mode sommeil",
+    "es": "Temporizador de sesión, cupo diario, modo sueño",
+    "pt": "Timer de sessão, cota diária, modo sono",
+    "it": "Timer di sessione, quota giornaliera, modalità notte"
+   },
+   "ratings": 0
+  },
+  {
+   "name": "SocialFocus",
+   "id": 1661093205,
+   "how": {
+    "en": "A Safari extension that hides chosen parts of websites, such as feeds, Reels, Shorts and comments.",
+    "ja": "Safari の拡張機能で、サイトのフィード・リール・ショート・コメントなど選んだ部分を隠す。",
+    "de": "Eine Safari-Erweiterung, die ausgewählte Teile von Websites wie Feeds, Reels, Shorts und Kommentare ausblendet.",
+    "fr": "Une extension Safari qui masque des éléments choisis des sites, comme les fils, Reels, Shorts et commentaires.",
+    "es": "Una extensión de Safari que oculta partes elegidas de los sitios, como feeds, Reels, Shorts y comentarios.",
+    "pt": "Uma extensão do Safari que esconde partes escolhidas dos sites, como feeds, Reels, Shorts e comentários.",
+    "it": "Un’estensione di Safari che nasconde parti scelte dei siti, come feed, Reels, Shorts e commenti."
+   },
+   "nets": {
+    "en": "YouTube, Facebook, X, Instagram, Reddit, LinkedIn and Gmail websites in Safari",
+    "ja": "Safari で開く YouTube・Facebook・X・Instagram・Reddit・LinkedIn・Gmail のサイト",
+    "de": "YouTube, Facebook, X, Instagram, Reddit, LinkedIn und Gmail in Safari",
+    "fr": "Sites YouTube, Facebook, X, Instagram, Reddit, LinkedIn et Gmail dans Safari",
+    "es": "Sitios de YouTube, Facebook, X, Instagram, Reddit, LinkedIn y Gmail en Safari",
+    "pt": "Sites do YouTube, Facebook, X, Instagram, Reddit, LinkedIn e Gmail no Safari",
+    "it": "Siti di YouTube, Facebook, X, Instagram, Reddit, LinkedIn e Gmail in Safari"
+   },
+   "free": {
+    "en": "Paid app ($4.99 in the US); optional PRO subscription.",
+    "ja": "有料のアプリ（米国で4.99ドル）。PRO の購読は任意。",
+    "de": "Kostenpflichtige App (4,99 $ in den USA); optionales PRO-Abo.",
+    "fr": "App payante (4,99 $ aux États-Unis) ; abonnement PRO facultatif.",
+    "es": "App de pago (4,99 $ en EE. UU.); suscripción PRO opcional.",
+    "pt": "App pago (US$ 4,99 nos EUA); assinatura PRO opcional.",
+    "it": "App a pagamento (4,99 $ negli USA); abbonamento PRO facoltativo."
+   },
+   "dms": {
+    "en": "Not listed",
+    "ja": "記載なし",
+    "de": "Keine Angabe",
+    "fr": "Non précisé",
+    "es": "No se indica",
+    "pt": "Não informado",
+    "it": "Non indicato"
+   },
+   "also": {
+    "en": "Settings import/export",
+    "ja": "設定の書き出し・読み込み",
+    "de": "Einstellungen importieren/exportieren",
+    "fr": "Import/export des réglages",
+    "es": "Importar/exportar ajustes",
+    "pt": "Importar/exportar ajustes",
+    "it": "Importa/esporta impostazioni"
+   },
+   "ratings": 325
+  },
+  {
+   "name": "snowscroll",
+   "id": 6778488660,
+   "how": {
+    "en": "Opens each network’s mobile site in a focused in-app browser and hides the feeds; with Screen Time, the real Instagram app opens snowscroll instead.",
+    "ja": "各SNSのモバイル版サイトをアプリ内のブラウザで開き、フィードを隠す。スクリーンタイムで、公式の Instagram を開くと snowscroll が開く。",
+    "de": "Öffnet die mobile Website jedes Netzwerks in einem In-App-Browser und blendet die Feeds aus; mit der Bildschirmzeit öffnet die echte Instagram-App stattdessen snowscroll.",
+    "fr": "Ouvre le site mobile de chaque réseau dans un navigateur intégré et masque les fils ; avec Temps d’écran, l’app Instagram ouvre snowscroll à la place.",
+    "es": "Abre el sitio móvil de cada red en un navegador integrado y oculta los feeds; con Tiempo de uso, la app de Instagram abre snowscroll en su lugar.",
+    "pt": "Abre o site móvel de cada rede num navegador integrado e esconde os feeds; com o Tempo de Uso, o app do Instagram abre o snowscroll no lugar.",
+    "it": "Apre il sito mobile di ogni social in un browser integrato e nasconde i feed; con Tempo di utilizzo, l’app di Instagram apre invece snowscroll."
+   },
+   "nets": {
+    "en": "Instagram, YouTube, Facebook, X, TikTok, LinkedIn",
+    "ja": "Instagram・YouTube・Facebook・X・TikTok・LinkedIn",
+    "de": "Instagram, YouTube, Facebook, X, TikTok, LinkedIn",
+    "fr": "Instagram, YouTube, Facebook, X, TikTok, LinkedIn",
+    "es": "Instagram, YouTube, Facebook, X, TikTok, LinkedIn",
+    "pt": "Instagram, YouTube, Facebook, X, TikTok, LinkedIn",
+    "it": "Instagram, YouTube, Facebook, X, TikTok, LinkedIn"
+   },
+   "free": {
+    "en": "Free to download.",
+    "ja": "無料でダウンロードできる。",
+    "de": "Kostenlos zum Herunterladen.",
+    "fr": "Téléchargement gratuit.",
+    "es": "Descarga gratuita.",
+    "pt": "Download grátis.",
+    "it": "Download gratuito."
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
+   },
+   "also": {
+    "en": "Shield for the official app",
+    "ja": "公式アプリを止める盾",
+    "de": "Sperre für die offizielle App",
+    "fr": "Bouclier pour l’app officielle",
+    "es": "Escudo para la app oficial",
+    "pt": "Escudo para o app oficial",
+    "it": "Scudo per l’app ufficiale"
+   },
+   "ratings": 9
+  },
+  {
+   "name": "Konvo",
+   "id": 6794756261,
+   "how": {
+    "en": "Opens Instagram straight to the inbox; the feed, Reels and Explore never load.",
+    "ja": "Instagram を受信箱から開く。フィード・リール・発見は読み込まれない。",
+    "de": "Öffnet Instagram direkt im Posteingang; Feed, Reels und „Entdecken“ werden nie geladen.",
+    "fr": "Ouvre Instagram directement sur la messagerie ; le fil, les Reels et Explorer ne se chargent jamais.",
+    "es": "Abre Instagram directamente en la bandeja de mensajes; el feed, los Reels y Explorar nunca se cargan.",
+    "pt": "Abre o Instagram direto na caixa de mensagens; o feed, os Reels e o Explorar nunca carregam.",
+    "it": "Apre Instagram direttamente sui messaggi; feed, Reels ed Esplora non si caricano mai."
+   },
+   "nets": {
+    "en": "Instagram (messages only)",
+    "ja": "Instagram（DM だけ）",
+    "de": "Instagram (nur Nachrichten)",
+    "fr": "Instagram (messages uniquement)",
+    "es": "Instagram (solo mensajes)",
+    "pt": "Instagram (só mensagens)",
+    "it": "Instagram (solo messaggi)"
+   },
+   "free": {
+    "en": "A paid subscription is required to use Instagram DMs in the app.",
+    "ja": "アプリで Instagram の DM を使うには有料の購読が必要。",
+    "de": "Für Instagram-DMs in der App ist ein kostenpflichtiges Abo nötig.",
+    "fr": "Un abonnement payant est nécessaire pour utiliser les DM Instagram dans l’app.",
+    "es": "Se necesita una suscripción de pago para usar los DMs de Instagram en la app.",
+    "pt": "É preciso uma assinatura paga para usar as DMs do Instagram no app.",
+    "it": "Serve un abbonamento a pagamento per usare i DM di Instagram nell’app."
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
+   },
+   "also": {
+    "en": "Can shield the Instagram app; two short passes a day",
+    "ja": "公式の Instagram を止められる。1日2回の短い解除",
+    "de": "Kann die Instagram-App sperren; zwei kurze Pässe pro Tag",
+    "fr": "Peut bloquer l’app Instagram ; deux courtes pauses par jour",
+    "es": "Puede bloquear la app de Instagram; dos pases cortos al día",
+    "pt": "Pode bloquear o app do Instagram; duas liberações curtas por dia",
+    "it": "Può bloccare l’app Instagram; due brevi pass al giorno"
+   },
+   "ratings": 0
+  },
+  {
+   "name": "Slowth",
+   "id": 6764140763,
+   "how": {
+    "en": "A Safari extension that hides Shorts, Reels and X’s Explore; in the YouTube and Instagram apps it can detect Shorts or Reels through screen recording and block the app.",
+    "ja": "Safari の拡張機能で、ショート・リール・X の発見を隠す。YouTube と Instagram のアプリでは、画面の収録でショートやリールを見つけてアプリを止める。",
+    "de": "Eine Safari-Erweiterung, die Shorts, Reels und „Entdecken“ auf X ausblendet; in den Apps von YouTube und Instagram erkennt sie Shorts oder Reels per Bildschirmaufnahme und sperrt die App.",
+    "fr": "Une extension Safari qui masque Shorts, Reels et Explorer sur X ; dans les apps YouTube et Instagram, elle détecte Shorts ou Reels par enregistrement d’écran et bloque l’app.",
+    "es": "Una extensión de Safari que oculta Shorts, Reels y Explorar de X; en las apps de YouTube e Instagram detecta Shorts o Reels con la grabación de pantalla y bloquea la app.",
+    "pt": "Uma extensão do Safari que esconde Shorts, Reels e o Explorar do X; nos apps do YouTube e do Instagram, detecta Shorts ou Reels pela gravação de tela e bloqueia o app.",
+    "it": "Un’estensione di Safari che nasconde Shorts, Reels ed Esplora di X; nelle app di YouTube e Instagram rileva Shorts o Reels con la registrazione dello schermo e blocca l’app."
+   },
+   "nets": {
+    "en": "YouTube, Instagram, Facebook, X, TikTok websites in Safari",
+    "ja": "Safari で開く YouTube・Instagram・Facebook・X・TikTok のサイト",
+    "de": "YouTube, Instagram, Facebook, X, TikTok in Safari",
+    "fr": "Sites YouTube, Instagram, Facebook, X, TikTok dans Safari",
+    "es": "Sitios de YouTube, Instagram, Facebook, X y TikTok en Safari",
+    "pt": "Sites do YouTube, Instagram, Facebook, X e TikTok no Safari",
+    "it": "Siti di YouTube, Instagram, Facebook, X e TikTok in Safari"
+   },
+   "free": {
+    "en": "Free to download.",
+    "ja": "無料でダウンロードできる。",
+    "de": "Kostenlos zum Herunterladen.",
+    "fr": "Téléchargement gratuit.",
+    "es": "Descarga gratuita.",
+    "pt": "Download grátis.",
+    "it": "Download gratuito."
+   },
+   "dms": {
+    "en": "Not listed",
+    "ja": "記載なし",
+    "de": "Keine Angabe",
+    "fr": "Non précisé",
+    "es": "No se indica",
+    "pt": "Não informado",
+    "it": "Non indicato"
+   },
+   "also": {
+    "en": "Restrictions lock for 24 hours",
+    "ja": "制限を24時間外せない",
+    "de": "Sperren lassen sich 24 Stunden nicht lösen",
+    "fr": "Restrictions verrouillées 24 heures",
+    "es": "Las restricciones quedan bloqueadas 24 horas",
+    "pt": "Restrições travadas por 24 horas",
+    "it": "Restrizioni bloccate per 24 ore"
+   },
+   "ratings": 3
+  },
+  {
+   "name": "Scrollout",
+   "id": 6802054477,
+   "how": {
+    "en": "Hides Reels, Shorts, suggested content and ads on supported platforms.",
+    "ja": "対応するSNSで、リール・ショート・おすすめ・広告を隠す。",
+    "de": "Blendet Reels, Shorts, Vorschläge und Werbung auf unterstützten Plattformen aus.",
+    "fr": "Masque Reels, Shorts, suggestions et publicités sur les plateformes prises en charge.",
+    "es": "Oculta Reels, Shorts, sugerencias y anuncios en las plataformas compatibles.",
+    "pt": "Esconde Reels, Shorts, sugestões e anúncios nas plataformas compatíveis.",
+    "it": "Nasconde Reels, Shorts, suggerimenti e pubblicità sulle piattaforme supportate."
+   },
+   "nets": {
+    "en": "YouTube and others (full list not given)",
+    "ja": "YouTube など（一覧は記載なし）",
+    "de": "YouTube und weitere (keine vollständige Liste)",
+    "fr": "YouTube et d’autres (liste non précisée)",
+    "es": "YouTube y otras (sin lista completa)",
+    "pt": "YouTube e outras (lista não informada)",
+    "it": "YouTube e altri (elenco non indicato)"
+   },
+   "free": {
+    "en": "Free to download.",
+    "ja": "無料でダウンロードできる。",
+    "de": "Kostenlos zum Herunterladen.",
+    "fr": "Téléchargement gratuit.",
+    "es": "Descarga gratuita.",
+    "pt": "Download grátis.",
+    "it": "Download gratuito."
+   },
+   "dms": {
+    "en": "Yes",
+    "ja": "使える",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Sí",
+    "pt": "Sim",
+    "it": "Sì"
+   },
+   "also": {
+    "en": "—",
+    "ja": "—",
+    "de": "—",
+    "fr": "—",
+    "es": "—",
+    "pt": "—",
+    "it": "—"
+   },
+   "ratings": 0
   }
  ],
  "t": {
