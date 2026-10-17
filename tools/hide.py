@@ -81,11 +81,8 @@ def head(lang, title, desc, path, ld):
 <meta property="og:description" content="{html.escape(desc)}">
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{F.SITE}og.png">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&family=M+PLUS+2:wght@400;500;600&display=swap" rel="stylesheet">
 {lds}
-<style>{F.CSS}{EXTRA}</style>
+<link rel="stylesheet" href="/article.css">
 </head>
 <body>
 <div class="wrap">

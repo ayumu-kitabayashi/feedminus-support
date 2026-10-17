@@ -100,11 +100,8 @@ def page(lang):
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{html.escape(title)}">
 <meta name="twitter:description" content="{html.escape(lede)}">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&family=M+PLUS+2:wght@400;500;600&display=swap" rel="stylesheet">
 {lds}
-<style>{F.CSS}{EXTRA}</style>
+<link rel="stylesheet" href="/article.css">
 </head>
 <body>
 <div class="wrap">
