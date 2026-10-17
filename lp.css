@@ -1,0 +1,48 @@
+/* minulo LP — overrides on top of each page's inline style (2026-10-17)
+   Goal: drop the generic template look (cream paper, waves, sky/navy bands, purple gradients,
+   glow, tilted shots, Figtree) while keeping the product-like raised buttons/cards (2026-10-05). */
+:root{
+  --bg:#fbfbfa; --card:#ffffff; --line:#e4e4e0; --bord:#e4e4e0; --skyBord:#e4e4e0;
+  --ink:#141518; --ink2:#4d5059; --ink3:#7a7d86;
+  --sky:#fbfbfa; --navy:#141518;
+}
+body{background:var(--bg);
+  font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI","Hiragino Sans","Hiragino Kaku Gothic ProN","Apple SD Gothic Neo","Noto Sans JP","Noto Sans KR","Noto Sans Thai",system-ui,sans-serif}
+h1,h2{font-weight:700;letter-spacing:-.025em}
+:lang(ja) h1,:lang(ja) h2,:lang(ko) h1,:lang(ko) h2,:lang(zh-Hant) h1,:lang(zh-Hant) h2{letter-spacing:0}
+
+/* sections: one paper, separated by hairlines instead of colored bands and waves */
+.wave{display:none!important}
+.band{border-top:1px solid var(--line)}
+header.band{border-top:0}
+.band.sky{background:var(--bg)}
+.band.navy{background:#141518}
+.navbar{background:rgba(251,251,250,.94);-webkit-backdrop-filter:none;backdrop-filter:none;border-bottom:1px solid var(--line)}
+
+/* no tilted hero screenshots */
+.heroshots img:first-child,.heroshots img:last-child{transform:none}
+.heroshots img:last-child{margin-left:-4%}
+.heroshots{gap:0}
+
+/* no handwritten rotated notes */
+.note{transform:none;font-style:normal}
+
+/* no glow, no purple gradients */
+.glow::before{display:none}
+.pill{background:#141518;box-shadow:0 2px 0 #000}
+.navy .pane.paid{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.28);box-shadow:0 4px 0 rgba(0,0,0,.35)}
+.procard .i{color:#c9cdf9}
+
+/* calmer cards: keep the product's raised edge, square-ish corners */
+.chip{border-radius:12px}
+.row{border-radius:12px}
+.vow,.pane{border-radius:16px}
+.faq details{border-radius:14px}
+.guides a{border-radius:12px}
+.funnel .keep{border-radius:16px;box-shadow:0 4px 0 var(--bord)}
+.funnel .loop{background:transparent;border:1px solid var(--line)}
+.stat,.streak{box-shadow:0 4px 0 var(--bord)}
+
+/* footer stays dark ink, not navy */
+footer{background:#141518}
+.dock{background:rgba(251,251,250,.96);-webkit-backdrop-filter:none;backdrop-filter:none;border:1px solid var(--line);box-shadow:0 4px 0 var(--line)}
