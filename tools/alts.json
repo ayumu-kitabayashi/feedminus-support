@@ -183,13 +183,13 @@
     "it": "Gratis, con funzioni Premium."
    },
    "dms": {
-    "en": "Not stated",
-    "ja": "記載なし",
-    "de": "Keine Angabe",
-    "fr": "Non précisé",
-    "es": "No se indica",
-    "pt": "Não informado",
-    "it": "Non indicato"
+    "en": "Yes, per its website (scrollguard.app, checked 2026-10-17)",
+    "ja": "使える（公式サイトに記載・2026-10-17 確認）",
+    "de": "Ja, laut Website (scrollguard.app, Stand 17.10.2026)",
+    "fr": "Oui, selon son site (scrollguard.app, vérifié le 17/10/2026)",
+    "es": "Sí, según su web (scrollguard.app, revisado el 17/10/2026)",
+    "pt": "Sim, segundo o site (scrollguard.app, verificado em 17/10/2026)",
+    "it": "Sì, secondo il sito (scrollguard.app, verificato il 17/10/2026)"
    },
    "also": {
     "en": "Requires iOS 18",
