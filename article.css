@@ -60,6 +60,9 @@ td{color:var(--ink2)}
 td:first-child{color:var(--ink);font-weight:600;min-width:9em}
 td b{color:var(--ink);font-weight:600}
 td.n{font-variant-numeric:tabular-nums;white-space:nowrap}
+table:has(th:nth-child(5)){min-width:780px}
+table:has(th:nth-child(6)){min-width:960px;font-size:14px}
+table:has(th:nth-child(6)) td:first-child{min-width:7.5em}
 tr.me td{background:var(--tint)}
 tr.me td:first-child{box-shadow:inset 3px 0 0 var(--accent);padding-left:12px}
 
