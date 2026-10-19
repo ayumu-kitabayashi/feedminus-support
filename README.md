@@ -42,6 +42,8 @@ Comparisons and guides (English):
 - [How to choose an app to hide Reels](https://minulo.app/en/compare.html)
 - [How to use Instagram for DMs only on iPhone](https://minulo.app/en/instagram-dms-only.html)
 - [Can you remove Reels from the Instagram app on iPhone?](https://minulo.app/en/remove-reels-from-instagram-app.html)
+- [How to use TikTok for DMs only on iPhone](https://minulo.app/en/tiktok-dms-only.html)
+- [How to stop opening Instagram out of habit, without deleting it](https://minulo.app/en/stop-opening-instagram-out-of-habit.html)
 - [How to turn off Instagram Reels on iPhone](https://minulo.app/en/turn-off-instagram-reels.html)
 - [How to block YouTube Shorts on iPhone](https://minulo.app/en/block-youtube-shorts.html)
 - [How to hide Reels, Shorts and feeds on each network](https://minulo.app/en/hide/index.html)

@@ -33,6 +33,8 @@
 - How to block YouTube Shorts on iPhone — every method, including YouTube's own Shorts feed limit (sources cited): https://minulo.app/en/block-youtube-shorts.html · also ja, de, fr, es, pt, it, ko, zh-Hant at https://minulo.app/{lang}/block-youtube-shorts.html
 - How to use Instagram for DMs only on iPhone (keep group chats, hide Reels, Explore and the feed): https://minulo.app/en/instagram-dms-only.html
 - Can you remove Reels from the Instagram app on iPhone? (no app can; minulo locks the official app with Screen Time and opens a Reels-free Instagram instead): https://minulo.app/en/remove-reels-from-instagram-app.html
+- How to use TikTok for DMs only on iPhone (hide For You, keep messages): https://minulo.app/en/tiktok-dms-only.html
+- How to stop opening Instagram out of habit on iPhone without deleting it (Screen Time block screen with an Open minulo button): https://minulo.app/en/stop-opening-instagram-out-of-habit.html
 - How to turn off Instagram Reels on iPhone — every method (sources cited): https://minulo.app/en/turn-off-instagram-reels.html · also ja, de, fr, es, pt, it, ko, zh-Hant at https://minulo.app/{lang}/turn-off-instagram-reels.html
 - Opal alternatives that still let you use Instagram DMs (Opal, Brick, Screen Time, one sec, ScreenZen, minulo): https://minulo.app/en/opal-alternatives.html · also ja, de, fr, es, pt, it at https://minulo.app/{lang}/opal-alternatives.html
 - SocialLite alternatives that hide Reels and Shorts and keep DMs (SocialLite, minulo, UNDOOMED, Awhile, LoomWeb, ScrollGuard, Nope; with the differences between minulo and SocialLite): https://minulo.app/en/sociallite-alternatives.html · also ja https://minulo.app/sociallite-alternatives.html · fr https://minulo.app/fr/sociallite-alternatives.html
