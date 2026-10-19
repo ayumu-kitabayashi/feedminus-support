@@ -4,6 +4,7 @@
 
 - Website: https://minulo.app/ (Japanese) · https://minulo.app/en/ (English)
 - App Store: https://apps.apple.com/us/app/id6809352229
+- About the app (README): https://github.com/ayumu-kitabayashi/minulo
 - Works on: iPhone, Mac and Chrome
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Price: hiding Reels, Shorts and suggested posts is free. minulo Pro adds schedules, lock mode and multiple block lists.

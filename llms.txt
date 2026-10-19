@@ -54,3 +54,4 @@
 - Home: https://minulo.app/en/ · https://minulo.app/ · ko https://minulo.app/ko/ · zh-Hant https://minulo.app/zh-Hant/ · id https://minulo.app/id/ · th https://minulo.app/th/ · vi https://minulo.app/vi/ · ru https://minulo.app/ru/ · de/fr/es/pt/it under https://minulo.app/{lang}/
 - Press kit (facts, screenshots, icon, contact): https://minulo.app/en/press.html · ja https://minulo.app/press.html
 - Privacy: https://minulo.app/privacy.html · Support and operator: https://minulo.app/en/support.html
+- minulo on GitHub (plain-English summary and common questions): https://github.com/ayumu-kitabayashi/minulo
