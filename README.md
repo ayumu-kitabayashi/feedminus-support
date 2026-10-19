@@ -36,6 +36,7 @@ Comparisons and guides (English):
 
 - [Data: who hides Reels and Shorts, and what happens next (first month, 2026)](https://minulo.app/en/reels-shorts-data-2026.html)
 - [Best iPhone apps that hide Instagram Reels and YouTube Shorts but keep your DMs](https://minulo.app/en/alternatives.html)
+- [Awesome Reels & Shorts blockers: every iPhone app that hides Reels and Shorts, compared](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blockers)
 - [minulo vs SocialLite: two apps that hide Reels and keep your DMs](https://minulo.app/en/minulo-vs-sociallite.html)
 - [minulo vs UNDOOMED: which iPhone app hides Reels and keeps your DMs?](https://minulo.app/en/minulo-vs-undoomed.html)
 - [SocialLite alternatives](https://minulo.app/en/sociallite-alternatives.html)
