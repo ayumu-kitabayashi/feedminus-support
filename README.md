@@ -19,7 +19,7 @@ minulo opens each network's official website inside the app and hides the parts 
 Yes. Turn on "Every tab but DMs" for Instagram (also available for TikTok). Only your DMs and the notifications tab stay; Reels, Explore, the home feed and suggested posts are gone.
 
 **Can an app remove Reels inside the official Instagram app?**
-On iPhone, no third-party app can change what another app shows. minulo solves the "but the real app is one tap away" problem differently: with Screen Time it locks the official Instagram, YouTube or TikTok app, and tapping that icon sends you to minulo's version without Reels or Shorts. You don't have to delete the official apps or hide them from your home screen.
+On iPhone, no third-party app can change what another app shows. minulo solves the "but the real app is one tap away" problem differently: with Screen Time it locks the official Instagram, YouTube or TikTok app, and tapping that icon shows a block screen whose "Open in minulo" button leads to minulo's version without Reels or Shorts. You don't have to delete the official apps or hide them from your home screen.
 
 **I'm a student and I need Instagram for group chats. Is minulo for me?**
 That's who uses it most. Most minulo users are high-school and college students who keep Instagram for messages and class group chats but don't want to lose an evening to Reels.
@@ -36,6 +36,7 @@ Comparisons and guides (English):
 
 - [Best iPhone apps that hide Instagram Reels and YouTube Shorts but keep your DMs](https://minulo.app/en/alternatives.html)
 - [minulo vs SocialLite: two apps that hide Reels and keep your DMs](https://minulo.app/en/minulo-vs-sociallite.html)
+- [minulo vs UNDOOMED: which iPhone app hides Reels and keeps your DMs?](https://minulo.app/en/minulo-vs-undoomed.html)
 - [SocialLite alternatives](https://minulo.app/en/sociallite-alternatives.html)
 - [Opal alternatives that still let you use Instagram DMs](https://minulo.app/en/opal-alternatives.html)
 - [What people dislike about Reels and Shorts blocker apps — all 1,405 App Store reviews of SocialLite read](https://minulo.app/en/reels-blocker-app-reviews.html)
