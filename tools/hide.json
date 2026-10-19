@@ -29,7 +29,7 @@
    "block": "ブロック",
    "apps": "ブロックするアプリ",
    "shTitle": "ブロック中です",
-   "shBtn": "minulo を開く"
+   "shBtn": "minulo で開く"
   }
  },
  "en": {
@@ -62,7 +62,7 @@
    "block": "Block",
    "apps": "Apps to block",
    "shTitle": "Blocked",
-   "shBtn": "Open minulo"
+   "shBtn": "Open in minulo"
   }
  },
  "de": {
@@ -95,7 +95,7 @@
    "block": "Blockieren",
    "apps": "Apps zum Blockieren",
    "shTitle": "Blockiert",
-   "shBtn": "minulo öffnen"
+   "shBtn": "In minulo öffnen"
   }
  },
  "fr": {
@@ -128,7 +128,7 @@
    "block": "Blocage",
    "apps": "Apps à bloquer",
    "shTitle": "Bloqué",
-   "shBtn": "Ouvrir minulo"
+   "shBtn": "Ouvrir dans minulo"
   }
  },
  "es": {
@@ -161,7 +161,7 @@
    "block": "Bloquear",
    "apps": "Apps que bloquear",
    "shTitle": "Bloqueado",
-   "shBtn": "Abrir minulo"
+   "shBtn": "Abrir en minulo"
   }
  },
  "pt": {
@@ -194,7 +194,7 @@
    "block": "Bloquear",
    "apps": "Apps a bloquear",
    "shTitle": "Bloqueado",
-   "shBtn": "Abrir o minulo"
+   "shBtn": "Abrir no minulo"
   }
  },
  "it": {
@@ -227,7 +227,7 @@
    "block": "Blocco",
    "apps": "App da bloccare",
    "shTitle": "Bloccato",
-   "shBtn": "Apri minulo"
+   "shBtn": "Apri in minulo"
   }
  }
 }

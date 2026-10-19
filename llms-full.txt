@@ -23,7 +23,7 @@
 
 ## What it does
 - Opens each network's own website inside the app with Reels, Shorts, Explore tabs and suggested posts hidden. You choose what to hide, one item at a time.
-- Uses iPhone Screen Time to stop the official apps you choose from opening; a "Blocked" screen offers "Open minulo" instead.
+- Uses iPhone Screen Time to stop the official apps you choose from opening; a "Blocked" screen offers "Open in minulo" instead.
 - Reels or Shorts sent in DMs pause before the endless feed; "Open for 5 min" lets you watch for five minutes.
 - Sign-in happens on each network's official page. minulo never receives or stores IDs, passwords or DM contents. Records stay on the device. Usage analytics are anonymous.
 - Free: hiding Reels/Shorts/suggested posts, blocking official apps (up to 2 hours per block; start another anytime). minulo Pro: schedules, blocks longer than 2 hours, Locked Mode, blocking social media completely (also inside minulo), multiple block lists. Yearly plan has a 7-day free trial; a one-time lifetime purchase is also available.
@@ -66,7 +66,7 @@ Yes. When you open YouTube inside minulo, the Shorts shelf on the home screen an
 
 ## What happens to the official Instagram and TikTok apps?
 
-minulo uses iPhone Screen Time to stop the official apps you choose from opening. When you try to open one, a "Blocked" screen appears, and its "Open minulo" button takes you to minulo instead. Choosing apps and turning blocking on are free.
+minulo uses iPhone Screen Time to stop the official apps you choose from opening. When you try to open one, a "Blocked" screen appears, and its "Open in minulo" button takes you to minulo instead. Choosing apps and turning blocking on are free.
 
 ## Which social media services does minulo support?
 
@@ -148,7 +148,7 @@ minulo は、SNS はそのまま使いながら、リール・ショート動画
 
 ## 公式のInstagramやTikTokのアプリはどうなりますか？
 
-minulo は、iPhone のスクリーンタイムの仕組みを使って、選んだ公式アプリを開けないようにできます。開こうとすると「ブロック中です」という画面が出て、「minulo を開く」のボタンから minulo に移れます。止めるアプリを選ぶのも、ブロックを入れるのも無料です。
+minulo は、iPhone のスクリーンタイムの仕組みを使って、選んだ公式アプリを開けないようにできます。開こうとすると「ブロック中です」という画面が出て、「minulo で開く」のボタンから minulo に移れます。止めるアプリを選ぶのも、ブロックを入れるのも無料です。
 
 ## どのSNSに対応していますか？
 
