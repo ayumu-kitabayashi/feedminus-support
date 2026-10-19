@@ -12,6 +12,23 @@
 
 minulo opens each network's official website inside the app and hides the parts you choose. It can also lock the official apps with Screen Time and send you to minulo instead, so opening Instagram takes you to a version without Reels. You log in on each network's own page; minulo does not receive or store your password.
 
+## Common questions
+
+**Can I use Instagram only for DMs and group chats?**
+Yes. Turn on "Every tab but DMs" for Instagram (also available for TikTok). Only your DMs and the notifications tab stay; Reels, Explore, the home feed and suggested posts are gone.
+
+**Can an app remove Reels inside the official Instagram app?**
+On iPhone, no third-party app can change what another app shows. minulo solves the "but the real app is one tap away" problem differently: with Screen Time it locks the official Instagram, YouTube or TikTok app, and tapping that icon sends you to minulo's version without Reels or Shorts. You don't have to delete the official apps or hide them from your home screen.
+
+**I'm a student and I need Instagram for group chats. Is minulo for me?**
+That's who uses it most. Most minulo users are high-school and college students who keep Instagram for messages and class group chats but don't want to lose an evening to Reels.
+
+**How is it different from Safari extensions and whole-app blockers?**
+Safari extensions only work when you open instagram.com or youtube.com in Safari. Whole-app blockers such as Opal or one sec block the entire app, DMs included. minulo removes only the short-video and recommendation feeds, works for about 10 networks in one app, and keeps messaging.
+
+**Does it cost anything?**
+Hiding Reels, Shorts, TikTok For You and suggested posts is free. minulo Pro (optional) adds schedules, a lock that is harder to switch off, and multiple block lists.
+
 ## Useful pages
 
 Comparisons and guides (English):
