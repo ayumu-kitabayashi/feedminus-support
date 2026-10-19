@@ -335,3 +335,244 @@ No. Screen Time limits apply to whole apps (categories on iOS 27), and website b
 ## Why don't Screen Time limits work on my child's iPhone?
 
 Update every device in your Family Sharing group to the latest software and set Screen Time from the parent's device. The new iOS 27 controls only work when every device in the group runs iOS 27 or later.
+
+
+# How to use Instagram for DMs only on iPhone (2026): keep group chats, lose Reels (en)
+
+Instagram has no built-in "messages only" mode, and iPhone Screen Time can only limit the whole app, DMs included. If you keep Instagram for group chats and DMs but want the Reels tab, Explore and the feed gone, the practical way on iPhone is an app that opens Instagram for you with everything except DMs hidden.
+
+- Option | DMs | Reels and feed
+
+- Instagram app as is | Yes | Always there. Instagram has no setting to hide the Reels tab for adult accounts.
+
+- Screen Time limit on Instagram | Blocked too | Blocked, but so are your group chats once the limit is reached.
+
+- instagram.com in Safari with a content-blocker extension | Yes, in Safari | Can be hidden, but only while you remember to use Safari instead of the app.
+minulo with "Every tab but DMs" | Yes | Hidden: Reels, Explore, home feed and suggested posts. Only DMs and the notifications tab stay.
+
+## Steps with minulo
+
+- Install minulo from the App Store.
+- Open Instagram inside minulo and log in on Instagram's own login page. minulo does not receive or store your password.
+- In minulo's settings for Instagram, turn on Every tab but DMs.
+- Optional: let minulo lock the official Instagram app with Screen Time. Tapping the usual Instagram icon then opens minulo's DMs-only Instagram instead, so you don't fall back into Reels out of habit.Hiding is free. TikTok has the same "Every tab but DMs" setting.
+
+## Does Instagram have a messages-only mode?
+Not that we could find. Instagram lets adults switch to the Following feed or set a daily time reminder, but the Reels tab and Explore stay. Apps such as minulo add a DMs-only view on top of Instagram's website.
+
+## Will I still get my group chats?
+Yes. Group chats are part of Instagram DMs, and DMs keep working in minulo's DMs-only view.
+
+## Do I have to delete the official Instagram app?
+No. minulo can lock the official app with Screen Time and open its own DMs-only Instagram when you tap the Instagram icon.
+Source: https://minulo.app/en/instagram-dms-only.html
+
+
+# Need Instagram for class group chats but not Reels? A guide for students on iPhone (2026) (en)
+
+Deleting Instagram sounds easy until the class group chat, the club chat and the project partner all live there. Most minulo users are high-school and college students in exactly this spot: they need Instagram for messages, not for an evening of Reels.
+
+- What you need | What to turn on in minulo
+
+- Class and club group chats on Instagram | Open Instagram in minulo; Reels, Explore and suggested posts are hidden, DMs work
+
+- Nothing on Instagram except messages | Instagram rule Every tab but DMs
+
+- YouTube for lectures and tutorials | Open YouTube in minulo; Shorts are hidden, search and subscriptions stay
+
+- TikTok only because friends send you videos | Open TikTok in minulo; the For You feed is hidden, DMs stay
+
+- Not opening the real app on autopilot during study time | Lock the official apps with Screen Time; the block screen has an Open in minulo button
+
+## Setup in about two minutes
+
+- Install minulo and open Instagram inside it. You log in on Instagram's own page; minulo does not see your password.
+- Reels, Explore and suggested posts are hidden right away. For messages only, turn on Every tab but DMs in the Instagram rules.
+- Add YouTube and TikTok the same way if you use them.
+- Optional: let minulo lock the official apps with Screen Time while you study.
+
+## Will I still get group chat notifications?
+Notifications come from the official Instagram app. If you keep the official app unlocked, notifications arrive as usual and you can reply in minulo. While minulo blocks the official app with Screen Time, its notifications do not arrive, so only lock it when you don't need them, for example during study time.
+
+## Can I hide Reels but keep YouTube for lectures?
+Yes. In minulo, YouTube Shorts are hidden while search, subscriptions and normal-length videos stay.
+
+## Is it free for students?
+Hiding Reels, Shorts and suggested posts is free on every network. minulo Pro (optional) adds schedules, longer blocks and multiple block lists.
+Source: https://minulo.app/en/instagram-group-chats-without-reels.html
+
+
+# How to use TikTok for DMs only on iPhone, without the For You feed (2026) (en)
+
+TikTok opens straight onto the For You feed, and there is no setting that turns it into a messages-only app. iPhone Screen Time can limit TikTok, but that blocks your messages too. If friends send you messages on TikTok and you want to keep those without the feed, use an app that opens TikTok with everything except messages hidden.
+
+## Steps with minulo
+
+- Install minulo from the App Store.
+- Open TikTok inside minulo and log in on TikTok's own login page. minulo does not receive or store your password.
+- In minulo's settings for TikTok, turn on Every tab but DMs. The For You feed and the other tabs are hidden; messages stay.
+- Optional: let minulo lock the official TikTok app with Screen Time, so tapping the TikTok icon shows a block screen with an Open in minulo button instead of the feed.Hiding For You is free. Instagram has the same "Every tab but DMs" setting.
+
+## Does TikTok have a messages-only mode?
+Not that we could find. TikTok has a Following tab, but the app still opens on For You. minulo hides For You and can show only your messages.
+
+## Will my friends still be able to message me?
+Yes. Messages keep working in minulo; only the feeds are hidden.
+
+## Can I do the same for Instagram?
+Yes. Instagram has the same "Every tab but DMs" setting in minulo.
+Source: https://minulo.app/en/tiktok-dms-only.html
+
+
+# How to stop opening Instagram out of habit on iPhone, without deleting it (2026) (en)
+
+Most people who want less Reels don't decide to scroll; their thumb opens Instagram on its own. Deleting the app works until you need a group chat. A gentler fix on iPhone is to keep Instagram, but make the usual icon lead somewhere without Reels.
+
+- Approach | What happens when you tap Instagram | DMs
+
+- Delete the app | Nothing to tap | Gone until you reinstall
+
+- Screen Time app limit | "Time Limit" screen once the limit is used up; you can ignore it | Blocked with the rest of the app
+minulo with Screen Time | A block screen with an Open in minulo button, which opens Instagram without Reels | Keep working in minulo
+
+## Steps with minulo
+
+- Install minulo and open Instagram inside it once, logging in on Instagram's own page.
+- Allow Screen Time when minulo asks, and choose the official Instagram app (and YouTube or TikTok if you like) to lock.
+- Next time your thumb taps the Instagram icon, you get the block screen. Tap Open in minulo to reach Instagram without Reels, Explore or suggested posts.Hiding Reels is free. Free blocks of the official app last up to 2 hours at a time and can be started again any time; longer blocks and schedules are part of minulo Pro.
+
+## Do I have to delete Instagram?
+No. The official app stays installed; minulo locks it with Screen Time and sends you to its Reels-free view.
+
+## Can I still get to my DMs quickly?
+Yes. Tap Open in minulo on the block screen; your DMs and group chats work there.
+
+## Is this the same as an app limit?
+No. An app limit blocks all of Instagram once time is up. minulo removes only the endless parts and keeps the rest usable.
+Source: https://minulo.app/en/stop-opening-instagram-out-of-habit.html
+
+
+# Can you remove Reels from the Instagram app on iPhone? (2026) (en)
+
+Short answer: no. On iPhone, apps cannot change what another app shows, and Instagram itself has no setting that removes the Reels tab for adult accounts. What works instead is a combination: open Instagram somewhere Reels can be hidden, and stop yourself from falling back into the official app.
+
+- Approach | What it does | Catch
+
+- Instagram settings | Following feed, daily time reminder | The Reels tab stays.
+
+- Screen Time | Limits or blocks the whole Instagram app | DMs and group chats are blocked too.
+
+- Safari content blockers | Hide Reels on instagram.com in Safari | The official app is still one tap away.
+
+- Filtering apps | Open Instagram's website inside the app with Reels hidden | Same problem unless the official app is locked.
+minulo | Hides Reels, Shorts and For You in its own view, and locks the official apps with Screen Time | Tapping the official Instagram icon opens minulo's Reels-free Instagram instead.
+
+## Why can't an app remove Reels inside Instagram?
+iOS keeps each app separate. A third-party app can block or limit another app through Screen Time, but it cannot change what that app shows.
+
+## Then how do people keep Instagram without Reels?
+They use Instagram's website somewhere Reels are hidden, and make the official app hard to open. minulo does both: it hides Reels in its own view and, with Screen Time, sends taps on the official Instagram icon to that view.
+
+## Do I lose DMs?
+No. In minulo, DMs, search, your own posts and posts from people you follow keep working. You can also switch Instagram to DMs only.
+
+## Is it free?
+Hiding Reels, Shorts, TikTok For You and suggested posts in minulo is free. Pro is optional.
+Source: https://minulo.app/en/remove-reels-from-instagram-app.html
+
+
+# minulo vs UNDOOMED: two iPhone apps that hide Reels and keep your DMs (2026) (en)
+
+UNDOOMED and minulo solve the same problem the same way: they open your social networks inside their own app with Reels, Shorts and suggested posts filtered out, while messages keep working. The differences are which networks they cover, whether messages-only costs money, and what happens when you tap the official app.
+
+- | UNDOOMED | minulo
+
+- How it works | Opens each network's mobile website in its own private browser and filters the page | Opens each network's official website inside the app and hides the parts you choose 
+- Networks | Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (7). TikTok and Snapchat are listed as unavailable | Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10) 
+- Messages only | Messages Only mode for Instagram and LinkedIn (Pro, per its website) | Every tab but DMs for Instagram and TikTok (free) 
+- The official apps | Left unchanged (per its website) | Can lock them with Screen Time; the block screen has an Open in minulo button 
+- Time limits | Hourly or daily caps; optional PIN lock | Blocking schedules and lock mode in minulo Pro 
+- Platforms | iPhone and Android | iPhone (plus Mac and a Chrome extension) 
+- US App Store ratings | 106, average 4.3 | 0 (launched September 2026) 
+- Price | Free with Pro | Hiding is free; Pro is optional
+
+## Pick UNDOOMED if
+
+- you use Android, or want the same app on iPhone and Android;
+- you need messages-only for LinkedIn as well as Instagram;
+- you want an app with a longer track record and more US ratings.
+
+## Pick minulo if
+
+- you need TikTok or Snapchat without the feed;
+- you want Instagram for DMs only without paying;
+- you keep falling back into the official app, and want its icon to lead to the Reels-free version instead.
+
+## Which one should a student who needs Instagram for group chats use?
+Both keep Instagram messages. If you want Instagram to show only messages without paying, minulo's Every tab but DMs setting is free. If you also need Reddit or LinkedIn messages, or you use Android, UNDOOMED fits better.
+
+## Which one covers TikTok?
+minulo. UNDOOMED lists TikTok and Snapchat as unavailable. In minulo, TikTok's For You feed is hidden and messages keep working; there is also a DMs-only setting for TikTok.
+
+## What happens when I tap the real Instagram icon?
+With UNDOOMED, the official app stays unchanged, so it opens as usual. minulo can lock the official app with Screen Time; tapping the icon shows a block screen with an Open in minulo button that leads to Instagram without Reels.
+
+## Which one is more established?
+UNDOOMED has 106 US ratings (average 4.3) and has been on the App Store since October 2025. minulo launched in September 2026 and has no US ratings yet.
+Source: https://minulo.app/en/minulo-vs-undoomed.html
+
+
+# Who hides Reels and Shorts, and what happens next: first-month data from minulo (September–October 2026) (en)
+
+minulo is an iPhone app that hides Instagram Reels, YouTube Shorts and TikTok's For You while DMs and the rest keep working. These are the first aggregated numbers from its users, published so that anyone writing about short-video habits can use them. Please cite "minulo, October 2026".
+
+## 1. Who wants to keep social media but lose the short videos
+Mostly students. Of 577 people who answered the age question during setup (late September to mid-October 2026): 
+- 18–24 | 60% | 
+- ≤17 | 27% | 
+- 25–34 | 13% | 87% are 24 or younger.
+
+## 2. Instagram is where it starts
+The first network people open inside minulo, out of about 630 people: 
+- Instagram | 70% | 
+- YouTube | 22% | 
+- Snapchat | 4% | 
+- TikTok | 4% | 
+
+## 3. Evenings and late nights
+Most social media sessions inside minulo happen between 8 pm and 1 am (Japan time, where the largest share of the data is timestamped).
+
+## 4. More than a quarter found it through an AI chatbot
+Asked during setup "Where did you hear about minulo?" (627 answers, last three weeks): 
+- App Store search | 43% | 
+- AI chatbot (ChatGPT etc.) | 28% | 
+- No answer | 15% | 
+- Other | 7% | 
+- Social media | 4% | 
+- Friends | 2% | It depends heavily on language. English speakers answered "AI" more than twice as often as "App Store" (93 vs 41). French speakers also leaned to AI (36 vs 28). Korean speakers almost all came from App Store search (140 vs 9), as did Japanese speakers (30 vs 7).
+
+## 5. Using the Reels-free feed on day one predicts whether people stay
+378 people who first opened minulo between October 1 and 14, grouped by how many times they opened a network inside minulo on their first day, and the share who came back on a later day: 
+- 0 times | 10% | 
+- 1–2 times | 13% | 
+- 3–9 times | 21% | 
+- 10+ times | 73% | Of the 10+ group, 39% were still using it a week later. The people who stay are not the ones who block the most, but the ones who keep using social media, minus the endless feeds.
+
+## 6. A second network matters
+Same 378 people, by how many different networks they opened on day one: 
+- None | 10% | 
+- One | 15% | 
+- Two | 40% | 
+- Three or more | 41% | Hiding Shorts on YouTube as well as Reels on Instagram, rather than only one, goes with a much higher chance of coming back.
+
+## 7. Korea is the largest group
+In the last week of the period, one in three new users (118 of about 360) had their phone set to South Korea, followed by France, Japan and the United States.
+
+## How the numbers were collected
+
+- Source: minulo's anonymous in-app analytics (PostHog), excluding test devices. Age and "where did you hear about minulo" are optional answers during setup.
+- "Came back" means opened minulo again on a later day within the period.
+- Periods: age and source, roughly Sept 28–Oct 18, 2026; day-one behavior, people who first opened the app Oct 1–14, 2026; countries, Oct 11–18, 2026.
+- Percentages are rounded and may not add up to 100.
+- Contact: support page at minulo.app/en/support.html.
+Source: https://minulo.app/en/reels-shorts-data-2026.html
