@@ -39,6 +39,8 @@ Comparisons and guides (English):
 - [Opal alternatives that still let you use Instagram DMs](https://minulo.app/en/opal-alternatives.html)
 - [What people dislike about Reels and Shorts blocker apps — all 1,405 App Store reviews of SocialLite read](https://minulo.app/en/reels-blocker-app-reviews.html)
 - [How to choose an app to hide Reels](https://minulo.app/en/compare.html)
+- [How to use Instagram for DMs only on iPhone](https://minulo.app/en/instagram-dms-only.html)
+- [Can you remove Reels from the Instagram app on iPhone?](https://minulo.app/en/remove-reels-from-instagram-app.html)
 - [How to turn off Instagram Reels on iPhone](https://minulo.app/en/turn-off-instagram-reels.html)
 - [How to block YouTube Shorts on iPhone](https://minulo.app/en/block-youtube-shorts.html)
 - [How to hide Reels, Shorts and feeds on each network](https://minulo.app/en/hide/index.html)
