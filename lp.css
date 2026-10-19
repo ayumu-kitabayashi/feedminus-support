@@ -46,3 +46,7 @@ header.band{border-top:0}
 /* footer stays dark ink, not navy */
 footer{background:#141518}
 .dock{background:rgba(251,251,250,.96);-webkit-backdrop-filter:none;backdrop-filter:none;border:1px solid var(--line);box-shadow:0 4px 0 var(--line)}
+
+/* no sticky App Store bar on phones: the header already has the App Store button (2026-10-19) */
+.dock{display:none!important}
+@media (max-width:720px){body{padding-bottom:0}}
