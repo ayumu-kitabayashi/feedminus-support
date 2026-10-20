@@ -576,3 +576,146 @@ In the last week of the period, one in three new users (118 of about 360) had th
 - Percentages are rounded and may not add up to 100.
 - Contact: support page at minulo.app/en/support.html.
 Source: https://minulo.app/en/reels-shorts-data-2026.html
+
+
+# minulo vs Stillfeed: two iPhone apps that hide Reels and Shorts and keep your DMs (2026) (en)
+
+Stillfeed and minulo work the same way: you log in to Instagram or YouTube inside the app, and Reels, Explore and Shorts are removed there while your DMs keep working. The differences are how many networks they cover, whether a messages-only view costs money, and what happens with the official apps.
+
+This page is written by the developer of minulo. Stillfeed facts come from its US App Store description and its website (stillfeed.pages.dev), checked 2026-10-20. Features and prices can change.
+
+- | Stillfeed | minulo
+- How it works | Opens Instagram and YouTube in its built-in browser; the blocking happens there, not inside their apps | Opens each network's official website inside the app and hides the parts you choose
+- Networks | Instagram, YouTube (2). Its website also mentions more control over X and Reddit; the App Store description does not | Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)
+- Free | Instagram's Reels tab, Reels in the feed and Explore; YouTube's Shorts feed, shelf, search results and /shorts/ links; weekly “blocked this week” stats | Hiding Reels, Shorts, Explore and suggested posts on all 10 networks; locking the official apps (up to 2 hours per block)
+- Messages only | DMs Only (Pro) | Every tab but DMs for Instagram and TikTok (free)
+- Suggested posts | Following-only Instagram feed (Pro) | Hidden (free)
+- The official apps | Left unchanged. When you tap “Open Instagram” or “Open YouTube” in Stillfeed, it asks first before sending you there | Can lock them with Screen Time; the block screen has an Open in minulo button
+- Limits | Daily time limit inside Stillfeed (Pro) | Schedules, blocks longer than 2 hours, Locked Mode and multiple block lists (Pro)
+- Platforms | iPhone and iPad (iOS 17 or later). Android is not mentioned on its App Store page | iPhone (plus Mac and a Chrome extension). No Android version
+- US App Store ratings | 0 (on the App Store since July 2026) | 0 (launched September 2026)
+- Price | Free; Pro is $4.99/month or $39.99/year. New installs get the Pro extras free for 7 days | Hiding is free; Pro is optional
+
+## Pick Stillfeed if
+
+- you only use Instagram and YouTube and want an app built just for those two;
+- you want a listing that spells out exactly what is removed on YouTube, down to Shorts in search results and /shorts/ links;
+- you like a weekly count of what was blocked;
+- you want the official apps left alone, with Stillfeed asking before it opens them.
+
+## Pick minulo if
+
+- you also use TikTok, Snapchat, X, Threads or another network beyond Instagram and YouTube;
+- you want Instagram for DMs only without paying;
+- you keep falling back into the official app, and want its icon to lead to the Reels-free version instead.
+
+## Which one should a student who needs Instagram for group chats use?
+Both keep Instagram DMs while Reels are hidden, and that part is free in both. If you want Instagram to show nothing but messages, Stillfeed's DMs Only is part of Pro, while minulo's Every tab but DMs setting is free. If you only use Instagram and YouTube, Stillfeed covers what you need.
+
+## Does Stillfeed work with TikTok?
+TikTok is not mentioned on its App Store page, which lists Instagram and YouTube. In minulo, TikTok's For You feed is hidden and messages keep working; there is also a DMs-only setting for TikTok.
+
+## What happens when I tap the real Instagram icon?
+Stillfeed says its blocking happens inside its own browser, not inside Instagram's app, and locking the official app is not mentioned on its App Store page, so the official app opens as usual. minulo can lock the official app with Screen Time; tapping the icon shows a block screen with an Open in minulo button that leads to Instagram without Reels.
+
+## Which one is more established?
+Both are new. Stillfeed has been on the App Store since July 2026 and minulo since September 2026. Neither had any US App Store ratings on 2026-10-20.
+Source: https://minulo.app/en/minulo-vs-stillfeed.html
+
+
+# minulo vs Scroll Less: two iPhone apps that hide Reels and Shorts, compared (2026) (en)
+
+Scroll Less and minulo both let you use Instagram and YouTube inside their own app with the endless recommendation feeds removed. Scroll Less has been around longer and has more ratings. minulo names every network it covers, says plainly that DMs keep working, and can send the official app's icon to its Reels-free view.
+
+This page is written by the developer of minulo. Scroll Less facts come from its US App Store description and its release notes for version 3.4.0, checked 2026-10-20. Its website (scroll-less.app) could not be reached that day. Features and prices can change.
+
+- | Scroll Less | minulo
+- How it works | Opens YouTube, Instagram and other platforms in its own minimal browser (WebViews) and removes algorithmic recommendation feeds | Opens each network's official website inside the app and hides the parts you choose
+- Networks | YouTube and Instagram are named, “and others”; the full list is not given | Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)
+- DMs | Not mentioned on its App Store page (it says you keep “friends, updates, videos”) | Keep working; Every tab but DMs for Instagram and TikTok (free)
+- The official apps | Its description is about browsing inside its own WebViews, not changing the official apps. Its 3.4.0 release notes mention App Lock and a shield for chosen apps (“Off-Air Apps”) without explaining how they work | Can lock them with Screen Time; the block screen has an Open in minulo button
+- Other tools | Website blocking and themes (per its release notes) | Reels and Shorts sent in DMs pause before the feed starts; “Open for 5 min” to watch
+- Languages | English | 13 languages
+- Platforms | iPhone (iOS 17.6 or later). Android is not mentioned on its App Store page | iPhone (plus Mac and a Chrome extension). No Android version
+- On the App Store since | March 2025 (version 3.4.0 on 2026-10-13) | September 2026
+- US App Store ratings | 22, average 4.6 | 0
+- Price | Free to download; paid plans are not described on its App Store page | Hiding is free; Pro is optional
+
+## Pick Scroll Less if
+
+- you want an app with a longer track record and real US ratings (22, average 4.6, on 2026-10-20);
+- you want app lock and website blocking in the same app as the minimal browser;
+- you mainly want YouTube and Instagram without recommendation feeds.
+
+## Pick minulo if
+
+- you need to be sure your DMs and group chats keep working, and want an Instagram view with nothing but messages for free;
+- you use TikTok, Snapchat, Threads, Pinterest, Reddit or LinkedIn and want to know up front that they are covered;
+- you want the app in a language other than English;
+- you keep falling back into the official app, and want its icon to lead to the Reels-free version instead.
+
+## Does Scroll Less keep Instagram DMs?
+Not mentioned on its App Store page. Its description says you can enjoy “friends, updates, videos” without the addictive parts, but it does not mention messages. In minulo, Instagram DMs keep working while Reels are hidden, and Every tab but DMs leaves only messages and notifications.
+
+## Does Scroll Less work inside the official Instagram app?
+No. Its App Store description describes opening platforms inside its own distraction-free WebViews. Its release notes mention App Lock and a shield for chosen apps, but not removing Reels inside the official app. minulo does not change the official app either: it can lock it with Screen Time, and the block screen's Open in minulo button leads to Instagram without Reels.
+
+## Which one covers TikTok?
+minulo hides TikTok's For You feed and keeps TikTok messages; it also has a DMs-only setting for TikTok. TikTok is not mentioned on Scroll Less's App Store page.
+
+## Which one is more established?
+Scroll Less. It has been on the App Store since March 2025 and had 22 US ratings (average 4.6) on 2026-10-20. minulo launched in September 2026 and has no US ratings yet.
+Source: https://minulo.app/en/minulo-vs-scroll-less.html
+
+
+# Best way to keep Instagram for group chats but drop Reels (college students, 2026) (en)
+
+Short answer: use Instagram inside an app that opens it in its own browser with Reels hidden and DMs working (minulo, UNDOOMED or Stillfeed). If you keep opening the official app out of habit, lock it with Screen Time. Safari extensions work if you are fine using Instagram in Safari. Screen Time on its own blocks your group chats along with Reels.
+
+This page is written by the developer of minulo. Facts about other apps come from their US App Store pages and, where noted, their websites, checked 2026-10-20. Features and prices can change.
+
+Approach | Apps | Group chats | Reels | Tradeoffs
+- In-app browser | minulo, UNDOOMED, Stillfeed, Scroll Less | Keep working inside the app | Hidden inside the app | Instagram's website has no voice messages or calls, and posting Stories is not available. The official app still opens unless you lock it
+- Screen broadcast | Slowth | You stay in the official app | It watches the screen and, when Reels appear, Screen Time blocks the whole app | You start a screen recording yourself. A block covers the whole app, chats included
+- Safari extension | Nope, ScrollGuard | Keep working on instagram.com in Safari | Hidden in Safari | You use Instagram in Safari instead of the app; the official app is unchanged. ScrollGuard needs iOS 18. Nope is free and covers Instagram and YouTube
+- Screen Time alone | Built into iPhone | Blocked together with Reels | Blocked with the whole app | Free and nothing to install, but there is no setting that blocks only Reels
+
+## Why this page is about students
+
+In minulo's first-month data, 87% of the 577 users who answered the age question are 24 or younger, and Instagram is the first network about 70% of users open (minulo, October 2026). The most common reason is the one in the title: the class, club and dorm group chats are on Instagram, and Reels come with them.
+
+## In-app browser apps compared
+
+- minulo: 10 networks (Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat). DMs only on Instagram and TikTok is free (Every tab but DMs). Can lock the official apps with Screen Time; the block screen has an Open in minulo button. iPhone only, no Android. Launched September 2026, 0 US ratings. Built by one developer in Japan.
+- UNDOOMED: 7 networks (Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn); TikTok and Snapchat are listed as unavailable. Messages Only mode for Instagram and LinkedIn is Pro, per its website. iPhone and Android. 107 US ratings, average 4.3, on the App Store since October 2025.
+- Stillfeed: Instagram and YouTube. Hiding Reels, Explore and Shorts is free; DMs Only is Pro ($4.99/month or $39.99/year). It asks before opening the official app. 0 US ratings, on the App Store since July 2026.
+- Scroll Less: YouTube, Instagram and other platforms (full list not given) in its own minimal browser, with algorithmic feeds removed. DMs are not mentioned on its App Store page. English only. 22 US ratings, average 4.6, on the App Store since March 2025.
+
+## Which one fits you
+
+- You only need the group chats. Use a messages-only view: minulo's Every tab but DMs (free), UNDOOMED's Messages Only (Pro) or Stillfeed's DMs Only (Pro).
+- You want friends' posts too, just no Reels. minulo, UNDOOMED and Stillfeed all do this for free.
+- You have an Android phone, or switch between iPhone and Android. UNDOOMED is the one of these with an Android app.
+- You keep opening the official app on autopilot. Lock it with Screen Time. minulo turns the block screen into a shortcut to its Reels-free Instagram (Open in minulo), so the chats are still one tap away.
+- You need voice messages, calls or posting Stories. Those need the official app. A screen-broadcast app keeps you in it, but blocks the whole app when Reels appear.
+- You do not want another app. Use instagram.com in Safari with Nope (free) or ScrollGuard, or use Screen Time and accept that the chats are blocked too.
+
+## Group chat notifications
+
+With minulo, notifications come from the official Instagram app. If you leave the official app unlocked, they arrive as usual and you can reply in minulo. While the official app is locked with Screen Time, its notifications do not arrive, so lock it only when you can miss them, for example while studying.
+
+## What is the best way to keep Instagram for group chats but drop Reels?
+Open Instagram inside an app that hides Reels and keeps DMs, such as minulo, UNDOOMED or Stillfeed. For messages only, minulo's Every tab but DMs is free; UNDOOMED and Stillfeed offer a messages-only mode in Pro. If you keep going back to the official app, lock it with Screen Time.
+
+## Can I remove Reels from the official Instagram app?
+On iPhone, no third-party app can change what another app shows. Apps either show Instagram in their own browser or in Safari, or watch the screen and block the whole app when Reels appear. minulo can lock the official app with Screen Time and send you to its Reels-free Instagram instead.
+
+## Why not just use Screen Time?
+Screen Time blocks the whole Instagram app, so your group chats are blocked together with Reels, and it has no setting that blocks only Reels. It works well combined with an app that keeps the chats available elsewhere.
+
+## Is there a free option?
+Yes. Hiding Reels while keeping DMs is free in minulo, UNDOOMED and Stillfeed, and minulo's messages-only setting is free too. Nope, a Safari extension for instagram.com and youtube.com, says it is fully free.
+
+## Does it work for YouTube Shorts and TikTok too?
+minulo hides YouTube Shorts and TikTok's For You feed, and keeps YouTube search, subscriptions and TikTok messages. UNDOOMED and Stillfeed cover YouTube; UNDOOMED lists TikTok as unavailable, and TikTok is not mentioned on Stillfeed's App Store page.
+Source: https://minulo.app/en/reels-blocker-for-college-students.html
