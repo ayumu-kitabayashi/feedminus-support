@@ -54,7 +54,7 @@
   {
    "name": "SocialLite",
    "id": 6757661674,
-   "ratings": 8780,
+   "ratings": 14384,
    "how": {
     "en": "A focused view of social networks inside the app; can block the official apps with Screen Time and redirect to SocialLite (per its release notes).",
     "ja": "アプリの中で SNS を絞って表示。公式アプリをスクリーンタイムで止めて SocialLite に案内できる（更新履歴より）。",
@@ -104,7 +104,7 @@
   {
    "name": "UNDOOMED",
    "id": 6751837079,
-   "ratings": 106,
+   "ratings": 107,
    "how": {
     "en": "Opens each network's mobile website in its own private browser and filters the page.",
     "ja": "各SNSのモバイル版サイトを自前のブラウザで開き、表示を絞る。",
@@ -154,7 +154,7 @@
   {
    "name": "ScrollGuard",
    "id": 6754183872,
-   "ratings": 110,
+   "ratings": 116,
    "how": {
     "en": "A Safari extension that hides feeds, Reels, Stories and Explore on social media websites.",
     "ja": "Safari の拡張機能で、SNSのサイトのフィード・リール・ストーリーズ・発見を隠す。",
@@ -806,7 +806,7 @@
   "en": {
    "title": "Best iPhone apps to hide Instagram Reels and YouTube Shorts but keep your DMs (2026)",
    "lede": "Several iPhone apps hide Instagram Reels and YouTube Shorts while keeping DMs. Most work in one of two ways: an in-app browser (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) or a Safari extension (ScrollGuard, Nope). SocialLite and minulo can also lock the official apps with Screen Time and send you to their Reels-free view.",
-   "disclose": "This page is written by the developer of minulo. Facts about other apps come only from their App Store descriptions and US ratings as of {date}.",
+   "disclose": "This page is written by the developer of minulo. Facts about other apps come only from their App Store descriptions and US ratings as of {date}. Ratings for SocialLite, UNDOOMED and ScrollGuard were rechecked on 2026-10-22.",
    "cols": [
     "App",
     "How it works",
@@ -831,7 +831,7 @@
     ],
     [
      "What is a good SocialLite alternative?",
-     "SocialLite has by far the most ratings (8,031 in the US). If you want another app that keeps DMs and hides short videos, UNDOOMED and minulo cover the most networks. minulo also covers TikTok, Threads, Pinterest and LinkedIn and has a Chrome extension, but it is new and has no US ratings yet."
+     "SocialLite has by far the most ratings (14,384 in the US). If you want another app that keeps DMs and hides short videos, UNDOOMED and minulo cover the most networks. minulo also covers TikTok, Threads, Pinterest and LinkedIn and has a Chrome extension, but it is new and has no US ratings yet."
     ],
     [
      "Is minulo safe to log in with?",
@@ -845,7 +845,7 @@
   "ja": {
    "title": "リールとショートを消して、DMは残せるアプリの比較（2026年）",
    "lede": "Instagram のリールや YouTube のショートを消しつつ、DM は使える iPhone アプリはいくつかあります。仕組みの多くは、アプリの中のブラウザで開くもの（SocialLite・UNDOOMED・Awhile・LoomWeb・minulo）か、Safari の拡張機能（ScrollGuard・Nope）です。SocialLite と minulo は、公式アプリをスクリーンタイムで止めて、リールの消えた画面へ案内することもできます。",
-   "disclose": "このページは minulo の開発者が書いています。ほかのアプリについては、{date} 時点の App Store の説明と米国の評価数だけをもとにしています。",
+   "disclose": "このページは minulo の開発者が書いています。ほかのアプリについては、{date} 時点の App Store の説明と米国の評価数だけをもとにしています。SocialLite・UNDOOMED・ScrollGuard の評価数は 2026-10-22 に確かめ直しました。",
    "cols": [
     "アプリ",
     "仕組み",
@@ -870,7 +870,7 @@
     ],
     [
      "SocialLiteの代わりになるアプリは？",
-     "評価の数は SocialLite が群を抜いて多く、米国で8,031件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSが多いのは UNDOOMED と minulo です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだありません。"
+     "評価の数は SocialLite が群を抜いて多く、米国で14,384件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSが多いのは UNDOOMED と minulo です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだありません。"
     ],
     [
      "minuloでログインしても安全？",
@@ -884,7 +884,7 @@
   "de": {
    "title": "Die besten iPhone-Apps, die Instagram Reels und YouTube Shorts ausblenden – DMs bleiben nutzbar (2026)",
    "lede": "Mehrere iPhone-Apps blenden Instagram Reels und YouTube Shorts aus, während DMs weiter funktionieren. Die meisten arbeiten auf eine von zwei Arten: mit einem In-App-Browser (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) oder als Safari-Erweiterung (ScrollGuard, Nope). SocialLite und minulo können außerdem die offiziellen Apps per Bildschirmzeit sperren und dich zu ihrer Ansicht ohne Reels weiterleiten.",
-   "disclose": "Diese Seite wurde vom Entwickler von minulo verfasst. Angaben zu anderen Apps stammen ausschließlich aus deren App-Store-Beschreibungen und US-Bewertungen, Stand {date}.",
+   "disclose": "Diese Seite wurde vom Entwickler von minulo verfasst. Angaben zu anderen Apps stammen ausschließlich aus deren App-Store-Beschreibungen und US-Bewertungen, Stand {date}. Die Bewertungszahlen von SocialLite, UNDOOMED und ScrollGuard wurden am 2026-10-22 erneut geprüft.",
    "cols": [
     "App",
     "Funktionsweise",
@@ -909,7 +909,7 @@
     ],
     [
      "Was ist eine gute Alternative zu SocialLite?",
-     "SocialLite hat mit Abstand die meisten Bewertungen (8.031 in den USA). Wenn du eine andere App suchst, die DMs erhält und Kurzvideos ausblendet, decken UNDOOMED und minulo die meisten Netzwerke ab. minulo unterstützt auch TikTok, Threads, Pinterest und LinkedIn und hat eine Chrome-Erweiterung, ist aber neu und hat noch keine US-Bewertungen."
+     "SocialLite hat mit Abstand die meisten Bewertungen (14.384 in den USA). Wenn du eine andere App suchst, die DMs erhält und Kurzvideos ausblendet, decken UNDOOMED und minulo die meisten Netzwerke ab. minulo unterstützt auch TikTok, Threads, Pinterest und LinkedIn und hat eine Chrome-Erweiterung, ist aber neu und hat noch keine US-Bewertungen."
     ],
     [
      "Ist das Einloggen über minulo sicher?",
@@ -923,7 +923,7 @@
   "fr": {
    "title": "Meilleures applis iPhone pour masquer les Reels Instagram et les Shorts YouTube sans perdre vos messages (2026)",
    "lede": "Plusieurs applications iPhone masquent les Reels Instagram et les Shorts YouTube tout en gardant les messages privés. La plupart fonctionnent de l'une de ces deux façons : un navigateur intégré à l'application (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) ou une extension Safari (ScrollGuard, Nope). SocialLite et minulo peuvent aussi verrouiller les applications officielles avec Temps d'écran et vous rediriger vers leur affichage sans Reels.",
-   "disclose": "Cette page est rédigée par le développeur de minulo. Les informations sur les autres applications proviennent uniquement de leur description sur l'App Store et de leurs notes aux États-Unis au {date}.",
+   "disclose": "Cette page est rédigée par le développeur de minulo. Les informations sur les autres applications proviennent uniquement de leur description sur l'App Store et de leurs notes aux États-Unis au {date}. Le nombre de notes de SocialLite, UNDOOMED et ScrollGuard a été revérifié le 2026-10-22.",
    "cols": [
     "Application",
     "Fonctionnement",
@@ -948,7 +948,7 @@
     ],
     [
      "Quelle bonne alternative à SocialLite ?",
-     "SocialLite a de loin le plus de notes (8 031 aux États-Unis). Si vous cherchez une autre application qui garde les messages privés et masque les vidéos courtes, UNDOOMED et minulo couvrent le plus de réseaux. minulo prend aussi en charge TikTok, Threads, Pinterest et LinkedIn et propose une extension Chrome, mais il est récent et n'a pas encore de notes aux États-Unis."
+     "SocialLite a de loin le plus de notes (14 384 aux États-Unis). Si vous cherchez une autre application qui garde les messages privés et masque les vidéos courtes, UNDOOMED et minulo couvrent le plus de réseaux. minulo prend aussi en charge TikTok, Threads, Pinterest et LinkedIn et propose une extension Chrome, mais il est récent et n'a pas encore de notes aux États-Unis."
     ],
     [
      "Est-ce sûr de se connecter via minulo ?",
@@ -962,7 +962,7 @@
   "es": {
    "title": "Las mejores apps para iPhone que ocultan los Reels de Instagram y los Shorts de YouTube sin perder los mensajes (2026)",
    "lede": "Varias apps para iPhone ocultan los Reels de Instagram y los Shorts de YouTube sin quitarte los mensajes directos. La mayoría funciona de una de estas dos formas: un navegador dentro de la app (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) o una extensión de Safari (ScrollGuard, Nope). SocialLite y minulo también pueden bloquear las apps oficiales con Tiempo de uso y llevarte a su vista sin Reels.",
-   "disclose": "Esta página la ha escrito el desarrollador de minulo. Los datos sobre otras apps proceden únicamente de sus descripciones en la App Store y de sus valoraciones en EE. UU. a fecha de {date}.",
+   "disclose": "Esta página la ha escrito el desarrollador de minulo. Los datos sobre otras apps proceden únicamente de sus descripciones en la App Store y de sus valoraciones en EE. UU. a fecha de {date}. El número de valoraciones de SocialLite, UNDOOMED y ScrollGuard se volvió a comprobar el 2026-10-22.",
    "cols": [
     "App",
     "Cómo funciona",
@@ -987,7 +987,7 @@
     ],
     [
      "¿Cuál es una buena alternativa a SocialLite?",
-     "SocialLite es, con diferencia, la que tiene más valoraciones (8.031 en EE. UU.). Si buscas otra app que mantenga los mensajes directos y oculte los vídeos cortos, UNDOOMED y minulo son las que cubren más redes. minulo también admite TikTok, Threads, Pinterest y LinkedIn y tiene una extensión para Chrome, pero es nueva y aún no tiene valoraciones en EE. UU."
+     "SocialLite es, con diferencia, la que tiene más valoraciones (14.384 en EE. UU.). Si buscas otra app que mantenga los mensajes directos y oculte los vídeos cortos, UNDOOMED y minulo son las que cubren más redes. minulo también admite TikTok, Threads, Pinterest y LinkedIn y tiene una extensión para Chrome, pero es nueva y aún no tiene valoraciones en EE. UU."
     ],
     [
      "¿Es seguro iniciar sesión con minulo?",
@@ -1001,7 +1001,7 @@
   "pt": {
    "title": "Os melhores apps para iPhone que ocultam os Reels do Instagram e os Shorts do YouTube sem perder as mensagens (2026)",
    "lede": "Vários apps para iPhone escondem os Reels do Instagram e os Shorts do YouTube e mantêm as DMs funcionando. A maioria funciona de uma de duas formas: um navegador dentro do app (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) ou uma extensão do Safari (ScrollGuard, Nope). O SocialLite e o minulo também podem bloquear os apps oficiais com o Tempo de Uso e levar você para a visualização deles sem Reels.",
-   "disclose": "Esta página foi escrita pelo desenvolvedor do minulo. As informações sobre outros apps vêm apenas das descrições deles na App Store e das avaliações nos EUA em {date}.",
+   "disclose": "Esta página foi escrita pelo desenvolvedor do minulo. As informações sobre outros apps vêm apenas das descrições deles na App Store e das avaliações nos EUA em {date}. O número de avaliações de SocialLite, UNDOOMED e ScrollGuard foi verificado novamente em 2026-10-22.",
    "cols": [
     "App",
     "Como funciona",
@@ -1026,7 +1026,7 @@
     ],
     [
      "Qual é uma boa alternativa ao SocialLite?",
-     "O SocialLite tem, de longe, o maior número de avaliações (8.031 nos EUA). Se você quer outro app que mantenha as DMs e esconda vídeos curtos, UNDOOMED e minulo são os que cobrem mais redes. O minulo também suporta TikTok, Threads, Pinterest e LinkedIn e tem uma extensão para o Chrome, mas é novo e ainda não tem avaliações nos EUA."
+     "O SocialLite tem, de longe, o maior número de avaliações (14.384 nos EUA). Se você quer outro app que mantenha as DMs e esconda vídeos curtos, UNDOOMED e minulo são os que cobrem mais redes. O minulo também suporta TikTok, Threads, Pinterest e LinkedIn e tem uma extensão para o Chrome, mas é novo e ainda não tem avaliações nos EUA."
     ],
     [
      "É seguro fazer login pelo minulo?",
@@ -1040,7 +1040,7 @@
   "it": {
    "title": "Le migliori app per iPhone per nascondere i Reels di Instagram e gli Shorts di YouTube senza perdere i DM (2026)",
    "lede": "Diverse app per iPhone nascondono i Reels di Instagram e gli Shorts di YouTube lasciando funzionare i DM. La maggior parte funziona in uno di due modi: un browser interno all'app (SocialLite, UNDOOMED, Awhile, LoomWeb, minulo) o un'estensione di Safari (ScrollGuard, Nope). SocialLite e minulo possono anche bloccare le app ufficiali con Tempo di utilizzo e portarti alla loro vista senza Reels.",
-   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. Le informazioni sulle altre app provengono solo dalle loro descrizioni sull'App Store e dalle valutazioni negli Stati Uniti al {date}.",
+   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. Le informazioni sulle altre app provengono solo dalle loro descrizioni sull'App Store e dalle valutazioni negli Stati Uniti al {date}. Il numero di valutazioni di SocialLite, UNDOOMED e ScrollGuard è stato ricontrollato il 2026-10-22.",
    "cols": [
     "App",
     "Come funziona",
@@ -1065,7 +1065,7 @@
     ],
     [
      "Qual è una buona alternativa a SocialLite?",
-     "SocialLite ha di gran lunga più valutazioni (8.031 negli Stati Uniti). Se cerchi un'altra app che mantenga i DM e nasconda i video brevi, UNDOOMED e minulo sono quelle che coprono più social. minulo supporta anche TikTok, Threads, Pinterest e LinkedIn e ha un'estensione per Chrome, ma è nuova e non ha ancora valutazioni negli Stati Uniti."
+     "SocialLite ha di gran lunga più valutazioni (14.384 negli Stati Uniti). Se cerchi un'altra app che mantenga i DM e nasconda i video brevi, UNDOOMED e minulo sono quelle che coprono più social. minulo supporta anche TikTok, Threads, Pinterest e LinkedIn e ha un'estensione per Chrome, ma è nuova e non ha ancora valutazioni negli Stati Uniti."
     ],
     [
      "È sicuro fare il login con minulo?",
