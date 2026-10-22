@@ -393,7 +393,7 @@ Deleting Instagram sounds easy until the class group chat, the club chat and the
 - Optional: let minulo lock the official apps with Screen Time while you study.
 
 ## Will I still get group chat notifications?
-Notifications come from the official Instagram app. If you keep the official app unlocked, notifications arrive as usual and you can reply in minulo. If group alerts matter to you, you can leave the official app unlocked and still read and reply in minulo; lock it when you want a stricter stop, for example during study time.
+Notifications come from the official Instagram app. If you keep the official app unlocked, notifications arrive as usual and you can reply in minulo. While minulo blocks the official app with Screen Time, its notifications do not arrive, so only lock it when you don't need them, for example during study time.
 
 ## Can I hide Reels but keep YouTube for lectures?
 Yes. In minulo, YouTube Shorts are hidden while search, subscriptions and normal-length videos stay.
@@ -703,7 +703,7 @@ In minulo's first-month data, 87% of the 577 users who answered the age question
 
 ## Group chat notifications
 
-With minulo, notifications come from the official Instagram app. If you leave the official app unlocked, they arrive as usual and you can reply in minulo. If group alerts matter to you, leave the official app unlocked and read and reply in minulo; lock it when you want a stricter stop, for example while studying.
+With minulo, notifications come from the official Instagram app. If you leave the official app unlocked, they arrive as usual and you can reply in minulo. While the official app is locked with Screen Time, its notifications do not arrive, so lock it only when you can miss them, for example while studying.
 
 ## What is the best way to keep Instagram for group chats but drop Reels?
 Open Instagram inside an app that hides Reels and keeps DMs, such as minulo, UNDOOMED or Stillfeed. For messages only, minulo's Every tab but DMs is free; UNDOOMED and Stillfeed offer a messages-only mode in Pro. If you keep going back to the official app, lock it with Screen Time.
