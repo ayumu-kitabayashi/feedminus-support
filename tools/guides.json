@@ -1303,6 +1303,482 @@
    "moreHref": "alternatives.html",
    "faq": "Nascondere i Reels con minulo",
    "faqHref": "hide/instagram.html"
+  },
+  "id": {
+   "seo": "Cara Mematikan Reels Instagram di iPhone, DM Tetap Jalan",
+   "title": "Cara mematikan (memblokir) Reels Instagram di iPhone dan tetap memakai DM (semua cara, 2026)",
+   "desc": "Instagram tidak punya setelan untuk mematikan Reels, dan Durasi Layar hanya bisa memblokir seluruh app. Semua cara menyembunyikan Reels di iPhone sambil tetap memakai DM.",
+   "date": "2026-10-22",
+   "lede": "Kami tidak menemukan setelan di halaman bantuan resmi Instagram yang mematikan Reels untuk akun dewasa. Pilihan bawaan yang paling mendekati adalah feed Mengikuti, pengingat batas waktu harian, dan mode tidur, sedangkan Durasi Layar di iPhone hanya bisa memblokir seluruh app. Untuk menyembunyikan Reels tetapi tetap memakai DM, pakai app yang menampilkan Instagram dengan Reels disembunyikan, seperti minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, atau Nope.",
+   "disclose": "Halaman ini ditulis oleh pengembang minulo. Fakta tentang setelan Instagram dan iPhone diambil dari sumber di bawah, dicek pada {date}. Nama menu bisa berubah mengikuti pembaruan app dan iOS.",
+   "cols": [
+    "Cara",
+    "Apa yang dilakukan",
+    "Batasan"
+   ],
+   "rows": [
+    [
+     "<b>Feed Mengikuti</b> (Following, ketuk logo Instagram)",
+     "Menampilkan postingan dari akun yang Anda ikuti, urut waktu, tanpa postingan yang disarankan, hingga 30 hari ke belakang.",
+     "Tab Reels tetap ada."
+    ],
+    [
+     "<b>Batas waktu harian</b>",
+     "Mengingatkan Anda setelah waktu yang Anda atur.",
+     "Hanya pengingat, bukan pemblokiran. Berlaku untuk seluruh Instagram, bukan hanya Reels."
+    ],
+    [
+     "<b>Mode tidur</b> (Sleep mode, dulu Quiet mode)",
+     "Membisukan notifikasi dan membalas DM secara otomatis.",
+     "Tidak menyembunyikan Reels."
+    ],
+    [
+     "<b>Akun Remaja</b>",
+     "Untuk remaja: pengingat setelah 60 menit sehari dan mode tidur dari pukul 22.00 sampai 07.00.",
+     "Hanya untuk akun remaja. Reels tidak dihapus."
+    ],
+    [
+     "<b>Durasi Layar iPhone</b>",
+     "Membatasi atau memblokir seluruh app Instagram, atau instagram.com di Safari.",
+     "Tidak bisa memblokir Reels saja, dan memblokir app berarti DM juga ikut terblokir."
+    ],
+    [
+     "<b>App yang menyembunyikan Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Menampilkan Instagram di tampilan mereka sendiri atau di Safari dengan Reels dan postingan yang disarankan disembunyikan; DM tetap berfungsi.",
+     "App Instagram resmi tidak diubah. minulo bisa mengunci app resmi dengan Durasi Layar dan mengarahkan Anda ke minulo."
+    ]
+   ],
+   "secs": [
+    [
+     "Sembunyikan Reels dan tetap pakai DM (dengan minulo)",
+     [
+      "<p>minulo membuka situs web resmi Instagram di dalam app dengan tab Reels, Reels di feed, dan Jelajahi disembunyikan. DM, postingan dari akun yang Anda ikuti, dan pencarian tetap berfungsi. Menyembunyikan Reels dan postingan yang disarankan itu gratis.</p>",
+      "<p>minulo juga bisa memblokir app Instagram resmi dengan Durasi Layar iPhone, dan ini juga gratis: hingga 2 jam setiap kali, dan setelah habis Anda bisa memulainya lagi berapa kali pun. Blokir lebih dari 2 jam, jadwal, dan Mode Terkunci ada di minulo Pro.</p>",
+      "<p>Selama minulo memblokir app Instagram resmi, notifikasi dari app itu tidak masuk. DM tetap bisa dibaca di minulo. Memposting story, pesan suara, dan panggilan tidak bisa dilakukan di minulo.</p>",
+      "<p>minulo dirilis pada September 2026 dan ulasannya masih sedikit. Tidak ada versi Android.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Apakah ada setelan untuk mematikan Reels di Instagram?",
+     "Per September 2026 kami tidak menemukannya di halaman bantuan resmi Instagram. Feed Mengikuti menghapus postingan yang disarankan dari feed Anda, tetapi tab Reels tetap ada."
+    ],
+    [
+     "Bisakah Durasi Layar memblokir Reels Instagram saja?",
+     "Tidak. Batas App di Durasi Layar berlaku untuk seluruh app, dan pemblokiran situs web berlaku untuk seluruh alamat. Memblokir Instagram dengan cara ini juga memblokir DM Anda."
+    ],
+    [
+     "Bisakah saya memakai Instagram tanpa Reels?",
+     "Bisa, tetapi tidak di dalam app resmi, karena app itu tidak punya tombol untuk mematikan Reels di akun dewasa. Buka Instagram di app yang menyembunyikan Reels: minulo menampilkan situs web resmi Instagram dengan tab Reels, Reels di feed, dan Jelajahi disembunyikan, sementara DM, postingan dari akun yang Anda ikuti, dan pencarian tetap berfungsi. Dengan Durasi Layar, minulo juga bisa mengunci app Instagram resmi dan membawa Anda ke tampilan tanpa Reels ini saat Anda mengetuk ikonnya."
+    ],
+    [
+     "Bagaimana cara menyembunyikan Reels tetapi tetap memakai DM?",
+     "Pakai app yang membuka Instagram dengan Reels disembunyikan. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, dan Nope semuanya menyatakan DM tetap berfungsi. minulo juga mendukung 9 jejaring sosial lain dan bisa mengunci app Instagram resmi agar Anda membuka minulo sebagai gantinya."
+    ]
+   ],
+   "srcTitle": "Sumber",
+   "src": [
+    [
+     "Meta (2022-03-23): feed Mengikuti dan Favorit (bahasa Inggris)",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "Bantuan Instagram: Mengatur batas waktu harian",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "Bantuan Instagram: Mode tidur",
+     "https://help.instagram.com/688407339404755/"
+    ],
+    [
+     "Meta (2024-09-17): Akun Remaja Instagram (bahasa Inggris)",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple: Pembatasan Konten & Privasi di iPhone",
+     "https://support.apple.com/id-id/guide/iphone/iph3ff83f3b1/ios"
+    ]
+   ],
+   "links": [
+    [
+     "Batas Durasi Layar untuk Instagram tidak berfungsi",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "Pakai Instagram hanya untuk DM",
+     "instagram-dms-only.html"
+    ],
+    [
+     "Cara membatasi Reels saja di Instagram",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "minulo vs SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "Pertanyaan umum",
+     "faq.html"
+    ]
+   ]
+  },
+  "th": {
+   "seo": "วิธีปิด Reels ใน Instagram บน iPhone โดยยังใช้ DM ได้",
+   "title": "วิธีปิด (บล็อก) Reels ใน Instagram บน iPhone โดยยังใช้ DM ได้ (ทุกวิธี, 2026)",
+   "desc": "Instagram ไม่มีการตั้งค่าให้ปิด Reels และเวลาหน้าจอบล็อกได้แค่ทั้งแอป รวมทุกวิธีซ่อน Reels บน iPhone โดยยังใช้ DM ได้ตามปกติ",
+   "date": "2026-10-22",
+   "lede": "เราไม่พบการตั้งค่าในหน้าความช่วยเหลือทางการของ Instagram ที่ปิด Reels สำหรับบัญชีผู้ใหญ่ได้ ตัวเลือกในตัวที่ใกล้ที่สุดคือฟีดกำลังติดตาม การเตือนขีดจำกัดเวลารายวัน และโหมดนอนหลับ ส่วนเวลาหน้าจอของ iPhone บล็อกได้แค่ทั้งแอป ถ้าอยากซ่อน Reels แต่ยังใช้ DM ได้ ให้ใช้แอปที่แสดง Instagram โดยซ่อน Reels ไว้ เช่น minulo, UNDOOMED, Awhile, SocialLite, LoomWeb หรือ Nope",
+   "disclose": "หน้านี้เขียนโดยผู้พัฒนา minulo ข้อมูลเกี่ยวกับการตั้งค่าของ Instagram และ iPhone มาจากแหล่งที่มาด้านล่าง ตรวจสอบเมื่อ {date} ชื่อเมนูอาจเปลี่ยนเมื่อแอปและ iOS อัปเดต",
+   "cols": [
+    "วิธี",
+    "ทำอะไรได้",
+    "ข้อจำกัด"
+   ],
+   "rows": [
+    [
+     "<b>ฟีดกำลังติดตาม</b> (Following แตะโลโก้ Instagram)",
+     "แสดงโพสต์จากบัญชีที่คุณติดตามเรียงตามเวลา ไม่มีโพสต์แนะนำ ย้อนหลังได้ 30 วัน",
+     "แท็บ Reels ยังอยู่"
+    ],
+    [
+     "<b>ขีดจำกัดเวลารายวัน</b>",
+     "เตือนเมื่อใช้ครบเวลาที่ตั้งไว้",
+     "เป็นแค่การเตือน ไม่ใช่การบล็อก และนับทั้ง Instagram ไม่ใช่แค่ Reels"
+    ],
+    [
+     "<b>โหมดนอนหลับ</b> (Sleep mode เดิมชื่อ Quiet mode)",
+     "ปิดเสียงการแจ้งเตือนและตอบ DM อัตโนมัติ",
+     "ไม่ได้ซ่อน Reels"
+    ],
+    [
+     "<b>บัญชีวัยรุ่น</b>",
+     "สำหรับวัยรุ่น: เตือนเมื่อใช้ครบ 60 นาทีต่อวัน และมีโหมดนอนหลับตั้งแต่ 22:00 ถึง 07:00",
+     "เฉพาะบัญชีวัยรุ่น และ Reels ไม่ได้หายไป"
+    ],
+    [
+     "<b>เวลาหน้าจอของ iPhone</b>",
+     "จำกัดหรือบล็อกทั้งแอป Instagram หรือ instagram.com ใน Safari",
+     "บล็อกแค่ Reels ไม่ได้ และถ้าบล็อกแอป DM ก็ถูกบล็อกด้วย"
+    ],
+    [
+     "<b>แอปที่ซ่อน Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "แสดง Instagram ในหน้าจอของแอปเองหรือใน Safari โดยซ่อน Reels และโพสต์แนะนำ DM ยังใช้ได้",
+     "แอป Instagram ทางการไม่ได้ถูกเปลี่ยน minulo ล็อกแอปทางการด้วยเวลาหน้าจอและพาคุณไปที่ minulo แทนได้"
+    ]
+   ],
+   "secs": [
+    [
+     "ซ่อน Reels แต่ยังใช้ DM ได้ (ด้วย minulo)",
+     [
+      "<p>minulo เปิดเว็บไซต์ทางการของ Instagram ภายในแอป โดยซ่อนแท็บ Reels, Reels ในฟีด และสำรวจ ส่วน DM โพสต์จากบัญชีที่คุณติดตาม และการค้นหายังใช้ได้ การซ่อน Reels และโพสต์แนะนำใช้ได้ฟรี</p>",
+      "<p>minulo ยังบล็อกแอป Instagram ทางการด้วยเวลาหน้าจอของ iPhone ได้ฟรีเช่นกัน ครั้งละไม่เกิน 2 ชั่วโมง และเมื่อหมดเวลาแล้วเริ่มใหม่ได้กี่ครั้งก็ได้ การบล็อกนานกว่า 2 ชั่วโมง การตั้งเวลา และโหมดล็อก อยู่ใน minulo Pro</p>",
+      "<p>ระหว่างที่ minulo บล็อกแอป Instagram ทางการ การแจ้งเตือนจากแอปนั้นจะไม่เข้ามา แต่ยังอ่าน DM ได้ใน minulo การโพสต์สตอรี่ ข้อความเสียง และการโทร ทำใน minulo ไม่ได้</p>",
+      "<p>minulo เปิดตัวในเดือนกันยายน 2026 จึงยังมีคะแนนรีวิวไม่มาก และไม่มีเวอร์ชัน Android</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Instagram มีการตั้งค่าให้ปิด Reels ไหม?",
+     "ณ เดือนกันยายน 2026 เราไม่พบในหน้าความช่วยเหลือทางการของ Instagram ฟีดกำลังติดตามเอาโพสต์แนะนำออกจากฟีดได้ แต่แท็บ Reels ยังอยู่"
+    ],
+    [
+     "เวลาหน้าจอบล็อกแค่ Reels ของ Instagram ได้ไหม?",
+     "ไม่ได้ ขีดจำกัดแอปของเวลาหน้าจอมีผลกับทั้งแอป และการบล็อกเว็บไซต์มีผลกับทั้งที่อยู่เว็บ ถ้าบล็อก Instagram ด้วยวิธีนี้ DM ของคุณก็จะถูกบล็อกด้วย"
+    ],
+    [
+     "ใช้ Instagram โดยไม่มี Reels ได้ไหม?",
+     "ได้ แต่ไม่ใช่ในแอปทางการ เพราะแอปทางการไม่มีสวิตช์ให้บัญชีผู้ใหญ่ปิด Reels ให้เปิด Instagram ในแอปที่ซ่อน Reels แทน minulo แสดงเว็บไซต์ทางการของ Instagram โดยซ่อนแท็บ Reels, Reels ในฟีด และสำรวจ ส่วน DM โพสต์จากบัญชีที่คุณติดตาม และการค้นหายังใช้ได้ เมื่อใช้ร่วมกับเวลาหน้าจอ minulo ยังล็อกแอป Instagram ทางการ และพาคุณมาที่หน้าจอที่ไม่มี Reels นี้เมื่อคุณแตะไอคอนได้ด้วย"
+    ],
+    [
+     "จะซ่อน Reels แต่ยังใช้ DM ได้อย่างไร?",
+     "ใช้แอปที่เปิด Instagram โดยซ่อน Reels ไว้ minulo, UNDOOMED, Awhile, SocialLite, LoomWeb และ Nope ต่างบอกว่า DM ยังใช้ได้ minulo ยังรองรับโซเชียลอีก 9 แห่ง และล็อกแอป Instagram ทางการให้คุณเปิด minulo แทนได้"
+    ]
+   ],
+   "srcTitle": "แหล่งที่มา",
+   "src": [
+    [
+     "Meta (2022-03-23): ฟีดกำลังติดตามและรายการโปรด (ภาษาอังกฤษ)",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "ความช่วยเหลือของ Instagram: ตั้งขีดจำกัดเวลารายวัน",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "ความช่วยเหลือของ Instagram: โหมดนอนหลับ",
+     "https://help.instagram.com/688407339404755/"
+    ],
+    [
+     "Meta (2024-09-17): บัญชีวัยรุ่นของ Instagram (ภาษาอังกฤษ)",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple: การจำกัดเนื้อหาและความเป็นส่วนตัวบน iPhone",
+     "https://support.apple.com/th-th/guide/iphone/iph3ff83f3b1/ios"
+    ]
+   ],
+   "links": [
+    [
+     "จำกัดเวลาหน้าจอ Instagram แล้วไม่ได้ผล",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "ใช้ Instagram แค่ DM",
+     "instagram-dms-only.html"
+    ],
+    [
+     "จำกัดเวลาแค่ Reels ของ Instagram",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "minulo กับ SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "คำถามที่พบบ่อย",
+     "faq.html"
+    ]
+   ]
+  },
+  "vi": {
+   "seo": "Cách tắt Reels Instagram trên iPhone mà vẫn nhắn tin",
+   "title": "Cách tắt (chặn) Reels Instagram trên iPhone mà vẫn dùng tin nhắn (mọi cách, 2026)",
+   "desc": "Instagram không có cài đặt tắt Reels, còn Thời gian sử dụng chỉ chặn được cả ứng dụng. Tổng hợp mọi cách ẩn Reels trên iPhone mà vẫn nhắn tin bình thường.",
+   "date": "2026-10-22",
+   "lede": "Chúng tôi không tìm thấy cài đặt nào trong trang trợ giúp chính thức của Instagram cho phép tắt Reels ở tài khoản người lớn. Những tùy chọn có sẵn gần nhất là bảng tin Đang theo dõi, lời nhắc giới hạn thời gian hằng ngày và chế độ ngủ, còn Thời gian sử dụng của iPhone chỉ chặn được cả ứng dụng. Để ẩn Reels mà vẫn nhắn tin, hãy dùng một ứng dụng hiển thị Instagram với Reels đã được ẩn, như minulo, UNDOOMED, Awhile, SocialLite, LoomWeb hoặc Nope.",
+   "disclose": "Trang này do nhà phát triển minulo viết. Thông tin về cài đặt của Instagram và iPhone lấy từ các nguồn bên dưới, kiểm tra ngày {date}. Tên menu có thể thay đổi khi ứng dụng và iOS cập nhật.",
+   "cols": [
+    "Cách",
+    "Tác dụng",
+    "Hạn chế"
+   ],
+   "rows": [
+    [
+     "<b>Bảng tin Đang theo dõi</b> (Following, chạm vào logo Instagram)",
+     "Hiện bài viết của các tài khoản bạn theo dõi theo thứ tự thời gian, không có bài viết gợi ý, trong vòng 30 ngày gần nhất.",
+     "Thẻ Reels vẫn còn."
+    ],
+    [
+     "<b>Giới hạn thời gian hằng ngày</b>",
+     "Nhắc bạn sau khoảng thời gian bạn đặt.",
+     "Chỉ là lời nhắc, không chặn. Áp dụng cho toàn bộ Instagram, không riêng Reels."
+    ],
+    [
+     "<b>Chế độ ngủ</b> (Sleep mode, trước đây là Quiet mode)",
+     "Tắt tiếng thông báo và tự động trả lời tin nhắn.",
+     "Không ẩn Reels."
+    ],
+    [
+     "<b>Tài khoản thiếu niên</b>",
+     "Dành cho thiếu niên: nhắc sau 60 phút mỗi ngày và chế độ ngủ từ 22:00 đến 7:00.",
+     "Chỉ cho tài khoản thiếu niên. Reels không bị bỏ đi."
+    ],
+    [
+     "<b>Thời gian sử dụng của iPhone</b>",
+     "Giới hạn hoặc chặn cả ứng dụng Instagram, hoặc instagram.com trong Safari.",
+     "Không thể chỉ chặn Reels, và chặn ứng dụng thì tin nhắn cũng bị chặn."
+    ],
+    [
+     "<b>Ứng dụng ẩn Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Hiển thị Instagram trong giao diện riêng hoặc trong Safari với Reels và bài viết gợi ý đã được ẩn; tin nhắn vẫn dùng được.",
+     "Ứng dụng Instagram chính thức không bị thay đổi. minulo có thể khóa ứng dụng chính thức bằng Thời gian sử dụng và chuyển bạn sang minulo."
+    ]
+   ],
+   "secs": [
+    [
+     "Ẩn Reels mà vẫn nhắn tin (với minulo)",
+     [
+      "<p>minulo mở trang web chính thức của Instagram bên trong ứng dụng, ẩn thẻ Reels, Reels trong bảng tin và Khám phá. Tin nhắn, bài viết từ tài khoản bạn theo dõi và tìm kiếm vẫn dùng được. Việc ẩn Reels và bài viết gợi ý là miễn phí.</p>",
+      "<p>minulo cũng có thể chặn ứng dụng Instagram chính thức bằng Thời gian sử dụng của iPhone, và việc này cũng miễn phí: tối đa 2 giờ mỗi lần, hết giờ thì bạn có thể bật lại bao nhiêu lần tùy ý. Chặn lâu hơn 2 giờ, lịch trình và Chế độ khóa có trong minulo Pro.</p>",
+      "<p>Trong lúc minulo chặn ứng dụng Instagram chính thức, thông báo của ứng dụng đó sẽ không đến. Bạn vẫn đọc được tin nhắn trong minulo. Đăng tin (story), tin nhắn thoại và gọi điện thì không làm được trong minulo.</p>",
+      "<p>minulo ra mắt vào tháng 9 năm 2026 nên chưa có nhiều đánh giá. Không có phiên bản Android.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Instagram có cài đặt tắt Reels không?",
+     "Tính đến tháng 9 năm 2026, chúng tôi không tìm thấy trong trang trợ giúp chính thức của Instagram. Bảng tin Đang theo dõi bỏ bài viết gợi ý khỏi bảng tin, nhưng thẻ Reels vẫn còn."
+    ],
+    [
+     "Thời gian sử dụng có chặn riêng Reels của Instagram được không?",
+     "Không. Giới hạn ứng dụng của Thời gian sử dụng áp dụng cho cả ứng dụng, còn chặn trang web áp dụng cho cả địa chỉ. Chặn Instagram theo cách này thì tin nhắn của bạn cũng bị chặn."
+    ],
+    [
+     "Có dùng Instagram mà không có Reels được không?",
+     "Được, nhưng không phải trong ứng dụng chính thức, vì ứng dụng này không có nút để tài khoản người lớn tắt Reels. Hãy mở Instagram trong một ứng dụng ẩn Reels: minulo hiển thị trang web chính thức của Instagram, ẩn thẻ Reels, Reels trong bảng tin và Khám phá, trong khi tin nhắn, bài viết từ tài khoản bạn theo dõi và tìm kiếm vẫn dùng được. Kết hợp với Thời gian sử dụng, minulo còn có thể khóa ứng dụng Instagram chính thức và đưa bạn đến giao diện không có Reels này khi bạn chạm vào biểu tượng."
+    ],
+    [
+     "Làm sao để ẩn Reels mà vẫn nhắn tin?",
+     "Dùng một ứng dụng mở Instagram với Reels đã được ẩn. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb và Nope đều cho biết tin nhắn vẫn dùng được. minulo còn hỗ trợ 9 mạng xã hội khác và có thể khóa ứng dụng Instagram chính thức để bạn mở minulo thay thế."
+    ]
+   ],
+   "srcTitle": "Nguồn",
+   "src": [
+    [
+     "Meta (2022-03-23): bảng tin Đang theo dõi và Yêu thích (tiếng Anh)",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "Trợ giúp Instagram: Đặt giới hạn thời gian hằng ngày",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "Trợ giúp Instagram: Chế độ ngủ",
+     "https://help.instagram.com/688407339404755/"
+    ],
+    [
+     "Meta (2024-09-17): Tài khoản thiếu niên trên Instagram (tiếng Anh)",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple: Giới hạn về nội dung & quyền riêng tư trên iPhone",
+     "https://support.apple.com/vi-vn/guide/iphone/iph3ff83f3b1/ios"
+    ]
+   ],
+   "links": [
+    [
+     "Giới hạn Thời gian sử dụng cho Instagram không hoạt động",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "Dùng Instagram chỉ để nhắn tin",
+     "instagram-dms-only.html"
+    ],
+    [
+     "Giới hạn riêng Reels trên Instagram",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "minulo và SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "Câu hỏi thường gặp",
+     "faq.html"
+    ]
+   ]
+  },
+  "ru": {
+   "seo": "Как отключить Reels в Instagram на iPhone и оставить Директ",
+   "title": "Как отключить (заблокировать) Reels в Instagram на iPhone и оставить Директ (все способы, 2026)",
+   "desc": "В Instagram нет настройки, которая отключает Reels, а «Экранное время» блокирует только приложение целиком. Все способы скрыть Reels на iPhone и оставить Директ.",
+   "date": "2026-10-22",
+   "lede": "В официальной справке Instagram мы не нашли настройки, которая отключает Reels для взрослого аккаунта. Ближе всего встроенные варианты — лента «Подписки», напоминание о дневном лимите времени и спящий режим, а «Экранное время» iPhone может заблокировать только приложение целиком. Чтобы скрыть Reels и оставить Директ, используйте приложение, которое показывает Instagram со скрытыми Reels, например minulo, UNDOOMED, Awhile, SocialLite, LoomWeb или Nope.",
+   "disclose": "Эту страницу написал разработчик minulo. Сведения о настройках Instagram и iPhone взяты из источников ниже и проверены {date}. Названия пунктов меню могут меняться с обновлениями приложений и iOS.",
+   "cols": [
+    "Способ",
+    "Что делает",
+    "Ограничения"
+   ],
+   "rows": [
+    [
+     "<b>Лента «Подписки»</b> (Following; нажмите на логотип Instagram)",
+     "Показывает публикации аккаунтов, на которые вы подписаны, по времени, без рекомендуемых публикаций, за последние 30 дней.",
+     "Вкладка Reels остается."
+    ],
+    [
+     "<b>Дневной лимит времени</b>",
+     "Напоминает после заданного времени.",
+     "Это напоминание, а не блокировка. Действует на весь Instagram, а не только на Reels."
+    ],
+    [
+     "<b>Спящий режим</b> (Sleep mode, раньше Quiet mode)",
+     "Отключает звук уведомлений и автоматически отвечает на сообщения в Директ.",
+     "Не скрывает Reels."
+    ],
+    [
+     "<b>Аккаунты подростков</b>",
+     "Для подростков: напоминание после 60 минут в день и спящий режим с 22:00 до 7:00.",
+     "Только для аккаунтов подростков. Reels не убираются."
+    ],
+    [
+     "<b>«Экранное время» iPhone</b>",
+     "Ограничивает или блокирует приложение Instagram целиком или instagram.com в Safari.",
+     "Нельзя заблокировать только Reels, а при блокировке приложения блокируется и Директ."
+    ],
+    [
+     "<b>Приложения, которые скрывают Reels</b> (minulo, UNDOOMED, Awhile, SocialLite, LoomWeb, Nope)",
+     "Показывают Instagram в своем окне или в Safari со скрытыми Reels и рекомендуемыми публикациями; Директ работает.",
+     "Официальное приложение Instagram не меняется. minulo может заблокировать официальное приложение через «Экранное время» и вместо него открыть minulo."
+    ]
+   ],
+   "secs": [
+    [
+     "Скрыть Reels и оставить Директ (с minulo)",
+     [
+      "<p>minulo открывает официальный сайт Instagram внутри приложения и скрывает вкладку Reels, Reels в ленте и «Интересное». Директ, публикации аккаунтов, на которые вы подписаны, и поиск продолжают работать. Скрывать Reels и рекомендуемые публикации можно бесплатно.</p>",
+      "<p>minulo также может заблокировать официальное приложение Instagram через «Экранное время» iPhone, и это тоже бесплатно: до 2 часов за раз, а когда время выйдет, блокировку можно запускать снова сколько угодно раз. Блокировка дольше 2 часов, расписания и режим «Замок» доступны в minulo Pro.</p>",
+      "<p>Пока minulo блокирует официальное приложение Instagram, уведомления от него не приходят. Сообщения в Директ можно читать в minulo. Публиковать истории, отправлять голосовые сообщения и звонить в minulo нельзя.</p>",
+      "<p>minulo вышел в сентябре 2026 года, и оценок пока мало. Версии для Android нет.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Есть ли в Instagram настройка, чтобы отключить Reels?",
+     "По состоянию на сентябрь 2026 года мы не нашли ее в официальной справке Instagram. Лента «Подписки» убирает рекомендуемые публикации из ленты, но вкладка Reels остается."
+    ],
+    [
+     "Может ли «Экранное время» заблокировать только Reels в Instagram?",
+     "Нет. Лимиты приложений в «Экранном времени» действуют на приложение целиком, а блокировка сайтов — на адрес целиком. Если заблокировать Instagram так, заблокируется и Директ."
+    ],
+    [
+     "Можно ли пользоваться Instagram без Reels?",
+     "Да, но не в официальном приложении: в нем нет переключателя, который отключает Reels для взрослых. Вместо этого открывайте Instagram в приложении, которое скрывает Reels: minulo показывает официальный сайт Instagram со скрытыми вкладкой Reels, Reels в ленте и «Интересным», а Директ, публикации аккаунтов, на которые вы подписаны, и поиск продолжают работать. Через «Экранное время» minulo также может заблокировать официальное приложение Instagram и при нажатии на его значок открывать этот вид без Reels."
+    ],
+    [
+     "Как скрыть Reels и оставить Директ?",
+     "Используйте приложение, которое открывает Instagram со скрытыми Reels. minulo, UNDOOMED, Awhile, SocialLite, LoomWeb и Nope — все указывают, что Директ работает. minulo поддерживает еще 9 соцсетей и может заблокировать официальное приложение Instagram, чтобы вместо него открывался minulo."
+    ]
+   ],
+   "srcTitle": "Источники",
+   "src": [
+    [
+     "Meta (2022-03-23): ленты «Подписки» и «Избранное» (на английском)",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "Справка Instagram: дневной лимит времени",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "Справка Instagram: спящий режим",
+     "https://help.instagram.com/688407339404755/"
+    ],
+    [
+     "Meta (2024-09-17): аккаунты подростков в Instagram (на английском)",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple: ограничения контента и конфиденциальности на iPhone",
+     "https://support.apple.com/ru-ru/guide/iphone/iph3ff83f3b1/ios"
+    ]
+   ],
+   "links": [
+    [
+     "Не работает лимит «Экранного времени» для Instagram",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "Instagram только для Директа",
+     "instagram-dms-only.html"
+    ],
+    [
+     "Как ограничить только Reels в Instagram",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "minulo и SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "Частые вопросы",
+     "faq.html"
+    ]
+   ]
   }
  },
  "opal-alternatives.html": {
