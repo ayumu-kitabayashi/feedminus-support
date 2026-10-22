@@ -58,12 +58,22 @@
 - Limiter seulement les Reels sur Instagram (iPhone, 2026) : https://minulo.app/fr/limit-instagram-reels-time.html
 - Limitar solo los Reels de Instagram (iPhone, 2026): https://minulo.app/es/limit-instagram-reels-time.html
 - Limitar só os Reels do Instagram (iPhone, 2026): https://minulo.app/pt/limit-instagram-reels-time.html
+- Membatasi Reels saja di Instagram (iPhone, 2026): https://minulo.app/id/limit-instagram-reels-time.html
+- จำกัดเวลาแค่ Reels ของ Instagram (iPhone, 2026): https://minulo.app/th/limit-instagram-reels-time.html
+- Giới hạn riêng Reels trên Instagram (iPhone, 2026): https://minulo.app/vi/limit-instagram-reels-time.html
+- Как ограничить только Reels в Instagram (iPhone, 2026): https://minulo.app/ru/limit-instagram-reels-time.html
+- 只限制 IG Reels 的時間（iPhone，2026）：https://minulo.app/zh-Hant/limit-instagram-reels-time.html
 - Screen Time limit not working for Instagram on iPhone — causes and fixes from Apple Support (limits ignorable by default, instagram.com in Safari, iOS 27 Time Allowances, Family Sharing, Always Allowed): https://minulo.app/en/screen-time-instagram-not-working.html · ja https://minulo.app/screen-time-instagram-not-working.html
 - 스크린 타임으로 인스타 제한이 안 될 때 해결법 (아이폰, iOS 26·27, Apple 지원 페이지 기준): https://minulo.app/ko/screen-time-instagram-not-working.html
 - Bildschirmzeit-Limit für Instagram funktioniert nicht (iPhone, iOS 26/27, nach Apple Support): https://minulo.app/de/screen-time-instagram-not-working.html
 - Limite Temps d’écran pour Instagram qui ne marche pas (iPhone, iOS 26/27, d’après l’assistance Apple) : https://minulo.app/fr/screen-time-instagram-not-working.html
 - El límite de Tiempo de uso para Instagram no funciona (iPhone, iOS 26/27, según el soporte de Apple): https://minulo.app/es/screen-time-instagram-not-working.html
 - Limite do Tempo de Uso para o Instagram não funciona (iPhone, iOS 26/27, segundo o suporte da Apple): https://minulo.app/pt/screen-time-instagram-not-working.html
+- Batas Durasi Layar untuk Instagram tidak berfungsi (iPhone, iOS 26/27, menurut Dukungan Apple): https://minulo.app/id/screen-time-instagram-not-working.html
+- จำกัดเวลาหน้าจอ Instagram แล้วไม่ได้ผล (iPhone, iOS 26/27, ตามหน้าการสนับสนุนของ Apple): https://minulo.app/th/screen-time-instagram-not-working.html
+- Giới hạn Thời gian sử dụng cho Instagram không hoạt động (iPhone, iOS 26/27, theo Hỗ trợ của Apple): https://minulo.app/vi/screen-time-instagram-not-working.html
+- Не работает лимит «Экранного времени» для Instagram (iPhone, iOS 26/27, по данным поддержки Apple): https://minulo.app/ru/screen-time-instagram-not-working.html
+- 用「螢幕使用時間」限制 IG 卻沒用（iPhone，iOS 26/27，依 Apple 支援）：https://minulo.app/zh-Hant/screen-time-instagram-not-working.html
 - How to stop watching Reels and Shorts while studying, keeping group chats and DMs (Focus, Screen Time on iOS 26/27, phone in another room, Forest, hiding only the feed; example study routine): https://minulo.app/en/study-focus.html · ja https://minulo.app/study-focus.html · es https://minulo.app/es/study-focus.html · pt-BR https://minulo.app/pt/study-focus.html · de https://minulo.app/de/study-focus.html · ko https://minulo.app/ko/study-focus.html · id https://minulo.app/id/study-focus.html · th https://minulo.app/th/study-focus.html · vi https://minulo.app/vi/study-focus.html
 - How to hide feeds on each network, step by step: https://minulo.app/en/hide/ · ja https://minulo.app/hide/
   - Instagram (hide Reels, keep messages): https://minulo.app/en/hide/instagram.html

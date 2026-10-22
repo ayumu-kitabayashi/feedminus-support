@@ -14,7 +14,8 @@
   そのとき、同じページのほかの言語（手書きのページも含む）の hreflang・フッター・sitemap.xml に新しい言語を足す。
   hreflang は「guides.json に訳がある言語＋ディスクにページがある言語」。書き出したあとは tools/ct.py も回す。
 ★任意のキー：seo（<title>）・desc（meta description）・date（公開日）・links（[[文, href], …]）・
-  src（その言語の出典名と URL）・steps（{h, items, after}：表のあとの手順）。無ければ従来どおり。
+  src（その言語の出典名と URL）・steps（{h, items, after}：表のあとの手順）・
+  secs（[[見出し, [段落の HTML, …]], …]：表のあと・Q&A の前の地の文。<p>・<ol> を含む自前の HTML）。無ければ従来どおり。
 """
 import datetime, html, importlib.util, json, pathlib, re, sys
 
@@ -89,6 +90,7 @@ def page(path, lang):
     st = t.get('steps')   # 手順（<b> を含む自前の文）
     steps = (f'<section class="qa"><h2>{html.escape(st["h"])}</h2><ol>' + ''.join(f'<li>{x}</li>' for x in st['items']) + '</ol>'
              + (f'<p>{html.escape(st["after"])}</p>' if st.get('after') else '') + '</section>\n') if st else ''
+    secs = ''.join(f'<section class="qa"><h2>{html.escape(h)}</h2>' + ''.join(body) + '</section>\n' for h, body in t.get('secs', []))
     links = t.get('links') or [[t['more'], t['moreHref']], [t['faq'], t['faqHref']]]
     links = ''.join(f'<a href="{h}">{html.escape(x)} →</a>' for x, h in links)
     store = f"https://apps.apple.com/{d['store'] + '/' if d['store'] else ''}app/id6809352229"
@@ -123,7 +125,7 @@ def page(path, lang):
 <p class="upd"><time datetime="{pub}">{pub}</time></p>
 <p class="disc">{html.escape(t['disclose'].replace('{date}', ck))}</p>
 <div class="tw"><table><tr>{head}</tr>{rows}</table></div>
-{steps}{qa}
+{steps}{secs}{qa}
 {srcsec}<div class="links">{links}</div>
 <div class="cta"><a href="{store}"><img src="{up}badges/{d['badge']}.svg" alt="{html.escape(d['badgeAlt'])}" height="54"></a></div>
 </main>

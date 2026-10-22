@@ -3583,5 +3583,1257 @@
     ]
    ]
   }
+ },
+ "screen-time-instagram-not-working.html": {
+  "checked": "2026-10-22",
+  "id": {
+   "seo": "Batas Durasi Layar Instagram Tidak Berfungsi? Solusinya",
+   "title": "Batas Durasi Layar untuk Instagram tidak berfungsi di iPhone? Cara memperbaikinya (2026)",
+   "desc": "Batas Durasi Layar untuk Instagram tidak berfungsi di iPhone? Solusi untuk batas yang bisa diabaikan, instagram.com di Safari, iOS 27, Keluarga Berbagi, dan Selalu Diizinkan.",
+   "date": "2026-10-22",
+   "lede": "Kalau batas Durasi Layar untuk Instagram tidak menghentikan Anda, biasanya ada lima penyebab: batas bisa diabaikan secara default, Anda membuka instagram.com di Safari, iOS 27 mengubah cara kerja batas, perangkat di Keluarga Berbagi belum diperbarui, atau Instagram ada di daftar Selalu Diizinkan. Periksa dengan urutan ini.",
+   "disclose": "Halaman ini ditulis oleh pengembang minulo. Langkah-langkahnya berdasarkan halaman Dukungan Apple di bawah, dicek pada {date}. Tampilan iOS 26 dan iOS 27 berbeda, dan nama menu bisa berubah mengikuti pembaruan iOS.",
+   "cols": [
+    "Masalah",
+    "Penyebab",
+    "Solusi"
+   ],
+   "rows": [
+    [
+     "Layar batas muncul, tetapi Instagram tetap bisa dipakai",
+     "Menurut Apple, batas Durasi Layar secara default bisa diabaikan setelah tercapai.",
+     "Atur kode sandi Durasi Layar, lalu nyalakan opsi yang memblokir app saat batas tercapai (Block at End of Limit) untuk batas tersebut (iOS 26 dan sebelumnya). Minta orang lain memilihkan kode sandinya."
+    ],
+    [
+     "App terblokir, tetapi instagram.com tetap terbuka di Safari",
+     "Batas App hanya berlaku untuk app.",
+     "Pembatasan Konten &amp; Privasi &gt; App Store, Media, Web, &amp; Game &gt; Konten Web &gt; Batasi Situs Web Dewasa, lalu tambahkan instagram.com di bawah Jangan Izinkan (iOS 26)."
+    ],
+    [
+     "Setelah update ke iOS 27, Batas App hilang",
+     "iOS 27 menggantinya dengan Alokasi Waktu dan Jadwal Durasi Layar, yang memerlukan iOS 27 atau lebih baru di semua perangkat Apple Anda.",
+     "Buka Durasi Layar &gt; Alokasi Waktu, lalu atur waktu untuk kategori seperti Media Sosial."
+    ],
+    [
+     "Batas tidak berlaku di iPhone anak",
+     "Dengan Keluarga Berbagi, semua perangkat di grup perlu perangkat lunak terbaru, dan batas sebaiknya diatur dari perangkat orang tua.",
+     "Perbarui semua perangkat, lalu atur ulang Durasi Layar anak dari Pengaturan &gt; Keluarga di perangkat Anda. Pastikan anak punya Akun Apple sendiri."
+    ],
+    [
+     "Instagram tetap bisa dipakai saat Waktu Henti",
+     "App di Selalu Diizinkan tetap tersedia, terlepas dari Waktu Henti dan batas.",
+     "Buka Durasi Layar &gt; Selalu Diizinkan, lalu hapus Instagram."
+    ]
+   ],
+   "secs": [
+    [
+     "Kalau masih tidak berfungsi",
+     [
+      "<p>Perbarui iOS, mulai ulang iPhone, lalu hapus dan buat ulang batas untuk Instagram. Ini langkah umum, bukan petunjuk dari halaman Apple.</p>"
+     ]
+    ],
+    [
+     "Kalau Anda hanya ingin menghentikan Reels, bukan seluruh Instagram",
+     [
+      "<p>Durasi Layar bekerja untuk seluruh app (per kategori di iOS 27). Memblokir Instagram berarti DM juga ikut terblokir.</p>",
+      "<p>minulo membuka situs web resmi Instagram di dalam app dengan Reels, Jelajahi, dan postingan yang disarankan disembunyikan, sementara DM, postingan teman, dan pencarian tetap berfungsi. minulo juga memakai Durasi Layar iPhone untuk mengunci app resmi, jadi di iPhone yang Durasi Layarnya sendiri tidak berfungsi, bagian itu mungkin juga tidak berfungsi.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Kenapa batas Durasi Layar untuk Instagram tidak berfungsi?",
+     "Paling sering karena batas Durasi Layar secara default bisa diabaikan. Atur kode sandi Durasi Layar dan nyalakan opsi pemblokiran saat batas tercapai (Block at End of Limit) agar app tidak bisa dipakai tanpa kode sandi. Periksa juga Safari (instagram.com), Selalu Diizinkan, dan Alokasi Waktu di iOS 27."
+    ],
+    [
+     "Kenapa Instagram masih bisa dibuka di Safari?",
+     "Batas app hanya berlaku untuk app. Di iOS 26, tambahkan instagram.com di bawah Jangan Izinkan di Pembatasan Konten & Privasi > Konten Web. Di iOS 27, Alokasi Waktu juga berlaku untuk situs web yang dinyatakan terkait dengan app tersebut."
+    ],
+    [
+     "Bisakah Durasi Layar membatasi Reels Instagram saja?",
+     "Tidak. Batas Durasi Layar berlaku untuk seluruh app (per kategori di iOS 27), dan pemblokiran situs web berlaku untuk seluruh alamat. Untuk menghentikan Reels saja, pakai app yang menyembunyikannya."
+    ],
+    [
+     "Kenapa batas Durasi Layar tidak berfungsi di iPhone anak saya?",
+     "Perbarui semua perangkat di grup Keluarga Berbagi ke perangkat lunak terbaru dan atur Durasi Layar dari perangkat orang tua. Pengawasan orang tua yang baru di iOS 27 hanya berfungsi jika semua perangkat di grup memakai iOS 27 atau lebih baru."
+    ]
+   ],
+   "srcTitle": "Sumber",
+   "src": [
+    [
+     "Apple: Mengatur jadwal dengan Durasi Layar di iPhone (iOS 26)",
+     "https://support.apple.com/id-id/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple: Mengatur Jadwal Durasi Layar dan Alokasi Waktu di iPhone (iOS 27)",
+     "https://support.apple.com/id-id/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "Apple: Memblokir app, pengunduhan app, situs web, dan pembelian di iPhone (iOS 26)",
+     "https://support.apple.com/id-id/guide/iphone/iph3ff83f3b1/26/ios/26"
+    ],
+    [
+     "Apple: Menggunakan Durasi Layar untuk mengelola iPhone atau iPad anak",
+     "https://support.apple.com/id-id/108806"
+    ],
+    [
+     "App Store (Indonesia): minulo",
+     "https://apps.apple.com/id/app/id6809352229"
+    ]
+   ],
+   "links": [
+    [
+     "Cara membatasi Reels saja di Instagram",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "Belajar tanpa Reels dan Shorts",
+     "study-focus.html"
+    ],
+    [
+     "Pakai Instagram hanya untuk DM",
+     "instagram-dms-only.html"
+    ],
+    [
+     "Pertanyaan umum",
+     "faq.html"
+    ]
+   ]
+  },
+  "th": {
+   "seo": "จำกัดเวลาหน้าจอ Instagram แล้วไม่ได้ผล? วิธีแก้",
+   "title": "ตั้งเวลาหน้าจอจำกัด Instagram บน iPhone แล้วไม่ได้ผล? วิธีแก้ (2026)",
+   "desc": "ตั้งเวลาหน้าจอจำกัด Instagram บน iPhone แล้วไม่ได้ผล? วิธีแก้เมื่อขีดจำกัดถูกข้ามได้ เปิด instagram.com ใน Safari ได้ iOS 27 การแชร์กันในครอบครัว และอนุญาตเสมอ",
+   "date": "2026-10-22",
+   "lede": "ถ้าตั้งขีดจำกัดเวลาหน้าจอให้ Instagram แล้วยังหยุดไม่ได้ สาเหตุที่พบบ่อยมี 5 ข้อ: ตามค่าเริ่มต้นขีดจำกัดไม่สนใจได้ คุณเปิด instagram.com ใน Safari iOS 27 เปลี่ยนวิธีทำงานของการจำกัด อุปกรณ์ในการแชร์กันในครอบครัวยังไม่ได้อัปเดต หรือ Instagram อยู่ในรายการอนุญาตเสมอ ให้ตรวจสอบตามลำดับนี้",
+   "disclose": "หน้านี้เขียนโดยผู้พัฒนา minulo ขั้นตอนอ้างอิงจากหน้าการสนับสนุนของ Apple ด้านล่าง ตรวจสอบเมื่อ {date} หน้าจอของ iOS 26 และ iOS 27 ต่างกัน และชื่อเมนูอาจเปลี่ยนเมื่อ iOS อัปเดต",
+   "cols": [
+    "ปัญหา",
+    "สาเหตุ",
+    "วิธีแก้"
+   ],
+   "rows": [
+    [
+     "หน้าจอขีดจำกัดขึ้นมา แต่ยังใช้ Instagram ต่อได้",
+     "Apple ระบุว่าตามค่าเริ่มต้น ขีดจำกัดเวลาหน้าจอไม่สนใจได้เมื่อถึงขีดจำกัด",
+     "ตั้งรหัสเวลาหน้าจอ แล้วเปิดตัวเลือกที่ปิดกั้นแอปเมื่อถึงขีดจำกัด (Block at End of Limit) ของขีดจำกัดนั้น (iOS 26 และก่อนหน้า) ให้คนอื่นเป็นคนตั้งรหัส"
+    ],
+    [
+     "แอปถูกปิดกั้นแล้ว แต่ instagram.com ยังเปิดได้ใน Safari",
+     "การจำกัดการใช้แอปมีผลกับแอปเท่านั้น",
+     "จำกัดเนื้อหาและความเป็นส่วนตัว &gt; App Store, สื่อ, เว็บ และเกม &gt; เนื้อหาเว็บ &gt; จำกัดเว็บไซต์ผู้ใหญ่ แล้วเพิ่ม instagram.com ใต้ไม่อนุญาตเลย (iOS 26)"
+    ],
+    [
+     "อัปเดตเป็น iOS 27 แล้วการจำกัดการใช้แอปหายไป",
+     "iOS 27 เปลี่ยนเป็นเวลาที่อนุญาตและกำหนดเวลาสำหรับเวลาหน้าจอ ซึ่งต้องใช้ iOS 27 ขึ้นไปบนอุปกรณ์ Apple ทุกเครื่องของคุณ",
+     "ไปที่ เวลาหน้าจอ &gt; เวลาที่อนุญาต แล้วตั้งเวลาให้หมวดหมู่ เช่น สื่อสังคมออนไลน์"
+    ],
+    [
+     "การจำกัดไม่มีผลบน iPhone ของลูก",
+     "เมื่อใช้การแชร์กันในครอบครัว อุปกรณ์ทุกเครื่องในกลุ่มต้องใช้ซอฟต์แวร์ล่าสุด และควรตั้งการจำกัดจากอุปกรณ์ของผู้ปกครอง",
+     "อัปเดตอุปกรณ์ทุกเครื่อง แล้วตั้งค่าเวลาหน้าจอของลูกใหม่จาก การตั้งค่า &gt; ครอบครัว บนอุปกรณ์ของคุณ ตรวจสอบว่าลูกมีบัญชี Apple ของตัวเอง"
+    ],
+    [
+     "ยังใช้ Instagram ได้ในเวลาไม่ใช้งาน",
+     "แอปที่อยู่ในอนุญาตเสมอจะใช้ได้ตลอด ไม่ว่าจะเป็นเวลาไม่ใช้งานหรือมีขีดจำกัดก็ตาม",
+     "ไปที่ เวลาหน้าจอ &gt; อนุญาตเสมอ แล้วเอา Instagram ออก"
+    ]
+   ],
+   "secs": [
+    [
+     "ถ้ายังไม่ได้ผล",
+     [
+      "<p>อัปเดต iOS รีสตาร์ท iPhone แล้วลบขีดจำกัดของ Instagram และตั้งใหม่ นี่เป็นขั้นตอนทั่วไป ไม่ใช่คำแนะนำจากหน้าของ Apple</p>"
+     ]
+    ],
+    [
+     "ถ้าอยากหยุดแค่ Reels ไม่ใช่ทั้ง Instagram",
+     [
+      "<p>เวลาหน้าจอทำงานกับทั้งแอป (บน iOS 27 คือทั้งหมวดหมู่) การปิดกั้น Instagram จึงปิดกั้น DM ไปด้วย</p>",
+      "<p>minulo เปิดเว็บไซต์ทางการของ Instagram ภายในแอป โดยซ่อน Reels สำรวจ และโพสต์แนะนำ ส่วน DM โพสต์ของเพื่อน และการค้นหายังใช้ได้ minulo ยังใช้เวลาหน้าจอของ iPhone ล็อกแอปทางการด้วย ดังนั้นบน iPhone ที่เวลาหน้าจอเองไม่ทำงาน ส่วนนั้นก็อาจไม่ทำงานเช่นกัน</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "ทำไมจำกัดเวลาหน้าจอ Instagram แล้วไม่ได้ผล?",
+     "ส่วนใหญ่เป็นเพราะตามค่าเริ่มต้น ขีดจำกัดเวลาหน้าจอไม่สนใจได้ ให้ตั้งรหัสเวลาหน้าจอและเปิดตัวเลือกปิดกั้นเมื่อถึงขีดจำกัด (Block at End of Limit) เพื่อให้ใช้แอปไม่ได้ถ้าไม่มีรหัส แล้วตรวจสอบ Safari (instagram.com) อนุญาตเสมอ และเวลาที่อนุญาตบน iOS 27 ด้วย"
+    ],
+    [
+     "ทำไมยังเปิด Instagram ใน Safari ได้?",
+     "การจำกัดการใช้แอปมีผลกับแอปเท่านั้น บน iOS 26 ให้เพิ่ม instagram.com ใต้ไม่อนุญาตเลย ใน จำกัดเนื้อหาและความเป็นส่วนตัว > เนื้อหาเว็บ บน iOS 27 เวลาที่อนุญาตจะมีผลกับเว็บไซต์ที่แอปประกาศไว้ว่าเกี่ยวข้องด้วย"
+    ],
+    [
+     "เวลาหน้าจอจำกัดแค่ Reels ของ Instagram ได้ไหม?",
+     "ไม่ได้ ขีดจำกัดเวลาหน้าจอมีผลกับทั้งแอป (บน iOS 27 คือหมวดหมู่) และการปิดกั้นเว็บไซต์มีผลกับทั้งที่อยู่เว็บ ถ้าอยากหยุดแค่ Reels ให้ใช้แอปที่ซ่อน Reels"
+    ],
+    [
+     "ทำไมเวลาหน้าจอไม่มีผลบน iPhone ของลูก?",
+     "อัปเดตอุปกรณ์ทุกเครื่องในกลุ่มการแชร์กันในครอบครัวเป็นซอฟต์แวร์ล่าสุด และตั้งเวลาหน้าจอจากอุปกรณ์ของผู้ปกครอง การควบคุมโดยผู้ปกครองแบบใหม่ของ iOS 27 ใช้ได้เมื่ออุปกรณ์ทุกเครื่องในกลุ่มใช้ iOS 27 ขึ้นไปเท่านั้น"
+    ]
+   ],
+   "srcTitle": "แหล่งที่มา",
+   "src": [
+    [
+     "Apple: ตั้งค่ากำหนดเวลาด้วยเวลาหน้าจอบน iPhone (iOS 26)",
+     "https://support.apple.com/th-th/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple: ตั้งค่ากำหนดเวลาสำหรับเวลาหน้าจอและเวลาที่อนุญาตบน iPhone (iOS 27)",
+     "https://support.apple.com/th-th/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "Apple: ปิดกั้นแอป การดาวน์โหลดแอป เว็บไซต์ และสินค้าที่ซื้อบน iPhone (iOS 26)",
+     "https://support.apple.com/th-th/guide/iphone/iph3ff83f3b1/26/ios/26"
+    ],
+    [
+     "Apple: ใช้เวลาหน้าจอเพื่อจัดการ iPhone และ iPad ของเด็ก",
+     "https://support.apple.com/th-th/108806"
+    ],
+    [
+     "App Store (ประเทศไทย): minulo",
+     "https://apps.apple.com/th/app/id6809352229"
+    ]
+   ],
+   "links": [
+    [
+     "วิธีจำกัดเวลาแค่ Reels ของ Instagram",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "เลิกดู Reels ระหว่างอ่านหนังสือ",
+     "study-focus.html"
+    ],
+    [
+     "ใช้ Instagram แค่ DM",
+     "instagram-dms-only.html"
+    ],
+    [
+     "คำถามที่พบบ่อย",
+     "faq.html"
+    ]
+   ]
+  },
+  "vi": {
+   "seo": "Giới hạn Thời gian sử dụng cho Instagram không hoạt động? Cách sửa",
+   "title": "Giới hạn Thời gian sử dụng cho Instagram không hoạt động trên iPhone? Cách khắc phục (2026)",
+   "desc": "Giới hạn Thời gian sử dụng cho Instagram không hoạt động trên iPhone? Cách sửa khi giới hạn bị bỏ qua, instagram.com trong Safari, iOS 27, Chia sẻ trong gia đình và Luôn cho phép.",
+   "date": "2026-10-22",
+   "lede": "Khi giới hạn Thời gian sử dụng cho Instagram không ngăn được bạn, thường có năm nguyên nhân: theo mặc định giới hạn có thể bỏ qua, bạn đang mở instagram.com trong Safari, iOS 27 đã thay đổi cách giới hạn hoạt động, các thiết bị trong Chia sẻ trong gia đình chưa được cập nhật, hoặc Instagram nằm trong danh sách Luôn cho phép. Hãy kiểm tra theo thứ tự này.",
+   "disclose": "Trang này do nhà phát triển minulo viết. Các bước dựa trên các trang Hỗ trợ của Apple bên dưới, kiểm tra ngày {date}. Màn hình của iOS 26 và iOS 27 khác nhau, và tên menu có thể thay đổi khi iOS cập nhật.",
+   "cols": [
+    "Vấn đề",
+    "Nguyên nhân",
+    "Cách khắc phục"
+   ],
+   "rows": [
+    [
+     "Màn hình giới hạn hiện ra nhưng bạn vẫn dùng Instagram tiếp được",
+     "Theo Apple, theo mặc định giới hạn Thời gian sử dụng có thể được bỏ qua khi đạt tới.",
+     "Đặt mật mã Thời gian sử dụng và bật tùy chọn chặn khi hết giới hạn (Block at End of Limit) cho giới hạn đó (iOS 26 trở về trước). Nhờ người khác đặt mật mã."
+    ],
+    [
+     "Ứng dụng đã bị chặn nhưng instagram.com vẫn mở được trong Safari",
+     "Giới hạn ứng dụng chỉ áp dụng cho ứng dụng.",
+     "Bật giới hạn &gt; App Store, Phương tiện, Trang web &amp; Trò chơi &gt; Nội dung web &gt; Giới hạn trang web người lớn, rồi thêm instagram.com bên dưới Không bao giờ cho phép (iOS 26)."
+    ],
+    [
+     "Sau khi cập nhật lên iOS 27, Giới hạn ứng dụng biến mất",
+     "iOS 27 thay nó bằng Thời gian cho phép và Lịch trình Thời gian sử dụng, cần iOS 27 trở lên trên tất cả thiết bị Apple của bạn.",
+     "Vào Thời gian sử dụng &gt; Thời gian cho phép và đặt thời gian cho một danh mục như Mạng xã hội."
+    ],
+    [
+     "Giới hạn không áp dụng trên iPhone của con",
+     "Với Chia sẻ trong gia đình, mọi thiết bị trong nhóm cần phần mềm mới nhất, và nên đặt giới hạn từ thiết bị của phụ huynh.",
+     "Cập nhật mọi thiết bị, rồi đặt lại Thời gian sử dụng của con từ Cài đặt &gt; Gia đình trên thiết bị của bạn. Kiểm tra con có Tài khoản Apple riêng."
+    ],
+    [
+     "Instagram vẫn dùng được trong Giờ nghỉ",
+     "Ứng dụng trong Luôn cho phép vẫn khả dụng bất kể Giờ nghỉ và giới hạn.",
+     "Vào Thời gian sử dụng &gt; Luôn cho phép và xóa Instagram."
+    ]
+   ],
+   "secs": [
+    [
+     "Nếu vẫn không được",
+     [
+      "<p>Cập nhật iOS, khởi động lại iPhone, rồi xóa và tạo lại giới hạn cho Instagram. Đây là các bước chung, không phải hướng dẫn từ các trang của Apple.</p>"
+     ]
+    ],
+    [
+     "Nếu bạn chỉ muốn dừng Reels, không phải cả Instagram",
+     [
+      "<p>Thời gian sử dụng hoạt động trên cả ứng dụng (theo danh mục trên iOS 27). Chặn Instagram thì tin nhắn cũng bị chặn.</p>",
+      "<p>minulo mở trang web chính thức của Instagram bên trong ứng dụng và ẩn Reels, Khám phá và bài viết gợi ý, trong khi tin nhắn, bài viết của bạn bè và tìm kiếm vẫn dùng được. minulo cũng dùng Thời gian sử dụng của iPhone để khóa ứng dụng chính thức, nên trên iPhone mà chính Thời gian sử dụng không hoạt động thì phần đó cũng có thể không hoạt động.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Vì sao giới hạn Thời gian sử dụng cho Instagram không hoạt động?",
+     "Thường là vì theo mặc định giới hạn Thời gian sử dụng có thể bỏ qua. Hãy đặt mật mã Thời gian sử dụng và bật tùy chọn chặn khi hết giới hạn (Block at End of Limit) để không dùng được ứng dụng nếu không có mật mã. Kiểm tra cả Safari (instagram.com), Luôn cho phép và, trên iOS 27, Thời gian cho phép."
+    ],
+    [
+     "Vì sao tôi vẫn mở được Instagram trong Safari?",
+     "Giới hạn ứng dụng chỉ áp dụng cho ứng dụng. Trên iOS 26, thêm instagram.com bên dưới Không bao giờ cho phép trong Bật giới hạn > Nội dung web. Trên iOS 27, Thời gian cho phép cũng áp dụng cho trang web mà ứng dụng khai báo là có liên kết."
+    ],
+    [
+     "Thời gian sử dụng có giới hạn được riêng Reels của Instagram không?",
+     "Không. Giới hạn Thời gian sử dụng áp dụng cho cả ứng dụng (theo danh mục trên iOS 27), còn chặn trang web áp dụng cho cả địa chỉ. Muốn dừng riêng Reels, hãy dùng ứng dụng ẩn Reels."
+    ],
+    [
+     "Vì sao giới hạn Thời gian sử dụng không hoạt động trên iPhone của con tôi?",
+     "Cập nhật mọi thiết bị trong nhóm Chia sẻ trong gia đình lên phần mềm mới nhất và đặt Thời gian sử dụng từ thiết bị của phụ huynh. Các tính năng kiểm soát mới của iOS 27 chỉ hoạt động khi mọi thiết bị trong nhóm chạy iOS 27 trở lên."
+    ]
+   ],
+   "srcTitle": "Nguồn",
+   "src": [
+    [
+     "Apple: Đặt lịch trình với Thời gian sử dụng trên iPhone (iOS 26)",
+     "https://support.apple.com/vi-vn/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple: Đặt Lịch trình Thời gian sử dụng và Thời gian cho phép trên iPhone (iOS 27)",
+     "https://support.apple.com/vi-vn/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "Apple: Chặn ứng dụng, bản tải về ứng dụng, trang web và giao dịch mua trên iPhone (iOS 26)",
+     "https://support.apple.com/vi-vn/guide/iphone/iph3ff83f3b1/26/ios/26"
+    ],
+    [
+     "Apple: Sử dụng Thời gian sử dụng để quản lý iPhone hoặc iPad của con bạn",
+     "https://support.apple.com/vi-vn/108806"
+    ],
+    [
+     "App Store (Việt Nam): minulo",
+     "https://apps.apple.com/vn/app/id6809352229"
+    ]
+   ],
+   "links": [
+    [
+     "Cách giới hạn riêng Reels trên Instagram",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "Học bài không xem Reels, Shorts",
+     "study-focus.html"
+    ],
+    [
+     "Dùng Instagram chỉ để nhắn tin",
+     "instagram-dms-only.html"
+    ],
+    [
+     "Câu hỏi thường gặp",
+     "faq.html"
+    ]
+   ]
+  },
+  "ru": {
+   "seo": "Лимит «Экранного времени» для Instagram не работает? Решения",
+   "title": "Лимит «Экранного времени» для Instagram не работает на iPhone? Как исправить (2026)",
+   "desc": "Лимит «Экранного времени» для Instagram не работает на iPhone? Что делать, если лимит можно игнорировать, instagram.com открывается в Safari, после iOS 27, в Семейном доступе и с «Разрешенными всегда».",
+   "date": "2026-10-22",
+   "lede": "Если лимит «Экранного времени» для Instagram вас не останавливает, обычно причин пять: по умолчанию лимит можно проигнорировать, вы открываете instagram.com в Safari, в iOS 27 лимиты устроены иначе, устройства в Семейном доступе не обновлены или Instagram стоит в списке «Разрешенные всегда». Проверьте их в этом порядке.",
+   "disclose": "Эту страницу написал разработчик minulo. Шаги основаны на страницах службы поддержки Apple ниже, проверены {date}. Экраны в iOS 26 и iOS 27 различаются, а названия пунктов меню могут меняться с обновлениями iOS.",
+   "cols": [
+    "Проблема",
+    "Причина",
+    "Что сделать"
+   ],
+   "rows": [
+    [
+     "Экран лимита появляется, но Instagram можно пользоваться дальше",
+     "По данным Apple, по умолчанию достижение лимитов «Экранного времени» можно проигнорировать.",
+     "Задайте код-пароль «Экранного времени» и включите для этого лимита блокировку по его окончании (Block at End of Limit) — в iOS 26 и раньше. Попросите кого-то другого придумать код-пароль."
+    ],
+    [
+     "Приложение заблокировано, но instagram.com открывается в Safari",
+     "Лимиты приложений действуют только на приложение.",
+     "«Контент и конфиденциальность» &gt; «App Store, медиаконтент, интернет и игры» &gt; «Веб-контент» &gt; «Без сайтов для взрослых», затем добавьте instagram.com в раздел «Не разрешать никогда» (iOS 26)."
+    ],
+    [
+     "После обновления до iOS 27 пропали «Лимиты приложений»",
+     "В iOS 27 их заменили «Лимиты времени» и «Расписание экранного времени», для которых нужна iOS 27 или новее на всех ваших устройствах Apple.",
+     "Откройте «Экранное время» &gt; «Лимиты времени» и задайте время для категории, например «Социальные сети»."
+    ],
+    [
+     "Лимиты не действуют на iPhone ребенка",
+     "В Семейном доступе на всех устройствах группы должно быть установлено последнее ПО, а лимиты лучше задавать с устройства родителя.",
+     "Обновите все устройства, затем заново настройте «Экранное время» ребенка в «Настройки» &gt; «Семья» на своем устройстве. Проверьте, что у ребенка свой Аккаунт Apple."
+    ],
+    [
+     "Instagram работает в режиме «В покое»",
+     "Приложения из списка «Разрешенные всегда» доступны независимо от режима «В покое» и лимитов.",
+     "Откройте «Экранное время» &gt; «Разрешенные всегда» и уберите Instagram."
+    ]
+   ],
+   "secs": [
+    [
+     "Если все равно не работает",
+     [
+      "<p>Обновите iOS, перезагрузите iPhone, удалите лимит для Instagram и создайте его заново. Это общие шаги, а не инструкции со страниц Apple.</p>"
+     ]
+    ],
+    [
+     "Если хотите остановить только Reels, а не весь Instagram",
+     [
+      "<p>«Экранное время» работает с приложением целиком (в iOS 27 — с категориями). Если заблокировать Instagram, заблокируется и Директ.</p>",
+      "<p>minulo открывает официальный сайт Instagram внутри приложения и скрывает Reels, «Интересное» и рекомендуемые публикации, а Директ, публикации друзей и поиск продолжают работать. minulo тоже использует «Экранное время» iPhone, чтобы блокировать официальное приложение, поэтому на iPhone, где само «Экранное время» не работает, эта часть тоже может не сработать.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Почему не работает лимит «Экранного времени» для Instagram?",
+     "Чаще всего потому, что по умолчанию лимиты «Экранного времени» можно проигнорировать. Задайте код-пароль «Экранного времени» и включите блокировку по окончании лимита (Block at End of Limit), чтобы без код-пароля приложением нельзя было пользоваться. Проверьте также Safari (instagram.com), «Разрешенные всегда» и, в iOS 27, «Лимиты времени»."
+    ],
+    [
+     "Почему Instagram все еще открывается в Safari?",
+     "Лимит приложения действует только на приложение. В iOS 26 добавьте instagram.com в раздел «Не разрешать никогда» в «Контент и конфиденциальность» > «Веб-контент». В iOS 27 «Лимиты времени» распространяются и на сайт, который приложение указало как связанный."
+    ],
+    [
+     "Может ли «Экранное время» ограничить только Reels в Instagram?",
+     "Нет. Лимиты «Экранного времени» действуют на приложение целиком (в iOS 27 — на категории), а блокировка сайтов — на адрес целиком. Чтобы остановить только Reels, используйте приложение, которое их скрывает."
+    ],
+    [
+     "Почему лимиты «Экранного времени» не работают на iPhone моего ребенка?",
+     "Обновите все устройства в группе Семейного доступа до последней версии ПО и настраивайте «Экранное время» с устройства родителя. Новые средства родительского контроля iOS 27 работают, только когда на всех устройствах группы установлена iOS 27 или новее."
+    ]
+   ],
+   "srcTitle": "Источники",
+   "src": [
+    [
+     "Apple: настройка расписания с помощью функции «Экранное время» на iPhone (iOS 26)",
+     "https://support.apple.com/ru-ru/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple: настройка расписаний и лимитов в Экранном времени на iPhone (iOS 27)",
+     "https://support.apple.com/ru-ru/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "Apple: блокировка приложений, сайтов, покупок и загрузки приложений на iPhone (iOS 26)",
+     "https://support.apple.com/ru-ru/guide/iphone/iph3ff83f3b1/26/ios/26"
+    ],
+    [
+     "Apple: управление устройством iPhone или iPad ребенка с помощью функции «Экранное время»",
+     "https://support.apple.com/ru-ru/108806"
+    ],
+    [
+     "App Store: minulo",
+     "https://apps.apple.com/app/id6809352229"
+    ]
+   ],
+   "links": [
+    [
+     "Как ограничить только Reels в Instagram",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "Instagram только для Директа",
+     "instagram-dms-only.html"
+    ],
+    [
+     "minulo и SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "Частые вопросы",
+     "faq.html"
+    ]
+   ]
+  },
+  "zh-Hant": {
+   "seo": "IG 用「螢幕使用時間」限制卻沒用？原因與解法",
+   "title": "用「螢幕使用時間」限制 IG 卻還是打得開？iPhone 的原因與解法（2026）",
+   "desc": "在 iPhone 用「螢幕使用時間」限制 Instagram 卻沒效？限制可被忽略、Safari 開 instagram.com、iOS 27、家人共享、「永遠允許」的解法。",
+   "date": "2026-10-22",
+   "lede": "用「螢幕使用時間」限制 Instagram 卻擋不住，常見原因有五個：限制預設可以忽略、你在 Safari 開 instagram.com、iOS 27 改了限制的方式、「家人共享」裡的裝置沒更新，或 Instagram 在「永遠允許」名單裡。請依這個順序檢查。",
+   "disclose": "本頁由 minulo 的開發者撰寫。步驟依據下方的 Apple 支援頁面，確認日期為 {date}。iOS 26 和 iOS 27 的畫面不同，選單名稱也可能隨 iOS 更新而改變。",
+   "cols": [
+    "狀況",
+    "原因",
+    "解法"
+   ],
+   "rows": [
+    [
+     "出現限制畫面，但 IG 還是能繼續用",
+     "依 Apple 的說明，「螢幕使用時間」的限制預設在達到後可以忽略。",
+     "設定「螢幕使用時間」密碼，並為該限制開啟達到上限時阻擋的選項（Block at End of Limit，iOS 26 以前）。密碼請別人幫你設。"
+    ],
+    [
+     "App 被擋了，但 Safari 還能開 instagram.com",
+     "「App 限制」只對 App 有效。",
+     "「內容與隱私權限制」&gt;「App Store、媒體、網頁與遊戲」&gt;「網頁內容」&gt;「限制成人網站」，再到「永不允許」加入 instagram.com（iOS 26）。"
+    ],
+    [
+     "更新到 iOS 27 後「App 限制」不見了",
+     "iOS 27 改成「使用時限」和「螢幕使用時間排程」，你所有的 Apple 裝置都需要 iOS 27 或以上版本。",
+     "前往「螢幕使用時間」&gt;「使用時限」，為「社群媒體」等類別設定時間。"
+    ],
+    [
+     "孩子的 iPhone 上限制沒有作用",
+     "使用「家人共享」時，群組裡的所有裝置都要更新到最新軟體，限制也應從家長的裝置設定。",
+     "更新所有裝置，再從你裝置上的「設定」&gt;「家人共享」重新設定孩子的「螢幕使用時間」。並確認孩子有自己的 Apple 帳號。"
+    ],
+    [
+     "「停用時間」中 IG 還是能用",
+     "「永遠允許」裡的 App 不受「停用時間」和限制影響，隨時都能用。",
+     "前往「螢幕使用時間」&gt;「永遠允許」，把 Instagram 移除。"
+    ]
+   ],
+   "secs": [
+    [
+     "如果還是沒用",
+     [
+      "<p>更新 iOS、重新開機，然後刪掉 Instagram 的限制再重新建立。這是一般的做法，不是 Apple 頁面上的指示。</p>"
+     ]
+    ],
+    [
+     "如果只想擋 Reels，不想擋整個 IG",
+     [
+      "<p>「螢幕使用時間」是以整個 App 為單位（iOS 27 是以類別為單位）。擋掉 Instagram，私訊也會一起被擋。</p>",
+      "<p>minulo 會在 App 裡打開 Instagram 官方網站，並隱藏 Reels、探索和推薦貼文，私訊、朋友的貼文和搜尋照常能用。minulo 也是用 iPhone 的「螢幕使用時間」鎖定官方 App，所以在「螢幕使用時間」本身就沒作用的 iPhone 上，這部分可能也不會生效。</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "為什麼用「螢幕使用時間」限制 IG 沒有用？",
+     "最常見的原因是「螢幕使用時間」的限制預設可以忽略。設定「螢幕使用時間」密碼，並開啟達到上限時阻擋的選項（Block at End of Limit），沒有密碼就不能繼續用 App。也請檢查 Safari（instagram.com）、「永遠允許」，以及 iOS 27 的「使用時限」。"
+    ],
+    [
+     "為什麼 Safari 還能打開 Instagram？",
+     "App 的限制只對 App 有效。在 iOS 26，到「內容與隱私權限制」>「網頁內容」的「永不允許」加入 instagram.com。在 iOS 27，如果 App 宣告有相關聯的網站，「使用時限」也會套用到該網站。"
+    ],
+    [
+     "「螢幕使用時間」可以只限制 IG 的 Reels 嗎？",
+     "不行。「螢幕使用時間」的限制以整個 App 為單位（iOS 27 是類別），擋網站也是以整個網址為單位。只想擋 Reels，就要用會把 Reels 隱藏的 App。"
+    ],
+    [
+     "為什麼孩子的 iPhone 上「螢幕使用時間」沒有作用？",
+     "把「家人共享」群組裡的所有裝置更新到最新軟體，並從家長的裝置設定「螢幕使用時間」。iOS 27 新的分級保護控制，要群組裡所有裝置都是 iOS 27 或以上版本才能使用。"
+    ]
+   ],
+   "srcTitle": "資料來源",
+   "src": [
+    [
+     "Apple：在 iPhone 上設定「螢幕使用時間」排程（iOS 26）",
+     "https://support.apple.com/zh-tw/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple：在 iPhone 上設定「螢幕使用時間」排程和「使用時限」（iOS 27）",
+     "https://support.apple.com/zh-tw/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "Apple：在 iPhone 上阻擋 App、App 下載項目、網站和購買項目（iOS 26）",
+     "https://support.apple.com/zh-tw/guide/iphone/iph3ff83f3b1/26/ios/26"
+    ],
+    [
+     "Apple：使用「螢幕使用時間」管理孩子的 iPhone 或 iPad",
+     "https://support.apple.com/zh-tw/108806"
+    ],
+    [
+     "App Store（台灣）：minulo",
+     "https://apps.apple.com/tw/app/id6809352229"
+    ]
+   ],
+   "links": [
+    [
+     "只限制 IG Reels 時間的方法",
+     "limit-instagram-reels-time.html"
+    ],
+    [
+     "關閉 IG Reels 的方法",
+     "turn-off-instagram-reels.html"
+    ],
+    [
+     "IG 只用私訊的方法",
+     "instagram-dms-only.html"
+    ],
+    [
+     "常見問題",
+     "faq.html"
+    ]
+   ]
+  }
+ },
+ "limit-instagram-reels-time.html": {
+  "checked": "2026-10-22",
+  "id": {
+   "seo": "Cara Membatasi Waktu Reels Instagram Saja di iPhone",
+   "title": "Cara membatasi Reels saja di Instagram: batas waktu Reels di iPhone (2026)",
+   "desc": "Instagram tidak punya batas waktu khusus Reels. Batas hariannya hanya pengingat untuk seluruh app, dan Durasi Layar memblokir seluruh app. Cara membatasi Reels dan tetap memakai DM.",
+   "date": "2026-10-22",
+   "lede": "Kami tidak menemukan setelan di halaman bantuan resmi Instagram yang memberi batas waktu khusus untuk Reels. Batas waktu harian Instagram adalah pengingat untuk seluruh Instagram, bukan pemblokiran. Durasi Layar di iPhone memblokir seluruh app Instagram, jadi DM juga ikut berhenti. Untuk mengurangi Reels tetapi tetap memakai DM, pilihan yang paling mendekati adalah app yang membuka Instagram dengan Reels disembunyikan, seperti minulo atau SocialLite.",
+   "disclose": "Halaman ini ditulis oleh pengembang minulo. Setelan Instagram dicek berdasarkan sumber di bawah pada 2026-09-28, deskripsi App Store pada 2026-10-09, dan Durasi Layar iPhone pada {date}. Nama menu bisa berubah mengikuti pembaruan app dan iOS.",
+   "cols": [
+    "Cara",
+    "Hanya untuk Reels?",
+    "Memblokir? DM?"
+   ],
+   "rows": [
+    [
+     "<b>Batas waktu harian Instagram</b>",
+     "Tidak. Menghitung seluruh Instagram.",
+     "Menampilkan pengingat setelah waktu yang Anda atur. Tidak memblokir."
+    ],
+    [
+     "<b>Akun Remaja</b>",
+     "Tidak. Pengingat setelah 60 menit sehari dan mode tidur dari pukul 22.00 sampai 07.00.",
+     "Hanya untuk akun remaja."
+    ],
+    [
+     "<b>Durasi Layar iPhone</b>",
+     "Tidak. Seluruh app sampai iOS 26; per kategori (seperti Media Sosial) di iOS 27.",
+     "Memblokir dengan kode sandi. DM juga ikut terblokir."
+    ],
+    [
+     "<b>Feed Mengikuti</b> (ketuk logo Instagram)",
+     "Menghapus postingan yang disarankan dari feed beranda.",
+     "Tab Reels tetap ada."
+    ],
+    [
+     "<b>minulo</b>",
+     "Menyembunyikan Reels, Jelajahi, dan postingan yang disarankan, bukan membatasi waktunya. Reels yang dikirim lewat DM berhenti sebelum masuk ke feed tanpa akhir; “Buka 5 menit” membiarkan Anda menonton selama lima menit.",
+     "DM, postingan teman, postingan Anda sendiri, dan pencarian tetap berfungsi. Mengunci app resmi dengan Durasi Layar dan mengarahkan Anda ke minulo."
+    ],
+    [
+     "<b>SocialLite</b>",
+     "Menghapus feed video pendek dan rekomendasi. Video yang dikirim seseorang bisa ditonton, tetapi Anda tidak bisa menggulir ke video berikutnya (deskripsi App Store).",
+     "DM tetap berfungsi."
+    ]
+   ],
+   "secs": [
+    [
+     "Cara mengatur batas Durasi Layar untuk Instagram",
+     [
+      "<p>Ini membatasi seluruh Instagram, bukan hanya Reels.</p>",
+      "<p><b>iOS 26 dan sebelumnya</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>Buka Pengaturan, lalu ketuk Durasi Layar.</li><li>Ketuk Batas App, lalu Tambah Batas.</li><li>Ketuk nama kategori, pilih Instagram, ketuk Berikutnya, lalu atur waktunya.</li><li>Secara default, batas bisa diabaikan. Agar benar-benar berlaku, atur kode sandi Durasi Layar dan nyalakan opsi pemblokiran saat batas tercapai (Block at End of Limit).</li></ol>",
+      "<p><b>iOS 27</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>Buka Pengaturan, ketuk Durasi Layar, lalu Alokasi Waktu.</li><li>Atur berapa lama kategori seperti Media Sosial boleh dipakai setiap hari.</li><li>Jika app memiliki situs web terkait yang dinyatakan, Alokasi Waktu berlaku untuk keduanya (Apple).</li></ol>"
+     ]
+    ],
+    [
+     "Sembunyikan Reels dan tetap pakai DM (dengan minulo)",
+     [
+      "<p>minulo membuka situs web resmi Instagram di dalam app dengan Reels, Jelajahi, postingan yang disarankan, dan iklan disembunyikan. Anda memilih apa yang disembunyikan satu per satu, dan menyembunyikan itu gratis.</p>",
+      "<p>minulo bisa mengunci app Instagram resmi dengan Durasi Layar iPhone; layar blokir menawarkan untuk membuka minulo sebagai gantinya. Blokir gratis berlaku hingga 2 jam setiap kali, dan Anda bisa memulainya lagi kapan saja. Jadwal, blokir lebih dari 2 jam, dan Mode Ketat (tanpa buka blokir instan) ada di minulo Pro.</p>",
+      "<p>minulo dirilis pada September 2026 dan ulasannya masih sedikit. Tidak ada versi Android.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Bisakah memberi batas waktu untuk Reels Instagram saja?",
+     "Per Oktober 2026 kami tidak menemukannya, baik di halaman bantuan resmi Instagram maupun di Durasi Layar iPhone. Keduanya berlaku untuk seluruh Instagram (atau satu kategori, di iOS 27)."
+    ],
+    [
+     "Bagaimana cara membatasi waktu Reels di Instagram?",
+     "Atur batas waktu harian di Instagram (pengingat) atau batas Durasi Layar (pemblokiran, dengan kode sandi). Keduanya berlaku untuk seluruh Instagram. Kalau Reels yang jadi masalah, buka Instagram di app yang menyembunyikan Reels."
+    ],
+    [
+     "Bagaimana cara mengurangi Reels yang disarankan di feed beranda?",
+     "Ketuk logo Instagram dan pilih Mengikuti untuk melihat postingan dari akun yang Anda ikuti saja, urut waktu, tanpa saran. Tab Reels tetap ada. Untuk menghilangkannya, pakai app yang menyembunyikan Reels, seperti minulo."
+    ],
+    [
+     "Apakah saya masih bisa menonton Reels yang dikirim teman lewat DM?",
+     "Di minulo, bisa. Reels yang dikirim lewat DM berhenti sebelum masuk ke feed tanpa akhir, dan “Buka 5 menit” membiarkan Anda menonton selama lima menit."
+    ]
+   ],
+   "srcTitle": "Sumber",
+   "src": [
+    [
+     "Bantuan Instagram: Mengatur batas waktu harian",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "Meta (2022-03-23): feed Mengikuti dan Favorit (bahasa Inggris)",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "Meta (2024-09-17): Akun Remaja Instagram (bahasa Inggris)",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple: Mengatur jadwal dengan Durasi Layar di iPhone (iOS 26)",
+     "https://support.apple.com/id-id/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple: Mengatur Jadwal Durasi Layar dan Alokasi Waktu di iPhone (iOS 27)",
+     "https://support.apple.com/id-id/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "App Store (Indonesia): minulo",
+     "https://apps.apple.com/id/app/id6809352229"
+    ],
+    [
+     "App Store (AS): SocialLite-Block Reels&Shorts",
+     "https://apps.apple.com/us/app/id6757661674"
+    ]
+   ],
+   "links": [
+    [
+     "Batas Durasi Layar untuk Instagram tidak berfungsi",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "Pakai Instagram hanya untuk DM",
+     "instagram-dms-only.html"
+    ],
+    [
+     "Belajar tanpa Reels dan Shorts",
+     "study-focus.html"
+    ],
+    [
+     "minulo vs SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "Pertanyaan umum",
+     "faq.html"
+    ]
+   ]
+  },
+  "th": {
+   "seo": "วิธีจำกัดเวลาแค่ Reels ของ Instagram บน iPhone",
+   "title": "วิธีจำกัดเวลาแค่ Reels ของ Instagram: ตั้งเวลาดู Reels บน iPhone (2026)",
+   "desc": "Instagram ไม่มีการจำกัดเวลาเฉพาะ Reels ขีดจำกัดรายวันเป็นแค่การเตือนสำหรับทั้งแอป และเวลาหน้าจอปิดกั้นทั้งแอป วิธีลด Reels โดยยังใช้ DM ได้",
+   "date": "2026-10-22",
+   "lede": "เราไม่พบการตั้งค่าในหน้าความช่วยเหลือทางการของ Instagram ที่จำกัดเวลาเฉพาะ Reels ขีดจำกัดเวลารายวันของ Instagram เป็นการเตือนสำหรับทั้ง Instagram ไม่ใช่การปิดกั้น ส่วนเวลาหน้าจอของ iPhone ปิดกั้นทั้งแอป Instagram ทำให้ DM หยุดไปด้วย ถ้าอยากลด Reels แต่ยังใช้ DM วิธีที่ใกล้ที่สุดคือแอปที่เปิด Instagram โดยซ่อน Reels เช่น minulo หรือ SocialLite",
+   "disclose": "หน้านี้เขียนโดยผู้พัฒนา minulo การตั้งค่าของ Instagram ตรวจสอบจากแหล่งที่มาด้านล่างเมื่อ 2026-09-28 คำอธิบายใน App Store เมื่อ 2026-10-09 และเวลาหน้าจอของ iPhone เมื่อ {date} ชื่อเมนูอาจเปลี่ยนเมื่อแอปและ iOS อัปเดต",
+   "cols": [
+    "วิธี",
+    "มีผลแค่ Reels ไหม?",
+    "ปิดกั้นไหม? DM ล่ะ?"
+   ],
+   "rows": [
+    [
+     "<b>ขีดจำกัดเวลารายวันของ Instagram</b>",
+     "ไม่ นับเวลาทั้ง Instagram",
+     "แสดงการเตือนเมื่อครบเวลาที่ตั้งไว้ ไม่ปิดกั้น"
+    ],
+    [
+     "<b>บัญชีวัยรุ่น</b>",
+     "ไม่ เตือนเมื่อใช้ครบ 60 นาทีต่อวัน และมีโหมดนอนหลับตั้งแต่ 22:00 ถึง 07:00",
+     "เฉพาะบัญชีวัยรุ่น"
+    ],
+    [
+     "<b>เวลาหน้าจอของ iPhone</b>",
+     "ไม่ ทั้งแอปจนถึง iOS 26 และตามหมวดหมู่ (เช่น สื่อสังคมออนไลน์) บน iOS 27",
+     "ปิดกั้นได้ด้วยรหัส DM ก็ถูกปิดกั้นด้วย"
+    ],
+    [
+     "<b>ฟีดกำลังติดตาม</b> (แตะโลโก้ Instagram)",
+     "เอาโพสต์แนะนำออกจากฟีดหน้าหลัก",
+     "แท็บ Reels ยังอยู่"
+    ],
+    [
+     "<b>minulo</b>",
+     "ซ่อน Reels สำรวจ และโพสต์แนะนำแทนการจับเวลา Reels ที่ส่งมาใน DM จะหยุดก่อนเข้าสู่ฟีดที่เลื่อนได้ไม่สิ้นสุด และ “เปิด 5 นาที” ให้ดูได้ 5 นาที",
+     "DM โพสต์ของเพื่อน โพสต์ของคุณเอง และการค้นหายังใช้ได้ ล็อกแอปทางการด้วยเวลาหน้าจอและพาคุณไปที่ minulo"
+    ],
+    [
+     "<b>SocialLite</b>",
+     "เอาฟีดวิดีโอสั้นและการแนะนำออก วิดีโอที่มีคนส่งมาดูได้ แต่เลื่อนไปคลิปถัดไปไม่ได้ (คำอธิบายใน App Store)",
+     "DM ยังใช้ได้"
+    ]
+   ],
+   "secs": [
+    [
+     "วิธีตั้งขีดจำกัดเวลาหน้าจอให้ Instagram",
+     [
+      "<p>วิธีนี้จำกัดทั้ง Instagram ไม่ใช่แค่ Reels</p>",
+      "<p><b>iOS 26 และก่อนหน้า</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>เปิดการตั้งค่า แล้วแตะ เวลาหน้าจอ</li><li>แตะ การจำกัดการใช้แอป แล้วแตะ เพิ่มการจำกัด</li><li>แตะชื่อหมวดหมู่ เลือก Instagram แตะ ถัดไป แล้วตั้งเวลา</li><li>ตามค่าเริ่มต้น ขีดจำกัดไม่สนใจได้ ถ้าอยากให้ได้ผลจริง ให้ตั้งรหัสเวลาหน้าจอและเปิดตัวเลือกปิดกั้นเมื่อถึงขีดจำกัด (Block at End of Limit)</li></ol>",
+      "<p><b>iOS 27</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>เปิดการตั้งค่า แตะ เวลาหน้าจอ แล้วแตะ เวลาที่อนุญาต</li><li>ตั้งว่าหมวดหมู่ เช่น สื่อสังคมออนไลน์ ใช้ได้วันละนานเท่าไร</li><li>ถ้าแอปมีเว็บไซต์ที่เกี่ยวข้องที่แอปประกาศไว้ เวลาที่อนุญาตจะใช้กับทั้งสองอย่าง (Apple)</li></ol>"
+     ]
+    ],
+    [
+     "ซ่อน Reels แต่ยังใช้ DM ได้ (ด้วย minulo)",
+     [
+      "<p>minulo เปิดเว็บไซต์ทางการของ Instagram ภายในแอป โดยซ่อน Reels สำรวจ โพสต์แนะนำ และโฆษณา คุณเลือกได้ทีละรายการว่าจะซ่อนอะไร และการซ่อนใช้ได้ฟรี</p>",
+      "<p>minulo ล็อกแอป Instagram ทางการได้ด้วยเวลาหน้าจอของ iPhone และหน้าจอที่ถูกปิดกั้นจะมีปุ่มให้เปิด minulo แทน การบล็อกแบบฟรีได้ครั้งละไม่เกิน 2 ชั่วโมง และเริ่มใหม่ได้ทุกเมื่อ การตั้งเวลา การบล็อกนานกว่า 2 ชั่วโมง และโหมดเข้มงวด (ปลดบล็อกทันทีไม่ได้) อยู่ใน minulo Pro</p>",
+      "<p>minulo เปิดตัวในเดือนกันยายน 2026 จึงยังมีคะแนนรีวิวไม่มาก และไม่มีเวอร์ชัน Android</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "ตั้งเวลาจำกัดแค่ Reels ของ Instagram ได้ไหม?",
+     "ณ เดือนตุลาคม 2026 เราไม่พบวิธีนี้ ทั้งในหน้าความช่วยเหลือทางการของ Instagram และในเวลาหน้าจอของ iPhone ทั้งสองอย่างมีผลกับทั้ง Instagram (หรือทั้งหมวดหมู่ บน iOS 27)"
+    ],
+    [
+     "จำกัดเวลาดู Reels บน Instagram ได้อย่างไร?",
+     "ตั้งขีดจำกัดเวลารายวันใน Instagram (การเตือน) หรือขีดจำกัดเวลาหน้าจอ (ปิดกั้นด้วยรหัส) ทั้งสองแบบมีผลกับทั้ง Instagram ถ้าปัญหาคือ Reels ให้เปิด Instagram ในแอปที่ซ่อน Reels แทน"
+    ],
+    [
+     "จะลด Reels แนะนำในฟีดหน้าหลักได้อย่างไร?",
+     "แตะโลโก้ Instagram แล้วเลือกกำลังติดตาม เพื่อดูเฉพาะโพสต์จากบัญชีที่คุณติดตาม เรียงตามเวลา ไม่มีการแนะนำ แต่แท็บ Reels ยังอยู่ ถ้าอยากเอาออก ให้ใช้แอปที่ซ่อน Reels เช่น minulo"
+    ],
+    [
+     "ยังดู Reels ที่เพื่อนส่งมาใน DM ได้ไหม?",
+     "ใน minulo ดูได้ Reels ที่ส่งมาใน DM จะหยุดก่อนเข้าสู่ฟีดที่เลื่อนได้ไม่สิ้นสุด และ “เปิด 5 นาที” ให้ดูได้ 5 นาที"
+    ]
+   ],
+   "srcTitle": "แหล่งที่มา",
+   "src": [
+    [
+     "ความช่วยเหลือของ Instagram: ตั้งขีดจำกัดเวลารายวัน",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "Meta (2022-03-23): ฟีดกำลังติดตามและรายการโปรด (ภาษาอังกฤษ)",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "Meta (2024-09-17): บัญชีวัยรุ่นของ Instagram (ภาษาอังกฤษ)",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple: ตั้งค่ากำหนดเวลาด้วยเวลาหน้าจอบน iPhone (iOS 26)",
+     "https://support.apple.com/th-th/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple: ตั้งค่ากำหนดเวลาสำหรับเวลาหน้าจอและเวลาที่อนุญาตบน iPhone (iOS 27)",
+     "https://support.apple.com/th-th/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "App Store (ประเทศไทย): minulo",
+     "https://apps.apple.com/th/app/id6809352229"
+    ],
+    [
+     "App Store (สหรัฐอเมริกา): SocialLite-Block Reels&Shorts",
+     "https://apps.apple.com/us/app/id6757661674"
+    ]
+   ],
+   "links": [
+    [
+     "จำกัดเวลาหน้าจอ Instagram แล้วไม่ได้ผล",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "ใช้ Instagram แค่ DM",
+     "instagram-dms-only.html"
+    ],
+    [
+     "เลิกดู Reels ระหว่างอ่านหนังสือ",
+     "study-focus.html"
+    ],
+    [
+     "minulo กับ SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "คำถามที่พบบ่อย",
+     "faq.html"
+    ]
+   ]
+  },
+  "vi": {
+   "seo": "Cách giới hạn thời gian riêng cho Reels Instagram trên iPhone",
+   "title": "Cách giới hạn riêng Reels trên Instagram: đặt giới hạn thời gian xem Reels trên iPhone (2026)",
+   "desc": "Instagram không có giới hạn thời gian riêng cho Reels. Giới hạn hằng ngày chỉ là lời nhắc cho cả ứng dụng, còn Thời gian sử dụng chặn cả ứng dụng. Cách giới hạn Reels mà vẫn nhắn tin được.",
+   "date": "2026-10-22",
+   "lede": "Chúng tôi không tìm thấy cài đặt nào trong trang trợ giúp chính thức của Instagram cho phép đặt giới hạn thời gian riêng cho Reels. Giới hạn thời gian hằng ngày của Instagram là lời nhắc cho toàn bộ Instagram, không phải chặn. Thời gian sử dụng của iPhone chặn cả ứng dụng Instagram, nên tin nhắn cũng dừng. Để bớt xem Reels mà vẫn nhắn tin, cách gần nhất là một ứng dụng mở Instagram với Reels đã bị ẩn, như minulo hoặc SocialLite.",
+   "disclose": "Trang này do nhà phát triển minulo viết. Cài đặt của Instagram được kiểm tra theo các nguồn bên dưới ngày 2026-09-28, mô tả trên App Store ngày 2026-10-09 và Thời gian sử dụng của iPhone ngày {date}. Tên menu có thể thay đổi khi ứng dụng và iOS cập nhật.",
+   "cols": [
+    "Cách",
+    "Chỉ áp dụng cho Reels?",
+    "Có chặn không? Tin nhắn thì sao?"
+   ],
+   "rows": [
+    [
+     "<b>Giới hạn thời gian hằng ngày của Instagram</b>",
+     "Không. Tính toàn bộ Instagram.",
+     "Hiện lời nhắc sau thời gian bạn đặt. Không chặn."
+    ],
+    [
+     "<b>Tài khoản thiếu niên</b>",
+     "Không. Nhắc sau 60 phút mỗi ngày và chế độ ngủ từ 22:00 đến 7:00.",
+     "Chỉ cho tài khoản thiếu niên."
+    ],
+    [
+     "<b>Thời gian sử dụng của iPhone</b>",
+     "Không. Cả ứng dụng đến iOS 26; theo danh mục (như Mạng xã hội) trên iOS 27.",
+     "Chặn bằng mật mã. Tin nhắn cũng bị chặn."
+    ],
+    [
+     "<b>Bảng tin Đang theo dõi</b> (chạm vào logo Instagram)",
+     "Bỏ bài viết gợi ý khỏi bảng tin trang chủ.",
+     "Thẻ Reels vẫn còn."
+    ],
+    [
+     "<b>minulo</b>",
+     "Ẩn Reels, Khám phá và bài viết gợi ý thay vì hẹn giờ. Reels được gửi trong tin nhắn sẽ dừng trước khi vào bảng tin vô tận; “Mở trong 5 phút” cho bạn xem trong năm phút.",
+     "Tin nhắn, bài viết của bạn bè, bài viết của bạn và tìm kiếm vẫn dùng được. Khóa ứng dụng chính thức bằng Thời gian sử dụng và chuyển bạn sang minulo."
+    ],
+    [
+     "<b>SocialLite</b>",
+     "Bỏ bảng tin video ngắn và đề xuất. Video ai đó gửi cho bạn vẫn xem được, nhưng không thể cuộn sang video tiếp theo (mô tả trên App Store).",
+     "Tin nhắn vẫn dùng được."
+    ]
+   ],
+   "secs": [
+    [
+     "Cách đặt giới hạn Thời gian sử dụng cho Instagram",
+     [
+      "<p>Cách này giới hạn toàn bộ Instagram, không chỉ Reels.</p>",
+      "<p><b>iOS 26 trở về trước</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>Mở Cài đặt và chạm vào Thời gian sử dụng.</li><li>Chạm vào Giới hạn ứng dụng, rồi Thêm giới hạn.</li><li>Chạm vào tên danh mục, chọn Instagram, chạm vào Tiếp và đặt thời gian.</li><li>Theo mặc định, giới hạn có thể bỏ qua. Để giới hạn có hiệu lực thật, hãy đặt mật mã Thời gian sử dụng và bật tùy chọn chặn khi hết giới hạn (Block at End of Limit).</li></ol>",
+      "<p><b>iOS 27</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>Mở Cài đặt, chạm vào Thời gian sử dụng, rồi Thời gian cho phép.</li><li>Đặt mỗi ngày được dùng một danh mục như Mạng xã hội trong bao lâu.</li><li>Nếu ứng dụng khai báo một trang web có liên kết, Thời gian cho phép áp dụng cho cả hai (Apple).</li></ol>"
+     ]
+    ],
+    [
+     "Ẩn Reels mà vẫn nhắn tin (với minulo)",
+     [
+      "<p>minulo mở trang web chính thức của Instagram bên trong ứng dụng và ẩn Reels, Khám phá, bài viết gợi ý và quảng cáo. Bạn chọn ẩn từng mục, và việc ẩn là miễn phí.</p>",
+      "<p>minulo có thể khóa ứng dụng Instagram chính thức bằng Thời gian sử dụng của iPhone; màn hình bị chặn sẽ đề nghị mở minulo thay thế. Mỗi lần chặn miễn phí kéo dài tối đa 2 giờ, và bạn có thể bắt đầu lại bất cứ lúc nào. Lịch trình, chặn lâu hơn 2 giờ và Chế độ nghiêm ngặt (không bỏ chặn ngay được) có trong minulo Pro.</p>",
+      "<p>minulo ra mắt vào tháng 9 năm 2026 nên chưa có nhiều đánh giá. Không có phiên bản Android.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Có thể đặt giới hạn thời gian chỉ cho Reels của Instagram không?",
+     "Tính đến tháng 10 năm 2026, chúng tôi không tìm thấy, cả trong trang trợ giúp chính thức của Instagram lẫn trong Thời gian sử dụng của iPhone. Cả hai đều áp dụng cho toàn bộ Instagram (hoặc một danh mục, trên iOS 27)."
+    ],
+    [
+     "Làm sao để giới hạn thời gian xem Reels trên Instagram?",
+     "Đặt giới hạn thời gian hằng ngày trong Instagram (lời nhắc) hoặc giới hạn Thời gian sử dụng (chặn, có mật mã). Cả hai đều áp dụng cho toàn bộ Instagram. Nếu Reels là vấn đề, hãy mở Instagram trong một ứng dụng ẩn Reels."
+    ],
+    [
+     "Làm sao bớt Reels gợi ý trên bảng tin trang chủ?",
+     "Chạm vào logo Instagram và chọn Đang theo dõi để chỉ xem bài viết từ tài khoản bạn theo dõi, theo thứ tự thời gian, không có gợi ý. Thẻ Reels vẫn còn. Để bỏ nó, hãy dùng ứng dụng ẩn Reels, như minulo."
+    ],
+    [
+     "Tôi vẫn xem được Reels bạn bè gửi trong tin nhắn chứ?",
+     "Trong minulo thì được. Reels được gửi trong tin nhắn sẽ dừng trước khi vào bảng tin vô tận, và “Mở trong 5 phút” cho bạn xem trong năm phút."
+    ]
+   ],
+   "srcTitle": "Nguồn",
+   "src": [
+    [
+     "Trợ giúp Instagram: Đặt giới hạn thời gian hằng ngày",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "Meta (2022-03-23): bảng tin Đang theo dõi và Yêu thích (tiếng Anh)",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "Meta (2024-09-17): Tài khoản thiếu niên trên Instagram (tiếng Anh)",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple: Đặt lịch trình với Thời gian sử dụng trên iPhone (iOS 26)",
+     "https://support.apple.com/vi-vn/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple: Đặt Lịch trình Thời gian sử dụng và Thời gian cho phép trên iPhone (iOS 27)",
+     "https://support.apple.com/vi-vn/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "App Store (Việt Nam): minulo",
+     "https://apps.apple.com/vn/app/id6809352229"
+    ],
+    [
+     "App Store (Mỹ): SocialLite-Block Reels&Shorts",
+     "https://apps.apple.com/us/app/id6757661674"
+    ]
+   ],
+   "links": [
+    [
+     "Giới hạn Thời gian sử dụng cho Instagram không hoạt động",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "Dùng Instagram chỉ để nhắn tin",
+     "instagram-dms-only.html"
+    ],
+    [
+     "Học bài không xem Reels, Shorts",
+     "study-focus.html"
+    ],
+    [
+     "minulo và SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "Câu hỏi thường gặp",
+     "faq.html"
+    ]
+   ]
+  },
+  "ru": {
+   "seo": "Как ограничить время только на Reels в Instagram на iPhone",
+   "title": "Как ограничить только Reels в Instagram: лимит времени на Reels на iPhone (2026)",
+   "desc": "В Instagram нет лимита времени только для Reels. Дневной лимит — лишь напоминание для всего приложения, а «Экранное время» блокирует приложение целиком. Как ограничить Reels и сохранить Директ.",
+   "date": "2026-10-22",
+   "lede": "В официальной справке Instagram мы не нашли настройки, которая ограничивает время только для Reels. Дневной лимит Instagram — это напоминание для всего Instagram, а не блокировка. «Экранное время» на iPhone блокирует приложение Instagram целиком, так что Директ тоже перестает работать. Чтобы меньше смотреть Reels, но оставить Директ, ближе всего подходит приложение, которое открывает Instagram со скрытыми Reels, например minulo или SocialLite.",
+   "disclose": "Эту страницу написал разработчик minulo. Настройки Instagram проверены по источникам ниже 2026-09-28, описания в App Store — 2026-10-09, «Экранное время» iPhone — {date}. Названия пунктов меню могут меняться с обновлениями приложений и iOS.",
+   "cols": [
+    "Способ",
+    "Только для Reels?",
+    "Блокирует? А Директ?"
+   ],
+   "rows": [
+    [
+     "<b>Дневной лимит времени в Instagram</b>",
+     "Нет. Считается весь Instagram.",
+     "Показывает напоминание после заданного времени. Не блокирует."
+    ],
+    [
+     "<b>Аккаунты подростков</b>",
+     "Нет. Напоминание после 60 минут в день и спящий режим с 22:00 до 7:00.",
+     "Только для аккаунтов подростков."
+    ],
+    [
+     "<b>«Экранное время» iPhone</b>",
+     "Нет. Приложение целиком до iOS 26; по категориям (например, «Социальные сети») в iOS 27.",
+     "Блокирует с код-паролем. Директ тоже блокируется."
+    ],
+    [
+     "<b>Лента «Подписки»</b> (нажмите на логотип Instagram)",
+     "Убирает рекомендуемые публикации из главной ленты.",
+     "Вкладка Reels остается."
+    ],
+    [
+     "<b>minulo</b>",
+     "Скрывает Reels, «Интересное» и рекомендуемые публикации, а не ограничивает их по времени. Reels, присланные в Директ, останавливаются перед бесконечной лентой; «Открыть на 5 мин» дает смотреть пять минут.",
+     "Директ, публикации друзей, ваши публикации и поиск продолжают работать. Блокирует официальное приложение через «Экранное время» и переводит вас в minulo."
+    ],
+    [
+     "<b>SocialLite</b>",
+     "Убирает ленты коротких видео и рекомендации. Присланное вам видео можно посмотреть, но перейти к следующему нельзя (описание в App Store).",
+     "Директ работает."
+    ]
+   ],
+   "secs": [
+    [
+     "Как задать лимит «Экранного времени» для Instagram",
+     [
+      "<p>Так ограничивается весь Instagram, а не только Reels.</p>",
+      "<p><b>iOS 26 и раньше</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>Откройте «Настройки» и коснитесь «Экранное время».</li><li>Коснитесь «Лимиты приложений», затем «Добавить лимит».</li><li>Коснитесь названия категории, выберите Instagram, коснитесь «Далее» и задайте время.</li><li>По умолчанию лимит можно проигнорировать. Чтобы он действовал, задайте код-пароль «Экранного времени» и включите блокировку по окончании лимита (Block at End of Limit).</li></ol>",
+      "<p><b>iOS 27</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>Откройте «Настройки», коснитесь «Экранное время», затем «Лимиты времени».</li><li>Задайте, сколько времени в день можно пользоваться категорией, например «Социальные сети».</li><li>Если приложение указало связанный сайт, лимит времени действует на оба (Apple).</li></ol>"
+     ]
+    ],
+    [
+     "Скрыть Reels и оставить Директ (с minulo)",
+     [
+      "<p>minulo открывает официальный сайт Instagram внутри приложения и скрывает Reels, «Интересное», рекомендуемые публикации и рекламу. Что скрывать, вы выбираете по пунктам, и скрытие бесплатно.</p>",
+      "<p>minulo может заблокировать официальное приложение Instagram через «Экранное время» iPhone; на экране блокировки будет предложено открыть minulo. Бесплатная блокировка длится до 2 часов за раз, и ее можно запустить снова в любой момент. Расписания, блокировка дольше 2 часов и режим «Строгий» (без мгновенной разблокировки) доступны в minulo Pro.</p>",
+      "<p>minulo вышел в сентябре 2026 года, и оценок пока мало. Версии для Android нет.</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "Можно ли ограничить время только для Reels в Instagram?",
+     "По состоянию на октябрь 2026 года мы не нашли такой возможности ни в официальной справке Instagram, ни в «Экранном времени» iPhone. Оба способа действуют на весь Instagram (или на категорию в iOS 27)."
+    ],
+    [
+     "Как ограничить время на Reels в Instagram?",
+     "Задайте дневной лимит времени в Instagram (напоминание) или лимит «Экранного времени» (блокировка с код-паролем). Оба действуют на весь Instagram. Если проблема именно в Reels, открывайте Instagram в приложении, которое скрывает Reels."
+    ],
+    [
+     "Как убрать рекомендуемые Reels из главной ленты?",
+     "Нажмите на логотип Instagram и выберите «Подписки», чтобы видеть только публикации аккаунтов, на которые вы подписаны, по времени и без рекомендаций. Вкладка Reels останется. Чтобы убрать и ее, используйте приложение, которое скрывает Reels, например minulo."
+    ],
+    [
+     "Смогу ли я смотреть Reels, которые друзья присылают в Директ?",
+     "В minulo — да. Reels, присланные в Директ, останавливаются перед бесконечной лентой, а «Открыть на 5 мин» дает смотреть пять минут."
+    ]
+   ],
+   "srcTitle": "Источники",
+   "src": [
+    [
+     "Справка Instagram: дневной лимит времени",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "Meta (2022-03-23): ленты «Подписки» и «Избранное» (на английском)",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "Meta (2024-09-17): аккаунты подростков в Instagram (на английском)",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple: настройка расписания с помощью функции «Экранное время» на iPhone (iOS 26)",
+     "https://support.apple.com/ru-ru/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple: настройка расписаний и лимитов в Экранном времени на iPhone (iOS 27)",
+     "https://support.apple.com/ru-ru/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "App Store: minulo",
+     "https://apps.apple.com/app/id6809352229"
+    ],
+    [
+     "App Store (США): SocialLite-Block Reels&Shorts",
+     "https://apps.apple.com/us/app/id6757661674"
+    ]
+   ],
+   "links": [
+    [
+     "Не работает лимит «Экранного времени» для Instagram",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "Instagram только для Директа",
+     "instagram-dms-only.html"
+    ],
+    [
+     "minulo и SocialLite",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "Частые вопросы",
+     "faq.html"
+    ]
+   ]
+  },
+  "zh-Hant": {
+   "seo": "只限制 IG Reels 的時間？iPhone 上的做法",
+   "title": "只限制 IG Reels 的方法：在 iPhone 上限制看 Reels 的時間（2026）",
+   "desc": "Instagram 沒有只限制 Reels 的時間設定。每日時間限制只是整個 App 的提醒，「螢幕使用時間」則會擋掉整個 App。限制 Reels 又保留私訊的方法。",
+   "date": "2026-10-22",
+   "lede": "我們在 Instagram 官方說明中心找不到只針對 Reels 設定時間限制的功能。Instagram 的每日時間限制是針對整個 Instagram 的提醒，不會擋住。iPhone 的「螢幕使用時間」會擋掉整個 Instagram App，私訊也會一起停掉。想少看 Reels 又要留著私訊，最接近的做法是用一個隱藏 Reels 再打開 Instagram 的 App，例如 minulo 或 SocialLite。",
+   "disclose": "本頁由 minulo 的開發者撰寫。Instagram 的設定依下方資料來源於 2026-09-28 確認，App Store 說明於 2026-10-09 確認，iPhone 的「螢幕使用時間」於 {date} 確認。選單名稱可能會隨 App 和 iOS 更新而改變。",
+   "cols": [
+    "方法",
+    "只對 Reels 有效？",
+    "會擋住嗎？私訊呢？"
+   ],
+   "rows": [
+    [
+     "<b>Instagram 每日時間限制</b>",
+     "不是。計算的是整個 Instagram。",
+     "到了設定的時間會跳出提醒，不會擋住。"
+    ],
+    [
+     "<b>青少年帳號</b>",
+     "不是。每天用滿 60 分鐘會提醒，晚上 10 點到早上 7 點為睡眠模式。",
+     "只適用於青少年帳號。"
+    ],
+    [
+     "<b>iPhone「螢幕使用時間」</b>",
+     "不是。iOS 26 以前以整個 App 為單位，iOS 27 以類別（例如「社群媒體」）為單位。",
+     "設密碼就能擋住。私訊也會一起被擋。"
+    ],
+    [
+     "<b>「追蹤中」動態</b>（點 Instagram 標誌）",
+     "首頁動態不再出現推薦貼文。",
+     "Reels 分頁還在。"
+    ],
+    [
+     "<b>minulo</b>",
+     "不是限制時間，而是把 Reels、探索和推薦貼文隱藏。私訊收到的 Reels 會在進入無限滑動之前停住，「只開 5 分鐘」可以看 5 分鐘。",
+     "私訊、朋友的貼文、自己的貼文和搜尋照常能用。用「螢幕使用時間」鎖定官方 App，並引導你改開 minulo。"
+    ],
+    [
+     "<b>SocialLite</b>",
+     "移除短影音動態和推薦。別人傳來的影片可以看，但不能滑到下一支（App Store 說明）。",
+     "私訊可以用。"
+    ]
+   ],
+   "secs": [
+    [
+     "用「螢幕使用時間」限制 IG 的方法",
+     [
+      "<p>這會限制整個 Instagram，不只是 Reels。</p>",
+      "<p><b>iOS 26 以前</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>打開「設定」，點一下「螢幕使用時間」。</li><li>點一下「App 限制」，再點一下「加入限制」。</li><li>點一下類別名稱，選擇 Instagram，點一下「下一步」並設定時間。</li><li>限制預設可以忽略。要真的擋住，請設定「螢幕使用時間」密碼，並開啟達到上限時阻擋的選項（Block at End of Limit）。</li></ol>",
+      "<p><b>iOS 27</b></p>",
+      "<ol style=\"margin:8px 0 0;padding-left:1.3em;color:var(--ink2)\"><li>打開「設定」，點一下「螢幕使用時間」，再點一下「使用時限」。</li><li>設定「社群媒體」等類別每天可以用多久。</li><li>如果 App 宣告有相關聯的網站，「使用時限」會同時套用到 App 和網站（Apple）。</li></ol>"
+     ]
+    ],
+    [
+     "隱藏 Reels、保留私訊（用 minulo）",
+     [
+      "<p>minulo 會在 App 裡打開 Instagram 官方網站，並隱藏 Reels、探索、推薦貼文和廣告。要隱藏哪些可以一項一項選，隱藏功能免費。</p>",
+      "<p>minulo 可以用 iPhone 的「螢幕使用時間」鎖定官方 Instagram App，被擋的畫面會提供改開 minulo 的按鈕。免費封鎖每次最多 2 小時，隨時可以再開始。排程、超過 2 小時的封鎖和「嚴格模式」（無法立即解除封鎖）屬於 minulo Pro。</p>",
+      "<p>minulo 於 2026 年 9 月推出，目前評分還不多。沒有 Android 版。</p>"
+     ]
+    ]
+   ],
+   "qa": [
+    [
+     "可以只限制 IG Reels 的時間嗎？",
+     "截至 2026 年 10 月，我們在 Instagram 官方說明中心和 iPhone 的「螢幕使用時間」裡都找不到這種設定。兩者都以整個 Instagram（iOS 27 則是類別）為單位。"
+    ],
+    [
+     "要怎麼限制看 IG Reels 的時間？",
+     "可以在 Instagram 設定每日時間限制（提醒），或設定「螢幕使用時間」的限制（設密碼可擋住）。兩者都以整個 Instagram 為單位。如果問題在 Reels，可以改用會隱藏 Reels 的 App 打開 Instagram。"
+    ],
+    [
+     "怎麼減少首頁動態裡推薦的 Reels？",
+     "點 Instagram 標誌並選擇「追蹤中」，就只會依時間順序看到你追蹤的帳號的貼文，沒有推薦。但 Reels 分頁還在。想連分頁一起拿掉，可以用 minulo 這類會隱藏 Reels 的 App。"
+    ],
+    [
+     "朋友私訊傳來的 Reels 還能看嗎？",
+     "在 minulo 裡可以。私訊收到的 Reels 會在進入無限滑動之前停住，點「只開 5 分鐘」可以看 5 分鐘。"
+    ]
+   ],
+   "srcTitle": "資料來源",
+   "src": [
+    [
+     "Instagram 說明中心：設定每日時間限制",
+     "https://help.instagram.com/2049425491975359/"
+    ],
+    [
+     "Meta（2022-03-23）：「追蹤中」和「最愛」動態（英文）",
+     "https://about.fb.com/news/2022/03/two-new-ways-to-control-your-instagram-feed/"
+    ],
+    [
+     "Meta（2024-09-17）：Instagram 青少年帳號（英文）",
+     "https://about.fb.com/news/2024/09/instagram-teen-accounts/"
+    ],
+    [
+     "Apple：在 iPhone 上設定「螢幕使用時間」排程（iOS 26）",
+     "https://support.apple.com/zh-tw/guide/iphone/iphb0c7313c9/26/ios/26"
+    ],
+    [
+     "Apple：在 iPhone 上設定「螢幕使用時間」排程和「使用時限」（iOS 27）",
+     "https://support.apple.com/zh-tw/guide/iphone/iphb0c7313c9/ios"
+    ],
+    [
+     "App Store（台灣）：minulo",
+     "https://apps.apple.com/tw/app/id6809352229"
+    ],
+    [
+     "App Store（美國）：SocialLite-Block Reels&Shorts",
+     "https://apps.apple.com/us/app/id6757661674"
+    ]
+   ],
+   "links": [
+    [
+     "用「螢幕使用時間」限制 IG 卻沒用",
+     "screen-time-instagram-not-working.html"
+    ],
+    [
+     "關閉 IG Reels 的方法",
+     "turn-off-instagram-reels.html"
+    ],
+    [
+     "IG 只用私訊的方法",
+     "instagram-dms-only.html"
+    ],
+    [
+     "minulo 與 SocialLite 比較",
+     "minulo-vs-sociallite.html"
+    ],
+    [
+     "常見問題",
+     "faq.html"
+    ]
+   ]
+  }
  }
 }
