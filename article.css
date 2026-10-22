@@ -89,6 +89,12 @@ tr.me td:first-child{box-shadow:inset 3px 0 0 var(--accent);padding-left:12px}
 .cta a{display:inline-block}
 .cta img{display:block;height:48px;width:auto}
 
+/* big button (android.html waitlist) */
+.wl{margin:6px 0 18px}
+.wl a{display:inline-block;padding:15px 28px;border-radius:12px;background:var(--accent);color:var(--paper);font-weight:700;font-size:17px;line-height:1.4;text-decoration:none}
+.wl a:hover{opacity:.9}
+.wl small{display:block;margin-top:8px;font-size:13.5px;color:var(--ink3)}
+
 /* footer */
 footer{margin-top:28px;padding:20px 0 64px;font-size:13px;color:var(--ink3)}
 footer .langs{display:flex;flex-wrap:wrap;gap:6px 16px}
