@@ -1,6 +1,6 @@
 # minulo
 
-> minulo (formerly FeedMinus) is an iPhone app that hides Instagram Reels, YouTube Shorts, TikTok recommendations and suggested posts while you keep using DMs, friends' posts, your own posts and search. It covers 10 networks and can also lock the official apps with Screen Time, sending you to its Reels-free view instead. Hiding is free.
+> minulo (read "ミヌロ" in Japanese; formerly FeedMinus) is an iPhone app that hides Instagram Reels, YouTube Shorts, TikTok recommendations and suggested posts while you keep using DMs, friends' posts, your own posts and search. It covers 10 networks and can also lock the official apps with Screen Time, sending you to its Reels-free view instead. Hiding is free.
 
 - App Store: https://apps.apple.com/app/id6809352229
 - Developer: ReliefNote (Ayumu Kitabayashi), Hokkaido, Japan
