@@ -740,3 +740,42 @@ Yes. Hiding Reels while keeping DMs is free in minulo, UNDOOMED and Stillfeed, a
 ## Does it work for YouTube Shorts and TikTok too?
 minulo hides YouTube Shorts and TikTok's For You feed, and keeps YouTube search, subscriptions and TikTok messages. UNDOOMED and Stillfeed cover YouTube; UNDOOMED lists TikTok as unavailable, and TikTok is not mentioned on Stillfeed's App Store page.
 Source: https://minulo.app/en/reels-blocker-for-college-students.html
+
+
+## Is minulo safe? (en, checked 2026-10-23)
+Source: https://minulo.app/en/is-minulo-safe.html
+
+Q: Is minulo safe?
+A: minulo has no account and never receives your social media ID or password: you sign in on each network's own website inside the app, and the connection does not go through a minulo server. It sends only anonymous usage data and error reports to PostHog, tied to a random ID rather than to you. Your records stay on your iPhone, and deleting the app erases them.
+
+Q: Is minulo legit?
+A: Yes. minulo is on the App Store (seller: ayumu kitabayashi) and is made by ReliefNote, a sole proprietorship in Hokkaido, Japan, founded in July 2025 by Ayumu Kitabayashi. Hiding Reels and Shorts is free. It is a new app (September 2026), so it has few ratings so far.
+
+Q: Can minulo see my Instagram password?
+A: No. You type your password on Instagram's own sign-in page shown inside minulo, and it is sent straight to Instagram. minulo does not receive, store or send your ID or password. Login cookies are kept in the storage iOS gives minulo, which other apps and the developer can't read.
+
+Q: Does minulo collect my data or track me?
+A: It collects anonymous usage data (actions like starting a block, which network you turned back from, language and region settings, iOS version), error reports with URLs and names removed, and whether you came from an App Store search ad. It does not collect your name, email, location or advertising identifier, and it does not track you across other companies' apps or websites. Its App Store label lists only Data Not Linked to You.
+
+Q: Can minulo see which apps I block with Screen Time?
+A: No. Apple gives apps opaque tokens for the apps you pick, to protect your privacy. minulo stores those tokens on your iPhone and passes them back to Screen Time, but it can't tell which apps they stand for.
+
+
+## Stopping doomscrolling at night on iPhone (en, checked 2026-10-23)
+Source: https://minulo.app/en/stop-doomscrolling-at-night.html
+
+Q: How do I stop doomscrolling at night on iPhone?
+A: Schedule Downtime in Settings > Screen Time (Screen Time Schedule on iOS 27), set a Screen Time passcode and turn on Block at Downtime so it can't be ignored. Add a sleep schedule in the Health app so Sleep Focus starts during wind down, and charge your phone away from the bed. If you want to keep DMs, hide only Reels and Shorts with an app like minulo instead of blocking the whole app.
+
+Q: Does Sleep Focus block Instagram or TikTok?
+A: No. Sleep Focus filters notifications and calls and can switch to a different Home Screen page, but it doesn't stop apps from opening. To stop apps, use Screen Time Downtime with Block at Downtime, or lock them with an app such as minulo.
+
+Q: How do I make Downtime so I can't ignore it?
+A: Set a Screen Time passcode and turn on Block at Downtime in Settings > Screen Time > Downtime. Blocked apps then appear dimmed with an hourglass and can't be opened. Also check Always Allowed, since apps listed there stay open.
+
+Q: Can I block Instagram at night but still get DMs?
+A: Not with Screen Time alone, because it blocks the whole app, DMs included. With minulo you can open Instagram with Reels hidden, or with only DMs left, and lock the official app at night. While the official app is locked, its notifications don't arrive.
+
+Q: Is there a free way to stop scrolling before bed?
+A: Yes. Downtime, Sleep Focus, Grayscale, YouTube's Shorts feed limit and Instagram's Sleep mode are all free. In minulo, hiding Reels and Shorts is free, and locking the official apps is free for up to 2 hours per block; automatic nightly schedules are Pro.
+
