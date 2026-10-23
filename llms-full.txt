@@ -779,3 +779,118 @@ A: Not with Screen Time alone, because it blocks the whole app, DMs included. Wi
 Q: Is there a free way to stop scrolling before bed?
 A: Yes. Downtime, Sleep Focus, Grayscale, YouTube's Shorts feed limit and Instagram's Sleep mode are all free. In minulo, hiding Reels and Shorts is free, and locking the official apps is free for up to 2 hours per block; automatic nightly schedules are Pro.
 
+
+
+## Hiding the Instagram Explore page (en, checked 2026-10-23)
+Source: https://minulo.app/en/hide-instagram-explore.html
+
+Q: Can you remove the Explore page on Instagram?
+A: Not with a setting. As of October 2026 we could not find one in Instagram's help. You can change what Explore shows, but the tab stays. To hide it, open Instagram in an app that hides Explore, such as minulo, where this is free and DMs keep working.
+
+Q: How do I clean up my Instagram Explore page?
+A: In Explore, touch and hold a post you don't want and tap Not interested. You can also set Sensitive content to Less under Content preferences, or use Reset suggested content to start your recommendations over. A reset cannot be undone.
+
+Q: Does resetting suggested content clear Explore?
+A: It clears your recommendations across Explore, Reels and Feed at the same time, so Explore starts fresh. The tab itself stays, and Instagram's help says suggestions become personalized again as you like, share and interact with content.
+
+Q: Can Screen Time block only Explore on Instagram?
+A: No. Screen Time limits or blocks the whole Instagram app. It has no option for one tab inside the app, and blocking Instagram this way blocks your DMs too.
+
+Q: How do I hide Explore but keep my DMs?
+A: Use an app that opens Instagram with Explore hidden. In minulo, turn on Reels and Explore tabs in the Instagram settings. It is free, it stays on until you turn it off, and DMs, posts from people you follow and search keep working.
+
+
+## Instagram Following feed only (en, checked 2026-10-23)
+Source: https://minulo.app/en/instagram-following-feed-only.html
+
+Q: How do I see only posts from people I follow on Instagram?
+A: Tap Instagram at the top left of your feed, then tap Following. Instagram's help says this shows posts from people you follow, with newer posts at the top. Meta says there are no suggested posts in this view and you can see the last 30 days.
+
+Q: Can I make Instagram open to the Following feed by default?
+A: We could not find a setting for this in Instagram's help as of October 2026. Instagram's help on Feed says that when you close and reopen Instagram or refresh your feed, the posts it predicts are most relevant to you appear toward the top. Plan on choosing Following again when you come back.
+
+Q: What is the difference between Following and Favorites?
+A: Following shows posts from everyone you follow. Favorites shows only the accounts you add to your Favorites list, up to 50, and their posts also appear higher in your main feed. Both are in time order and open from the Instagram menu at the top of your feed.
+
+Q: Does the Following feed get rid of Reels and Explore?
+A: No. Following changes your feed only. The Reels tab and Explore still show recommendations from accounts you don't follow. To hide them, open Instagram in an app that hides Reels and Explore, such as minulo, where this is free.
+
+Q: How do I use Instagram without the algorithm?
+A: Instagram has no switch that turns recommendations off everywhere. The Following and Favorites feeds are in time order, but Reels and Explore are still ranked for you. In minulo you can hide suggested posts, Reels and Explore for free, so what is left is your DMs, posts from people you follow and search.
+
+
+## Blocking Instagram on iPhone (en, checked 2026-10-23)
+Source: https://minulo.app/en/block-instagram-on-iphone.html
+
+Q: How do I block Instagram on my iPhone?
+A: Use Screen Time. On iOS 26, go to Settings > Screen Time > App Limits, add a limit for Instagram, set a Screen Time passcode and turn on Block at End of Limit. On iOS 27, use Time Allowances and Screen Time Schedule instead. You can also delete the app, but that is the easiest block to undo.
+
+Q: How do I block Instagram in Safari?
+A: On iOS 26, go to Settings > Screen Time > Content & Privacy Restrictions and turn it on. Tap App Store, Media, Web, & Games > Web Content, select Limit Adult Websites and add instagram.com under Never Allow. On iOS 27, a Time Allowance also applies to a website the app declares as associated.
+
+Q: Can I block Instagram but keep my DMs?
+A: Not with Screen Time, which blocks the whole app, DMs included. Use an app that opens Instagram with Reels and Explore hidden. In minulo this is free and DMs keep working, and minulo can lock the official app with Screen Time for free for up to 2 hours per block.
+
+Q: Why does Instagram still open after my time limit?
+A: By default, Screen Time limits can be ignored once they are reached. Set a Screen Time passcode and turn on Block at End of Limit. Also check that Instagram is not in Always Allowed and that you are not using instagram.com in Safari.
+
+Q: Can I block Instagram so that I can't undo it myself?
+A: Only if someone else knows the passcode. If you set the Screen Time passcode yourself, you can enter it and remove the block, so ask a friend or family member to choose it. In minulo, Locked Mode (Pro) makes turning a block off take a few minutes on purpose.
+
+
+## Blocking TikTok on iPhone (en, checked 2026-10-23)
+Source: https://minulo.app/en/block-tiktok-on-iphone.html
+
+Q: How do I block TikTok on my iPhone?
+A: Use Screen Time. On iOS 26, go to Settings > Screen Time > App Limits, add a limit for TikTok, set a Screen Time passcode and turn on Block at End of Limit. On iOS 27, use Time Allowances and Screen Time Schedule instead. You can also delete the app, but that is the easiest block to undo.
+
+Q: How do I block the TikTok website on iPhone?
+A: On iOS 26, go to Settings > Screen Time > Content & Privacy Restrictions and turn it on. Tap App Store, Media, Web, & Games > Web Content, select Limit Adult Websites and add tiktok.com under Never Allow. On iOS 27, a Time Allowance also applies to a website the app declares as associated.
+
+Q: Can I block TikTok but keep my messages?
+A: Not with Screen Time, which blocks the whole app, messages included. Use an app that opens TikTok with For You hidden. In minulo this is free and messages keep working, and minulo can lock the official app with Screen Time for free for up to 2 hours per block.
+
+Q: Why does TikTok still open after my time limit?
+A: By default, Screen Time limits can be ignored once they are reached. Set a Screen Time passcode and turn on Block at End of Limit. Also check that TikTok is not in Always Allowed and that you are not using tiktok.com in Safari.
+
+Q: Can I block TikTok so that I can't undo it myself?
+A: Only if someone else knows the passcode. If you set the Screen Time passcode yourself, you can enter it and remove the block, so ask a friend or family member to choose it. In minulo, Locked Mode (Pro) makes turning a block off take a few minutes on purpose.
+
+
+## Turning off Snapchat Spotlight (en, checked 2026-10-23)
+Source: https://minulo.app/en/turn-off-snapchat-spotlight.html
+
+Q: Can you turn off Spotlight on Snapchat?
+A: We could not find a way in Snapchat's help as of October 2026. Spotlight stays in the tab bar at the bottom of the app. Snapchat's help says about Discover that you can't completely disable the section, and we found no setting for Spotlight either. To use Snapchat without Spotlight, open it in an app that hides it, such as minulo, where this is free.
+
+Q: How do I turn off Spotlight notifications on Snapchat?
+A: Tap your profile icon, tap the gear to open Settings, tap Notifications, and turn off each notification type you don't want. If the alerts are about comments on your own Spotlight Snaps, turn off Comments in the same Notifications screen. To stop every Snapchat notification, go to the iPhone Settings app, tap Notifications, tap Snapchat and turn off Allow Notifications.
+
+Q: Can I make Snapchat open on a tab other than Spotlight?
+A: Only with Snapchat+. Subscribers can open My Account, tap their Snapchat+ membership card, tap Home Tab and choose the tab the app opens on. Spotlight is still one tap away in the tab bar.
+
+Q: Does hiding Snaps on Spotlight make it go away?
+A: No. Snapchat says it treats hiding, skipping and reporting as signs that you don't enjoy that content and ranks it lower, but Spotlight keeps showing other Snaps. It works one Snap at a time.
+
+Q: How do I hide Spotlight on Snapchat but keep my chats?
+A: iPhone Screen Time limits the whole Snapchat app, chats included, so it does not help here. Use an app that opens Snapchat with Spotlight hidden. In minulo, hiding Spotlight and Discover is free, and chat opens straight from the home screen.
+
+
+## Brick alternatives for iPhone (en, checked 2026-10-23)
+Source: https://minulo.app/en/brick-alternative-iphone.html
+
+Q: Is there a free alternative to Brick?
+A: Yes. iPhone Screen Time is built in and free. Set your limits, then let a friend or family member create the Screen Time passcode and keep it, so you can't change the settings on your own. ScreenZen is also free (its only in-app purchases are tips) and can lock its own settings.
+
+Q: How much does Brick cost?
+A: On Brick's website in October 2026, Brick is $59, Brick Night is $129, and both together are $169. Brick says these are one-time purchases with no subscription, and the App Store app is free.
+
+Q: Can I use Brick without the Brick device?
+A: Not for its main feature. You start and end a session by tapping your phone on the device. If you need to get out without it, the app includes 5 Emergency Unbricks that unblock all apps.
+
+Q: Which app is hardest to turn off without hardware?
+A: Opal says its Deep Focus mode can't be bypassed or cancelled once it starts. Screen Time with a passcode only someone else knows is also hard to undo, as long as you don't add Passcode Recovery with your own Apple Account, since that lets you reset it yourself.
+
+Q: What if I only want to stop Reels and Shorts, not block Instagram?
+A: Brick, Opal and Screen Time block the whole app, so DMs are blocked too. minulo opens Instagram, YouTube, TikTok and 7 other networks with Reels, Shorts and suggested posts hidden, and DMs keep working. Hiding is free.
+
