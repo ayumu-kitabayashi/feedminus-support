@@ -91,6 +91,20 @@ def head(lang, title, desc, path, ld):
 """
 
 
+# 英語だけ：Google に入っている hide ページから、まだ入っていない主要ページへつなぐ（10/23）
+EN_REL = {
+    'instagram': [('../instagram-dms-only.html', 'Use Instagram for DMs only'), ('../turn-off-instagram-reels.html', 'Turn off Instagram Reels on iPhone'),
+                  ('../remove-reels-from-instagram-app.html', 'Can you remove Reels from the Instagram app?'), ('../alternatives.html', 'Best apps to block Reels and Shorts')],
+    'youtube': [('../block-youtube-shorts.html', 'Block YouTube Shorts on iPhone'), ('../alternatives.html', 'Best apps to block Reels and Shorts')],
+    'tiktok': [('../tiktok-dms-only.html', 'Use TikTok for DMs only'), ('../alternatives.html', 'Best apps to block Reels and Shorts')],
+}
+EN_REL_DEFAULT = [('../alternatives.html', 'Best apps to block Reels and Shorts'), ('../instagram-dms-only.html', 'Use Instagram for DMs only')]
+
+
+def EN_REL_BLOCK(sid):
+    return '<div class="links rel">' + ''.join(f'<a href="{h}">{t} →</a>' for h, t in EN_REL.get(sid, EN_REL_DEFAULT)) + '</div>'
+
+
 def tail(lang, path, t, body_links=True):
     d = F.DATA[lang]
     up2 = ('' if d['dir'] == '' else '../') + '../'
@@ -100,6 +114,8 @@ def tail(lang, path, t, body_links=True):
          f'<a href="{up2}{F.DATA[l]["dir"]}{path}" hreflang="{l}" lang="{l}">{F.NAMES[l]}</a>') for l in F.LANGS)
     links = (f'<div class="links"><a href="index.html">{html.escape(t["other"])} →</a>'
              f'<a href="../faq.html">{html.escape(t["faq"])} →</a><a href="../compare.html">{html.escape(t["cmp"])} →</a></div>') if body_links else ''
+    if body_links and lang == 'en':
+        links = EN_REL_BLOCK(path.split('/')[-1][:-5]) + '\n' + links
     return f"""{links}
 <div class="cta"><a href="{store}"><img src="{up2}badges/{d['badge']}.svg" alt="{html.escape(d['badgeAlt'])}" height="54"></a></div>
 </main>
