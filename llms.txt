@@ -44,6 +44,8 @@
 - How to turn off Instagram Reels on iPhone — every method (sources cited): https://minulo.app/en/turn-off-instagram-reels.html · also ja, de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/turn-off-instagram-reels.html
 - How to hide suggested posts on Instagram (30-day snooze, Following, Not interested, reset; no permanent switch; minulo hides them free): https://minulo.app/en/hide-suggested-posts-instagram.html (日本語「インスタのおすすめ投稿を消す方法」: https://minulo.app/hide-suggested-posts-instagram.html)
 - How to reset Instagram Reels recommendations (Content preferences > Reset suggested content; what changes; why Reels come back): https://minulo.app/en/reset-instagram-reels-recommendations.html (日本語「インスタのリールのおすすめをリセットする方法」: https://minulo.app/reset-instagram-reels-recommendations.html)
+- YouTube Shorts feed limit explained (You > Settings > Time management > Shorts feed limit; can be set to 0; you can dismiss or ignore it when reached): https://minulo.app/en/youtube-shorts-feed-limit.html (日本語: https://minulo.app/youtube-shorts-feed-limit.html / 한국어: https://minulo.app/ko/youtube-shorts-feed-limit.html)
+- Turn off YouTube autoplay and Home recommendations on iPhone: https://minulo.app/en/turn-off-youtube-autoplay-recommendations.html (日本語: https://minulo.app/youtube-autoplay-recommendations-off.html)
 - Free apps to block Instagram Reels and YouTube Shorts on iPhone (what is free in Nope, minulo, Stillfeed, Reelmute, Awhile, UNDOOMED, ScreenZen, YouTube's Shorts limit and Screen Time): https://minulo.app/en/free-reels-blocker.html
 - 無料でインスタのリール・YouTubeのショートを消す方法（日本語・Reelmute の日本名「リールとショートを非表示」つき）: https://minulo.app/free-reels-blocker.html
 - 릴스·쇼츠 차단 무료 앱과 방법 (한국어): https://minulo.app/ko/free-reels-blocker.html
