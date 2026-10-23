@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reels and Shorts Time Calculator: Hours per Year | minulo</title>
+<meta name="description" content="Enter your daily minutes on Reels, Shorts or TikTok to see the hours per week and per year, and the total up to age 80. Formula shown. Nothing is sent.">
+<link rel="canonical" href="https://minulo.app/en/reels-time-calculator.html">
+<link rel="alternate" hreflang="ja" href="https://minulo.app/reels-time-calculator.html">
+<link rel="alternate" hreflang="en" href="https://minulo.app/en/reels-time-calculator.html">
+<link rel="alternate" hreflang="ko" href="https://minulo.app/ko/reels-time-calculator.html">
+<link rel="alternate" hreflang="x-default" href="https://minulo.app/en/reels-time-calculator.html">
+<link rel="icon" href="../icon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="../icon-180.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Reels and Shorts time calculator: how much of your year goes to short videos">
+<meta property="og:description" content="Enter your daily minutes on Reels, Shorts or TikTok to see the hours per week and per year, and the total up to age 80. Formula shown. Nothing is sent.">
+<meta property="og:url" content="https://minulo.app/en/reels-time-calculator.html">
+<meta property="og:image" content="https://minulo.app/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Reels and Shorts time calculator: how much of your year goes to short videos">
+<meta name="twitter:description" content="Enter your daily minutes on Reels, Shorts or TikTok to see the hours per week and per year, and the total up to age 80. Formula shown. Nothing is sent.">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Reels and Shorts time calculator", "url": "https://minulo.app/en/reels-time-calculator.html", "description": "Enter your daily minutes on Reels, Shorts or TikTok to see the hours per week and per year, and the total up to age 80. Formula shown. Nothing is sent.", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "inLanguage": "en", "datePublished": "2026-10-23", "dateModified": "2026-10-23", "author": {"@type": "Person", "name": "Ayumu Kitabayashi"}, "publisher": {"@type": "Organization", "name": "minulo", "url": "https://minulo.app/"}, "citation": ["https://support.apple.com/en-us/guide/iphone/iphbfa595995/ios", "https://minulo.app/en/reels-shorts-data-2026.html"]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "en", "mainEntity": [{"@type": "Question", "name": "How many hours a year is one hour a day on Reels?", "acceptedAnswer": {"@type": "Answer", "text": "365 hours, which is about 15.2 full days, or 7 hours a week. The formula is minutes a day × 365 ÷ 60."}}, {"@type": "Question", "name": "How do I work out how many years of my life go to short videos?", "acceptedAnswer": {"@type": "Answer", "text": "Multiply your minutes a day by 365 and divide by 60 to get hours per year, then multiply by the number of years up to the age you choose. Divide by 24 for days, or by 8,760 for years. For example, 60 minutes a day from age 20 to 80 is 21,900 hours, about 2.5 years."}}, {"@type": "Question", "name": "Where can I see my daily time on Instagram or TikTok?", "acceptedAnswer": {"@type": "Answer", "text": "On iPhone, go to Settings > Screen Time, tap Daily Average, then choose Week or Day to see a summary of your usage."}}, {"@type": "Question", "name": "Does this calculator save or send what I type?", "acceptedAnswer": {"@type": "Answer", "text": "No. The calculation runs in your browser, and the numbers you type aren't saved or sent anywhere."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "minulo", "item": "https://minulo.app/en/"}, {"@type": "ListItem", "position": 2, "name": "Reels and Shorts time calculator", "item": "https://minulo.app/en/reels-time-calculator.html"}]}</script>
+<link rel="stylesheet" href="/article.css">
+<style>
+.calc{margin:6px 0 34px;padding:22px 20px;border:1px solid var(--rule2);border-radius:14px;background:var(--tint)}
+.calc label,.calc .lb{display:block;font-weight:600;font-size:15.5px;line-height:1.5;margin:0 0 8px;color:var(--ink)}
+.calc .row{display:flex;gap:14px;align-items:center}
+.calc input[type=range]{flex:1;min-width:0;accent-color:var(--accent);height:32px;margin:0}
+.calc input[type=number]{width:6.2em;font:inherit;font-variant-numeric:tabular-nums;padding:8px 10px;border:1px solid var(--rule2);border-radius:8px;background:var(--paper);color:var(--ink)}
+.calc input[type=number]:focus-visible,.calc input[type=range]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.calc .hint{font-size:13.5px;line-height:1.6;color:var(--ink3);margin:8px 0 0}
+.calc .ages{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:20px}
+.calc .ages input{width:100%}
+.res{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:22px 0 0;padding:0}
+.res div{background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:12px 14px}
+.res dt{font-size:13px;line-height:1.5;color:var(--ink3)}
+.res dd{margin:2px 0 0;font-size:25px;line-height:1.3;font-weight:700;font-variant-numeric:tabular-nums;color:var(--ink)}
+.res dd small{font-size:14px;font-weight:600;color:var(--ink2);margin-left:3px}
+.calc .say{margin:16px 0 0;color:var(--ink);font-size:16px;line-height:1.7}
+.calc .say+.say{margin-top:8px}
+.fx{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14.5px}
+.sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+@media (max-width:520px){.calc{padding:18px 16px}.calc .ages{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><a href="../en/" aria-label="Home"><img src="../logo-trim.png" alt="minulo" width="140" height="24"></a></header>
+<main>
+<h1>Reels and Shorts time calculator: how much of your year goes to short videos</h1>
+<p class="lede">Type in how many minutes a day you spend on Instagram Reels, YouTube Shorts or TikTok, and see what that adds up to in a week and a year. Add your age to see the total up to the age you choose. One hour a day comes to 365 hours a year, which is about 15.2 full days.</p>
+<p class="upd"><time datetime="2026-10-23">2026-10-23</time></p>
+<p class="disc">Made by Ayumu Kitabayashi, the developer of minulo. The calculation runs in your browser, and the numbers you type aren&#x27;t saved or sent anywhere. The movie and book figures use the assumptions listed under the calculator.</p>
+<form class="calc" id="c-form" aria-label="Reels and Shorts time calculator">
+<label for="c-min" id="c-min-l">Minutes a day on Reels, Shorts or TikTok</label>
+<div class="row"><input type="range" id="c-range" min="0" max="300" step="5" value="60" aria-labelledby="c-min-l"><input type="number" id="c-min" min="0" max="1440" step="1" value="60" inputmode="numeric" aria-describedby="c-hint"></div>
+<p class="hint" id="c-hint">Not sure? On iPhone, go to Settings &gt; Screen Time and tap Daily Average.</p>
+<div class="ages"><div><label for="c-age">Your age (optional)</label><input type="number" id="c-age" min="0" max="120" step="1" inputmode="numeric" placeholder="e.g. 20"></div><div><label for="c-to">Calculate up to age</label><input type="number" id="c-to" min="1" max="120" step="1" value="80" inputmode="numeric"></div></div>
+<dl class="res">
+<div><dt>Hours per week</dt><dd><span id="o-week">7</span></dd></div>
+<div><dt>Hours per year</dt><dd><span id="o-year">365</span></dd></div>
+<div><dt>Full days per year</dt><dd><span id="o-days">15.2</span></dd></div>
+<div><dt>2-hour movies per year</dt><dd><span id="o-movies">183</span></dd></div>
+<div><dt>6-hour books per year</dt><dd><span id="o-books">61</span></dd></div>
+</dl>
+<p class="say" id="o-total">Add your age to see the total up to age 80.</p>
+<p class="say" id="o-back">Cut it in half (30 minutes a day) and you get back 183 hours a year. Bring it down to 15 minutes a day and you get back 274 hours a year.</p>
+<p class="sr" id="c-sum" aria-live="polite" aria-atomic="true"></p>
+<noscript><p class="hint">JavaScript is off, so the numbers above are for 60 minutes a day. The formulas and the table below work the same for any number.</p></noscript>
+</form>
+<section class="qa"><h2>How it&#x27;s calculated</h2><ul class="fx"><li>Hours per week = minutes a day × 7 ÷ 60</li><li>Hours per year = minutes a day × 365 ÷ 60</li><li>Full days per year = hours per year ÷ 24</li><li>Total up to an age = hours per year × (that age − your age). Divide by 24 for days, or by 8,760 (24 × 365) for years.</li><li>Movies = hours per year ÷ 2. Books = hours per year ÷ 6.</li><li>Hours you get back = (minutes now − new minutes) × 365 ÷ 60</li></ul><p>Assumptions: a 365-day year, the same minutes every day, a movie of 2 hours and a book that takes 6 hours to read. Reading speed varies a lot, so treat the book figure as a rough guide. Full days are 24-hour days, sleep included.</p></section>
+<section class="qa"><h2>Examples</h2><p>The same formulas for a few common amounts. The last column assumes the same habit from age 20 to 80.</p></section>
+<div class="tw"><table><tr><th>Minutes a day</th><th>Hours per week</th><th>Hours per year</th><th>Full days per year</th><th>Age 20 to 80 (60 years)</th></tr><tr><td class="n">15</td><td class="n">1.75</td><td class="n">91.25</td><td class="n">3.8</td><td class="n">5,475 h (about 0.6 years)</td></tr><tr><td class="n">30</td><td class="n">3.5</td><td class="n">182.5</td><td class="n">7.6</td><td class="n">10,950 h (about 1.3 years)</td></tr><tr class="me"><td class="n">60</td><td class="n">7</td><td class="n">365</td><td class="n">15.2</td><td class="n">21,900 h (about 2.5 years)</td></tr><tr><td class="n">120</td><td class="n">14</td><td class="n">730</td><td class="n">30.4</td><td class="n">43,800 h (about 5 years)</td></tr><tr><td class="n">180</td><td class="n">21</td><td class="n">1,095</td><td class="n">45.6</td><td class="n">65,700 h (about 7.5 years)</td></tr></table></div>
+<section class="qa"><h2>Where the time goes</h2><p>Each Reel or Short is short, and the next one starts as soon as you swipe, so there&#x27;s no obvious point to stop. Sometimes it starts from something else: a friend sends a Reel in a DM, you open it, and the Reels feed carries on from there. On YouTube, Shorts have their own tab, and with autoplay on, the next video starts when one ends.</p><p>In minulo&#x27;s own anonymous usage data, most social media sessions inside the app happen between 8 pm and 1 am (Japan time, where most of the data comes from).</p></section>
+<section class="qa"><h2>What you can do about it</h2><ul><li><b>At night:</b> <a href="stop-doomscrolling-at-night.html">How to stop doomscrolling at night on iPhone</a> (Downtime, Sleep Focus, Grayscale).</li><li><b>YouTube:</b> <a href="youtube-shorts-feed-limit.html">set the Shorts feed limit to 0</a> (adults can tap past it), and <a href="turn-off-youtube-autoplay-recommendations.html">turn off autoplay</a>.</li><li><b>Instagram:</b> <a href="hide-suggested-posts-instagram.html">hide suggested posts</a> and <a href="turn-off-instagram-reels.html">turn off Reels while keeping DMs</a>.</li><li><b>Apps:</b> <a href="free-reels-blocker.html">free apps to block Reels and Shorts</a>.</li></ul><p>minulo is an iPhone app that hides Instagram Reels, YouTube Shorts and TikTok&#x27;s For You while DMs keep working. Hiding them is free. A Reel a friend sends in a DM pauses before the endless feed starts, and Open for 5 min lets you watch for five minutes.</p></section>
+<section class="qa"><h2>How many hours a year is one hour a day on Reels?</h2><p>365 hours, which is about 15.2 full days, or 7 hours a week. The formula is minutes a day × 365 ÷ 60.</p></section><section class="qa"><h2>How do I work out how many years of my life go to short videos?</h2><p>Multiply your minutes a day by 365 and divide by 60 to get hours per year, then multiply by the number of years up to the age you choose. Divide by 24 for days, or by 8,760 for years. For example, 60 minutes a day from age 20 to 80 is 21,900 hours, about 2.5 years.</p></section><section class="qa"><h2>Where can I see my daily time on Instagram or TikTok?</h2><p>On iPhone, go to Settings &gt; Screen Time, tap Daily Average, then choose Week or Day to see a summary of your usage.</p></section><section class="qa"><h2>Does this calculator save or send what I type?</h2><p>No. The calculation runs in your browser, and the numbers you type aren't saved or sent anywhere.</p></section>
+<section class="qa"><h2>Sources</h2><ol class="src"><li><a href="https://support.apple.com/en-us/guide/iphone/iphbfa595995/ios" rel="noopener">Apple: Set up Screen Time for yourself on iPhone</a></li><li><a href="https://minulo.app/en/reels-shorts-data-2026.html" rel="noopener">minulo usage data 2026</a></li></ol></section>
+<div class="links"><a href="free-reels-blocker.html">Free apps to block Reels and Shorts →</a><a href="turn-off-instagram-reels.html">Turn off Instagram Reels and keep DMs →</a><a href="youtube-shorts-feed-limit.html">YouTube&#x27;s Shorts feed limit explained →</a><a href="stop-doomscrolling-at-night.html">Stop doomscrolling at night →</a><a href="reels-shorts-data-2026.html">Who hides Reels and Shorts: minulo data →</a></div>
+<div class="cta"><a href="https://apps.apple.com/us/app/id6809352229?pt=129109285&amp;ct=en-reels-time-calculator&amp;mt=8"><img src="../badges/appstore-en-us.svg" alt="Download on the App Store" height="54"></a></div>
+</main>
+<footer><div class="langs"><a href="../reels-time-calculator.html" hreflang="ja" lang="ja">日本語</a><b>English</b><a href="../ko/reels-time-calculator.html" hreflang="ko" lang="ko">한국어</a></div><p>© 2026 minulo</p></footer>
+</div>
+<script>
+(function(){
+/*calc-start*/
+function calcTime(min, age, toAge){
+  min = Number(min);
+  if(!isFinite(min) || min < 0) min = 0;
+  if(min > 1440) min = 1440;
+  var hYear = min * 365 / 60;
+  var r = {min:min, hWeek:min * 7 / 60, hYear:hYear, dYear:hYear / 24,
+    movies:hYear / 2, books:hYear / 6,
+    halfMin:min / 2, backHalf:hYear / 2, back15:Math.max(0, min - 15) * 365 / 60,
+    years:null, totalH:null, totalD:null, totalY:null, ageState:'none'};
+  var a = (age === '' || age == null) ? NaN : Number(age);
+  var t = (toAge === '' || toAge == null) ? 80 : Number(toAge);
+  if(!isFinite(t)) t = 80;
+  r.toAge = t;
+  if(isFinite(a)){
+    if(a >= 0 && t > a && t <= 150){
+      r.years = t - a; r.totalH = hYear * r.years; r.totalD = r.totalH / 24; r.totalY = r.totalD / 365;
+      r.ageState = 'ok';
+    } else { r.ageState = 'bad'; }
+  }
+  r.age = a;
+  return r;
+}
+/*calc-end*/
+var T = {"loc": "en-US", "sp": " ", "total": "From age {a} to {b} ({y} years), that comes to {h} hours: {d} full days, or about {Y} years.", "none": "Add your age to see the total up to age {b}.", "bad": "The age to calculate up to needs to be higher than your age.", "half": "Cut it in half ({half} minutes a day) and you get back {x} hours a year.", "to15": "Bring it down to 15 minutes a day and you get back {y} hours a year.", "under15": "You're already at 15 minutes a day or less.", "sum": "{m} minutes a day: {w} hours a week, {h} hours a year, {d} full days a year."};
+function f(x, d){ return new Intl.NumberFormat(T.loc, {maximumFractionDigits:d}).format(x); }
+function fh(x){ return f(x, x < 100 ? 1 : 0); }
+function fill(s, o){ return s.replace(/\{(\w+)\}/g, function(_, k){ return o[k]; }); }
+var $ = function(id){ return document.getElementById(id); };
+var rng = $('c-range'), num = $('c-min'), age = $('c-age'), to = $('c-to'), sum = $('c-sum'), timer;
+function render(){
+  var r = calcTime(num.value === '' ? 0 : num.value, age.value, to.value);
+  $('o-week').textContent = f(r.hWeek, 1);
+  $('o-year').textContent = fh(r.hYear);
+  $('o-days').textContent = f(r.dYear, 1);
+  $('o-movies').textContent = f(Math.round(r.movies), 0);
+  $('o-books').textContent = f(Math.round(r.books), 0);
+  var tot;
+  if(r.ageState === 'ok') tot = fill(T.total, {a:f(r.age, 1), b:f(r.toAge, 1), y:f(r.years, 1), h:f(Math.round(r.totalH), 0), d:f(r.totalD, 1), Y:f(r.totalY, 1)});
+  else if(r.ageState === 'bad') tot = T.bad;
+  else tot = fill(T.none, {b:f(r.toAge, 1)});
+  $('o-total').textContent = tot;
+  var back = fill(T.half, {half:f(r.halfMin, 1), x:fh(r.backHalf)}) + T.sp + (r.min > 15 ? fill(T.to15, {y:fh(r.back15)}) : T.under15);
+  $('o-back').textContent = back;
+  clearTimeout(timer);
+  timer = setTimeout(function(){ sum.textContent = fill(T.sum, {m:f(r.min, 1), w:f(r.hWeek, 1), h:fh(r.hYear), d:f(r.dYear, 1)}) + T.sp + tot; }, 600);
+}
+rng.addEventListener('input', function(){ num.value = rng.value; render(); });
+num.addEventListener('input', function(){ var v = Number(num.value); if(isFinite(v)) rng.value = Math.min(300, Math.max(0, v)); render(); });
+age.addEventListener('input', render);
+to.addEventListener('input', render);
+$('c-form').addEventListener('submit', function(e){ e.preventDefault(); });
+render();
+})();
+</script>
+<script src="/t.js" defer></script>
+</body>
+</html>

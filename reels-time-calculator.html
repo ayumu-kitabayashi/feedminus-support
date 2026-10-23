@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>リール・ショートの時間計算：1年で何時間？ | minulo</title>
+<meta name="description" content="1日にリール・ショート・TikTokを見る分数を入れると、1週間と1年で何時間か、80歳までの合計も計算します。計算式つき。入れた数字はどこにも送りません。">
+<link rel="canonical" href="https://minulo.app/reels-time-calculator.html">
+<link rel="alternate" hreflang="ja" href="https://minulo.app/reels-time-calculator.html">
+<link rel="alternate" hreflang="en" href="https://minulo.app/en/reels-time-calculator.html">
+<link rel="alternate" hreflang="ko" href="https://minulo.app/ko/reels-time-calculator.html">
+<link rel="alternate" hreflang="x-default" href="https://minulo.app/en/reels-time-calculator.html">
+<link rel="icon" href="icon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="リール・ショートの時間計算：1日の分数が1年で何時間になるか">
+<meta property="og:description" content="1日にリール・ショート・TikTokを見る分数を入れると、1週間と1年で何時間か、80歳までの合計も計算します。計算式つき。入れた数字はどこにも送りません。">
+<meta property="og:url" content="https://minulo.app/reels-time-calculator.html">
+<meta property="og:image" content="https://minulo.app/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="リール・ショートの時間計算：1日の分数が1年で何時間になるか">
+<meta name="twitter:description" content="1日にリール・ショート・TikTokを見る分数を入れると、1週間と1年で何時間か、80歳までの合計も計算します。計算式つき。入れた数字はどこにも送りません。">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "リール・ショートの時間計算", "url": "https://minulo.app/reels-time-calculator.html", "description": "1日にリール・ショート・TikTokを見る分数を入れると、1週間と1年で何時間か、80歳までの合計も計算します。計算式つき。入れた数字はどこにも送りません。", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "inLanguage": "ja", "datePublished": "2026-10-23", "dateModified": "2026-10-23", "author": {"@type": "Person", "name": "北林 歩"}, "publisher": {"@type": "Organization", "name": "minulo", "url": "https://minulo.app/"}, "citation": ["https://support.apple.com/ja-jp/guide/iphone/iphbfa595995/ios", "https://minulo.app/reels-shorts-data-2026.html"]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "ja", "mainEntity": [{"@type": "Question", "name": "1日1時間リールを見ると、1年で何時間になりますか？", "acceptedAnswer": {"@type": "Answer", "text": "365時間で、丸一日に直すと約15.2日分です。1週間では7時間です。計算式は、1日の分数 × 365 ÷ 60 です。"}}, {"@type": "Question", "name": "一生のうち何年を SNS の動画に使うかは、どう計算しますか？", "acceptedAnswer": {"@type": "Answer", "text": "1日の分数に365をかけて60で割ると、1年の時間が出ます。それに、決めた年齢までの年数をかけます。日数にするなら24で、年数にするなら8,760で割ります。たとえば1日60分を20歳から80歳まで続けると21,900時間で、約2.5年です。"}}, {"@type": "Question", "name": "インスタや TikTok を1日に何分見ているかは、どこで見られますか？", "acceptedAnswer": {"@type": "Answer", "text": "iPhone の 設定 > スクリーンタイム で「1日の平均」をタップし、「週」か「日」を選ぶと、使った時間の概要が出ます。"}}, {"@type": "Question", "name": "この計算機は、入れた数字を保存したり送ったりしますか？", "acceptedAnswer": {"@type": "Answer", "text": "しません。計算はブラウザの中だけで行い、入れた数字は保存も送信もしません。"}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "minulo", "item": "https://minulo.app/"}, {"@type": "ListItem", "position": 2, "name": "リール・ショートの時間計算", "item": "https://minulo.app/reels-time-calculator.html"}]}</script>
+<link rel="stylesheet" href="/article.css">
+<style>
+.calc{margin:6px 0 34px;padding:22px 20px;border:1px solid var(--rule2);border-radius:14px;background:var(--tint)}
+.calc label,.calc .lb{display:block;font-weight:600;font-size:15.5px;line-height:1.5;margin:0 0 8px;color:var(--ink)}
+.calc .row{display:flex;gap:14px;align-items:center}
+.calc input[type=range]{flex:1;min-width:0;accent-color:var(--accent);height:32px;margin:0}
+.calc input[type=number]{width:6.2em;font:inherit;font-variant-numeric:tabular-nums;padding:8px 10px;border:1px solid var(--rule2);border-radius:8px;background:var(--paper);color:var(--ink)}
+.calc input[type=number]:focus-visible,.calc input[type=range]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.calc .hint{font-size:13.5px;line-height:1.6;color:var(--ink3);margin:8px 0 0}
+.calc .ages{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:20px}
+.calc .ages input{width:100%}
+.res{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:22px 0 0;padding:0}
+.res div{background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:12px 14px}
+.res dt{font-size:13px;line-height:1.5;color:var(--ink3)}
+.res dd{margin:2px 0 0;font-size:25px;line-height:1.3;font-weight:700;font-variant-numeric:tabular-nums;color:var(--ink)}
+.res dd small{font-size:14px;font-weight:600;color:var(--ink2);margin-left:3px}
+.calc .say{margin:16px 0 0;color:var(--ink);font-size:16px;line-height:1.7}
+.calc .say+.say{margin-top:8px}
+.fx{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14.5px}
+.sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+@media (max-width:520px){.calc{padding:18px 16px}.calc .ages{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><a href="" aria-label="トップ"><img src="logo-trim.png" alt="minulo" width="140" height="24"></a></header>
+<main>
+<h1>リール・ショートの時間計算：1日の分数が1年で何時間になるか</h1>
+<p class="lede">インスタのリール、YouTube のショート、TikTok を1日に何分見ているかを入れると、1週間と1年で何時間になるかを計算します。年齢を入れれば、決めた年齢までの合計も出ます。1日1時間なら1年で365時間、丸一日に直すと約15.2日分です。</p>
+<p class="upd"><time datetime="2026-10-23">2026-10-23</time></p>
+<p class="disc">minulo の開発者・北林 歩が作りました。計算はブラウザの中だけで行い、入れた数字は保存も送信もしません。映画と本の数は、計算機の下に書いた前提で出しています。</p>
+<form class="calc" id="c-form" aria-label="リール・ショートの時間計算">
+<label for="c-min" id="c-min-l">1日にリール・ショート・TikTok を見る時間（分）</label>
+<div class="row"><input type="range" id="c-range" min="0" max="300" step="5" value="60" aria-labelledby="c-min-l"><input type="number" id="c-min" min="0" max="1440" step="1" value="60" inputmode="numeric" aria-describedby="c-hint"></div>
+<p class="hint" id="c-hint">わからないときは、iPhone の 設定 &gt; スクリーンタイム で「1日の平均」をタップすると見られます。</p>
+<div class="ages"><div><label for="c-age">今の年齢（任意）</label><input type="number" id="c-age" min="0" max="120" step="1" inputmode="numeric" placeholder="例：20"></div><div><label for="c-to">何歳までで計算するか</label><input type="number" id="c-to" min="1" max="120" step="1" value="80" inputmode="numeric"></div></div>
+<dl class="res">
+<div><dt>1週間</dt><dd><span id="o-week">7</span><small>時間</small></dd></div>
+<div><dt>1年</dt><dd><span id="o-year">365</span><small>時間</small></dd></div>
+<div><dt>1年を丸一日に直すと</dt><dd><span id="o-days">15.2</span><small>日</small></dd></div>
+<div><dt>2時間の映画にすると</dt><dd><span id="o-movies">183</span><small>本</small></dd></div>
+<div><dt>6時間で読む本にすると</dt><dd><span id="o-books">61</span><small>冊</small></dd></div>
+</dl>
+<p class="say" id="o-total">年齢を入れると、80歳までの合計が出ます。</p>
+<p class="say" id="o-back">半分（1日30分）にすると、1年で183時間が浮きます。1日15分にすると、1年で274時間が浮きます。</p>
+<p class="sr" id="c-sum" aria-live="polite" aria-atomic="true"></p>
+<noscript><p class="hint">JavaScript がオフなので、上の数字は1日60分のときのものです。下の計算式と表は、どの分数でも同じように使えます。</p></noscript>
+</form>
+<section class="qa"><h2>計算のしかた</h2><ul class="fx"><li>1週間の時間 ＝ 1日の分数 × 7 ÷ 60</li><li>1年の時間 ＝ 1日の分数 × 365 ÷ 60</li><li>1年の日数 ＝ 1年の時間 ÷ 24</li><li>ある年齢までの合計 ＝ 1年の時間 ×（その年齢 − 今の年齢）。日数なら ÷ 24、年数なら ÷ 8,760（24 × 365）</li><li>映画の本数 ＝ 1年の時間 ÷ 2、本の冊数 ＝ 1年の時間 ÷ 6</li><li>浮く時間 ＝（今の分数 − 減らしたあとの分数）× 365 ÷ 60</li></ul><p>前提：1年は365日、毎日同じ分数、映画は1本2時間、本は1冊6時間で読むとしています。読む速さは人によってかなり違うので、本の冊数はおおよその目安です。日数は、寝ている時間も含めた24時間で1日として数えています。</p></section>
+<section class="qa"><h2>計算例</h2><p>よくある分数で計算した表です。いちばん右の列は、同じ見方を20歳から80歳まで続けた場合です。</p></section>
+<div class="tw"><table><tr><th>1日の分数</th><th>1週間（時間）</th><th>1年（時間）</th><th>1年（日）</th><th>20歳から80歳まで（60年）</th></tr><tr><td class="n">15</td><td class="n">1.75</td><td class="n">91.25</td><td class="n">3.8</td><td class="n">5,475時間（約0.6年）</td></tr><tr><td class="n">30</td><td class="n">3.5</td><td class="n">182.5</td><td class="n">7.6</td><td class="n">10,950時間（約1.3年）</td></tr><tr class="me"><td class="n">60</td><td class="n">7</td><td class="n">365</td><td class="n">15.2</td><td class="n">21,900時間（約2.5年）</td></tr><tr><td class="n">120</td><td class="n">14</td><td class="n">730</td><td class="n">30.4</td><td class="n">43,800時間（約5年）</td></tr><tr><td class="n">180</td><td class="n">21</td><td class="n">1,095</td><td class="n">45.6</td><td class="n">65,700時間（約7.5年）</td></tr></table></div>
+<section class="qa"><h2>時間はどこで使われているか</h2><p>リールやショートは1本が短く、スワイプすればすぐ次が始まるので、区切りがありません。見始めるきっかけが別のところにあることもあります。友だちが DM でリールを送ってきて、それを開くと、そのままリールの流れが続きます。YouTube ではショートに専用のタブがあり、自動再生がオンだと、動画が終わったときに次の動画が始まります。</p><p>minulo の匿名の利用データでは、アプリの中で SNS を開く時間は夜20時〜深夜1時（日本時間）が多くなっています。</p></section>
+<section class="qa"><h2>減らしたいときにできること</h2><ul><li><b>夜：</b><a href="stop-doomscrolling-at-night.html">寝る前のスマホがやめられないときの iPhone の設定</a>（休止時間・睡眠集中モード・グレイスケール）</li><li><b>YouTube：</b><a href="youtube-shorts-feed-limit.html">ショート フィードの上限を0分にする</a>（大人は上限に達しても見続けられます）、<a href="youtube-autoplay-recommendations-off.html">自動再生とおすすめをオフにする</a></li><li><b>インスタ：</b><a href="hide-suggested-posts-instagram.html">おすすめ投稿を消す</a>、<a href="turn-off-instagram-reels.html">リールをオフにして DM は使う</a></li><li><b>アプリ：</b><a href="free-reels-blocker.html">リールとショートを無料で消す方法</a></li></ul><p>minulo は、インスタのリール、YouTube のショート、TikTok のおすすめを消して、DM はそのまま使える iPhone アプリです。消すのは無料です。DM で届いたリールは、果てしないフィードに続く前で止まり、「5分だけ開く」で5分間見られます。</p></section>
+<section class="qa"><h2>1日1時間リールを見ると、1年で何時間になりますか？</h2><p>365時間で、丸一日に直すと約15.2日分です。1週間では7時間です。計算式は、1日の分数 × 365 ÷ 60 です。</p></section><section class="qa"><h2>一生のうち何年を SNS の動画に使うかは、どう計算しますか？</h2><p>1日の分数に365をかけて60で割ると、1年の時間が出ます。それに、決めた年齢までの年数をかけます。日数にするなら24で、年数にするなら8,760で割ります。たとえば1日60分を20歳から80歳まで続けると21,900時間で、約2.5年です。</p></section><section class="qa"><h2>インスタや TikTok を1日に何分見ているかは、どこで見られますか？</h2><p>iPhone の 設定 &gt; スクリーンタイム で「1日の平均」をタップし、「週」か「日」を選ぶと、使った時間の概要が出ます。</p></section><section class="qa"><h2>この計算機は、入れた数字を保存したり送ったりしますか？</h2><p>しません。計算はブラウザの中だけで行い、入れた数字は保存も送信もしません。</p></section>
+<section class="qa"><h2>出典</h2><ol class="src"><li><a href="https://support.apple.com/ja-jp/guide/iphone/iphbfa595995/ios" rel="noopener">Apple：iPhoneで自分のスクリーンタイムを設定する</a></li><li><a href="https://minulo.app/reels-shorts-data-2026.html" rel="noopener">minulo の利用データ 2026</a></li></ol></section>
+<div class="links"><a href="free-reels-blocker.html">リールとショートを無料で消す方法 →</a><a href="turn-off-instagram-reels.html">インスタのリールをオフにして DM は使う方法 →</a><a href="youtube-shorts-feed-limit.html">YouTube のショート フィードの上限 →</a><a href="stop-doomscrolling-at-night.html">寝る前のスマホがやめられないとき →</a><a href="reels-shorts-data-2026.html">リールとショートを消したい人は誰か：minulo のデータ →</a></div>
+<div class="cta"><a href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-reels-time-calculator&amp;mt=8"><img src="badges/appstore-ja-jp.svg" alt="App Storeでダウンロード" height="54"></a></div>
+</main>
+<footer><div class="langs"><b>日本語</b><a href="en/reels-time-calculator.html" hreflang="en" lang="en">English</a><a href="ko/reels-time-calculator.html" hreflang="ko" lang="ko">한국어</a></div><p>© 2026 minulo</p></footer>
+</div>
+<script>
+(function(){
+/*calc-start*/
+function calcTime(min, age, toAge){
+  min = Number(min);
+  if(!isFinite(min) || min < 0) min = 0;
+  if(min > 1440) min = 1440;
+  var hYear = min * 365 / 60;
+  var r = {min:min, hWeek:min * 7 / 60, hYear:hYear, dYear:hYear / 24,
+    movies:hYear / 2, books:hYear / 6,
+    halfMin:min / 2, backHalf:hYear / 2, back15:Math.max(0, min - 15) * 365 / 60,
+    years:null, totalH:null, totalD:null, totalY:null, ageState:'none'};
+  var a = (age === '' || age == null) ? NaN : Number(age);
+  var t = (toAge === '' || toAge == null) ? 80 : Number(toAge);
+  if(!isFinite(t)) t = 80;
+  r.toAge = t;
+  if(isFinite(a)){
+    if(a >= 0 && t > a && t <= 150){
+      r.years = t - a; r.totalH = hYear * r.years; r.totalD = r.totalH / 24; r.totalY = r.totalD / 365;
+      r.ageState = 'ok';
+    } else { r.ageState = 'bad'; }
+  }
+  r.age = a;
+  return r;
+}
+/*calc-end*/
+var T = {"loc": "ja-JP", "sp": "", "total": "{a}歳から{b}歳まで（{y}年間）で、合計{h}時間。丸一日に直すと{d}日分、約{Y}年です。", "none": "年齢を入れると、{b}歳までの合計が出ます。", "bad": "計算する年齢は、今の年齢より上にしてください。", "half": "半分（1日{half}分）にすると、1年で{x}時間が浮きます。", "to15": "1日15分にすると、1年で{y}時間が浮きます。", "under15": "今の時点で、1日15分以下です。", "sum": "1日{m}分：1週間で{w}時間、1年で{h}時間、丸一日に直すと{d}日分。"};
+function f(x, d){ return new Intl.NumberFormat(T.loc, {maximumFractionDigits:d}).format(x); }
+function fh(x){ return f(x, x < 100 ? 1 : 0); }
+function fill(s, o){ return s.replace(/\{(\w+)\}/g, function(_, k){ return o[k]; }); }
+var $ = function(id){ return document.getElementById(id); };
+var rng = $('c-range'), num = $('c-min'), age = $('c-age'), to = $('c-to'), sum = $('c-sum'), timer;
+function render(){
+  var r = calcTime(num.value === '' ? 0 : num.value, age.value, to.value);
+  $('o-week').textContent = f(r.hWeek, 1);
+  $('o-year').textContent = fh(r.hYear);
+  $('o-days').textContent = f(r.dYear, 1);
+  $('o-movies').textContent = f(Math.round(r.movies), 0);
+  $('o-books').textContent = f(Math.round(r.books), 0);
+  var tot;
+  if(r.ageState === 'ok') tot = fill(T.total, {a:f(r.age, 1), b:f(r.toAge, 1), y:f(r.years, 1), h:f(Math.round(r.totalH), 0), d:f(r.totalD, 1), Y:f(r.totalY, 1)});
+  else if(r.ageState === 'bad') tot = T.bad;
+  else tot = fill(T.none, {b:f(r.toAge, 1)});
+  $('o-total').textContent = tot;
+  var back = fill(T.half, {half:f(r.halfMin, 1), x:fh(r.backHalf)}) + T.sp + (r.min > 15 ? fill(T.to15, {y:fh(r.back15)}) : T.under15);
+  $('o-back').textContent = back;
+  clearTimeout(timer);
+  timer = setTimeout(function(){ sum.textContent = fill(T.sum, {m:f(r.min, 1), w:f(r.hWeek, 1), h:fh(r.hYear), d:f(r.dYear, 1)}) + T.sp + tot; }, 600);
+}
+rng.addEventListener('input', function(){ num.value = rng.value; render(); });
+num.addEventListener('input', function(){ var v = Number(num.value); if(isFinite(v)) rng.value = Math.min(300, Math.max(0, v)); render(); });
+age.addEventListener('input', render);
+to.addEventListener('input', render);
+$('c-form').addEventListener('submit', function(e){ e.preventDefault(); });
+render();
+})();
+</script>
+<script src="/t.js" defer></script>
+</body>
+</html>

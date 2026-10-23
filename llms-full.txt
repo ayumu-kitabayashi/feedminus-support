@@ -894,3 +894,77 @@ A: Opal says its Deep Focus mode can't be bypassed or cancelled once it starts. 
 Q: What if I only want to stop Reels and Shorts, not block Instagram?
 A: Brick, Opal and Screen Time block the whole app, so DMs are blocked too. minulo opens Instagram, YouTube, TikTok and 7 other networks with Reels, Shorts and suggested posts hidden, and DMs keep working. Hiding is free.
 
+
+
+## Turning off the TikTok For You page (en, checked 2026-10-23)
+Source: https://minulo.app/en/turn-off-tiktok-for-you-page.html
+
+Q: Can you turn off the For You page on TikTok?
+A: We could not find a way in TikTok's help as of October 2026. For You is the first feed you see when you open TikTok, and TikTok's tools (Refresh your For You feed, Not interested, Filter keywords and Manage topics) change what it shows without removing it. To use TikTok without For You, open it in an app that hides it, such as minulo, where this is free.
+
+Q: What does Refresh your For You feed do?
+A: It starts your For You recommendations over. TikTok shows you some popular posts, and what you like and comment on shapes the feed from there. It only affects For You, not your Following feed, profile, inbox or ads, and it can't be undone. You find it under Profile, Menu, Settings and privacy, Content preferences.
+
+Q: Can I use TikTok with only the Following feed?
+A: Not in the TikTok app. It still opens on For You, and when you run out of posts in Following or the Friends Tab, TikTok suggests going to For You. In minulo you can hide For You, and Messages and Following open straight from its home screen.
+
+Q: Does TikTok's daily screen time limit stop you from scrolling?
+A: Not by itself. When you reach the limit, TikTok notifies you and you can close the app or type the passcode shown on the screen to keep watching, so it works as a reminder. For users aged 13 to 17 it is on by default at 1 hour.
+
+Q: How do I stop scrolling TikTok but keep my DMs?
+A: Limiting the TikTok app with iPhone Screen Time blocks your messages too. Instead, open TikTok in an app that hides For You and keeps messages, such as minulo. Hiding is free, and minulo can also lock the official TikTok app for up to 2 hours per block for free, so tapping its icon sends you to minulo.
+
+
+## What minulo can't do (en, checked 2026-10-23)
+Source: https://minulo.app/en/minulo-limitations.html
+
+Q: What are the downsides of minulo?
+A: minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Posting Stories, voice messages and calls aren't available. It is iPhone, Mac, Chrome and Safari only, free blocks last up to 2 hours, and it is new, with few ratings.
+
+Q: Can minulo remove Reels from the official Instagram app?
+A: No. On iPhone, no app can change what another app shows. minulo hides Reels when you open Instagram inside minulo, and it can lock the official app with Screen Time so tapping its icon sends you to minulo instead.
+
+Q: Will I still get Instagram notifications if I use minulo?
+A: Only if the official Instagram app is not blocked. Notifications come from the official app, and they don't arrive while minulo blocks it. minulo itself sends no push notifications.
+
+Q: What is free in minulo and what needs Pro?
+A: Hiding Reels, Shorts and suggested posts on all 10 networks and blocking the official apps for up to 2 hours at a time are free. Pro adds schedules, blocks longer than 2 hours, Locked Mode, blocking a network completely and multiple block lists. In the US it is $9.99 a month or $39.99 a year, with a 7-day free trial on the yearly plan.
+
+Q: Does minulo work on Android?
+A: Not yet. minulo is for iPhone and Mac, with Chrome and Safari extensions. The Android version is in testing, and you can join the waitlist to get one email when it is out.
+
+
+## Hide, block or delete Instagram (en, checked 2026-10-23)
+Source: https://minulo.app/en/hide-block-or-delete-instagram.html
+
+Q: Should I delete Instagram or just block Reels?
+A: If you need Instagram for messages, hiding only Reels usually lasts longer than deleting, because you never have to reinstall it to answer a DM. Deleting fits a short, clear period such as exam week, or an app you don't use for messages. You can also do both halfway: hide Reels with an app like minulo and lock the official Instagram app with Screen Time.
+
+Q: Why don't app blockers work for me?
+A: Usually for one of three reasons. Screen Time limits can be ignored by default unless you set a Screen Time passcode and turn on Block at Downtime. If you chose the passcode yourself, you can type it in. And a full block also stops DMs, so you unblock to reply and then stay on the feed. Letting someone else set the passcode, or keeping DMs in an app without Reels, fixes most of this.
+
+Q: Does a pause before opening an app actually work?
+A: There is evidence that it helps. In a 6-week field experiment with 280 one sec users published in PNAS in 2023, people closed the app 36% of the times one sec interrupted them, and opening of the chosen apps fell by 57% after six weeks. One of the authors is one sec's creator. After the pause the whole app opens, so if you do go in, Reels are still there.
+
+Q: Can I keep Instagram DMs but get rid of Reels?
+A: Not inside the official Instagram app, which no other iPhone app can change. Apps such as minulo, SocialLite and UNDOOMED open Instagram in their own view with Reels and suggested posts hidden while DMs keep working. In minulo this is free, and it can also lock the official Instagram app so you end up in the version without Reels.
+
+Q: Is hiding the feed enough on its own?
+A: Often not, because the official app is still on your phone with Reels in it. Hiding only works inside the app that does the hiding. Pair it with a lock on the official app (minulo does this with Screen Time, free for up to 2 hours per block) or move the official app off your Home Screen.
+
+
+## Reels and Shorts time calculator (en, checked 2026-10-23)
+Source: https://minulo.app/en/reels-time-calculator.html
+
+Q: How many hours a year is one hour a day on Reels?
+A: 365 hours, which is about 15.2 full days, or 7 hours a week. The formula is minutes a day × 365 ÷ 60.
+
+Q: How do I work out how many years of my life go to short videos?
+A: Multiply your minutes a day by 365 and divide by 60 to get hours per year, then multiply by the number of years up to the age you choose. Divide by 24 for days, or by 8,760 for years. For example, 60 minutes a day from age 20 to 80 is 21,900 hours, about 2.5 years.
+
+Q: Where can I see my daily time on Instagram or TikTok?
+A: On iPhone, go to Settings > Screen Time, tap Daily Average, then choose Week or Day to see a summary of your usage.
+
+Q: Does this calculator save or send what I type?
+A: No. The calculation runs in your browser, and the numbers you type aren't saved or sent anywhere.
+
