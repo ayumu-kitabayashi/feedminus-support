@@ -57,6 +57,22 @@
 
 ---
 
+# Free ways to block Reels and Shorts on iPhone (en, checked 2026-10-23)
+
+Source page: https://minulo.app/en/free-reels-blocker.html (日本語: https://minulo.app/free-reels-blocker.html / 한국어: https://minulo.app/ko/free-reels-blocker.html)
+
+- Nope: Safari extension for instagram.com and youtube.com. Completely free, no subscriptions or in-app purchases. Only works in Safari, not in the Instagram or YouTube apps.
+- minulo: opens 10 networks inside the app. Hiding Reels, Shorts, Explore and suggested posts is free on all 10. Locking the official apps with Screen Time is also free, up to 2 hours per block. Schedules, longer blocks, Locked Mode and multiple block lists are Pro.
+- Stillfeed: Instagram and YouTube in a built-in browser. Blocking Reels and Shorts is free; following-only feed, Stories and feed blocking and DMs-only are Pro.
+- Reelmute (Japanese App Store name: リールとショートを非表示): hiding is free; DMs-only, hiding suggested posts and locking the original apps are Premium.
+- Awhile: Instagram only. Filtering is free; Premium is paid.
+- UNDOOMED: many features free; Plus and Pro add more. Its App Store page does not list exactly which filters are free.
+- ScreenZen: all features free (only optional tips). Adds a delay before an app opens; does not hide Reels.
+- YouTube's Shorts feed limit: built in and free; can be set to 0 minutes, but an adult account can turn it off again.
+- iPhone Screen Time: built in and free; with a Screen Time passcode and Block at End of Limit it is strict, but it blocks the whole app, so Instagram DMs are blocked too.
+
+In short: hiding the feed is free in most of these apps; what costs money is enforcement (schedules, strict lock modes) and extras (DMs-only modes, Stories, multiple accounts). No third-party app can change the official Instagram app itself.
+
 # minulo FAQ (en)
 
 minulo is an iPhone app that keeps your social media working while hiding Reels, Shorts and recommended posts. Here are answers to the questions people ask most.
