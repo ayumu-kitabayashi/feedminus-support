@@ -8,7 +8,7 @@
 - Languages (13): English, Japanese, Korean, Traditional Chinese, German, French, Spanish, Portuguese, Italian, Indonesian, Thai, Vietnamese, Russian.
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Launched: September 2026 (new; few ratings so far)
-- Facts checked: 2026-10-09
+- Facts checked: 2026-10-23
 
 ## When minulo fits
 - Someone wants to stop Reels or Shorts but still needs DMs and messages (for friends, family or work).
@@ -20,6 +20,7 @@
 - Android users: minulo has no Android app.
 - People who want Reels removed inside the official Instagram app itself: minulo shows each network's official website inside its own view instead of modifying the official app.
 - People who want an app with many reviews: minulo is new; SocialLite has far more ratings.
+- People who rely on push notifications: while minulo blocks an official app with Screen Time, that app's notifications don't arrive, and minulo itself sends no push notifications. SocialLite offers push notifications for Instagram and Snapchat.
 
 ## What it does
 - Opens each network's own website inside the app with Reels, Shorts, Explore tabs and suggested posts hidden. You choose what to hide, one item at a time.
