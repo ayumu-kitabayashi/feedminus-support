@@ -988,3 +988,65 @@ A: Not completely. You can set it to 0 under You > Settings > Time management > 
 Q: Can I keep Instagram DMs but get rid of Reels?
 A: Not inside the Instagram app, but you can with minulo. It opens Instagram with Reels, Explore and suggested posts hidden while your DMs keep working, and hiding them is free. It does the same for YouTube Shorts and TikTok's For You feed.
 
+
+
+## How to get rid of the For you tab on X (en, checked 2026-10-24)
+Source: https://minulo.app/en/turn-off-x-for-you.html
+
+Q: Can I turn off the For you tab on X?
+A: We could not find a setting that removes it in X's help as of October 2026. You can switch to Following, and X reopens on the timeline you had open last when you closed it. To have the For you tab hidden every time, open X in an app that hides it, such as minulo, where this is free.
+
+Q: How do I make X open to Following instead of For you?
+A: Switch to Following at the top of Home and close X while you are still on it. X's help says the app reopens on whichever timeline you had open last. If you look at For you before closing, it will open on For you next time.
+
+Q: Why does X keep going back to For you?
+A: X remembers the tab you were on when you closed the app. If you swiped over to For you, even briefly, that is the tab you get next time. X may also show recommended posts in notifications, which can take you back into recommended content.
+
+Q: Does muting words remove posts from For you?
+A: Muted words apply to your Home timeline and notifications, so posts containing them are kept out of Home. Muted posts still appear in search, and notifications you turned on for a specific account are not muted. You add entries one at a time and can mute them forever or for 24 hours, 7 days or 30 days.
+
+Q: Can I use X just for DMs?
+A: X has no setting for that. Screen Time blocks the whole app, messages included. In minulo, X opens to Messages with the For you tab hidden, and Search, Video and Grok can be hidden too. Hiding is free.
+
+
+
+
+## How to stop seeing Threads posts on Instagram (en, checked 2026-10-24)
+Source: https://minulo.app/en/stop-threads-posts-on-instagram.html
+
+Q: Why are Threads posts showing up in my Instagram feed?
+A: Meta shows Threads posts directly on Instagram and Facebook. Instagram head Adam Mosseri announced the feature in November 2023 as a way to help Threads posts reach more people. They can come from accounts you don't follow.
+
+Q: Can I turn off Threads posts on Instagram completely?
+A: We could not find a setting for this in Instagram's help as of October 2026. You can hide Threads posts one at a time from their menu, or switch to the Following feed, which shows only accounts you follow. If you mainly use Instagram for DMs, minulo can open it with the whole feed hidden, for free.
+
+Q: Does "Suggesting posts on other apps" stop Threads on Instagram?
+A: Not for what you see. That Threads setting controls whether your own Threads posts are suggested on Instagram and Facebook. Other people's Threads posts can still appear in your Instagram feed.
+
+Q: Does the Following feed remove Threads posts?
+A: Following shows posts only from accounts you follow, with no suggested posts, so Threads posts that Instagram suggests from other accounts are not shown there. Instagram goes back to the regular feed when you reopen it, so you choose Following each time.
+
+Q: How do I stop Threads notifications on Instagram?
+A: Guiding Tech says you can swipe left on a Threads notification in Instagram's Notifications tab, tap the three dots and choose Turn off notifications like this. We could not find this step in Instagram's help.
+
+
+
+
+## Why Instagram opens to Reels (en, checked 2026-10-24)
+Source: https://minulo.app/en/instagram-opens-to-reels.html
+
+Q: Why does my Instagram open to Reels now?
+A: Instagram has been testing Reels-first layouts. In October 2025 it let a small group in India make Reels and DMs the first two tabs, and in October 2026 it was reported testing an option to open straight to the Reels feed. Both were described as optional. On iPad, the Instagram app opens to Reels by design.
+
+Q: How do I make Instagram open to my feed again?
+A: If you opted into a Reels-first test, switch back; Instagram said you can leave these tests, but we could not confirm the exact menu in its help. Otherwise tap Home to get to your feed, and tap Instagram at the top left › Following to see only people you follow. Instagram doesn't remember Following, so you choose it again each time.
+
+Q: Can I remove the Reels tab from Instagram?
+A: No. We could not find a setting in Instagram's help that removes the Reels tab as of October 2026. To use Instagram without it, open Instagram in an app that hides the Reels tab, such as minulo, where this is free and DMs keep working.
+
+Q: Why does Instagram on iPad open to Reels?
+A: Instagram designed its iPad app that way. When it launched in September 2025, Instagram said that when you open the app you drop into Reels, with Stories at the top and messages one tap away. The iPad app also has a Following tab with All, Friends and Latest views.
+
+Q: How do I open Instagram straight to DMs?
+A: We found no setting in the Instagram app for this. In minulo, Messages opens straight from the minulo home screen, and you can turn on Every tab but DMs so only DMs and notifications are left. Hiding is free.
+
