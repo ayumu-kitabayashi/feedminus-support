@@ -24,11 +24,11 @@
     "it": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)"
    },
    "free": {
-    "en": "Hiding is free. Pro adds schedules, lock mode and multiple block lists.",
-    "ja": "消す機能は無料。予定・ロックモード・複数のリストは Pro。",
-    "de": "Das Ausblenden ist kostenlos. Pro bietet zusätzlich Zeitpläne, einen Sperrmodus und mehrere Sperrlisten.",
-    "fr": "Le masquage est gratuit. Pro ajoute les plannings, le mode verrouillage et plusieurs listes de blocage.",
-    "es": "Ocultar es gratis. Pro añade horarios, modo bloqueo y varias listas de bloqueo.",
+    "en": "Hiding is free. Pro adds schedules, Hard Mode and multiple block lists.",
+    "ja": "消す機能は無料。予定・ハードモード・複数のリストは Pro。",
+    "de": "Das Ausblenden ist kostenlos. Pro bietet zusätzlich Zeitpläne, den Hardmodus und mehrere Sperrlisten.",
+    "fr": "Le masquage est gratuit. Pro ajoute les plannings, le mode strict et plusieurs listes de blocage.",
+    "es": "Ocultar es gratis. Pro añade horarios, Modo estricto y varias listas de bloqueo.",
     "pt": "Esconder é grátis. O Pro adiciona agendamentos, modo de bloqueio e várias listas de bloqueio.",
     "it": "Nascondere è gratis. Pro aggiunge programmazioni, modalità blocco e più liste di blocco."
    },
@@ -827,7 +827,7 @@
     ],
     [
      "Which option is completely free?",
-     "Nope says it is fully free, with no subscriptions or in-app purchases, and covers Instagram and YouTube in Safari. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks; only schedules, lock mode and multiple block lists are paid."
+     "Nope says it is fully free, with no subscriptions or in-app purchases, and covers Instagram and YouTube in Safari. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks; only schedules, Hard Mode and multiple block lists are paid."
     ],
     [
      "What is a good SocialLite alternative?",
@@ -866,7 +866,7 @@
     ],
     [
      "完全に無料で使えるのはどれ？",
-     "Nope は、サブスクもアプリ内課金もない完全無料だと説明しており、Safari で Instagram と YouTube に使えます。minulo は、10のSNSでリール・ショート・おすすめ投稿を消す機能が無料で、有料なのは予定・ロックモード・複数のリストだけです。"
+     "Nope は、サブスクもアプリ内課金もない完全無料だと説明しており、Safari で Instagram と YouTube に使えます。minulo は、10のSNSでリール・ショート・おすすめ投稿を消す機能が無料で、有料なのは予定・ハードモード・複数のリストだけです。"
     ],
     [
      "SocialLiteの代わりになるアプリは？",
@@ -905,7 +905,7 @@
     ],
     [
      "Welche Option ist komplett kostenlos?",
-     "Nope gibt an, komplett kostenlos zu sein, ohne Abos oder In-App-Käufe, und deckt Instagram und YouTube in Safari ab. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen in allen 10 Netzwerken kostenlos; nur Zeitpläne, der Sperrmodus und mehrere Sperrlisten sind kostenpflichtig."
+     "Nope gibt an, komplett kostenlos zu sein, ohne Abos oder In-App-Käufe, und deckt Instagram und YouTube in Safari ab. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen in allen 10 Netzwerken kostenlos; nur Zeitpläne, der Hardmodus und mehrere Sperrlisten sind kostenpflichtig."
     ],
     [
      "Was ist eine gute Alternative zu SocialLite?",
@@ -944,7 +944,7 @@
     ],
     [
      "Quelle option est entièrement gratuite ?",
-     "Nope se dit entièrement gratuit, sans abonnement ni achats intégrés, et couvre Instagram et YouTube dans Safari. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; seuls les plannings, le mode verrouillage et les listes de blocage multiples sont payants."
+     "Nope se dit entièrement gratuit, sans abonnement ni achats intégrés, et couvre Instagram et YouTube dans Safari. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; seuls les plannings, le mode strict et les listes de blocage multiples sont payants."
     ],
     [
      "Quelle bonne alternative à SocialLite ?",
@@ -983,7 +983,7 @@
     ],
     [
      "¿Qué opción es completamente gratis?",
-     "Nope dice que es totalmente gratis, sin suscripciones ni compras dentro de la app, y cubre Instagram y YouTube en Safari. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis en las 10 redes; solo los horarios, el modo bloqueo y las listas de bloqueo múltiples son de pago."
+     "Nope dice que es totalmente gratis, sin suscripciones ni compras dentro de la app, y cubre Instagram y YouTube en Safari. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis en las 10 redes; solo los horarios, el Modo estricto y las listas de bloqueo múltiples son de pago."
     ],
     [
      "¿Cuál es una buena alternativa a SocialLite?",

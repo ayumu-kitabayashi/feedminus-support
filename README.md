@@ -7,7 +7,7 @@
 - About the app (README): https://github.com/ayumu-kitabayashi/minulo
 - Works on: iPhone, Mac and Chrome
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
-- Price: hiding Reels, Shorts and suggested posts is free. minulo Pro adds schedules, lock mode and multiple block lists.
+- Price: hiding Reels, Shorts and suggested posts is free. minulo Pro adds schedules, Hard Mode and multiple block lists.
 
 ## How it works
 
