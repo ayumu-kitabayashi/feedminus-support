@@ -1062,7 +1062,7 @@ Same facts as the English pages above. Official names, copied from X Help and In
 - Not confirmed in these languages: the menu option that hides a single Threads post in the Instagram feed (Hide in English) and Turn off notifications like this; both come from Guiding Tech in English. The menu for leaving Instagram's Reels-first tests was not found in Instagram's help in any language.
 
 ## Instagram Quiet Mode Is Now Sleep Mode: How to Turn It On (en, checked 2026-10-24)
-Source: https://minulo.app/en/instagram-quiet-mode.html · ja https://minulo.app/instagram-quiet-mode.html · ko https://minulo.app/ko/instagram-quiet-mode.html
+Source: https://minulo.app/en/instagram-quiet-mode.html · ja https://minulo.app/instagram-quiet-mode.html · ko https://minulo.app/ko/instagram-quiet-mode.html · es https://minulo.app/es/instagram-quiet-mode.html · pt-BR https://minulo.app/pt/instagram-quiet-mode.html · de https://minulo.app/de/instagram-quiet-mode.html · fr https://minulo.app/fr/instagram-quiet-mode.html
 
 Instagram's Quiet mode is still there, under a new name: Sleep mode. Meta says the feature launched as Quiet mode in January 2023 and was renamed later. To turn it on, go to your profile, tap the menu at the top right, then Time management › Sleep mode, and pick the days and hours. During that time Instagram pauses your notifications and sends an auto-reply to people who message you. It does not lock the app, so you can still open Reels at 1 a.m. If you want Reels gone at night as well, minulo can hide them for free.
 Names: Japanese UI スリープモード (Settings and activity › Time management = ［設定とアクティビティ］→［時間管理］); Korean UI 사용 제한 모드 (설정 및 활동 › 시간 관리), not 방해금지모드. Meta Newsroom (2023-01-19, updated 2025-01-28) says Quiet mode is now called Sleep mode.
@@ -1084,7 +1084,7 @@ A: No. Sleep mode pauses notifications and shows a reminder, but you can still o
 
 
 ## How to Temporarily Deactivate Instagram on iPhone (2026) (en, checked 2026-10-24)
-Source: https://minulo.app/en/deactivate-instagram-temporarily.html · ja https://minulo.app/deactivate-instagram-temporarily.html · ko https://minulo.app/ko/deactivate-instagram-temporarily.html
+Source: https://minulo.app/en/deactivate-instagram-temporarily.html · ja https://minulo.app/deactivate-instagram-temporarily.html · ko https://minulo.app/ko/deactivate-instagram-temporarily.html · es https://minulo.app/es/deactivate-instagram-temporarily.html · pt-BR https://minulo.app/pt/deactivate-instagram-temporarily.html · de https://minulo.app/de/deactivate-instagram-temporarily.html · fr https://minulo.app/fr/deactivate-instagram-temporarily.html
 
 To temporarily deactivate Instagram on iPhone, go to your profile › Menu › Accounts Center › Manage account, tap Manage next to your Instagram profile, then Deactivation or deletion › Deactivate account. Your photos, comments and likes are hidden until you log back in, and you can only do this once a week. Logging back in is what reactivates the account, so you can't deactivate and still check your DMs. If you mainly want to stop scrolling Reels, blocking the app or hiding Reels leaves your account and messages as they are.
 Names: Japanese help calls it 利用解除 (［アカウントセンター］→［アカウントを管理］→［管理］→［利用解除または削除］→［アカウントを利用解除］); Korean 비활성화 (계정 센터 › 계정 관리 › 관리 › 비활성화 또는 삭제 › 계정 비활성화). Deletion is permanent 30 days after the request.
@@ -1106,7 +1106,7 @@ A: Once a week, according to Instagram's help.
 
 
 ## How to See Time Spent on Instagram on iPhone (2026) (en, checked 2026-10-24)
-Source: https://minulo.app/en/instagram-time-spent.html · ja https://minulo.app/instagram-time-spent.html · ko https://minulo.app/ko/instagram-time-spent.html
+Source: https://minulo.app/en/instagram-time-spent.html · ja https://minulo.app/instagram-time-spent.html · ko https://minulo.app/ko/instagram-time-spent.html · es https://minulo.app/es/instagram-time-spent.html · pt-BR https://minulo.app/pt/instagram-time-spent.html · de https://minulo.app/de/instagram-time-spent.html · fr https://minulo.app/fr/instagram-time-spent.html
 
 To see your time on Instagram, go to your profile › Menu › Your activity › Time management. Instagram shows your average daily time over the last 7 days, counted from when you open the app until you close it or switch to another app. For a day-by-day number, use iPhone Screen Time: Settings › Screen Time › Daily Average, then Day or Week. Instagram's Daily limit, on the same screen, only sends a reminder; it doesn't lock the app unless a parent supervises a Teen Account. Neither tells you how much of that time went to Reels.
 Names: Japanese ［時間管理］ (the daily limit article says ［利用時間］), daily limit ［1日の上限］; Korean 시간 관리, 일일 시간 제한. Not available on computers.
@@ -1128,7 +1128,7 @@ A: Instagram shows a 7-day average from the Instagram app. Screen Time shows eac
 
 
 ## How to Get Instagram Notifications Only for Messages (iPhone) (en, checked 2026-10-24)
-Source: https://minulo.app/en/instagram-notifications-messages-only.html · ja https://minulo.app/instagram-notifications-messages-only.html · ko https://minulo.app/ko/instagram-notifications-messages-only.html
+Source: https://minulo.app/en/instagram-notifications-messages-only.html · ja https://minulo.app/instagram-notifications-messages-only.html · ko https://minulo.app/ko/instagram-notifications-messages-only.html · es https://minulo.app/es/instagram-notifications-messages-only.html · pt-BR https://minulo.app/pt/instagram-notifications-messages-only.html · de https://minulo.app/de/instagram-notifications-messages-only.html · fr https://minulo.app/fr/instagram-notifications-messages-only.html
 
 We found no single "messages only" switch in Instagram's help, but you can get close. Go to your profile › Menu › Notifications, and below Pause push notifications open each type of notification and turn it off, leaving message notifications on. Then check that Instagram is still allowed in iPhone Settings › Notifications. If one group chat is too loud, mute just that chat. We couldn't confirm the exact names of every notification type in Instagram's help, so go by what each one is about: posts, stories, comments, follows, Live, Reels.
 Names: Japanese ［お知らせ］, ［プッシュ通知を一時停止］; Korean 알림, 푸시 알림 일시 정지. minulo itself sends no notifications, and while minulo blocks the official Instagram app, its notifications do not arrive.
@@ -1147,7 +1147,7 @@ A: No. minulo sends no notifications, and while it locks the official Instagram 
 
 
 ## How to Watch Only Stories on Instagram, Without Reels (en, checked 2026-10-24)
-Source: https://minulo.app/en/instagram-stories-only.html · ja https://minulo.app/instagram-stories-only.html · ko https://minulo.app/ko/instagram-stories-only.html
+Source: https://minulo.app/en/instagram-stories-only.html · ja https://minulo.app/instagram-stories-only.html · ko https://minulo.app/ko/instagram-stories-only.html · es https://minulo.app/es/instagram-stories-only.html · pt-BR https://minulo.app/pt/instagram-stories-only.html · de https://minulo.app/de/instagram-stories-only.html · fr https://minulo.app/fr/instagram-stories-only.html
 
 We found no Stories-only mode in Instagram's help. The closest you can get in the app: open Stories from the row at the top of your feed, and mute the posts, but not the Stories, of accounts whose posts you don't want to see. Instagram doesn't tell them. The Reels and Explore tabs are still one tap away, though. If you only open Instagram for friends' Stories and DMs, minulo shows Instagram with the Reels and Explore tabs and suggested posts hidden, with Stories still at the top. Hiding is free.
 Names: mute is ［ミュート］/［投稿をミュート］ in Japanese and 일시 차단 in Korean. Stories can be viewed but not posted in minulo.
@@ -1166,7 +1166,7 @@ A: Yes. Stories stay at the top of the feed when you hide Reels and Explore in m
 
 
 ## TikTok Screen Time Limit: How to Set It and Make It Stick (2026) (en, checked 2026-10-24)
-Source: https://minulo.app/en/tiktok-screen-time-limit.html · ja https://minulo.app/tiktok-screen-time-limit.html · ko https://minulo.app/ko/tiktok-screen-time-limit.html
+Source: https://minulo.app/en/tiktok-screen-time-limit.html · ja https://minulo.app/tiktok-screen-time-limit.html · ko https://minulo.app/ko/tiktok-screen-time-limit.html · es https://minulo.app/es/tiktok-screen-time-limit.html · pt-BR https://minulo.app/pt/tiktok-screen-time-limit.html · de https://minulo.app/de/tiktok-screen-time-limit.html · fr https://minulo.app/fr/tiktok-screen-time-limit.html
 
 TikTok's daily screen time is under Profile › Menu › Settings and privacy › Time and well-being › Screen time. When you reach the limit, TikTok notifies you and you can close the app or type the passcode shown on the screen to keep watching, so it is a reminder, not a lock. For users aged 13 to 17 it is on by default at 1 hour. To be blocked at the limit, use iPhone Screen Time with a passcode someone else sets. If the For You feed is the problem, minulo hides it and keeps your messages, for free.
 
@@ -1187,7 +1187,7 @@ A: We could not find a lock in TikTok's help. Its own limit lets you keep watchi
 
 
 ## How to Set a Time Limit on YouTube for Yourself (iPhone, 2026) (en, checked 2026-10-24)
-Source: https://minulo.app/en/youtube-time-limit.html · ja https://minulo.app/youtube-time-limit.html · ko https://minulo.app/ko/youtube-time-limit.html
+Source: https://minulo.app/en/youtube-time-limit.html · ja https://minulo.app/youtube-time-limit.html · ko https://minulo.app/ko/youtube-time-limit.html · es https://minulo.app/es/youtube-time-limit.html · pt-BR https://minulo.app/pt/youtube-time-limit.html · de https://minulo.app/de/youtube-time-limit.html · fr https://minulo.app/fr/youtube-time-limit.html
 
 We could not find a daily time limit in YouTube's help that locks you out of your own account. What YouTube has are reminders: Remind me to take a break, Remind me when it's bedtime and the Shorts feed limit. Each one can be dismissed, and you keep watching. To be stopped at a set time, use iPhone Screen Time with Block at End of Limit and a passcode someone else holds. If Shorts and Home recommendations are what take the time, minulo shows YouTube with them hidden and keeps your subscriptions, for free.
 
@@ -1208,7 +1208,7 @@ A: YouTube has a Shorts feed limit under Settings, Time management. You can set 
 
 
 ## How to Turn Off Recommendations on Reddit (Home Feed, 2026) (en, checked 2026-10-24)
-Source: https://minulo.app/en/turn-off-reddit-recommendations.html · ja https://minulo.app/turn-off-reddit-recommendations.html · ko https://minulo.app/ko/turn-off-reddit-recommendations.html
+Source: https://minulo.app/en/turn-off-reddit-recommendations.html · ja https://minulo.app/turn-off-reddit-recommendations.html · ko https://minulo.app/ko/turn-off-reddit-recommendations.html · es https://minulo.app/es/turn-off-reddit-recommendations.html · pt-BR https://minulo.app/pt/turn-off-reddit-recommendations.html · de https://minulo.app/de/turn-off-reddit-recommendations.html · fr https://minulo.app/fr/turn-off-reddit-recommendations.html
 
 Reddit does let you turn off home feed recommendations. In the app, open your account settings, scroll down to Privacy and turn off Show recommendations in home feed. On reddit.com the same toggle is in your preferences. Reddit says these recommendations appear when Home is sorted by Best. The toggle is about Home only: the Popular feed, community suggestions and trending post notifications are separate. If you'd rather not see Popular at all, minulo opens Reddit with Popular, r/all and suggested posts hidden, for free.
 
@@ -1229,7 +1229,7 @@ A: In the app, tap your avatar, the menu (three lines), Settings, then your user
 
 
 ## How to Make Threads Open to Following, Not For You (2026) (en, checked 2026-10-24)
-Source: https://minulo.app/en/threads-following-feed-only.html · ja https://minulo.app/threads-following-feed-only.html · ko https://minulo.app/ko/threads-following-feed-only.html
+Source: https://minulo.app/en/threads-following-feed-only.html · ja https://minulo.app/threads-following-feed-only.html · ko https://minulo.app/ko/threads-following-feed-only.html · es https://minulo.app/es/threads-following-feed-only.html · pt-BR https://minulo.app/pt/threads-following-feed-only.html · de https://minulo.app/de/threads-following-feed-only.html · fr https://minulo.app/fr/threads-following-feed-only.html
 
 Threads has two main feeds. For you mixes posts from people you follow with recommended accounts, and Following shows only posts from profiles you follow. Meta said in 2025 that you can change the order of your feeds and make one your default, so you can put Following first and Threads opens there. For you is still one tap away, and we could not find a setting in Threads' help that removes it. If you want it gone, minulo opens Threads on Following with For you skipped, for free.
 
@@ -1250,7 +1250,7 @@ A: We could not find one setting for that in Instagram's help. You can hide Thre
 
 
 ## How to Stop Videos on Pinterest: Autoplay and Video Pins (2026) (en, checked 2026-10-24)
-Source: https://minulo.app/en/turn-off-pinterest-videos.html · ja https://minulo.app/turn-off-pinterest-videos.html · ko https://minulo.app/ko/turn-off-pinterest-videos.html
+Source: https://minulo.app/en/turn-off-pinterest-videos.html · ja https://minulo.app/turn-off-pinterest-videos.html · ko https://minulo.app/ko/turn-off-pinterest-videos.html · es https://minulo.app/es/turn-off-pinterest-videos.html · pt-BR https://minulo.app/pt/turn-off-pinterest-videos.html · de https://minulo.app/de/turn-off-pinterest-videos.html · fr https://minulo.app/fr/turn-off-pinterest-videos.html
 
 Pinterest's help says video Pins appear in your home feed and search results and start playing once half of the Pin is on screen. You can turn off autoplay: in the app with the switch Autoplay videos on cellular data under Social permissions, and on a computer with Autoplay videos on desktop. The app switch is named for cellular data, and the help says nothing about Wi-Fi. We could not find a setting in Pinterest's help that removes video Pins from your feed. minulo can hide video Pins and the home feed while keeping your saved Pins and messages, for free.
 
@@ -1271,7 +1271,7 @@ A: Pinterest's home feed is built from recommendations based on your saves, sear
 
 
 ## How to Quit Social Media Before Exams (and Keep Group Chats) (en, checked 2026-10-24)
-Source: https://minulo.app/en/quit-social-media-before-exams.html · ja https://minulo.app/quit-social-media-before-exams.html · ko https://minulo.app/ko/quit-social-media-before-exams.html
+Source: https://minulo.app/en/quit-social-media-before-exams.html · ja https://minulo.app/quit-social-media-before-exams.html · ko https://minulo.app/ko/quit-social-media-before-exams.html · es https://minulo.app/es/quit-social-media-before-exams.html · pt-BR https://minulo.app/pt/quit-social-media-before-exams.html · de https://minulo.app/de/quit-social-media-before-exams.html · fr https://minulo.app/fr/quit-social-media-before-exams.html
 
 Before exams, pick the option that is hardest to undo at 10 pm when you are tired. Deleting the Instagram app takes a minute to reverse, and instagram.com still opens in Safari. Deactivating hides your profile, but Instagram only lets you do it once a week, and logging back in to read a DM ends it. If your class or club chat is on Instagram, a better fit is to remove Reels, Explore and suggested posts and keep the DMs. minulo does that for free on iPhone.
 
@@ -1292,7 +1292,7 @@ A: Keep the chats and remove the endless feeds. On iPhone, minulo opens Instagra
 
 
 ## Do Short Videos Ruin Your Attention Span? What Studies Show (en, checked 2026-10-24)
-Source: https://minulo.app/en/short-videos-attention-span.html · ja https://minulo.app/short-videos-attention-span.html · ko https://minulo.app/ko/short-videos-attention-span.html
+Source: https://minulo.app/en/short-videos-attention-span.html · ja https://minulo.app/short-videos-attention-span.html · ko https://minulo.app/ko/short-videos-attention-span.html · es https://minulo.app/es/short-videos-attention-span.html · pt-BR https://minulo.app/pt/short-videos-attention-span.html · de https://minulo.app/de/short-videos-attention-span.html · fr https://minulo.app/fr/short-videos-attention-span.html
 
 Research links heavy short video use with poorer attention, but it hasn't shown that short videos cause it. A 2025 review of 71 studies (98,299 people) found that people who watch more short videos tend to score lower on attention and self-control, and most of that evidence is correlation. A small 2023 experiment found that a TikTok break made people worse at remembering to do something they had planned, and a 2025 trial found that blocking mobile internet for two weeks improved sustained attention. So cutting back is a reasonable bet, not a proven cure.
 
@@ -1313,7 +1313,7 @@ A: Yes. On iPhone, minulo opens Instagram and YouTube with Reels and Shorts hidd
 
 
 ## Am I Addicted to My Phone? A Self-Check With Screen Time (en, checked 2026-10-24)
-Source: https://minulo.app/en/phone-addiction-self-check.html · ja https://minulo.app/phone-addiction-self-check.html · ko https://minulo.app/ko/phone-addiction-self-check.html
+Source: https://minulo.app/en/phone-addiction-self-check.html · ja https://minulo.app/phone-addiction-self-check.html · ko https://minulo.app/ko/phone-addiction-self-check.html · es https://minulo.app/es/phone-addiction-self-check.html · pt-BR https://minulo.app/pt/phone-addiction-self-check.html · de https://minulo.app/de/phone-addiction-self-check.html · fr https://minulo.app/fr/phone-addiction-self-check.html
 
 There is no official number of hours or pickups that means you are addicted to your phone, and the questionnaires researchers use say they measure risk rather than diagnose. You can still check yourself in two ways. First, read a week of Screen Time: daily average, pickups, notifications and your top apps. Second, answer a short validated questionnaire such as the 10-item Smartphone Addiction Scale (SAS-SV). If the numbers are higher than you would choose, start with the app at the top of your list.
 
@@ -1334,7 +1334,7 @@ A: Start with the app at the top of your list. If it is Instagram, YouTube or Ti
 
 
 ## How to Do a Digital Detox for a Week (Without Going Offline) (en, checked 2026-10-24)
-Source: https://minulo.app/en/digital-detox-one-week.html · ja https://minulo.app/digital-detox-one-week.html · ko https://minulo.app/ko/digital-detox-one-week.html
+Source: https://minulo.app/en/digital-detox-one-week.html · ja https://minulo.app/digital-detox-one-week.html · ko https://minulo.app/ko/digital-detox-one-week.html · es https://minulo.app/es/digital-detox-one-week.html · pt-BR https://minulo.app/pt/digital-detox-one-week.html · de https://minulo.app/de/digital-detox-one-week.html · fr https://minulo.app/fr/digital-detox-one-week.html
 
 A digital detox doesn't have to mean switching your phone off. If you want it to last a week, keep calls, messages and maps, and cut the parts that eat the time: Reels, Shorts, TikTok's For You feed and the habit of checking. Plan it the evening before, block the feeds instead of relying on willpower, and decide what you will do with the free evenings. Two studies found real benefits from two- and four-week breaks, and both also show how hard it is to stick to one.
 
@@ -1355,7 +1355,7 @@ A: Yes, with minulo on iPhone. Turn on Every tab but DMs for Instagram and only 
 
 
 ## How to Stop Scrolling at Work: iPhone Settings That Help (en, checked 2026-10-24)
-Source: https://minulo.app/en/stop-scrolling-at-work.html · ja https://minulo.app/stop-scrolling-at-work.html · ko https://minulo.app/ko/stop-scrolling-at-work.html
+Source: https://minulo.app/en/stop-scrolling-at-work.html · ja https://minulo.app/stop-scrolling-at-work.html · ko https://minulo.app/ko/stop-scrolling-at-work.html · es https://minulo.app/es/stop-scrolling-at-work.html · pt-BR https://minulo.app/pt/stop-scrolling-at-work.html · de https://minulo.app/de/stop-scrolling-at-work.html · fr https://minulo.app/fr/stop-scrolling-at-work.html
 
 Scrolling at work usually starts in a small gap: a file is loading, a meeting hasn't started, a task feels hard. The phone is on the desk, so you pick it up. What helps is making the feed harder to reach during work hours without cutting yourself off from messages. On iPhone, a Work Focus can keep social apps quiet and switch to a Home Screen page without them, and a Screen Time limit can stop those apps opening. If you need Instagram for work, hide only Reels, Explore and suggested posts instead.
 
@@ -1373,3 +1373,9 @@ A: Use it without the feed. On iPhone, minulo opens Instagram with Reels, Explor
 
 Q: Can I block social media only during work hours?
 A: Yes. Use a Screen Time Downtime schedule or App Limit for your working hours, or minulo's blocking, which is free for up to 2 hours per block. Automatic schedules by day and time are part of minulo Pro.
+
+
+
+## Sleep mode, deactivating Instagram, time spent, message-only notifications, Stories only, TikTok and YouTube time limits, Reddit recommendations, Threads Following, Pinterest videos, exams, attention span, phone addiction self-check, one-week detox, scrolling at work: Spanish, Portuguese, German and French pages (2026-10-24)
+Pages: https://minulo.app/es/instagram-quiet-mode.html · https://minulo.app/pt/instagram-quiet-mode.html · https://minulo.app/de/instagram-quiet-mode.html · https://minulo.app/fr/instagram-quiet-mode.html · https://minulo.app/es/deactivate-instagram-temporarily.html · https://minulo.app/pt/deactivate-instagram-temporarily.html · https://minulo.app/de/deactivate-instagram-temporarily.html · https://minulo.app/fr/deactivate-instagram-temporarily.html · https://minulo.app/es/instagram-time-spent.html · https://minulo.app/pt/instagram-time-spent.html · https://minulo.app/de/instagram-time-spent.html · https://minulo.app/fr/instagram-time-spent.html · https://minulo.app/es/instagram-notifications-messages-only.html · https://minulo.app/pt/instagram-notifications-messages-only.html · https://minulo.app/de/instagram-notifications-messages-only.html · https://minulo.app/fr/instagram-notifications-messages-only.html · https://minulo.app/es/instagram-stories-only.html · https://minulo.app/pt/instagram-stories-only.html · https://minulo.app/de/instagram-stories-only.html · https://minulo.app/fr/instagram-stories-only.html · https://minulo.app/es/tiktok-screen-time-limit.html · https://minulo.app/pt/tiktok-screen-time-limit.html · https://minulo.app/de/tiktok-screen-time-limit.html · https://minulo.app/fr/tiktok-screen-time-limit.html · https://minulo.app/es/youtube-time-limit.html · https://minulo.app/pt/youtube-time-limit.html · https://minulo.app/de/youtube-time-limit.html · https://minulo.app/fr/youtube-time-limit.html · https://minulo.app/es/turn-off-reddit-recommendations.html · https://minulo.app/pt/turn-off-reddit-recommendations.html · https://minulo.app/de/turn-off-reddit-recommendations.html · https://minulo.app/fr/turn-off-reddit-recommendations.html · https://minulo.app/es/threads-following-feed-only.html · https://minulo.app/pt/threads-following-feed-only.html · https://minulo.app/de/threads-following-feed-only.html · https://minulo.app/fr/threads-following-feed-only.html · https://minulo.app/es/turn-off-pinterest-videos.html · https://minulo.app/pt/turn-off-pinterest-videos.html · https://minulo.app/de/turn-off-pinterest-videos.html · https://minulo.app/fr/turn-off-pinterest-videos.html · https://minulo.app/es/quit-social-media-before-exams.html · https://minulo.app/pt/quit-social-media-before-exams.html · https://minulo.app/de/quit-social-media-before-exams.html · https://minulo.app/fr/quit-social-media-before-exams.html · https://minulo.app/es/short-videos-attention-span.html · https://minulo.app/pt/short-videos-attention-span.html · https://minulo.app/de/short-videos-attention-span.html · https://minulo.app/fr/short-videos-attention-span.html · https://minulo.app/es/phone-addiction-self-check.html · https://minulo.app/pt/phone-addiction-self-check.html · https://minulo.app/de/phone-addiction-self-check.html · https://minulo.app/fr/phone-addiction-self-check.html · https://minulo.app/es/digital-detox-one-week.html · https://minulo.app/pt/digital-detox-one-week.html · https://minulo.app/de/digital-detox-one-week.html · https://minulo.app/fr/digital-detox-one-week.html · https://minulo.app/es/stop-scrolling-at-work.html · https://minulo.app/pt/stop-scrolling-at-work.html · https://minulo.app/de/stop-scrolling-at-work.html · https://minulo.app/fr/stop-scrolling-at-work.html
+Same facts as the English pages above, in each language.
