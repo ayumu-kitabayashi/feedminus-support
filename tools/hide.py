@@ -101,6 +101,19 @@ EN_REL = {
 EN_REL_DEFAULT = [('../alternatives.html', 'Best apps to block Reels and Shorts'), ('../instagram-dms-only.html', 'Use Instagram for DMs only')]
 
 
+# 日本語だけ：同じ links の並びの最後に足す（10/24 Google の「リール 非表示 アプリ」に合わせて比較ページへ。x は 10/24 の手のリンク）
+# ★10/24 時点で hide.py を回すと、手で短くした題・pt-BR・ct 付きのボタン・t.js も戻る。回さずに HTML と hide.json を両方直す
+JA_REL = {
+    'instagram': [('../alternatives.html', 'インスタのリールを非表示にするアプリの比較')],
+    'youtube': [('../alternatives.html', 'ショートを非表示にするアプリの比較')],
+    'x': [('../turn-off-x-for-you.html', 'X（旧Twitter）のおすすめタブを消す方法')],
+}
+# 日本語だけ：links の先頭に足す（hide/youtube の手のリンク）
+JA_PRE = {
+    'youtube': [('../block-youtube-shorts.html', 'YouTubeのショートだけを非表示にする方法（すべて）')],
+}
+
+
 def EN_REL_BLOCK(sid):
     return '<div class="links rel">' + ''.join(f'<a href="{h}">{t} →</a>' for h, t in EN_REL.get(sid, EN_REL_DEFAULT)) + '</div>'
 
@@ -116,6 +129,12 @@ def tail(lang, path, t, body_links=True):
              f'<a href="../faq.html">{html.escape(t["faq"])} →</a><a href="../compare.html">{html.escape(t["cmp"])} →</a></div>') if body_links else ''
     if body_links and lang == 'en':
         links = EN_REL_BLOCK(path.split('/')[-1][:-5]) + '\n' + links
+    if body_links and lang == 'ja' and path.split('/')[-1][:-5] in JA_REL:
+        extra = ''.join(f'<a href="{h}">{html.escape(t)} →</a>' for h, t in JA_REL[path.split('/')[-1][:-5]])
+        links = links[:-len('</div>')] + extra + '</div>'
+    if body_links and lang == 'ja' and path.split('/')[-1][:-5] in JA_PRE:
+        pre = ''.join(f'<a href="{h}">{html.escape(t)} →</a>' for h, t in JA_PRE[path.split('/')[-1][:-5]])
+        links = links.replace('<div class="links">', '<div class="links">' + pre, 1)
     return f"""{links}
 <div class="cta"><a href="{store}"><img src="{up2}badges/{d['badge']}.svg" alt="{html.escape(d['badgeAlt'])}" height="54"></a></div>
 </main>

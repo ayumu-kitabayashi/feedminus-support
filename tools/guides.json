@@ -88,8 +88,8 @@
    "faqHref": "hide/youtube.html"
   },
   "ja": {
-   "title": "iPhoneでYouTubeのショートだけを止めて、ふつうの動画は見る方法（すべての方法・2026年）",
-   "lede": "いちばん手早い公式の方法は、YouTube アプリの、ショートのフィードの上限です。YouTube アプリの設定にある、ショートのフィードの上限を 0 にします（英語の画面では You → Settings → Time management → Shorts feed limit。日本語の表示名は確かめていません）。ただし大人のアカウントでは上限の表示を閉じられ、登録チャンネルや送られてきたリンクからはショートが出ます。閉じるだけでは戻れない止め方がほしいなら、minulo のようなアプリで、ショートを消した画面で見て、公式の YouTube アプリはスクリーンタイムで止める方法があります。",
+   "title": "iPhoneでYouTubeのショートだけを非表示にして、ふつうの動画は見る方法（すべての方法・2026年）",
+   "lede": "いちばん手早い公式の方法は、YouTube アプリの、ショートのフィードの上限です。YouTube アプリの設定にある、ショートのフィードの上限を 0 にします（英語の画面では You → Settings → Time management → Shorts feed limit。日本語の表示名は確かめていません）。ただし大人のアカウントでは上限の表示を閉じられ、登録チャンネルや送られてきたリンクからはショートが出ます。閉じるだけでは戻れない止め方がほしいなら、minulo のようなアプリで、ショートを非表示にした画面で見て、公式の YouTube アプリはスクリーンタイムで止める方法があります。",
    "cols": [
     "方法",
     "できること",
@@ -122,15 +122,15 @@
      "ショートだけは狙えない。Safari で /shorts のアドレスだけを止められるとは、Apple は説明していない。"
     ],
     [
-     "<b>ショートを消すアプリ</b>（minulo・UNDOOMED・Nope・LoomWeb など）",
+     "<b>ショートを非表示にするアプリ</b>（minulo・UNDOOMED・Nope・LoomWeb など）",
      "自前の画面か Safari で YouTube を開き、ショートを表示しない。ふつうの動画・検索・登録チャンネルは使える。",
      "公式の YouTube アプリそのものは変わらない。minulo は公式アプリをスクリーンタイムで止め、minulo へ案内できる。"
     ]
    ],
    "qa": [
     [
-     "YouTubeのショートを完全にオフにできる？",
-     "大人のアカウントでは、YouTube アプリの中だけで完全にはオフにできません。ショートのフィードの上限を 0 にすると、上限のあとはショートのフィードが止まりますが、大人は上限の表示を閉じられます。登録チャンネルや送られてきたリンクのショートも残ります。"
+     "YouTubeのショートを完全に非表示にできる？",
+     "大人のアカウントでは、YouTube アプリの中だけで完全には非表示にできません。ショートのフィードの上限を 0 にすると、上限のあとはショートのフィードが止まりますが、大人は上限の表示を閉じられます。登録チャンネルや送られてきたリンクのショートも残ります。"
     ],
     [
      "ショートの上限は、Safari の youtube.com でも効く？",
@@ -143,10 +143,12 @@
    ],
    "disclose": "このページは minulo の開発者が書いています。YouTube と iPhone の設定については、下の出典を {date} に確かめました。メニューの名前は、アプリや iOS の更新で変わることがあります。",
    "srcTitle": "出典",
-   "more": "ショートを消すアプリの比較",
+   "more": "ショートを非表示にするアプリの比較",
    "moreHref": "alternatives.html",
    "faq": "minulo でショートを消す",
-   "faqHref": "hide/youtube.html"
+   "faqHref": "hide/youtube.html",
+   "seo": "YouTubeのショートを非表示にする方法（iPhone）",
+   "desc": "iPhoneでYouTubeのショートだけを非表示にする方法。公式はショートのフィード上限を0に。閉じても戻れない方法なら、minuloとスクリーンタイムを使います。"
   },
   "de": {
    "title": "YouTube Shorts auf dem iPhone blockieren und normale Videos behalten (alle Methoden, 2026)",
@@ -939,8 +941,8 @@
    "faqHref": "hide/instagram.html"
   },
   "ja": {
-   "title": "iPhoneでInstagramのリールをオフにして、DMは使う方法（すべての方法・2026年）",
-   "lede": "Instagram の公式のヘルプでは、大人のアカウントでリールをオフにする設定は見つかりませんでした。公式にあるのは、フォロー中のフィード、1日の利用時間のお知らせ、スリープモード（Sleep mode）で、iPhone のスクリーンタイムではアプリ全体しか止められません。リールは消して DM は使いたいなら、リールを消した状態で Instagram を開けるアプリ（minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope）を使います。",
+   "title": "iPhoneでInstagramのリールを非表示にして、DMは使う方法（すべての方法・2026年）",
+   "lede": "Instagram の公式のヘルプでは、大人のアカウントでリールをオフにする設定は見つかりませんでした。公式にあるのは、フォロー中のフィード、1日の利用時間のお知らせ、スリープモード（Sleep mode）で、iPhone のスクリーンタイムではアプリ全体しか止められません。リールは非表示にして DM は使いたいなら、リールを隠した状態で Instagram を開けるアプリ（minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope）を使います。",
    "cols": [
     "方法",
     "できること",
@@ -973,7 +975,7 @@
      "リールだけは止められない。アプリを止めると DM も止まる。"
     ],
     [
-     "<b>リールを消すアプリ</b>（minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope）",
+     "<b>リールを非表示にするアプリ</b>（minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope）",
      "自前の画面か Safari で Instagram を開き、リールとおすすめ投稿を表示しない。DM は使える。",
      "公式の Instagram アプリそのものは変わらない。minulo は公式アプリをスクリーンタイムで止め、minulo へ案内できる。"
     ]
@@ -988,16 +990,18 @@
      "止められません。スクリーンタイムの時間制限はアプリ全体に、サイトの制限はアドレス全体にかかります。この方法で Instagram を止めると、DM も使えなくなります。"
     ],
     [
-     "リールは消して、DMは使うには？",
-     "リールを消した状態で Instagram を開けるアプリを使います。minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope は、どれも DM は使えると説明しています。minulo はほかの9つのSNSにも対応し、公式の Instagram アプリを止めて minulo へ案内することもできます。"
+     "リールだけ非表示にして、DMは使うには？",
+     "リールを非表示にした状態で Instagram を開けるアプリを使います。minulo・UNDOOMED・Awhile・SocialLite・LoomWeb・Nope は、どれも DM は使えると説明しています。minulo はほかの9つのSNSにも対応し、公式の Instagram アプリを止めて minulo へ案内することもできます。"
     ]
    ],
    "disclose": "このページは minulo の開発者が書いています。Instagram と iPhone の設定については、下の出典を {date} に確かめました。メニューの名前は、アプリや iOS の更新で変わることがあります。",
    "srcTitle": "出典",
-   "more": "リールを消すアプリの比較",
+   "more": "リールを非表示にするアプリの比較",
    "moreHref": "alternatives.html",
    "faq": "minulo でリールを消す",
-   "faqHref": "hide/instagram.html"
+   "faqHref": "hide/instagram.html",
+   "seo": "インスタのリールをオフ・非表示にする方法（iPhone）",
+   "desc": "Instagramのリールをオフにする公式設定は大人のアカウントにはありません。DMは使いながらリールだけ非表示にするなら、minuloなどのアプリを使います。"
   },
   "de": {
    "title": "Instagram Reels auf dem iPhone ausschalten und Direktnachrichten behalten (alle Methoden, 2026)",
@@ -1925,7 +1929,7 @@
    ],
    "disclose": "このページは minulo の開発者が書いています。ほかのアプリについては、{date} 時点の App Store の説明と米国の評価数だけをもとにしています。",
    "srcTitle": "出典",
-   "more": "リールを消すアプリの比較",
+   "more": "リールを非表示にするアプリの比較",
    "moreHref": "alternatives.html",
    "faq": "Instagramのリールをオフにする方法",
    "faqHref": "turn-off-instagram-reels.html"
@@ -2367,7 +2371,7 @@
    ],
    "disclose": "このページは minulo の開発者が書いています。他社のアプリについては、{date} 時点の App Store の説明・更新履歴・米国の評価数だけをもとにしています。SocialLite・UNDOOMED・ScrollGuard の評価数は 2026-10-22 に確かめ直しました。",
    "srcTitle": "出典",
-   "more": "リールを消せるアプリの比較",
+   "more": "リールを非表示にするアプリの比較",
    "moreHref": "alternatives.html",
    "faq": "Instagram のリールをオフにする方法",
    "faqHref": "turn-off-instagram-reels.html",

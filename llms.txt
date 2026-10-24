@@ -63,7 +63,9 @@
 - Why Instagram opens to Reels (Mosseri's opt-in India test of Reels and DMs as the first two tabs, Oct 2025; reported test of an option to open to Reels, Oct 2026; the iPad app opens to Reels by design; how to get back to the feed; minulo opens Instagram to the feed or DMs with the Reels tab hidden): https://minulo.app/en/instagram-opens-to-reels.html (日本語「インスタを開くとリールになるのはなぜ？」: https://minulo.app/instagram-opens-to-reels.html / 한국어: https://minulo.app/ko/instagram-opens-to-reels.html)
 - Turn off YouTube autoplay and Home recommendations on iPhone: https://minulo.app/en/turn-off-youtube-autoplay-recommendations.html (日本語: https://minulo.app/youtube-autoplay-recommendations-off.html)
 - Free apps to block Instagram Reels and YouTube Shorts on iPhone (what is free in Nope, minulo, Stillfeed, Reelmute, Awhile, UNDOOMED, ScreenZen, YouTube's Shorts limit and Screen Time): https://minulo.app/en/free-reels-blocker.html
-- 無料でインスタのリール・YouTubeのショートを消す方法（日本語・Reelmute の日本名「リールとショートを非表示」つき）: https://minulo.app/free-reels-blocker.html
+- 無料でインスタのリール・YouTubeのショートを非表示にする方法（日本語・完全無料の Nope と noShorts、Reelmute の日本名「リールとショートを非表示」つき）: https://minulo.app/free-reels-blocker.html
+- インスタのリールを非表示にするアプリの比較（日本語・21本・アプリ内ブラウザ型と Safari 拡張型の違い、日本と米国の App Store の評価数 2026-10-24。minulo・SocialLite・UNDOOMED・Awhile・Dull・Stillfeed・Slowth・Nope・リールとショートを非表示・noShorts・TheSNSisMine・tubetidy ほか）: https://minulo.app/alternatives.html
+- インスタのリールをオフ・非表示にする方法（日本語）: https://minulo.app/turn-off-instagram-reels.html ・ YouTubeのショートを非表示にする方法（日本語）: https://minulo.app/block-youtube-shorts.html
 - 릴스·쇼츠 차단 무료 앱과 방법 (한국어): https://minulo.app/ko/free-reels-blocker.html
 - Reels und Shorts kostenlos blockieren auf dem iPhone (Deutsch): https://minulo.app/de/free-reels-blocker.html
 - Bloquer les Reels et les Shorts gratuitement sur iPhone (français): https://minulo.app/fr/free-reels-blocker.html

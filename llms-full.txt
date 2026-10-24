@@ -59,7 +59,7 @@
 
 # Free ways to block Reels and Shorts on iPhone (en, checked 2026-10-23)
 
-Source page: https://minulo.app/en/free-reels-blocker.html (日本語: https://minulo.app/free-reels-blocker.html / 한국어: https://minulo.app/ko/free-reels-blocker.html)
+Source page: https://minulo.app/en/free-reels-blocker.html (日本語「インスタのリールを無料で非表示にするアプリ」: https://minulo.app/free-reels-blocker.html / 한국어: https://minulo.app/ko/free-reels-blocker.html). Japanese comparison of 21 apps that hide Reels (「インスタのリールを非表示にするアプリ比較」, Japan and US App Store rating counts as of 2026-10-24): https://minulo.app/alternatives.html
 
 - Nope: Safari extension for instagram.com and youtube.com. Completely free, no subscriptions or in-app purchases. Only works in Safari, not in the Instagram or YouTube apps.
 - minulo: opens 10 networks inside the app. Hiding Reels, Shorts, Explore and suggested posts is free on all 10. Locking the official apps with Screen Time is also free, up to 2 hours per block. Schedules, longer blocks, Hard Mode and multiple block lists are Pro.

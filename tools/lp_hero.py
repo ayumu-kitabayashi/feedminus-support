@@ -11,7 +11,7 @@ import re, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 T = {
- '.': ('minulo — インスタのリール・ショート動画だけ消すアプリ',
+ '.': ('minulo — インスタのリール・ショートを非表示にするアプリ',
        'Instagram のリール、YouTube のショート、TikTok のおすすめだけを消す iPhone アプリ。DM・フォロー中の投稿・検索はそのまま使えます。',
        '消す機能は無料 · iPhone 用 · 10のSNSに対応'),
  'en': ('minulo — Hide Instagram Reels & YouTube Shorts on iPhone',
