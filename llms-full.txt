@@ -8,7 +8,7 @@
 - Languages (13): English, Japanese, Korean, Traditional Chinese, German, French, Spanish, Portuguese, Italian, Indonesian, Thai, Vietnamese, Russian.
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Launched: September 2026 (new; few ratings so far)
-- Facts checked: 2026-10-23
+- Facts checked: 2026-10-24
 
 ## When minulo fits
 - Someone wants to stop Reels or Shorts but still needs DMs and messages (for friends, family or work).
@@ -1060,3 +1060,316 @@ Same facts as the English pages above. Official names, copied from X Help and In
 - Instagram Following view (tap Instagram at the top left of the feed): es Seguidos · pt Seguindo · de Gefolgt · fr Suivi(e)s.
 - Threads setting Suggesting posts on other apps (Profile > Menu > Privacy): es Sugerir publicaciones en otras apps · pt Sugerir posts em outros apps · de Beiträge in anderen Apps vorschlagen lassen · fr Suggestion des publications sur les autres applications. It controls whether your own Threads posts are suggested on Instagram and Facebook, not what you see.
 - Not confirmed in these languages: the menu option that hides a single Threads post in the Instagram feed (Hide in English) and Turn off notifications like this; both come from Guiding Tech in English. The menu for leaving Instagram's Reels-first tests was not found in Instagram's help in any language.
+
+## Instagram Quiet Mode Is Now Sleep Mode: How to Turn It On (en, checked 2026-10-24)
+Source: https://minulo.app/en/instagram-quiet-mode.html · ja https://minulo.app/instagram-quiet-mode.html · ko https://minulo.app/ko/instagram-quiet-mode.html
+
+Instagram's Quiet mode is still there, under a new name: Sleep mode. Meta says the feature launched as Quiet mode in January 2023 and was renamed later. To turn it on, go to your profile, tap the menu at the top right, then Time management › Sleep mode, and pick the days and hours. During that time Instagram pauses your notifications and sends an auto-reply to people who message you. It does not lock the app, so you can still open Reels at 1 a.m. If you want Reels gone at night as well, minulo can hide them for free.
+Names: Japanese UI スリープモード (Settings and activity › Time management = ［設定とアクティビティ］→［時間管理］); Korean UI 사용 제한 모드 (설정 및 활동 › 시간 관리), not 방해금지모드. Meta Newsroom (2023-01-19, updated 2025-01-28) says Quiet mode is now called Sleep mode.
+
+Q: Does Instagram still have Quiet mode?
+A: Yes, under a new name. Meta says the feature launched as Quiet mode in 2023 and has since been renamed Sleep mode. You find it under Profile › Menu › Time management › Sleep mode.
+
+Q: How do I turn off Sleep mode on Instagram?
+A: Go to your profile, tap Menu at the top right, tap Time management, then Sleep mode, and switch the toggle off. Changes are saved automatically.
+
+Q: Can people see that I'm in Sleep mode?
+A: Yes. Your activity status changes to "In sleep mode", the green dot becomes a moon icon, and people who message you get an auto-reply saying you won't be notified.
+
+Q: Do I still get messages in Sleep mode?
+A: Messages still come in and you can open them. You just aren't notified. When Sleep mode ends, Instagram shows a summary of new notifications and messages.
+
+Q: Does Sleep mode stop me from watching Reels?
+A: No. Sleep mode pauses notifications and shows a reminder, but you can still open Instagram and watch Reels. To hide Reels, open Instagram in an app that hides them, such as minulo, or block the app with Screen Time.
+
+
+## How to Temporarily Deactivate Instagram on iPhone (2026) (en, checked 2026-10-24)
+Source: https://minulo.app/en/deactivate-instagram-temporarily.html · ja https://minulo.app/deactivate-instagram-temporarily.html · ko https://minulo.app/ko/deactivate-instagram-temporarily.html
+
+To temporarily deactivate Instagram on iPhone, go to your profile › Menu › Accounts Center › Manage account, tap Manage next to your Instagram profile, then Deactivation or deletion › Deactivate account. Your photos, comments and likes are hidden until you log back in, and you can only do this once a week. Logging back in is what reactivates the account, so you can't deactivate and still check your DMs. If you mainly want to stop scrolling Reels, blocking the app or hiding Reels leaves your account and messages as they are.
+Names: Japanese help calls it 利用解除 (［アカウントセンター］→［アカウントを管理］→［管理］→［利用解除または削除］→［アカウントを利用解除］); Korean 비활성화 (계정 센터 › 계정 관리 › 관리 › 비활성화 또는 삭제 › 계정 비활성화). Deletion is permanent 30 days after the request.
+
+Q: How do I temporarily deactivate my Instagram?
+A: On iPhone, go to Profile › Menu › Accounts Center › Manage account, tap Manage next to your profile, then Deactivation or deletion › Deactivate account › Continue. If your Accounts Center shows Accounts at the bottom, the path is Personal details › Account ownership and control › Deactivation or deletion.
+
+Q: What happens when you deactivate Instagram?
+A: Your profile, photos, comments and likes are hidden until you reactivate by logging back in. Nothing is deleted.
+
+Q: How long can I deactivate Instagram for?
+A: Instagram's help gives no time limit. The account stays deactivated until you log back in.
+
+Q: Can I still use DMs if I deactivate Instagram?
+A: Not without ending the break. Logging back in reactivates the account. To keep DMs and stop Reels, block or hide Reels instead, for example with minulo.
+
+Q: How often can I deactivate Instagram?
+A: Once a week, according to Instagram's help.
+
+
+## How to See Time Spent on Instagram on iPhone (2026) (en, checked 2026-10-24)
+Source: https://minulo.app/en/instagram-time-spent.html · ja https://minulo.app/instagram-time-spent.html · ko https://minulo.app/ko/instagram-time-spent.html
+
+To see your time on Instagram, go to your profile › Menu › Your activity › Time management. Instagram shows your average daily time over the last 7 days, counted from when you open the app until you close it or switch to another app. For a day-by-day number, use iPhone Screen Time: Settings › Screen Time › Daily Average, then Day or Week. Instagram's Daily limit, on the same screen, only sends a reminder; it doesn't lock the app unless a parent supervises a Teen Account. Neither tells you how much of that time went to Reels.
+Names: Japanese ［時間管理］ (the daily limit article says ［利用時間］), daily limit ［1日の上限］; Korean 시간 관리, 일일 시간 제한. Not available on computers.
+
+Q: How do I see how much time I spend on Instagram?
+A: Go to your profile, tap Menu at the top right, then Time management under How you use Instagram (it may be inside Your activity). Instagram shows your average daily time over the last 7 days. For daily numbers, use iPhone Settings › Screen Time › Daily Average.
+
+Q: Can I see time spent on Instagram on a computer?
+A: No. Instagram's help says the time spent feature isn't available on computers, only in the iPhone, iPad and Android apps.
+
+Q: How do I set a daily time limit on Instagram?
+A: Go to Profile › Menu › Time management › Daily limit, choose a time and tap back. Instagram reminds you when you reach it.
+
+Q: Does Instagram's daily limit block the app?
+A: No. For most people it is only a reminder. Only Teen Accounts supervised by a parent can be blocked when the limit is reached. To stop the app itself, use Screen Time.
+
+Q: Why is my Instagram time different from Screen Time?
+A: Instagram shows a 7-day average from the Instagram app. Screen Time shows each day, and with Share Across Devices on, it includes your iPad and Mac. The numbers measure different things, so they often differ.
+
+
+## How to Get Instagram Notifications Only for Messages (iPhone) (en, checked 2026-10-24)
+Source: https://minulo.app/en/instagram-notifications-messages-only.html · ja https://minulo.app/instagram-notifications-messages-only.html · ko https://minulo.app/ko/instagram-notifications-messages-only.html
+
+We found no single "messages only" switch in Instagram's help, but you can get close. Go to your profile › Menu › Notifications, and below Pause push notifications open each type of notification and turn it off, leaving message notifications on. Then check that Instagram is still allowed in iPhone Settings › Notifications. If one group chat is too loud, mute just that chat. We couldn't confirm the exact names of every notification type in Instagram's help, so go by what each one is about: posts, stories, comments, follows, Live, Reels.
+Names: Japanese ［お知らせ］, ［プッシュ通知を一時停止］; Korean 알림, 푸시 알림 일시 정지. minulo itself sends no notifications, and while minulo blocks the official Instagram app, its notifications do not arrive.
+
+Q: How do I get Instagram notifications only for messages?
+A: Go to Profile › Menu › Notifications. Below Pause push notifications, open every notification type that isn't about messages and turn it off, and leave messages on. Keep Instagram allowed in iPhone Settings › Notifications.
+
+Q: Why am I not getting notifications for Instagram messages?
+A: Check that Allow Notifications is on for Instagram in iPhone Settings › Notifications, that Pause push notifications and Sleep mode are off in Instagram, that the chat isn't muted, and that no blocker has locked the Instagram app.
+
+Q: How do I mute one chat on Instagram?
+A: Open the chat, tap the name at the top, tap Mute, then turn on Mute messages or Mute calls. The other person isn't told.
+
+Q: Does minulo send Instagram DM notifications?
+A: No. minulo sends no notifications, and while it locks the official Instagram app, that app's notifications don't arrive either. To get DM alerts, leave the official app unlocked.
+
+
+## How to Watch Only Stories on Instagram, Without Reels (en, checked 2026-10-24)
+Source: https://minulo.app/en/instagram-stories-only.html · ja https://minulo.app/instagram-stories-only.html · ko https://minulo.app/ko/instagram-stories-only.html
+
+We found no Stories-only mode in Instagram's help. The closest you can get in the app: open Stories from the row at the top of your feed, and mute the posts, but not the Stories, of accounts whose posts you don't want to see. Instagram doesn't tell them. The Reels and Explore tabs are still one tap away, though. If you only open Instagram for friends' Stories and DMs, minulo shows Instagram with the Reels and Explore tabs and suggested posts hidden, with Stories still at the top. Hiding is free.
+Names: mute is ［ミュート］/［投稿をミュート］ in Japanese and 일시 차단 in Korean. Stories can be viewed but not posted in minulo.
+
+Q: Can I see only Stories on Instagram?
+A: We found no setting for that in Instagram's help. You can open Stories from the top of the feed and mute posts from accounts while keeping their Stories, but the Reels and Explore tabs stay. To hide those, open Instagram in an app such as minulo.
+
+Q: How do I mute someone's posts but still see their Stories?
+A: Go to their profile, tap Following › Mute and turn on Posts only. Or tap Options next to one of their posts › Hide › Mute [username] › Mute Posts.
+
+Q: Will someone know if I mute their posts on Instagram?
+A: No. Instagram's help says it won't let them know you muted them. Muting is also different from unfollowing: you still follow them.
+
+Q: Can I watch Instagram Stories in minulo?
+A: Yes. Stories stay at the top of the feed when you hide Reels and Explore in minulo. Posting Stories is not available, because Instagram's website doesn't support it.
+
+
+## TikTok Screen Time Limit: How to Set It and Make It Stick (2026) (en, checked 2026-10-24)
+Source: https://minulo.app/en/tiktok-screen-time-limit.html · ja https://minulo.app/tiktok-screen-time-limit.html · ko https://minulo.app/ko/tiktok-screen-time-limit.html
+
+TikTok's daily screen time is under Profile › Menu › Settings and privacy › Time and well-being › Screen time. When you reach the limit, TikTok notifies you and you can close the app or type the passcode shown on the screen to keep watching, so it is a reminder, not a lock. For users aged 13 to 17 it is on by default at 1 hour. To be blocked at the limit, use iPhone Screen Time with a passcode someone else sets. If the For You feed is the problem, minulo hides it and keeps your messages, for free.
+
+Q: Where is the screen time limit on TikTok?
+A: In the TikTok app, tap Profile, then the Menu button (☰), then Settings and privacy, Time and well-being and Screen time, and turn on Daily screen time. On the web, click your profile picture, then Settings, Screen time and Daily screen time. TikTok says the setting applies to both the app and the web.
+
+Q: Why is my TikTok screen time limit not working?
+A: It is working the way TikTok describes it. When you reach the limit, TikTok notifies you and you can either close the app or type the passcode shown on the screen to keep watching. Because the passcode is right there on the screen, the limit works as a reminder, not a lock.
+
+Q: Why does the TikTok screen time limit keep popping up?
+A: TikTok turns Daily screen time on by default, at 1 hour, for users aged 13 to 17. If you set a limit yourself, the notice appears each day you reach it. You can switch the limit off in Settings and privacy, Time and well-being, Screen time. Daily screen time can also be set through Family Pairing.
+
+Q: How do I remove the TikTok screen time limit?
+A: Go to Profile, Menu (☰), Settings and privacy, Time and well-being, Screen time, open Daily screen time and switch the time limit off. On the web it is under your profile picture, Settings, Screen time, Daily screen time.
+
+Q: Can TikTok lock me out when the time is up?
+A: We could not find a lock in TikTok's help. Its own limit lets you keep watching with an on-screen passcode. To be blocked at the limit, use iPhone Screen Time: on iOS 26, add an App Limit for TikTok, set a Screen Time passcode and turn on Block at End of Limit. It only holds if someone else knows the passcode. This blocks TikTok messages too.
+
+
+## How to Set a Time Limit on YouTube for Yourself (iPhone, 2026) (en, checked 2026-10-24)
+Source: https://minulo.app/en/youtube-time-limit.html · ja https://minulo.app/youtube-time-limit.html · ko https://minulo.app/ko/youtube-time-limit.html
+
+We could not find a daily time limit in YouTube's help that locks you out of your own account. What YouTube has are reminders: Remind me to take a break, Remind me when it's bedtime and the Shorts feed limit. Each one can be dismissed, and you keep watching. To be stopped at a set time, use iPhone Screen Time with Block at End of Limit and a passcode someone else holds. If Shorts and Home recommendations are what take the time, minulo shows YouTube with them hidden and keeps your subscriptions, for free.
+
+Q: Does YouTube have a daily time limit?
+A: Not one that locks you out. We could not find a daily limit for your own account in YouTube's help as of October 2026. YouTube has reminders instead: Remind me to take a break, Remind me when it's bedtime and the Shorts feed limit. You can dismiss each one and keep watching. Supervised accounts for kids and teens have separate controls run by a parent.
+
+Q: How do I set a time limit on YouTube on iPhone?
+A: For a reminder, tap your profile picture in the YouTube app, then Settings, General, and turn on Remind me to take a break. For a real limit, use iPhone Screen Time: on iOS 26, add an App Limit for YouTube, set a Screen Time passcode and turn on Block at End of Limit. On iOS 27, use Time Allowances.
+
+Q: How do I turn off the YouTube take a break reminder?
+A: Tap your profile picture, then Settings, General, and switch off Remind me to take a break. You can also tap Change break reminder when a reminder appears. YouTube's help says the reminder is on by default for users aged 13 to 17 and off for users 18 and over.
+
+Q: Why doesn't YouTube's reminder stop me from watching?
+A: Because it is only a reminder. The take a break reminder pauses the video until you dismiss it, and one tap lets you keep watching. The timer also resets if you close the app, sign out, switch devices or pause a video for more than 30 minutes. The bedtime reminder can be closed or snoozed for 15 minutes.
+
+Q: Can I limit only YouTube Shorts?
+A: YouTube has a Shorts feed limit under Settings, Time management. You can set it to 0, but when you reach it YouTube lets you dismiss or ignore the limit. To have Shorts gone with nothing to tap past, watch YouTube in minulo with Shorts hidden. That is free.
+
+
+## How to Turn Off Recommendations on Reddit (Home Feed, 2026) (en, checked 2026-10-24)
+Source: https://minulo.app/en/turn-off-reddit-recommendations.html · ja https://minulo.app/turn-off-reddit-recommendations.html · ko https://minulo.app/ko/turn-off-reddit-recommendations.html
+
+Reddit does let you turn off home feed recommendations. In the app, open your account settings, scroll down to Privacy and turn off Show recommendations in home feed. On reddit.com the same toggle is in your preferences. Reddit says these recommendations appear when Home is sorted by Best. The toggle is about Home only: the Popular feed, community suggestions and trending post notifications are separate. If you'd rather not see Popular at all, minulo opens Reddit with Popular, r/all and suggested posts hidden, for free.
+
+Q: Can you turn off recommendations on Reddit?
+A: Yes, for your home feed. Reddit's help says you can turn off the toggle Show recommendations in home feed: in the app it is in your account settings under Privacy, and on reddit.com it is in your preferences. Reddit describes this as stopping recommended content from communities you aren't subscribed to in your home feed. Other places, such as the Popular feed and trending notifications, have their own settings.
+
+Q: Where is Show recommendations in home feed on iPhone?
+A: Open your account settings in the Reddit app and scroll down to Privacy. Reddit's help gives the way into account settings on iOS as: tap your avatar, tap the menu (three lines), choose Settings, then tap your username under Account Settings.
+
+Q: Why do I still see communities I don't follow on Reddit?
+A: Check whether you are on Home or on Popular. Popular shows the most upvoted recent posts across Reddit, whatever you follow. Reddit also says that for newer accounts or accounts with few subscriptions, its models may lean more on recommendations. Turning off Show recommendations in home feed covers Home only, and Reddit's help says recommendations appear when Home is sorted by Best.
+
+Q: How do I stop recommended subreddits from coming back?
+A: Tap the overflow menu on a recommended post and choose Show fewer posts like this. Reddit says it then stops recommending posts from that community and shows fewer from similar ones. To hide a community completely from Home, Popular and notifications, mute it. You can mute up to 1,000 communities.
+
+Q: How do I turn off Reddit trending notifications?
+A: In the app, tap your avatar, the menu (three lines), Settings, then your username under Account Settings, and tap Manage Notifications. Under Recommendations, switch off Trending posts. On reddit.com it is Settings, Notifications, Recommendations, Trending Posts. You can't turn them off for just one community.
+
+
+## How to Make Threads Open to Following, Not For You (2026) (en, checked 2026-10-24)
+Source: https://minulo.app/en/threads-following-feed-only.html · ja https://minulo.app/threads-following-feed-only.html · ko https://minulo.app/ko/threads-following-feed-only.html
+
+Threads has two main feeds. For you mixes posts from people you follow with recommended accounts, and Following shows only posts from profiles you follow. Meta said in 2025 that you can change the order of your feeds and make one your default, so you can put Following first and Threads opens there. For you is still one tap away, and we could not find a setting in Threads' help that removes it. If you want it gone, minulo opens Threads on Following with For you skipped, for free.
+
+Q: Can you turn off For you on Threads?
+A: We could not find a setting that removes the For you feed in Threads' help as of October 2026. You can switch to Following, which shows only posts from profiles you follow, and Meta says you can change the order of your feeds so another feed opens first. For you stays one tap away. To have it hidden every time, open Threads in an app that skips it, such as minulo.
+
+Q: How do I make Threads open to Following?
+A: Change the order of your feeds and put Following first. Meta announced in 2025 that you can personalize the order of your feeds and make one your default. Lifehacker described the steps as: on Home, touch and hold a feed name at the top, choose Edit Feeds and drag Following to the top of the list. We could not find these button names in Threads' own help, and Meta said the feature was rolling out gradually.
+
+Q: Does the Following feed show only people I follow?
+A: Yes. Threads' help says the Following feed only shows posts from profiles you are following, while For you mixes posts from profiles you follow with recommended accounts.
+
+Q: Why does Threads keep opening on For you?
+A: For you is the first feed unless you change the order of your feeds. If you don't see a way to edit your feeds, update the app; Meta rolled the default-feed option out over time. In minulo, Threads always opens on Following with For you skipped.
+
+Q: Can I also stop Threads posts showing up on Instagram?
+A: We could not find one setting for that in Instagram's help. You can hide Threads posts on Instagram one at a time, or switch Instagram to its Following feed. The Threads setting Suggesting posts on other apps is about your own posts, not what you see.
+
+
+## How to Stop Videos on Pinterest: Autoplay and Video Pins (2026) (en, checked 2026-10-24)
+Source: https://minulo.app/en/turn-off-pinterest-videos.html · ja https://minulo.app/turn-off-pinterest-videos.html · ko https://minulo.app/ko/turn-off-pinterest-videos.html
+
+Pinterest's help says video Pins appear in your home feed and search results and start playing once half of the Pin is on screen. You can turn off autoplay: in the app with the switch Autoplay videos on cellular data under Social permissions, and on a computer with Autoplay videos on desktop. The app switch is named for cellular data, and the help says nothing about Wi-Fi. We could not find a setting in Pinterest's help that removes video Pins from your feed. minulo can hide video Pins and the home feed while keeping your saved Pins and messages, for free.
+
+Q: How do I turn off autoplay videos on Pinterest?
+A: In the Pinterest app, tap your profile picture at the bottom right, tap the settings (nut) icon at the top right, tap Social permissions and switch off Autoplay videos on cellular data. On a computer, open Settings, then Social permissions, switch off Autoplay videos on desktop and click Save.
+
+Q: Why do Pinterest videos still play on Wi-Fi?
+A: The app switch in Pinterest's help is named Autoplay videos on cellular data, and the help page says nothing about Wi-Fi. We could not confirm from Pinterest's help that videos stop playing on their own over Wi-Fi. Pinterest says video Pins play once 50% of the Pin is in view.
+
+Q: Can I stop seeing video Pins on Pinterest altogether?
+A: We could not find a setting for that in Pinterest's help as of October 2026. Pinterest says video Pins appear in your home feed and search results, and its settings only control autoplay. In minulo you can turn on Video pins to hide them, and keep your saved Pins and messages. That is free.
+
+Q: Does Refine your recommendations remove videos?
+A: Not as described in Pinterest's help. Refine your recommendations has two tabs: AI content, where you can see fewer AI-generated Pins by topic, and Activity, where you can turn off recommendations based on Pins you engaged with. Neither mentions video Pins.
+
+Q: How can I use Pinterest just for my saved Pins?
+A: Pinterest's home feed is built from recommendations based on your saves, searches and browsing. In minulo, the Recommendations switch hides the home feed along with Today, Videos and Ideas, and Saved and Messages open straight from the minulo home screen. You can hide the search box too.
+
+
+## How to Quit Social Media Before Exams (and Keep Group Chats) (en, checked 2026-10-24)
+Source: https://minulo.app/en/quit-social-media-before-exams.html · ja https://minulo.app/quit-social-media-before-exams.html · ko https://minulo.app/ko/quit-social-media-before-exams.html
+
+Before exams, pick the option that is hardest to undo at 10 pm when you are tired. Deleting the Instagram app takes a minute to reverse, and instagram.com still opens in Safari. Deactivating hides your profile, but Instagram only lets you do it once a week, and logging back in to read a DM ends it. If your class or club chat is on Instagram, a better fit is to remove Reels, Explore and suggested posts and keep the DMs. minulo does that for free on iPhone.
+
+Q: Should I deactivate Instagram before exams?
+A: Deactivate if you don't need Instagram for messages. Your profile is hidden until you log back in, and Instagram only allows it once a week. If your class chat is on Instagram, logging in to read it reactivates the account, so hiding the feed and keeping DMs works better.
+
+Q: Can I still use Instagram DMs while my account is deactivated?
+A: No. To read DMs you have to log in, and logging back in reactivates the account. If you need DMs, keep the account and remove the feed instead, for example with minulo's free Every tab but DMs setting.
+
+Q: How often can I deactivate Instagram?
+A: Instagram's help says you can only deactivate your profile once a week. Logging back in reactivates it.
+
+Q: Is it better to delete Instagram or log out during exams?
+A: If your password is saved, deleting the app helps more than logging out because the icon is gone. Neither stops instagram.com in Safari, and both cut you off from DMs in the app. A Screen Time limit with a passcode someone else knows is harder to undo.
+
+Q: How do I stay off social media during exams but keep group chats?
+A: Keep the chats and remove the endless feeds. On iPhone, minulo opens Instagram with only DMs and notifications when you turn on Every tab but DMs, hides YouTube Shorts and TikTok's For You feed, and can lock the official apps during study sessions. Hiding is free.
+
+
+## Do Short Videos Ruin Your Attention Span? What Studies Show (en, checked 2026-10-24)
+Source: https://minulo.app/en/short-videos-attention-span.html · ja https://minulo.app/short-videos-attention-span.html · ko https://minulo.app/ko/short-videos-attention-span.html
+
+Research links heavy short video use with poorer attention, but it hasn't shown that short videos cause it. A 2025 review of 71 studies (98,299 people) found that people who watch more short videos tend to score lower on attention and self-control, and most of that evidence is correlation. A small 2023 experiment found that a TikTok break made people worse at remembering to do something they had planned, and a 2025 trial found that blocking mobile internet for two weeks improved sustained attention. So cutting back is a reasonable bet, not a proven cure.
+
+Q: Do short videos really reduce attention span?
+A: They are linked, but cause and effect isn't proven. A 2025 review of 71 studies found that heavier short video use went with poorer attention and self-control. Most of the studies were correlational, so people who already find it hard to focus might simply watch more.
+
+Q: Is TikTok worse for attention than YouTube?
+A: One 2023 lab study with 60 people found that a TikTok break hurt memory for planned actions while YouTube and Twitter breaks didn't. The 2025 review found similar links across short video platforms, including Reels and Shorts. There isn't enough evidence to rank the apps.
+
+Q: Can you get your attention span back?
+A: In a 2025 trial, people who blocked mobile internet on their iPhones for two weeks did better on a sustained attention test. That study blocked all mobile internet, not only short videos, and most participants didn't block every day. It suggests cutting back can make a difference within weeks.
+
+Q: How much short video is too much?
+A: No study has set a safe number of minutes. The research compares people who watch more with people who watch less. Your own Screen Time report is a better guide: if the time is more than you would choose, or you can't focus on things you want to do, that is a reason to cut back.
+
+Q: Can I block Reels and Shorts but keep Instagram and YouTube?
+A: Yes. On iPhone, minulo opens Instagram and YouTube with Reels and Shorts hidden while DMs, search and regular videos keep working. Hiding them is free.
+
+
+## Am I Addicted to My Phone? A Self-Check With Screen Time (en, checked 2026-10-24)
+Source: https://minulo.app/en/phone-addiction-self-check.html · ja https://minulo.app/phone-addiction-self-check.html · ko https://minulo.app/ko/phone-addiction-self-check.html
+
+There is no official number of hours or pickups that means you are addicted to your phone, and the questionnaires researchers use say they measure risk rather than diagnose. You can still check yourself in two ways. First, read a week of Screen Time: daily average, pickups, notifications and your top apps. Second, answer a short validated questionnaire such as the 10-item Smartphone Addiction Scale (SAS-SV). If the numbers are higher than you would choose, start with the app at the top of your list.
+
+Q: How do I know if I'm addicted to my phone?
+A: There is no single test. Look at a week of Screen Time (daily average, pickups, top apps) and answer a validated questionnaire such as the 10-item SAS-SV. Its authors say it identifies risk rather than diagnosing addiction. If phone use is causing problems you can't fix on your own, talk to a doctor or counselor.
+
+Q: How many phone pickups a day is normal?
+A: There is no official normal number. Apple shows your pickups but doesn't set a target, and I haven't found a study that does. Compare your own weeks, and notice which app you open first after picking up.
+
+Q: Where can I see my pickups on iPhone?
+A: Open Settings > Screen Time > Daily Average, choose Week or Day, and scroll down to Pickups and Notifications.
+
+Q: What score on the SAS-SV means high risk?
+A: In the original 2013 paper, 31 or more for boys and 33 or more for girls, out of 60. The authors say the scale screens for risk and isn't designed to diagnose.
+
+Q: What should I do if my screen time is too high?
+A: Start with the app at the top of your list. If it is Instagram, YouTube or TikTok, removing only the endless feed (Reels, Shorts or For You) lets you keep your messages. On iPhone, minulo does this for free. Check Screen Time again after a week.
+
+
+## How to Do a Digital Detox for a Week (Without Going Offline) (en, checked 2026-10-24)
+Source: https://minulo.app/en/digital-detox-one-week.html · ja https://minulo.app/digital-detox-one-week.html · ko https://minulo.app/ko/digital-detox-one-week.html
+
+A digital detox doesn't have to mean switching your phone off. If you want it to last a week, keep calls, messages and maps, and cut the parts that eat the time: Reels, Shorts, TikTok's For You feed and the habit of checking. Plan it the evening before, block the feeds instead of relying on willpower, and decide what you will do with the free evenings. Two studies found real benefits from two- and four-week breaks, and both also show how hard it is to stick to one.
+
+Q: How do you do a digital detox for a week?
+A: Keep calls, messages and the apps you need, and cut the feeds that take the most time. Write down your Screen Time before you start, hide or delete the feed apps, set Downtime for the evenings, plan what you will do instead, and compare your Screen Time at the end of the week.
+
+Q: Can you do a digital detox without giving up your phone?
+A: Yes. Removing the endless feeds and keeping messages is a detox most people can keep up. In a 2025 trial, people kept calls and texts and blocked only mobile internet for two weeks, and their attention and well-being improved.
+
+Q: What are the benefits of a digital detox?
+A: In a 2020 experiment, people who deactivated Facebook for four weeks reported higher well-being and used Facebook less afterwards. In a 2025 trial, two weeks without mobile internet improved sustained attention, mental health and well-being. Both studies used volunteers, and many found it hard to stick to the break.
+
+Q: What should I do instead of scrolling during a digital detox?
+A: Decide before you start. A walk, a book, cooking, exercise or seeing friends all work, as long as it is planned. In the 2020 Facebook study, people spent the time they got back watching TV and with friends and family.
+
+Q: Can I keep Instagram DMs during a digital detox?
+A: Yes, with minulo on iPhone. Turn on Every tab but DMs for Instagram and only DMs and notifications stay, while Reels, Explore and the feed are hidden. Hiding is free.
+
+
+## How to Stop Scrolling at Work: iPhone Settings That Help (en, checked 2026-10-24)
+Source: https://minulo.app/en/stop-scrolling-at-work.html · ja https://minulo.app/stop-scrolling-at-work.html · ko https://minulo.app/ko/stop-scrolling-at-work.html
+
+Scrolling at work usually starts in a small gap: a file is loading, a meeting hasn't started, a task feels hard. The phone is on the desk, so you pick it up. What helps is making the feed harder to reach during work hours without cutting yourself off from messages. On iPhone, a Work Focus can keep social apps quiet and switch to a Home Screen page without them, and a Screen Time limit can stop those apps opening. If you need Instagram for work, hide only Reels, Explore and suggested posts instead.
+
+Q: How do I stop scrolling on my phone at work?
+A: Make the feed harder to reach during work hours. Turn on a Work Focus that keeps social apps quiet and shows a Home Screen page without them, set a Screen Time limit for those apps, and keep the phone out of reach. If you need Instagram for work, hide Reels and Explore instead of blocking the whole app.
+
+Q: Does a Work Focus block apps on iPhone?
+A: No. A Focus controls which apps can send notifications and can switch your Home Screen page, but you can still open any app. To stop apps from opening, use a Screen Time App Limit or Downtime with blocking.
+
+Q: Why do I keep checking my phone at work?
+A: Usually because of short gaps: waiting for a reply, a loading screen, or a task you don't want to start. The phone is within reach, and Reels and Shorts are made to fill a minute or two. Moving the phone and quieting social apps removes many of those prompts.
+
+Q: How can I use Instagram for work without getting distracted?
+A: Use it without the feed. On iPhone, minulo opens Instagram with Reels, Explore and suggested posts hidden while posting, comments and DMs keep working. Hiding is free. Stories and calls still need the official app.
+
+Q: Can I block social media only during work hours?
+A: Yes. Use a Screen Time Downtime schedule or App Limit for your working hours, or minulo's blocking, which is free for up to 2 hours per block. Automatic schedules by day and time are part of minulo Pro.

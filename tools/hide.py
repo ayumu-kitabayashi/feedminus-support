@@ -94,9 +94,19 @@ def head(lang, title, desc, path, ld):
 # 英語だけ：Google に入っている hide ページから、まだ入っていない主要ページへつなぐ（10/23）
 EN_REL = {
     'instagram': [('../instagram-dms-only.html', 'Use Instagram for DMs only'), ('../turn-off-instagram-reels.html', 'Turn off Instagram Reels on iPhone'),
-                  ('../remove-reels-from-instagram-app.html', 'Can you remove Reels from the Instagram app?'), ('../alternatives.html', 'Best apps to block Reels and Shorts')],
-    'youtube': [('../block-youtube-shorts.html', 'Block YouTube Shorts on iPhone'), ('../alternatives.html', 'Best apps to block Reels and Shorts')],
-    'tiktok': [('../tiktok-dms-only.html', 'Use TikTok for DMs only'), ('../alternatives.html', 'Best apps to block Reels and Shorts')],
+                  ('../remove-reels-from-instagram-app.html', 'Can you remove Reels from the Instagram app?'), ('../alternatives.html', 'Best apps to block Reels and Shorts'),
+                  ('../instagram-stories-only.html', 'How to see only Stories on Instagram')],
+    'youtube': [('../block-youtube-shorts.html', 'Block YouTube Shorts on iPhone'), ('../alternatives.html', 'Best apps to block Reels and Shorts'),
+                ('../youtube-time-limit.html', 'How to set a time limit on YouTube for yourself')],
+    'tiktok': [('../tiktok-dms-only.html', 'Use TikTok for DMs only'), ('../alternatives.html', 'Best apps to block Reels and Shorts'),
+               ('../tiktok-screen-time-limit.html', 'TikTok screen time limit: how to make it stick')],
+    # 10/24 新ページ15問から（既定の2本＋新ページ）
+    'reddit': [('../alternatives.html', 'Best apps to block Reels and Shorts'), ('../instagram-dms-only.html', 'Use Instagram for DMs only'),
+               ('../turn-off-reddit-recommendations.html', 'How to turn off recommendations on Reddit')],
+    'threads': [('../alternatives.html', 'Best apps to block Reels and Shorts'), ('../instagram-dms-only.html', 'Use Instagram for DMs only'),
+                ('../threads-following-feed-only.html', 'How to make Threads open to Following')],
+    'pinterest': [('../alternatives.html', 'Best apps to block Reels and Shorts'), ('../instagram-dms-only.html', 'Use Instagram for DMs only'),
+                  ('../turn-off-pinterest-videos.html', 'How to stop videos on Pinterest')],
 }
 EN_REL_DEFAULT = [('../alternatives.html', 'Best apps to block Reels and Shorts'), ('../instagram-dms-only.html', 'Use Instagram for DMs only')]
 
@@ -104,9 +114,14 @@ EN_REL_DEFAULT = [('../alternatives.html', 'Best apps to block Reels and Shorts'
 # 日本語だけ：同じ links の並びの最後に足す（10/24 Google の「リール 非表示 アプリ」に合わせて比較ページへ。x は 10/24 の手のリンク）
 # ★10/24 時点で hide.py を回すと、手で短くした題・pt-BR・ct 付きのボタン・t.js も戻る。回さずに HTML と hide.json を両方直す
 JA_REL = {
-    'instagram': [('../alternatives.html', 'インスタのリールを非表示にするアプリの比較')],
-    'youtube': [('../alternatives.html', 'ショートを非表示にするアプリの比較')],
+    'instagram': [('../alternatives.html', 'インスタのリールを非表示にするアプリの比較'), ('../instagram-stories-only.html', 'インスタでストーリーだけ見る方法')],
+    'youtube': [('../alternatives.html', 'ショートを非表示にするアプリの比較'), ('../youtube-time-limit.html', 'YouTube を自分で時間制限する方法')],
     'x': [('../turn-off-x-for-you.html', 'X（旧Twitter）のおすすめタブを消す方法')],
+    # 10/24 新ページ15問から
+    'tiktok': [('../tiktok-screen-time-limit.html', 'TikTok の時間制限のやり方と、効かないときの対処')],
+    'reddit': [('../turn-off-reddit-recommendations.html', 'Reddit のおすすめをオフにする方法')],
+    'threads': [('../threads-following-feed-only.html', 'スレッズをフォロー中だけで見る方法')],
+    'pinterest': [('../turn-off-pinterest-videos.html', 'Pinterest の動画を止める方法')],
 }
 # 日本語だけ：links の先頭に足す（hide/youtube の手のリンク）
 JA_PRE = {
