@@ -1050,3 +1050,13 @@ A: Instagram designed its iPad app that way. When it launched in September 2025,
 Q: How do I open Instagram straight to DMs?
 A: We found no setting in the Instagram app for this. In minulo, Messages opens straight from the minulo home screen, and you can turn on Every tab but DMs so only DMs and notifications are left. Hiding is free.
 
+
+
+## X For you, Threads posts on Instagram, Instagram opening to Reels: names in Spanish, Portuguese, German and French (checked 2026-10-24)
+Pages: https://minulo.app/es/turn-off-x-for-you.html · https://minulo.app/pt/turn-off-x-for-you.html · https://minulo.app/de/turn-off-x-for-you.html · https://minulo.app/fr/turn-off-x-for-you.html · https://minulo.app/es/stop-threads-posts-on-instagram.html · https://minulo.app/pt/stop-threads-posts-on-instagram.html · https://minulo.app/de/stop-threads-posts-on-instagram.html · https://minulo.app/fr/stop-threads-posts-on-instagram.html · https://minulo.app/es/instagram-opens-to-reels.html · https://minulo.app/pt/instagram-opens-to-reels.html · https://minulo.app/de/instagram-opens-to-reels.html · https://minulo.app/fr/instagram-opens-to-reels.html
+Same facts as the English pages above. Official names, copied from X Help and Instagram Help in each language:
+- X tabs (For you / Following): es Para ti / Siguiendo · pt Para você / Seguindo · de Für dich / Folge ich · fr Pour vous / Abonnements. X Help in es, pt and fr says X reopens on the timeline you had open when you closed it; the German timeline page does not mention this, so the German page cites the English help.
+- X muted words (Notifications tab > gear > Muted > Muted words > Add): es Notificaciones > engranaje > Silenciadas > Palabras silenciadas > Agregar · pt Notificações > engrenagem > Silêncio ativado > Palavras silenciadas > Adicionar · de Mitteilungen > Zahnrad > Stummgeschaltet > Stummgeschaltete Wörter > Hinzufügen · fr Notifications > Engrenage > Masqué > Mots masqués > Ajouter.
+- Instagram Following view (tap Instagram at the top left of the feed): es Seguidos · pt Seguindo · de Gefolgt · fr Suivi(e)s.
+- Threads setting Suggesting posts on other apps (Profile > Menu > Privacy): es Sugerir publicaciones en otras apps · pt Sugerir posts em outros apps · de Beiträge in anderen Apps vorschlagen lassen · fr Suggestion des publications sur les autres applications. It controls whether your own Threads posts are suggested on Instagram and Facebook, not what you see.
+- Not confirmed in these languages: the menu option that hides a single Threads post in the Instagram feed (Hide in English) and Turn off notifications like this; both come from Guiding Tech in English. The menu for leaving Instagram's Reels-first tests was not found in Instagram's help in any language.
