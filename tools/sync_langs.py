@@ -1,7 +1,8 @@
 """スラッグを渡すと、実在する言語ファイルから hreflang・フッターの言語リンク・sitemap の alternate を組み直す。
 使い方: python3 tools/sync_langs.py why-reels-are-addictive.html study-focus.html
 ja はルート。別スラッグの ja は JA に足す。sitemap は該当スラッグの <url> を消して末尾に入れ直す。"""
-import os,re,sys
+import os,re,sys,datetime
+TODAY=datetime.date.today().isoformat()
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 L=[('ja','', '日本語'),('en','en','English'),('ko','ko','한국어'),('de','de','Deutsch'),('fr','fr','Français'),('es','es','Español'),('pt-BR','pt','Português'),('it','it','Italiano'),('zh-Hant','zh-Hant','繁體中文'),('id','id','Bahasa Indonesia'),('th','th','ไทย'),('vi','vi','Tiếng Việt'),('ru','ru','Русский')]
 JA={'turn-off-youtube-autoplay-recommendations.html':'youtube-autoplay-recommendations-off.html'}
@@ -29,9 +30,9 @@ for s in slugs:
     # sitemap
     locs=[url(d,s) for _,d,_ in have]
     for lc in locs:
-        sm=re.sub(r'  <url><loc>'+re.escape(lc)+r'</loc>.*?</url>\n','',sm,flags=re.S)
+        sm=re.sub(r'[ \t]*<url><loc>'+re.escape(lc)+r'</loc>.*?</url>\n','',sm,flags=re.S)
     alts=''.join(f'    <xhtml:link rel="alternate" hreflang="{h}" href="{url(d,s)}"/>\n' for h,d,_ in have)+f'    <xhtml:link rel="alternate" hreflang="x-default" href="{xdef}"/>\n'
-    add=''.join(f'  <url><loc>{url(d,s)}</loc><lastmod>2026-10-24</lastmod>\n{alts}  </url>\n' for _,d,_ in have)
+    add=''.join(f'  <url><loc>{url(d,s)}</loc><lastmod>{TODAY}</lastmod>\n{alts}  </url>\n' for _,d,_ in have)
     sm=sm.replace('</urlset>',add+'</urlset>')
     print(s, [h for h,_,_ in have])
 open(f'{ROOT}/sitemap.xml','w').write(sm)
