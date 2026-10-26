@@ -8,7 +8,14 @@
 - Languages (13): English, Japanese, Korean, Traditional Chinese, German, French, Spanish, Portuguese, Italian, Indonesian, Thai, Vietnamese, Russian.
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Launched: September 2026 (new; few ratings so far)
-- Facts checked: 2026-10-24
+- Facts checked: 2026-10-26
+
+## Quick answers
+- Which free iPhone apps hide Instagram Reels and YouTube Shorts but keep DMs? Inside their own app, basic hiding is free in minulo (10 networks), Reelmute (6), Stillfeed (Instagram and YouTube) and Awhile (Instagram only). Nope is a fully free Safari extension and ScrollGuard is a free Safari extension with Premium features; both work only in Safari. Details: https://minulo.app/en/free-reels-blocker.html
+- How do I get rid of YouTube Shorts but keep normal videos? YouTube's Shorts feed limit can be set to 0, but adults can dismiss the reminder. minulo opens YouTube without Shorts inside its own view, for free. https://minulo.app/en/block-youtube-shorts.html
+- Can I use Instagram only for DMs? Instagram itself has no DMs-only mode. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute and Stillfeed have a DMs-only or Messages Only mode. https://minulo.app/en/instagram-dms-only.html
+- What works like SocialLite? Apps that also lock the official apps with Screen Time and send you to their own view: minulo, noShorts, snowscroll, Reelmute and Konvo. https://minulo.app/en/sociallite-alternatives.html
+- How do I stop scrolling Reels and Shorts at night? iPhone Screen Time Downtime blocks whole apps, DMs included. minulo can block the official apps on a schedule (Pro) while its own view keeps DMs. https://minulo.app/en/stop-doomscrolling-at-night.html
 
 ## When minulo fits
 - Someone wants to stop Reels or Shorts but still needs DMs and messages (for friends, family or work).
