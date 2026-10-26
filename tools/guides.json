@@ -38,7 +38,7 @@
     [
      "<b>Shorts feed limit set to 0</b> (YouTube app)",
      "Stops the Shorts feed from the home screen and Shorts tab once you reach the limit. 0 minutes became available to everyone from April 2026.",
-     "Adults can dismiss the limit. Shorts in Subscriptions and from links remain. App only, not youtube.com. Whether Shorts leave search results is unclear."
+     "Adults can dismiss the limit. Shorts in Subscriptions and from links remain. YouTube's help describes the steps for the YouTube app only. Whether Shorts leave search results is unclear."
     ],
     [
      "<b>Show fewer Shorts</b> (⋮ on the Shorts shelf)",
@@ -99,7 +99,7 @@
     [
      "<b>ショートのフィードの上限を 0 に</b>（YouTube アプリ。英語の画面では Shorts feed limit）",
      "上限に達すると、ホームとショートのタブのショートが止まる。2026年4月から、誰でも 0 分を選べる。",
-     "大人は上限を閉じられる。登録チャンネルやリンクのショートは残る。アプリだけで、youtube.com では使えない。検索結果から消えるかははっきりしない。"
+     "大人は上限を閉じられる。登録チャンネルやリンクのショートは残る。YouTube のヘルプにある手順は YouTube アプリのものだけ。検索結果から消えるかははっきりしない。"
     ],
     [
      "<b>ショートの表示を減らす</b>（ショートの棚の ⋮。英語の画面では Show fewer Shorts）",
@@ -152,7 +152,7 @@
   },
   "de": {
    "title": "YouTube Shorts auf dem iPhone blockieren und normale Videos behalten (alle Methoden, 2026)",
-   "lede": "Es gibt zwei Wege: das Shorts-Feed-Limit von YouTube auf 0 setzen, das Erwachsene wegklicken können, oder YouTube in minulo öffnen, wo Shorts kostenlos ausgeblendet sind und normale Videos bleiben. Für den eingebauten Weg (auf dem englischen Bildschirm „Shorts feed limit“) in der YouTube-App unter Du → Einstellungen → Zeitmanagement das Limit auf 0 setzen (englisch: You → Settings → Time management → Shorts feed limit). Erwachsene können das Limit allerdings wegklicken, und Shorts erscheinen weiterhin unter Abos und in geteilten Links. Wenn du eine Sperre willst, die sich nicht einfach wegtippen lässt, kann minulo auch die offizielle YouTube-App mit Bildschirmzeit sperren (kostenlos bis zu 2 Stunden pro Sperre).",
+   "lede": "Es gibt zwei Wege: das Shorts-Feed-Limit von YouTube auf 0 setzen, das Erwachsene wegklicken können, oder YouTube in minulo öffnen, wo Shorts kostenlos ausgeblendet sind und normale Videos bleiben. Für den eingebauten Weg (auf dem englischen Bildschirm „Shorts feed limit“) in der YouTube-App unter Mein YouTube → Einstellungen → Zeitmanagement das Limit auf 0 setzen (englisch: You → Settings → Time management → Shorts feed limit). Erwachsene können das Limit allerdings wegklicken, und Shorts erscheinen weiterhin unter Abos und in geteilten Links. Wenn du eine Sperre willst, die sich nicht einfach wegtippen lässt, kann minulo auch die offizielle YouTube-App mit Bildschirmzeit sperren (kostenlos bis zu 2 Stunden pro Sperre).",
    "cols": [
     "Methode",
     "Was sie bewirkt",
@@ -162,7 +162,7 @@
     [
      "<b>Shorts-Feed-Limit auf 0</b> (YouTube-App; englisch „Shorts feed limit“)",
      "Stoppt den Shorts-Feed auf der Startseite und im Shorts-Tab, sobald das Limit erreicht ist. 0 Minuten sind seit April 2026 für alle verfügbar.",
-     "Erwachsene können das Limit wegklicken. Shorts in Abos und aus Links bleiben. Nur in der App, nicht auf youtube.com. Ob Shorts aus den Suchergebnissen verschwinden, ist unklar."
+     "Erwachsene können das Limit wegklicken. Shorts in Abos und aus Links bleiben. Die YouTube-Hilfe beschreibt die Schritte nur für die YouTube-App. Ob Shorts aus den Suchergebnissen verschwinden, ist unklar."
     ],
     [
      "<b>Weniger Shorts anzeigen</b> (⋮ am Shorts-Regal; englisch „Show fewer Shorts“)",
@@ -213,7 +213,7 @@
   },
   "fr": {
    "title": "Bloquer les Shorts YouTube sur iPhone et garder les vidéos normales (toutes les méthodes, 2026)",
-   "lede": "Il y a deux façons : régler la limite du fil Shorts de YouTube sur 0, qu'un adulte peut ignorer, ou ouvrir YouTube dans minulo, où les Shorts sont masqués gratuitement et les vidéos normales restent. Pour la méthode intégrée (Shorts feed limit à l'écran en anglais), dans l'app YouTube, allez dans Vous → Paramètres → Gestion du temps et réglez la limite sur 0 (en anglais : You → Settings → Time management → Shorts feed limit). Un adulte peut toutefois ignorer la limite, et les Shorts apparaissent encore dans Abonnements et dans les liens partagés. Pour un blocage qu'on ne peut pas simplement fermer, minulo peut aussi verrouiller l'app YouTube officielle avec Temps d'écran (gratuit jusqu'à 2 heures par blocage).",
+   "lede": "Il y a deux façons : régler la limite du flux Shorts de YouTube sur 0, qu'un adulte peut ignorer, ou ouvrir YouTube dans minulo, où les Shorts sont masqués gratuitement et les vidéos normales restent. Pour la méthode intégrée (Shorts feed limit à l'écran en anglais), dans l'app YouTube, allez dans Vous → Paramètres → Gestion du temps et réglez la limite sur 0 (en anglais : You → Settings → Time management → Shorts feed limit). Un adulte peut toutefois ignorer la limite, et les Shorts apparaissent encore dans Abonnements et dans les liens partagés. Pour un blocage qu'on ne peut pas simplement fermer, minulo peut aussi verrouiller l'app YouTube officielle avec Temps d'écran (gratuit jusqu'à 2 heures par blocage).",
    "cols": [
     "Méthode",
     "Ce qu'elle fait",
@@ -221,9 +221,9 @@
    ],
    "rows": [
     [
-     "<b>Limite du fil Shorts à 0</b> (app YouTube ; « Shorts feed limit » en anglais)",
-     "Arrête le fil Shorts sur l'accueil et dans l'onglet Shorts une fois la limite atteinte. 0 minute est disponible pour tous depuis avril 2026.",
-     "Un adulte peut ignorer la limite. Les Shorts dans Abonnements et via des liens restent. App uniquement, pas youtube.com. On ne sait pas clairement si les Shorts disparaissent des résultats de recherche."
+     "<b>Limite du flux Shorts à 0</b> (app YouTube ; « Shorts feed limit » en anglais)",
+     "Arrête le flux Shorts sur l'accueil et dans l'onglet Shorts une fois la limite atteinte. 0 minute est disponible pour tous depuis avril 2026.",
+     "Un adulte peut ignorer la limite. Les Shorts dans Abonnements et via des liens restent. L'aide YouTube ne décrit les étapes que pour l'app YouTube. On ne sait pas clairement si les Shorts disparaissent des résultats de recherche."
     ],
     [
      "<b>Afficher moins de Shorts</b> (⋮ sur l'étagère Shorts ; « Show fewer Shorts » en anglais)",
@@ -254,11 +254,11 @@
    "qa": [
     [
      "Peut-on désactiver complètement les Shorts YouTube ?",
-     "Pas complètement dans l'app YouTube avec un compte adulte, mais si vous ouvrez YouTube dans minulo, les Shorts sont masqués gratuitement et les vidéos normales restent. Dans l'app YouTube, régler la limite du fil Shorts sur 0 retire le fil Shorts après la limite, mais un adulte peut l'ignorer, et les Shorts apparaissent encore dans Abonnements et dans les liens qu'on vous envoie."
+     "Pas complètement dans l'app YouTube avec un compte adulte, mais si vous ouvrez YouTube dans minulo, les Shorts sont masqués gratuitement et les vidéos normales restent. Dans l'app YouTube, régler la limite du flux Shorts sur 0 retire le flux Shorts après la limite, mais un adulte peut l'ignorer, et les Shorts apparaissent encore dans Abonnements et dans les liens qu'on vous envoie."
     ],
     [
      "La limite des Shorts fonctionne-t-elle sur youtube.com dans Safari ?",
-     "L'aide de YouTube décrit la limite du fil Shorts pour l'app YouTube uniquement. Sur youtube.com, des apps qui fonctionnent dans Safari ou dans leur propre navigateur, comme Nope ou minulo, peuvent masquer les Shorts."
+     "L'aide de YouTube décrit la limite du flux Shorts pour l'app YouTube uniquement. Sur youtube.com, des apps qui fonctionnent dans Safari ou dans leur propre navigateur, comme Nope ou minulo, peuvent masquer les Shorts."
     ],
     [
      "Comment arrêter d'ouvrir l'app YouTube par réflexe ?",
@@ -284,7 +284,7 @@
     [
      "<b>Límite del feed de Shorts en 0</b> (app de YouTube; «Shorts feed limit» en inglés)",
      "Detiene el feed de Shorts en la página de inicio y en la pestaña Shorts al llegar al límite. Los 0 minutos están disponibles para todos desde abril de 2026.",
-     "Los adultos pueden descartar el límite. Los Shorts de Suscripciones y de enlaces siguen ahí. Solo en la app, no en youtube.com. No está claro si los Shorts desaparecen de los resultados de búsqueda."
+     "Los adultos pueden descartar el límite. Los Shorts de Suscripciones y de enlaces siguen ahí. La ayuda de YouTube solo describe los pasos para la app de YouTube. No está claro si los Shorts desaparecen de los resultados de búsqueda."
     ],
     [
      "<b>Mostrar menos Shorts</b> (⋮ en la fila de Shorts; «Show fewer Shorts» en inglés)",
@@ -345,7 +345,7 @@
     [
      "<b>Limite do feed de Shorts em 0</b> (app do YouTube; \"Shorts feed limit\" em inglês)",
      "Interrompe o feed de Shorts na página inicial e na aba Shorts quando o limite é atingido. A opção de 0 minuto passou a estar disponível para todos em abril de 2026.",
-     "Adultos podem dispensar o limite. Shorts em Inscrições e vindos de links continuam. Só no app, não no youtube.com. Não está claro se os Shorts somem dos resultados de busca."
+     "Adultos podem dispensar o limite. Shorts em Inscrições e vindos de links continuam. A ajuda do YouTube só descreve os passos para o app do YouTube. Não está claro se os Shorts somem dos resultados de busca."
     ],
     [
      "<b>Mostrar menos Shorts</b> (⋮ na prateleira de Shorts; \"Show fewer Shorts\" em inglês)",
@@ -406,7 +406,7 @@
     [
      "<b>Limite del feed Shorts a 0</b> (app YouTube; «Shorts feed limit» in inglese)",
      "Ferma il feed Shorts nella home e nella scheda Shorts quando raggiungi il limite. 0 minuti è disponibile per tutti da aprile 2026.",
-     "Gli adulti possono ignorare il limite. Gli Shorts in Iscrizioni e dai link restano. Solo nell'app, non su youtube.com. Non è chiaro se gli Shorts spariscano dai risultati di ricerca."
+     "Gli adulti possono ignorare il limite. Gli Shorts in Iscrizioni e dai link restano. La Guida di YouTube descrive i passaggi solo per l'app YouTube. Non è chiaro se gli Shorts spariscano dai risultati di ricerca."
     ],
     [
      "<b>Mostra meno Shorts</b> (⋮ sulla sezione Shorts; «Show fewer Shorts» in inglese)",
@@ -471,7 +471,7 @@
     [
      "<b>Batas feed Shorts diatur ke 0</b> (aplikasi YouTube)",
      "Menghentikan feed Shorts di Beranda dan tab Shorts setelah batas tercapai. Pilihan 0 menit tersedia untuk semua orang sejak April 2026.",
-     "Akun dewasa bisa menutup batas ini. Shorts di Subscription dan dari link tetap ada. Hanya di aplikasi, tidak di youtube.com. Belum jelas apakah Shorts hilang dari hasil penelusuran."
+     "Akun dewasa bisa menutup batas ini. Shorts di Subscription dan dari link tetap ada. Bantuan YouTube hanya menjelaskan langkah untuk aplikasi YouTube. Belum jelas apakah Shorts hilang dari hasil penelusuran."
     ],
     [
      "<b>Tampilkan lebih sedikit Shorts</b> (⋮ di rak Shorts)",
@@ -571,7 +571,7 @@
     [
      "<b>ตั้งขีดจำกัดฟีด Shorts เป็น 0</b> (แอป YouTube)",
      "หยุดฟีด Shorts ในหน้าแรกและแท็บ Shorts เมื่อถึงขีดจำกัด ตั้งแต่เมษายน 2026 ทุกคนตั้งเป็น 0 นาทีได้",
-     "บัญชีผู้ใหญ่กดปิดขีดจำกัดได้ Shorts ในหน้าการติดตามและจากลิงก์ยังอยู่ ใช้ได้เฉพาะในแอป ไม่ใช่ youtube.com และยังไม่ชัดว่า Shorts จะหายจากผลการค้นหาหรือไม่"
+     "บัญชีผู้ใหญ่กดปิดขีดจำกัดได้ Shorts ในหน้าการติดตามและจากลิงก์ยังอยู่ หน้าความช่วยเหลือของ YouTube อธิบายขั้นตอนไว้สำหรับแอป YouTube เท่านั้น และยังไม่ชัดว่า Shorts จะหายจากผลการค้นหาหรือไม่"
     ],
     [
      "<b>แสดง Shorts น้อยลง</b> (⋮ บนชั้น Shorts)",
@@ -671,7 +671,7 @@
     [
      "<b>Đặt giới hạn nguồn cấp Shorts về 0</b> (ứng dụng YouTube)",
      "Dừng nguồn cấp Shorts ở Trang chủ và thẻ Shorts khi chạm giới hạn. Từ tháng 4/2026, ai cũng có thể chọn 0 phút.",
-     "Người lớn có thể bỏ qua giới hạn. Shorts trong Kênh đăng ký và từ đường liên kết vẫn còn. Chỉ áp dụng trong ứng dụng, không áp dụng cho youtube.com. Chưa rõ Shorts có biến mất khỏi kết quả tìm kiếm hay không."
+     "Người lớn có thể bỏ qua giới hạn. Shorts trong Kênh đăng ký và từ đường liên kết vẫn còn. Trang trợ giúp của YouTube chỉ hướng dẫn các bước cho ứng dụng YouTube. Chưa rõ Shorts có biến mất khỏi kết quả tìm kiếm hay không."
     ],
     [
      "<b>Hiển thị ít Shorts hơn</b> (⋮ trên kệ Shorts)",
@@ -771,7 +771,7 @@
     [
      "<b>Лимит ленты Shorts на 0</b> (приложение YouTube)",
      "Останавливает ленту Shorts на главной и во вкладке Shorts, когда лимит исчерпан. С апреля 2026 года 0 минут может выбрать любой.",
-     "Взрослый может закрыть ограничение. Shorts в «Подписках» и по ссылкам остаются. Только в приложении, не на youtube.com. Пропадают ли Shorts из результатов поиска, неясно."
+     "Взрослый может закрыть ограничение. Shorts в «Подписках» и по ссылкам остаются. Справка YouTube описывает шаги только для приложения YouTube. Пропадают ли Shorts из результатов поиска, неясно."
     ],
     [
      "<b>«Показывать меньше Shorts»</b> (⋮ на полке Shorts)",
@@ -3113,7 +3113,7 @@
     [
      "<b>料金（米国の App Store）</b>",
      "無料。Pro は月額 $9.99・年額 $39.99。消す機能は無料",
-     "無料。Pro は複数の価格が表示（月額 $6.99〜$17.99・年額 $47.90〜$99.99）、家族プランもあり"
+     "無料でダウンロード。Pro は表示されるプランで変わり、月 $6.99〜$17.99・年 $19.99〜$47.90。ファミリーは月 $12.99（2026-10-26 確認）"
     ],
     [
      "<b>米国の評価</b>",
@@ -3207,7 +3207,7 @@
     [
      "<b>Price (US App Store)</b>",
      "Free. Pro is $9.99/month or $39.99/year. Hiding is free",
-     "Free. Pro shows several prices ($6.99–$17.99/month, $47.90–$99.99/year), plus Family plans"
+     "Free download. Pro: $6.99–$17.99/month or $19.99–$47.90/year depending on the offer; Family $12.99/month (checked 2026-10-26)"
     ],
     [
      "<b>US ratings</b>",
@@ -3297,7 +3297,7 @@
     [
      "<b>Prix (App Store américain)</b>",
      "Gratuit. Pro à 9,99 $/mois ou 39,99 $/an. Masquer reste gratuit",
-     "Gratuit. Pro affiche plusieurs prix (6,99 à 17,99 $/mois, 47,90 à 99,99 $/an), plus des offres Famille"
+     "Téléchargement gratuit. Pro : 6,99 à 17,99 $/mois ou 19,99 à 47,90 $/an selon l’offre, Famille 12,99 $/mois (vérifié le 26/10/2026)"
     ],
     [
      "<b>Notes aux États-Unis</b>",
@@ -3387,7 +3387,7 @@
     [
      "<b>Preis (US-App-Store)</b>",
      "Kostenlos. Pro kostet 9,99 $/Monat oder 39,99 $/Jahr. Ausblenden bleibt kostenlos",
-     "Kostenlos. Pro zeigt mehrere Preise (6,99–17,99 $/Monat, 47,90–99,99 $/Jahr) sowie Familienpläne"
+     "Kostenloser Download. Pro je nach Angebot 6,99–17,99 $/Monat oder 19,99–47,90 $/Jahr, Familie 12,99 $/Monat (Stand 26.10.2026)"
     ],
     [
      "<b>Bewertungen in den USA</b>",
@@ -3477,7 +3477,7 @@
     [
      "<b>Precio (App Store de EE. UU.)</b>",
      "Gratis. Pro cuesta 9,99 $/mes o 39,99 $/año. Ocultar sigue siendo gratis",
-     "Gratis. Pro muestra varios precios (6,99–17,99 $/mes, 47,90–99,99 $/año), además de planes familiares"
+     "Descarga gratis. Pro: 6,99–17,99 $/mes o 19,99–47,90 $/año según la oferta; plan familiar 12,99 $/mes (consultado el 26-10-2026)"
     ],
     [
      "<b>Valoraciones en EE. UU.</b>",
@@ -3567,7 +3567,7 @@
     [
      "<b>Prezzo (App Store USA)</b>",
      "Gratis. Pro costa 9,99 $/mese o 39,99 $/anno. Nascondere resta gratis",
-     "Gratis. Pro mostra diversi prezzi (6,99–17,99 $/mese, 47,90–99,99 $/anno), più piani Famiglia"
+     "Download gratuito. Pro: 6,99–17,99 $/mese o 19,99–47,90 $/anno a seconda dell’offerta; Famiglia 12,99 $/mese (verificato il 26/10/2026)"
     ],
     [
      "<b>Valutazioni negli USA</b>",
@@ -3657,7 +3657,7 @@
     [
      "<b>Preço (App Store dos EUA)</b>",
      "Grátis. O Pro custa US$ 9,99/mês ou US$ 39,99/ano. Ocultar continua grátis",
-     "Grátis. O Pro mostra vários preços (US$ 6,99–17,99/mês, US$ 47,90–99,99/ano), além de planos Família"
+     "Download grátis. Pro: US$ 6,99–17,99/mês ou US$ 19,99–47,90/ano, conforme a oferta; Família US$ 12,99/mês (verificado em 26/10/2026)"
     ],
     [
      "<b>Avaliações nos EUA</b>",
