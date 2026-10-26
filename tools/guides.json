@@ -2288,7 +2288,7 @@
     ],
     [
      "How is minulo different from SocialLite?",
-     "Both hide Reels and Shorts, keep DMs, and can lock the official apps and send you to their own view. On their App Store pages, minulo lists TikTok, Threads, Pinterest and LinkedIn, which SocialLite's page does not mention, and minulo also has a Chrome extension and a Mac app. SocialLite has push notifications for Instagram and Snapchat, which minulo does not, and far more ratings (about 14,000 in the US); minulo launched in September 2026."
+     "Both hide Reels and Shorts, keep DMs, and can lock the official apps and send you to their own view. On their App Store pages, minulo lists TikTok, Threads, Pinterest and LinkedIn, which SocialLite's page does not mention, and minulo also has a Chrome extension and a Mac app. SocialLite has push notifications for Instagram and Snapchat, which minulo does not, and far more ratings (about 15,000 in the US); minulo launched in September 2026."
     ],
     [
      "Is there a free alternative to SocialLite?",
@@ -2303,7 +2303,7 @@
    "faqHref": "turn-off-instagram-reels.html",
    "rows": [
     [
-     "<b>SocialLite</b> (14,384 US ratings)",
+     "<b>SocialLite</b> (15,412 US ratings)",
      "Its own focused view of social networks. Blocks short-form video feeds, recommendations, Explore, live and shopping tabs, and ads; can block the official apps and redirect to SocialLite. Push notifications for Instagram and Snapchat (version 3.1.2).",
      "Instagram, YouTube, Snapchat, X, Reddit and others (TikTok not mentioned)",
      "Free download; in-app purchases."
@@ -2362,7 +2362,7 @@
     ],
     [
      "minulo と SocialLite の違いは？",
-     "どちらもリールとショートを消し、DM は使え、公式アプリを止めて自分の画面に案内できます。App Store のページで比べると、minulo には SocialLite のページに書かれていない TikTok・Threads・Pinterest・LinkedIn があり、Chrome の拡張機能と Mac 版もあります。SocialLite には minulo に無い Instagram と Snapchat のプッシュ通知があり、評価の数もずっと多い（米国で約14,000件）です。minulo は2026年9月に公開されたばかりです。"
+     "どちらもリールとショートを消し、DM は使え、公式アプリを止めて自分の画面に案内できます。App Store のページで比べると、minulo には SocialLite のページに書かれていない TikTok・Threads・Pinterest・LinkedIn があり、Chrome の拡張機能と Mac 版もあります。SocialLite には minulo に無い Instagram と Snapchat のプッシュ通知があり、評価の数もずっと多い（米国で約15,000件）です。minulo は2026年9月に公開されたばかりです。"
     ],
     [
      "無料で使える SocialLite の代わりは？",
@@ -2377,7 +2377,7 @@
    "faqHref": "turn-off-instagram-reels.html",
    "rows": [
     [
-     "<b>SocialLite</b>（米国の評価 14,384件）",
+     "<b>SocialLite</b>（米国の評価 15,412件）",
      "自前の画面で SNS を表示する。ショート動画のフィード・おすすめ・発見・ライブ・ショッピングのタブと広告を消し、公式アプリを止めて SocialLite に案内できる。Instagram と Snapchat のプッシュ通知に対応（3.1.2）。",
      "Instagram・YouTube・Snapchat・X・Reddit など（TikTok の記載なし）",
      "無料。アプリ内課金あり。"
@@ -2436,7 +2436,7 @@
     ],
     [
      "Quelle différence entre minulo et SocialLite ?",
-     "Les deux masquent les Reels et les Shorts, gardent les DM et peuvent verrouiller les applis officielles pour vous renvoyer vers leur propre vue. Sur leurs pages App Store, minulo cite TikTok, Threads, Pinterest et LinkedIn, que la page de SocialLite ne mentionne pas, et minulo a aussi une extension Chrome et une version Mac. SocialLite propose des notifications push pour Instagram et Snapchat, que minulo n'a pas, et beaucoup plus de notes (environ 14 000 aux États-Unis) ; minulo est sorti en septembre 2026."
+     "Les deux masquent les Reels et les Shorts, gardent les DM et peuvent verrouiller les applis officielles pour vous renvoyer vers leur propre vue. Sur leurs pages App Store, minulo cite TikTok, Threads, Pinterest et LinkedIn, que la page de SocialLite ne mentionne pas, et minulo a aussi une extension Chrome et une version Mac. SocialLite propose des notifications push pour Instagram et Snapchat, que minulo n'a pas, et beaucoup plus de notes (environ 15 000 aux États-Unis) ; minulo est sorti en septembre 2026."
     ],
     [
      "Existe-t-il une alternative gratuite à SocialLite ?",
@@ -2451,7 +2451,7 @@
    "faqHref": "turn-off-instagram-reels.html",
    "rows": [
     [
-     "<b>SocialLite</b> (14 384 notes aux États-Unis)",
+     "<b>SocialLite</b> (15 412 notes aux États-Unis)",
      "Sa propre vue épurée des réseaux. Bloque les fils de vidéos courtes, les recommandations, Explorer, les onglets live et shopping et les pubs ; peut bloquer les apps officielles et rediriger vers SocialLite. Notifications push pour Instagram et Snapchat (version 3.1.2).",
      "Instagram, YouTube, Snapchat, X, Reddit et d'autres (TikTok non mentionné)",
      "Téléchargement gratuit ; achats intégrés."
@@ -3118,7 +3118,7 @@
     [
      "<b>米国の評価</b>",
      "まだ0件（2026年9月公開）",
-     "14,384件・★4.8（2026年1月公開）"
+     "15,412件・★4.7（2026年1月公開）"
     ]
    ],
    "qa": [
@@ -3143,7 +3143,7 @@
      "minulo では、ログインは各SNSの公式ページで行い、パスワードを minulo が預かることはありません。SocialLite は、情報を端末の中に保存し、サーバーには送らないと説明しています。"
     ]
    ],
-   "disclose": "このページは minulo の開発者が書いています。SocialLite については、{date} 時点の App Store の説明・更新履歴・米国の評価数と料金の表示だけをもとにしています。SocialLite の評価数は 2026-10-22 に確かめ直しました。",
+   "disclose": "このページは minulo の開発者が書いています。SocialLite については、{date} 時点の App Store の説明・更新履歴・米国の評価数と料金の表示だけをもとにしています。SocialLite の評価数は 2026-10-26 に確かめ直しました。",
    "srcTitle": "出典",
    "more": "SocialLite の代わりになるアプリ",
    "moreHref": "sociallite-alternatives.html",
@@ -3212,7 +3212,7 @@
     [
      "<b>US ratings</b>",
      "None yet (released September 2026)",
-     "14,384, ★4.8 (released January 2026)"
+     "15,412, ★4.7 (released January 2026)"
     ]
    ],
    "qa": [
@@ -3233,7 +3233,7 @@
      "With minulo you sign in on each service's official page, so minulo never sees your password. SocialLite says it stores your information on your device and does not send it to its servers."
     ]
    ],
-   "disclose": "This page is written by the developer of minulo. Everything about SocialLite comes only from its App Store description, release notes, US rating count and listed prices as of {date}. SocialLite’s rating count was rechecked on 2026-10-22.",
+   "disclose": "This page is written by the developer of minulo. Everything about SocialLite comes only from its App Store description, release notes, US rating count and listed prices as of {date}. SocialLite’s rating count was rechecked on 2026-10-26.",
    "srcTitle": "Sources",
    "more": "Alternatives to SocialLite",
    "moreHref": "sociallite-alternatives.html",
@@ -3302,7 +3302,7 @@
     [
      "<b>Notes aux États-Unis</b>",
      "Aucune pour l’instant (sortie en septembre 2026)",
-     "14 384, ★4,8 (sortie en janvier 2026)"
+     "15 412, ★4,7 (sortie en janvier 2026)"
     ]
    ],
    "qa": [
@@ -3323,7 +3323,7 @@
      "Avec minulo, vous vous connectez sur la page officielle de chaque réseau : minulo ne voit jamais votre mot de passe. SocialLite indique conserver vos informations sur votre appareil, sans les envoyer à ses serveurs."
     ]
    ],
-   "disclose": "Cette page est écrite par le développeur de minulo. Tout ce qui concerne SocialLite vient uniquement de sa description sur l’App Store, de ses notes de version, de son nombre de notes et de ses prix affichés aux États-Unis au {date}. Le nombre de notes de SocialLite a été revérifié le 2026-10-22.",
+   "disclose": "Cette page est écrite par le développeur de minulo. Tout ce qui concerne SocialLite vient uniquement de sa description sur l’App Store, de ses notes de version, de son nombre de notes et de ses prix affichés aux États-Unis au {date}. Le nombre de notes de SocialLite a été revérifié le 2026-10-26.",
    "srcTitle": "Sources",
    "more": "Alternatives à SocialLite",
    "moreHref": "sociallite-alternatives.html",
@@ -3392,7 +3392,7 @@
     [
      "<b>Bewertungen in den USA</b>",
      "Noch keine (erschienen im September 2026)",
-     "14.384, ★4,8 (erschienen im Januar 2026)"
+     "15.412, ★4,7 (erschienen im Januar 2026)"
     ]
    ],
    "qa": [
@@ -3413,7 +3413,7 @@
      "Bei minulo meldest du dich auf der offiziellen Seite des jeweiligen Dienstes an, minulo sieht dein Passwort also nie. SocialLite gibt an, deine Daten auf deinem Gerät zu speichern und nicht an seine Server zu senden."
     ]
    ],
-   "disclose": "Diese Seite stammt vom Entwickler von minulo. Alle Angaben zu SocialLite stammen ausschließlich aus seiner App-Store-Beschreibung, den Versionshinweisen sowie der Zahl der Bewertungen und den Preisen im US-App-Store, Stand {date}. Die Zahl der Bewertungen von SocialLite wurde am 2026-10-22 erneut geprüft.",
+   "disclose": "Diese Seite stammt vom Entwickler von minulo. Alle Angaben zu SocialLite stammen ausschließlich aus seiner App-Store-Beschreibung, den Versionshinweisen sowie der Zahl der Bewertungen und den Preisen im US-App-Store, Stand {date}. Die Zahl der Bewertungen von SocialLite wurde am 2026-10-26 erneut geprüft.",
    "srcTitle": "Quellen",
    "more": "Wir haben alle 1.405 Bewertungen von SocialLite gelesen",
    "moreHref": "reels-blocker-app-reviews.html",
@@ -3482,7 +3482,7 @@
     [
      "<b>Valoraciones en EE. UU.</b>",
      "Aún ninguna (publicada en septiembre de 2026)",
-     "14.384, ★4,8 (publicada en enero de 2026)"
+     "15.412, ★4,7 (publicada en enero de 2026)"
     ]
    ],
    "qa": [
@@ -3503,7 +3503,7 @@
      "Con minulo inicias sesión en la página oficial de cada servicio, así que minulo nunca ve tu contraseña. SocialLite indica que guarda tu información en tu dispositivo y no la envía a sus servidores."
     ]
    ],
-   "disclose": "Esta página la ha escrito el desarrollador de minulo. Todo lo relativo a SocialLite procede solo de su descripción en la App Store, sus notas de versión, su número de valoraciones y los precios que muestra en la App Store de EE. UU. a fecha de {date}. El número de valoraciones de SocialLite se volvió a comprobar el 2026-10-22.",
+   "disclose": "Esta página la ha escrito el desarrollador de minulo. Todo lo relativo a SocialLite procede solo de su descripción en la App Store, sus notas de versión, su número de valoraciones y los precios que muestra en la App Store de EE. UU. a fecha de {date}. El número de valoraciones de SocialLite se volvió a comprobar el 2026-10-26.",
    "srcTitle": "Fuentes",
    "more": "Cómo elegir una app para ocultar los Reels",
    "moreHref": "compare.html",
@@ -3572,7 +3572,7 @@
     [
      "<b>Valutazioni negli USA</b>",
      "Ancora nessuna (uscita a settembre 2026)",
-     "14.384, ★4,8 (uscita a gennaio 2026)"
+     "15.412, ★4,7 (uscita a gennaio 2026)"
     ]
    ],
    "qa": [
@@ -3593,7 +3593,7 @@
      "Con minulo accedi dalla pagina ufficiale di ogni servizio, quindi minulo non vede mai la tua password. SocialLite dichiara di salvare i tuoi dati sul dispositivo e di non inviarli ai propri server."
     ]
    ],
-   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. Tutto ciò che riguarda SocialLite proviene solo dalla sua descrizione sull’App Store, dalle note di versione, dal numero di valutazioni e dai prezzi mostrati sull’App Store USA al {date}. Il numero di valutazioni di SocialLite è stato ricontrollato il 2026-10-22.",
+   "disclose": "Questa pagina è scritta dallo sviluppatore di minulo. Tutto ciò che riguarda SocialLite proviene solo dalla sua descrizione sull’App Store, dalle note di versione, dal numero di valutazioni e dai prezzi mostrati sull’App Store USA al {date}. Il numero di valutazioni di SocialLite è stato ricontrollato il 2026-10-26.",
    "srcTitle": "Fonti",
    "more": "Abbiamo letto tutte le 1.405 recensioni di SocialLite",
    "moreHref": "reels-blocker-app-reviews.html",
@@ -3662,7 +3662,7 @@
     [
      "<b>Avaliações nos EUA</b>",
      "Nenhuma ainda (lançado em setembro de 2026)",
-     "14.384, ★4,8 (lançado em janeiro de 2026)"
+     "15.412, ★4,7 (lançado em janeiro de 2026)"
     ]
    ],
    "qa": [
@@ -3683,7 +3683,7 @@
      "No minulo, você faz login na página oficial de cada serviço, então o minulo nunca vê sua senha. O SocialLite diz que guarda suas informações no aparelho e não as envia para os servidores dele."
     ]
    ],
-   "disclose": "Esta página foi escrita pelo desenvolvedor do minulo. Tudo sobre o SocialLite vem apenas da descrição na App Store, das notas de versão, do número de avaliações e dos preços exibidos na App Store dos EUA em {date}. O número de avaliações do SocialLite foi verificado novamente em 2026-10-22.",
+   "disclose": "Esta página foi escrita pelo desenvolvedor do minulo. Tudo sobre o SocialLite vem apenas da descrição na App Store, das notas de versão, do número de avaliações e dos preços exibidos na App Store dos EUA em {date}. O número de avaliações do SocialLite foi verificado novamente em 2026-10-26.",
    "srcTitle": "Fontes",
    "more": "Como escolher um app para ocultar os Reels",
    "moreHref": "compare.html",
