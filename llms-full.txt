@@ -1376,6 +1376,48 @@ A: Yes. Use a Screen Time Downtime schedule or App Limit for your working hours,
 
 
 
+## How to Open Instagram Straight to Your DMs (iPhone, 2026) (en, checked 2026-10-26)
+Source: https://minulo.app/en/instagram-open-straight-to-dms.html · ja https://minulo.app/instagram-open-straight-to-dms.html · ko https://minulo.app/ko/instagram-open-straight-to-dms.html
+
+minulo opens Instagram with only your DMs and the notifications tab, and its Every tab but DMs setting is free. Instagram itself has no setting that makes the app open on your messages. Before you install anything, iPhone has three shortcuts worth trying: tap a message notification, which takes you to that chat; touch and hold the Instagram icon and see whether its Quick Actions menu has a messages item; and turn off Instagram's other notifications so the alerts you tap are DMs. They get you into a chat faster, but once you are in the app, the feed and Reels are still one tap away.
+
+Q: Can I make Instagram open straight to my DMs?
+A: Yes, with minulo: its free Every tab but DMs setting opens Instagram with only DMs and the notifications tab left. Instagram itself has no such setting. Tapping a message notification also opens that chat, but the feed and Reels are still in the app.
+
+Q: Does holding the Instagram icon open DMs?
+A: Only if a messages item appears in its Quick Actions menu. Instagram decides what is in that menu, and we couldn't confirm the current list: a 2015 report mentions a direct message shortcut, and a later guide lists Switch Accounts, Camera, New Post and View Activity.
+
+Q: Can I reply to an Instagram DM from the Lock Screen?
+A: Apple says touching and holding a notification shows quick actions if the app offers them. We couldn't confirm that Instagram offers a reply there. If it doesn't, tapping the notification opens the chat.
+
+Q: How do I get Instagram notifications only for DMs?
+A: Go to Profile › Menu › Notifications, and below Pause push notifications turn off each kind that isn't about messages. Leave messages on and keep Instagram allowed in iPhone Settings › Notifications.
+
+Q: Will I still get DM notifications if I use minulo?
+A: Yes, from the official Instagram app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own.
+
+
+## Hide the YouTube Shorts Shelf: How Long It Lasts (iPhone) (en, checked 2026-10-26)
+Source: https://minulo.app/en/youtube-hide-shorts-shelf.html · ja https://minulo.app/youtube-hide-shorts-shelf.html · ko https://minulo.app/ko/youtube-hide-shorts-shelf.html
+
+minulo hides the Shorts shelf and the Shorts tab for free, and they stay hidden until you change the setting. In YouTube itself, the X on the Shorts shelf only hides it for a while: news reports quote YouTube's message as "Shelf will be hidden for 30 days", but YouTube's help doesn't describe the X or give a period. The X isn't on every screen either. SlashGear (2023) found it on the mobile website and the desktop site, and tbreak (April 2026) on the mobile website only; both say it isn't in the app. GeekChamp (May 2026) says it appears in the app for some accounts. Hiding the shelf leaves Shorts in the Shorts tab, search, Subscriptions, channel pages and notifications. What YouTube's help does describe for the app is Show fewer Shorts and the Shorts feed limit.
+
+Q: How do I hide the Shorts shelf on YouTube for good?
+A: minulo hides the Shorts shelf and the Shorts tab for free and keeps them hidden until you change the setting, though only inside minulo. We found no permanent switch in YouTube's help; the X on the shelf hides it for 30 days, according to news reports.
+
+Q: How long does the X hide YouTube Shorts?
+A: 30 days, according to SlashGear and GeekChamp, which quote the message YouTube shows. YouTube's help doesn't mention the X or a period, so treat the 30 days as reported, not official.
+
+Q: Why is there no X on my Shorts shelf?
+A: Reports say it isn't on every account. tbreak (April 2026) found it only on the mobile website, and GeekChamp (May 2026) says it depends on account, region and app version. In the app, tap More at the top of the Shorts grid and choose Show fewer Shorts.
+
+Q: Where do Shorts still show after I hide the shelf?
+A: In the Shorts tab, search results, Subscriptions, channel pages and notifications, which YouTube's help lists as places viewers find Shorts. The X only affects the shelf on Home.
+
+Q: Does the Shorts feed limit remove the Shorts shelf?
+A: YouTube's help describes it as a limit for the Shorts feed: at 0 minutes a limit screen appears, and adults can dismiss it. It doesn't say the shelf on Home goes away.
+
+
 ## Sleep mode, deactivating Instagram, time spent, message-only notifications, Stories only, TikTok and YouTube time limits, Reddit recommendations, Threads Following, Pinterest videos, exams, attention span, phone addiction self-check, one-week detox, scrolling at work: Spanish, Portuguese, German and French pages (2026-10-24)
 Pages: https://minulo.app/es/instagram-quiet-mode.html · https://minulo.app/pt/instagram-quiet-mode.html · https://minulo.app/de/instagram-quiet-mode.html · https://minulo.app/fr/instagram-quiet-mode.html · https://minulo.app/es/deactivate-instagram-temporarily.html · https://minulo.app/pt/deactivate-instagram-temporarily.html · https://minulo.app/de/deactivate-instagram-temporarily.html · https://minulo.app/fr/deactivate-instagram-temporarily.html · https://minulo.app/es/instagram-time-spent.html · https://minulo.app/pt/instagram-time-spent.html · https://minulo.app/de/instagram-time-spent.html · https://minulo.app/fr/instagram-time-spent.html · https://minulo.app/es/instagram-notifications-messages-only.html · https://minulo.app/pt/instagram-notifications-messages-only.html · https://minulo.app/de/instagram-notifications-messages-only.html · https://minulo.app/fr/instagram-notifications-messages-only.html · https://minulo.app/es/instagram-stories-only.html · https://minulo.app/pt/instagram-stories-only.html · https://minulo.app/de/instagram-stories-only.html · https://minulo.app/fr/instagram-stories-only.html · https://minulo.app/es/tiktok-screen-time-limit.html · https://minulo.app/pt/tiktok-screen-time-limit.html · https://minulo.app/de/tiktok-screen-time-limit.html · https://minulo.app/fr/tiktok-screen-time-limit.html · https://minulo.app/es/youtube-time-limit.html · https://minulo.app/pt/youtube-time-limit.html · https://minulo.app/de/youtube-time-limit.html · https://minulo.app/fr/youtube-time-limit.html · https://minulo.app/es/turn-off-reddit-recommendations.html · https://minulo.app/pt/turn-off-reddit-recommendations.html · https://minulo.app/de/turn-off-reddit-recommendations.html · https://minulo.app/fr/turn-off-reddit-recommendations.html · https://minulo.app/es/threads-following-feed-only.html · https://minulo.app/pt/threads-following-feed-only.html · https://minulo.app/de/threads-following-feed-only.html · https://minulo.app/fr/threads-following-feed-only.html · https://minulo.app/es/turn-off-pinterest-videos.html · https://minulo.app/pt/turn-off-pinterest-videos.html · https://minulo.app/de/turn-off-pinterest-videos.html · https://minulo.app/fr/turn-off-pinterest-videos.html · https://minulo.app/es/quit-social-media-before-exams.html · https://minulo.app/pt/quit-social-media-before-exams.html · https://minulo.app/de/quit-social-media-before-exams.html · https://minulo.app/fr/quit-social-media-before-exams.html · https://minulo.app/es/short-videos-attention-span.html · https://minulo.app/pt/short-videos-attention-span.html · https://minulo.app/de/short-videos-attention-span.html · https://minulo.app/fr/short-videos-attention-span.html · https://minulo.app/es/phone-addiction-self-check.html · https://minulo.app/pt/phone-addiction-self-check.html · https://minulo.app/de/phone-addiction-self-check.html · https://minulo.app/fr/phone-addiction-self-check.html · https://minulo.app/es/digital-detox-one-week.html · https://minulo.app/pt/digital-detox-one-week.html · https://minulo.app/de/digital-detox-one-week.html · https://minulo.app/fr/digital-detox-one-week.html · https://minulo.app/es/stop-scrolling-at-work.html · https://minulo.app/pt/stop-scrolling-at-work.html · https://minulo.app/de/stop-scrolling-at-work.html · https://minulo.app/fr/stop-scrolling-at-work.html
 Same facts as the English pages above, in each language.
