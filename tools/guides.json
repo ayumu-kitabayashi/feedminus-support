@@ -28,7 +28,7 @@
   ],
   "en": {
    "title": "How to block YouTube Shorts on iPhone and keep normal videos (every method, 2026)",
-   "lede": "The quickest built-in way is YouTube's Shorts feed limit: in the YouTube app, go to You → Settings → Time management → Shorts feed limit and choose 0. For adults the limit can be dismissed, and Shorts can still appear in Subscriptions and shared links. If you want a stop you can't just tap away, an app such as minulo hides Shorts in its own view and can lock the official YouTube app with Screen Time.",
+   "lede": "There are two ways: set YouTube's Shorts feed limit to 0, which adults can dismiss, or open YouTube in minulo, where Shorts are hidden for free and normal videos stay. For the built-in way, in the YouTube app go to You → Settings → Time management → Shorts feed limit and choose 0. For adults the limit can be dismissed, and Shorts can still appear in Subscriptions and shared links. If you want a stop you can't just tap away, minulo can also lock the official YouTube app with Screen Time, free for up to 2 hours per block.",
    "cols": [
     "Method",
     "What it does",
@@ -69,7 +69,7 @@
    "qa": [
     [
      "Can I turn off YouTube Shorts completely?",
-     "Not completely inside the YouTube app for an adult account. Setting the Shorts feed limit to 0 removes the Shorts feed after the limit, but adults can dismiss it, and Shorts still appear in Subscriptions and in links people send you."
+     "Not completely inside the YouTube app for an adult account, but YouTube opened in minulo has Shorts hidden for free and normal videos still play. In the YouTube app, setting the Shorts feed limit to 0 removes the Shorts feed after the limit, but adults can dismiss it, and Shorts still appear in Subscriptions and in links people send you."
     ],
     [
      "Does the Shorts limit work on youtube.com in Safari?",
@@ -89,7 +89,7 @@
   },
   "ja": {
    "title": "iPhoneでYouTubeのショートだけを非表示にして、ふつうの動画は見る方法（すべての方法・2026年）",
-   "lede": "いちばん手早い公式の方法は、YouTube アプリの、ショートのフィードの上限です。YouTube アプリの設定にある、ショートのフィードの上限を 0 にします（英語の画面では You → Settings → Time management → Shorts feed limit。日本語の表示名は確かめていません）。ただし大人のアカウントでは上限の表示を閉じられ、登録チャンネルや送られてきたリンクからはショートが出ます。閉じるだけでは戻れない止め方がほしいなら、minulo のようなアプリで、ショートを非表示にした画面で見て、公式の YouTube アプリはスクリーンタイムで止める方法があります。",
+   "lede": "方法は2つです。YouTube のショートのフィードの上限を 0 にする方法（大人は閉じられます）と、minulo の中で YouTube を開く方法です。minulo ならショートは無料で消え、ふつうの動画はそのまま見られます。公式の方法では、YouTube アプリの設定にある、ショートのフィードの上限を 0 にします（英語の画面では You → Settings → Time management → Shorts feed limit。日本語の表示名は確かめていません）。ただし大人のアカウントでは上限の表示を閉じられ、登録チャンネルや送られてきたリンクからはショートが出ます。閉じるだけでは戻れない止め方がほしいなら、minulo で公式の YouTube アプリをスクリーンタイムで止めることもできます（無料のブロックは1回2時間まで）。",
    "cols": [
     "方法",
     "できること",
@@ -130,7 +130,7 @@
    "qa": [
     [
      "YouTubeのショートを完全に非表示にできる？",
-     "大人のアカウントでは、YouTube アプリの中だけで完全には非表示にできません。ショートのフィードの上限を 0 にすると、上限のあとはショートのフィードが止まりますが、大人は上限の表示を閉じられます。登録チャンネルや送られてきたリンクのショートも残ります。"
+     "大人のアカウントでは、YouTube アプリの中だけで完全には非表示にできません。minulo の中で YouTube を開けば、ショートは無料で消え、ふつうの動画は見られます。YouTube アプリでショートのフィードの上限を 0 にすると、上限のあとはショートのフィードが止まりますが、大人は上限の表示を閉じられます。登録チャンネルや送られてきたリンクのショートも残ります。"
     ],
     [
      "ショートの上限は、Safari の youtube.com でも効く？",
@@ -152,7 +152,7 @@
   },
   "de": {
    "title": "YouTube Shorts auf dem iPhone blockieren und normale Videos behalten (alle Methoden, 2026)",
-   "lede": "Der schnellste eingebaute Weg ist das Shorts-Feed-Limit (auf dem englischen Bildschirm „Shorts feed limit“): In der YouTube-App unter Du → Einstellungen → Zeitmanagement das Limit auf 0 setzen (englisch: You → Settings → Time management → Shorts feed limit). Erwachsene können das Limit allerdings wegklicken, und Shorts erscheinen weiterhin unter Abos und in geteilten Links. Wenn du eine Sperre willst, die sich nicht einfach wegtippen lässt, blendet eine App wie minulo Shorts in ihrer eigenen Ansicht aus und kann die offizielle YouTube-App mit Bildschirmzeit sperren.",
+   "lede": "Es gibt zwei Wege: das Shorts-Feed-Limit von YouTube auf 0 setzen, das Erwachsene wegklicken können, oder YouTube in minulo öffnen, wo Shorts kostenlos ausgeblendet sind und normale Videos bleiben. Für den eingebauten Weg (auf dem englischen Bildschirm „Shorts feed limit“) in der YouTube-App unter Du → Einstellungen → Zeitmanagement das Limit auf 0 setzen (englisch: You → Settings → Time management → Shorts feed limit). Erwachsene können das Limit allerdings wegklicken, und Shorts erscheinen weiterhin unter Abos und in geteilten Links. Wenn du eine Sperre willst, die sich nicht einfach wegtippen lässt, kann minulo auch die offizielle YouTube-App mit Bildschirmzeit sperren (kostenlos bis zu 2 Stunden pro Sperre).",
    "cols": [
     "Methode",
     "Was sie bewirkt",
@@ -193,7 +193,7 @@
    "qa": [
     [
      "Kann ich YouTube Shorts komplett ausschalten?",
-     "Bei einem Erwachsenenkonto nicht komplett innerhalb der YouTube-App. Wenn du das Shorts-Feed-Limit auf 0 setzt, verschwindet der Shorts-Feed nach dem Limit, aber Erwachsene können es wegklicken, und Shorts erscheinen weiterhin unter Abos und in Links, die dir jemand schickt."
+     "Bei einem Erwachsenenkonto nicht komplett innerhalb der YouTube-App, aber wenn du YouTube in minulo öffnest, sind Shorts kostenlos ausgeblendet und normale Videos laufen weiter. Wenn du in der YouTube-App das Shorts-Feed-Limit auf 0 setzt, verschwindet der Shorts-Feed nach dem Limit, aber Erwachsene können es wegklicken, und Shorts erscheinen weiterhin unter Abos und in Links, die dir jemand schickt."
     ],
     [
      "Funktioniert das Shorts-Limit auch auf youtube.com in Safari?",
@@ -213,7 +213,7 @@
   },
   "fr": {
    "title": "Bloquer les Shorts YouTube sur iPhone et garder les vidéos normales (toutes les méthodes, 2026)",
-   "lede": "La méthode intégrée la plus rapide est la limite du fil Shorts (Shorts feed limit à l'écran en anglais) : dans l'app YouTube, allez dans Vous → Paramètres → Gestion du temps et réglez la limite sur 0 (en anglais : You → Settings → Time management → Shorts feed limit). Un adulte peut toutefois ignorer la limite, et les Shorts apparaissent encore dans Abonnements et dans les liens partagés. Pour un blocage qu'on ne peut pas simplement fermer, une app comme minulo masque les Shorts dans sa propre vue et peut verrouiller l'app YouTube officielle avec Temps d'écran.",
+   "lede": "Il y a deux façons : régler la limite du fil Shorts de YouTube sur 0, qu'un adulte peut ignorer, ou ouvrir YouTube dans minulo, où les Shorts sont masqués gratuitement et les vidéos normales restent. Pour la méthode intégrée (Shorts feed limit à l'écran en anglais), dans l'app YouTube, allez dans Vous → Paramètres → Gestion du temps et réglez la limite sur 0 (en anglais : You → Settings → Time management → Shorts feed limit). Un adulte peut toutefois ignorer la limite, et les Shorts apparaissent encore dans Abonnements et dans les liens partagés. Pour un blocage qu'on ne peut pas simplement fermer, minulo peut aussi verrouiller l'app YouTube officielle avec Temps d'écran (gratuit jusqu'à 2 heures par blocage).",
    "cols": [
     "Méthode",
     "Ce qu'elle fait",
@@ -254,7 +254,7 @@
    "qa": [
     [
      "Peut-on désactiver complètement les Shorts YouTube ?",
-     "Pas complètement dans l'app YouTube avec un compte adulte. Régler la limite du fil Shorts sur 0 retire le fil Shorts après la limite, mais un adulte peut l'ignorer, et les Shorts apparaissent encore dans Abonnements et dans les liens qu'on vous envoie."
+     "Pas complètement dans l'app YouTube avec un compte adulte, mais si vous ouvrez YouTube dans minulo, les Shorts sont masqués gratuitement et les vidéos normales restent. Dans l'app YouTube, régler la limite du fil Shorts sur 0 retire le fil Shorts après la limite, mais un adulte peut l'ignorer, et les Shorts apparaissent encore dans Abonnements et dans les liens qu'on vous envoie."
     ],
     [
      "La limite des Shorts fonctionne-t-elle sur youtube.com dans Safari ?",
@@ -274,7 +274,7 @@
   },
   "es": {
    "title": "Cómo bloquear los Shorts de YouTube en iPhone y seguir viendo vídeos normales (todos los métodos, 2026)",
-   "lede": "La forma integrada más rápida es el límite del feed de Shorts (Shorts feed limit en la pantalla en inglés): en la app de YouTube, ve a Tú → Configuración → Gestión del tiempo y elige 0 (en inglés: You → Settings → Time management → Shorts feed limit). Los adultos pueden descartar el límite, y los Shorts siguen apareciendo en Suscripciones y en enlaces compartidos. Si quieres un freno que no se quite con un toque, una app como minulo oculta los Shorts en su propia vista y puede bloquear la app oficial de YouTube con Tiempo de uso.",
+   "lede": "Hay dos formas: poner a 0 el límite del feed de Shorts de YouTube, que los adultos pueden descartar, o abrir YouTube en minulo, donde los Shorts se ocultan gratis y los videos normales siguen ahí. Para la forma integrada (Shorts feed limit en la pantalla en inglés), en la app de YouTube ve a Tú → Configuración → Gestión del tiempo y elige 0 (en inglés: You → Settings → Time management → Shorts feed limit). Los adultos pueden descartar el límite, y los Shorts siguen apareciendo en Suscripciones y en enlaces compartidos. Si quieres un freno que no se quite con un toque, minulo también puede bloquear la app oficial de YouTube con Tiempo de uso (el bloqueo gratis dura hasta 2 horas cada vez).",
    "cols": [
     "Método",
     "Qué hace",
@@ -315,7 +315,7 @@
    "qa": [
     [
      "¿Se pueden desactivar por completo los Shorts de YouTube?",
-     "No por completo dentro de la app de YouTube con una cuenta de adulto. Poner el límite del feed de Shorts en 0 quita el feed de Shorts tras el límite, pero los adultos pueden descartarlo, y los Shorts siguen apareciendo en Suscripciones y en los enlaces que te envían."
+     "No por completo dentro de la app de YouTube con una cuenta de adulto, pero si abres YouTube en minulo, los Shorts se ocultan gratis y los videos normales se siguen viendo. En la app de YouTube, poner el límite del feed de Shorts en 0 quita el feed de Shorts tras el límite, pero los adultos pueden descartarlo, y los Shorts siguen apareciendo en Suscripciones y en los enlaces que te envían."
     ],
     [
      "¿El límite de Shorts funciona en youtube.com en Safari?",
@@ -335,7 +335,7 @@
   },
   "pt": {
    "title": "Como bloquear o YouTube Shorts no iPhone e continuar vendo vídeos normais (todos os métodos, 2026)",
-   "lede": "O jeito nativo mais rápido é o limite do feed de Shorts (Shorts feed limit na tela em inglês): no app do YouTube, vá em Você → Configurações → Gerenciamento de tempo e escolha 0 (em inglês: You → Settings → Time management → Shorts feed limit). Adultos podem dispensar o limite, e os Shorts ainda aparecem em Inscrições e em links compartilhados. Se você quer um bloqueio que não se desfaz com um toque, um app como o minulo oculta os Shorts na própria visualização e pode bloquear o app oficial do YouTube com o Tempo de Uso.",
+   "lede": "Há dois jeitos: zerar o limite do feed de Shorts do YouTube, que adultos podem dispensar, ou abrir o YouTube no minulo, onde os Shorts ficam ocultos de graça e os vídeos normais continuam. Para o jeito nativo (Shorts feed limit na tela em inglês), no app do YouTube vá em Você → Configurações → Gerenciamento de tempo e escolha 0 (em inglês: You → Settings → Time management → Shorts feed limit). Adultos podem dispensar o limite, e os Shorts ainda aparecem em Inscrições e em links compartilhados. Se você quer um bloqueio que não se desfaz com um toque, o minulo também pode bloquear o app oficial do YouTube com o Tempo de Uso (o bloqueio grátis vai até 2 horas por vez).",
    "cols": [
     "Método",
     "O que faz",
@@ -376,7 +376,7 @@
    "qa": [
     [
      "Dá para desativar o YouTube Shorts completamente?",
-     "Não completamente dentro do app do YouTube em uma conta de adulto. Colocar o limite do feed de Shorts em 0 remove o feed de Shorts depois do limite, mas adultos podem dispensá-lo, e os Shorts ainda aparecem em Inscrições e nos links que mandam para você."
+     "Não completamente dentro do app do YouTube em uma conta de adulto, mas abrindo o YouTube no minulo os Shorts ficam ocultos de graça e os vídeos normais continuam. No app do YouTube, colocar o limite do feed de Shorts em 0 remove o feed de Shorts depois do limite, mas adultos podem dispensá-lo, e os Shorts ainda aparecem em Inscrições e nos links que mandam para você."
     ],
     [
      "O limite de Shorts funciona no youtube.com pelo Safari?",
@@ -396,7 +396,7 @@
   },
   "it": {
    "title": "Come bloccare gli Shorts di YouTube su iPhone e continuare a guardare i video normali (tutti i metodi, 2026)",
-   "lede": "Il modo integrato più rapido è il limite del feed Shorts (Shorts feed limit nella schermata in inglese): nell'app YouTube vai su Tu → Impostazioni → Gestione del tempo e scegli 0 (in inglese: You → Settings → Time management → Shorts feed limit). Gli adulti però possono ignorare il limite, e gli Shorts compaiono ancora in Iscrizioni e nei link condivisi. Se vuoi un blocco che non si chiude con un tocco, un'app come minulo nasconde gli Shorts nella propria vista e può bloccare l'app ufficiale di YouTube con Tempo di utilizzo.",
+   "lede": "Ci sono due modi: impostare a 0 il limite del feed Shorts di YouTube, che gli adulti possono ignorare, oppure aprire YouTube in minulo, dove gli Shorts sono nascosti gratis e i video normali restano. Per il modo integrato (Shorts feed limit nella schermata in inglese), nell'app YouTube vai su Tu → Impostazioni → Gestione del tempo e scegli 0 (in inglese: You → Settings → Time management → Shorts feed limit). Gli adulti però possono ignorare il limite, e gli Shorts compaiono ancora in Iscrizioni e nei link condivisi. Se vuoi un blocco che non si chiude con un tocco, minulo può anche bloccare l'app ufficiale di YouTube con Tempo di utilizzo (gratis fino a 2 ore per blocco).",
    "cols": [
     "Metodo",
     "Cosa fa",
@@ -437,7 +437,7 @@
    "qa": [
     [
      "Si possono disattivare del tutto gli Shorts di YouTube?",
-     "Non del tutto dentro l'app YouTube con un account adulto. Impostare il limite del feed Shorts a 0 toglie il feed Shorts dopo il limite, ma gli adulti possono ignorarlo, e gli Shorts compaiono ancora in Iscrizioni e nei link che ti mandano."
+     "Non del tutto dentro l'app YouTube con un account adulto, ma se apri YouTube in minulo gli Shorts sono nascosti gratis e i video normali restano. Nell'app YouTube, impostare il limite del feed Shorts a 0 toglie il feed Shorts dopo il limite, ma gli adulti possono ignorarlo, e gli Shorts compaiono ancora in Iscrizioni e nei link che ti mandano."
     ],
     [
      "Il limite degli Shorts funziona su youtube.com in Safari?",
@@ -460,7 +460,7 @@
    "title": "Cara memblokir YouTube Shorts di iPhone tanpa kehilangan video biasa (semua cara, 2026)",
    "desc": "Blokir YouTube Shorts di iPhone: atur batas feed Shorts ke 0 di setelan YouTube, atau sembunyikan Shorts dengan app seperti minulo dan kunci app resminya.",
    "date": "2026-10-22",
-   "lede": "Cara bawaan yang paling cepat adalah batas feed Shorts dari YouTube: di aplikasi YouTube, buka Anda → Setelan → Pengelolaan waktu → Batas feed Shorts, lalu pilih 0. Untuk akun dewasa, batas ini bisa ditutup begitu saja, dan Shorts tetap bisa muncul di Subscription dan di link yang dibagikan. Kalau ingin penghenti yang tidak bisa dilewati dengan sekali ketuk, aplikasi seperti minulo menyembunyikan Shorts di tampilannya sendiri dan bisa mengunci aplikasi YouTube resmi dengan Durasi Layar.",
+   "lede": "Ada dua cara: atur batas feed Shorts YouTube ke 0, yang bisa ditutup oleh akun dewasa, atau buka YouTube di minulo, tempat Shorts disembunyikan secara gratis dan video biasa tetap ada. Untuk cara bawaan, di aplikasi YouTube buka Anda → Setelan → Pengelolaan waktu → Batas feed Shorts, lalu pilih 0. Untuk akun dewasa, batas ini bisa ditutup begitu saja, dan Shorts tetap bisa muncul di Subscription dan di link yang dibagikan. Kalau ingin penghenti yang tidak bisa dilewati dengan sekali ketuk, minulo juga bisa mengunci aplikasi YouTube resmi dengan Durasi Layar (gratis sampai 2 jam per blokir).",
    "disclose": "Halaman ini ditulis oleh pengembang minulo. Fakta tentang setelan YouTube dan iPhone diambil dari sumber di bawah dan dicek pada {date}. Nama menu bisa berubah mengikuti pembaruan aplikasi dan iOS (di tampilan bahasa Inggris: You → Settings → Time management → Shorts feed limit).",
    "cols": [
     "Cara",
@@ -502,7 +502,7 @@
    "qa": [
     [
      "Apakah YouTube Shorts bisa dimatikan sepenuhnya?",
-     "Untuk akun dewasa, tidak sepenuhnya di dalam aplikasi YouTube. Mengatur batas feed Shorts ke 0 menghilangkan feed Shorts setelah batas tercapai, tetapi orang dewasa bisa menutupnya, dan Shorts tetap muncul di Subscription dan di link yang dikirim orang lain."
+     "Untuk akun dewasa, tidak sepenuhnya di dalam aplikasi YouTube, tetapi kalau YouTube dibuka di minulo, Shorts disembunyikan secara gratis dan video biasa tetap bisa ditonton. Di aplikasi YouTube, mengatur batas feed Shorts ke 0 menghilangkan feed Shorts setelah batas tercapai, tetapi orang dewasa bisa menutupnya, dan Shorts tetap muncul di Subscription dan di link yang dikirim orang lain."
     ],
     [
      "Apakah batas Shorts berlaku di youtube.com lewat Safari?",
@@ -560,7 +560,7 @@
    "title": "วิธีบล็อก YouTube Shorts บน iPhone แต่ยังดูวิดีโอปกติได้ (ทุกวิธี ปี 2026)",
    "desc": "บล็อก YouTube Shorts บน iPhone: ตั้งขีดจำกัดฟีด Shorts เป็น 0 ในการตั้งค่า YouTube หรือซ่อน Shorts ด้วยแอปอย่าง minulo แล้วล็อกแอปทางการไว้",
    "date": "2026-10-22",
-   "lede": "วิธีในตัวที่เร็วที่สุดคือขีดจำกัดฟีด Shorts ของ YouTube: ในแอป YouTube ไปที่ คุณ → การตั้งค่า → การจัดการเวลา → ขีดจำกัดฟีด Shorts แล้วเลือก 0 แต่บัญชีผู้ใหญ่กดปิดขีดจำกัดนี้ได้ และ Shorts ยังโผล่ในหน้าการติดตามและในลิงก์ที่มีคนแชร์มา ถ้าอยากได้ตัวหยุดที่แตะทีเดียวแล้วข้ามไม่ได้ แอปอย่าง minulo จะซ่อน Shorts ในหน้าจอของตัวเอง และล็อกแอป YouTube ทางการด้วยเวลาหน้าจอได้",
+   "lede": "มีสองวิธี คือตั้งขีดจำกัดฟีด Shorts ของ YouTube เป็น 0 ซึ่งบัญชีผู้ใหญ่กดปิดได้ หรือเปิด YouTube ใน minulo ซึ่งซ่อน Shorts ให้ฟรีและยังดูวิดีโอปกติได้ สำหรับวิธีในตัว ในแอป YouTube ไปที่ คุณ → การตั้งค่า → การจัดการเวลา → ขีดจำกัดฟีด Shorts แล้วเลือก 0 แต่บัญชีผู้ใหญ่กดปิดขีดจำกัดนี้ได้ และ Shorts ยังโผล่ในหน้าการติดตามและในลิงก์ที่มีคนแชร์มา ถ้าอยากได้ตัวหยุดที่แตะทีเดียวแล้วข้ามไม่ได้ minulo ยังล็อกแอป YouTube ทางการด้วยเวลาหน้าจอได้ด้วย (ฟรีครั้งละไม่เกิน 2 ชั่วโมง)",
    "disclose": "หน้านี้เขียนโดยผู้พัฒนา minulo ข้อมูลเกี่ยวกับการตั้งค่า YouTube และ iPhone มาจากแหล่งที่มาด้านล่าง ตรวจสอบเมื่อ {date} ชื่อเมนูอาจเปลี่ยนเมื่อแอปและ iOS อัปเดต (ในภาษาอังกฤษคือ You → Settings → Time management → Shorts feed limit)",
    "cols": [
     "วิธี",
@@ -602,7 +602,7 @@
    "qa": [
     [
      "ปิด YouTube Shorts ได้หมดเลยไหม",
-     "สำหรับบัญชีผู้ใหญ่ ปิดในแอป YouTube ได้ไม่หมด การตั้งขีดจำกัดฟีด Shorts เป็น 0 ทำให้ฟีด Shorts หายไปเมื่อถึงขีดจำกัด แต่ผู้ใหญ่กดปิดได้ และ Shorts ยังโผล่ในหน้าการติดตามและในลิงก์ที่คนอื่นส่งมา"
+     "สำหรับบัญชีผู้ใหญ่ ปิดในแอป YouTube ได้ไม่หมด แต่ถ้าเปิด YouTube ใน minulo จะซ่อน Shorts ได้ฟรีและยังดูวิดีโอปกติได้ ส่วนในแอป YouTube การตั้งขีดจำกัดฟีด Shorts เป็น 0 ทำให้ฟีด Shorts หายไปเมื่อถึงขีดจำกัด แต่ผู้ใหญ่กดปิดได้ และ Shorts ยังโผล่ในหน้าการติดตามและในลิงก์ที่คนอื่นส่งมา"
     ],
     [
      "ขีดจำกัด Shorts ใช้กับ youtube.com ใน Safari ได้ไหม",
@@ -660,7 +660,7 @@
    "title": "Cách chặn YouTube Shorts trên iPhone mà vẫn xem video thường (mọi cách, 2026)",
    "desc": "Chặn YouTube Shorts trên iPhone: đặt giới hạn Shorts về 0 trong cài đặt YouTube, hoặc ẩn Shorts bằng ứng dụng như minulo và khóa ứng dụng chính thức.",
    "date": "2026-10-22",
-   "lede": "Cách có sẵn nhanh nhất là giới hạn nguồn cấp Shorts của YouTube: trong ứng dụng YouTube, vào Bạn → Cài đặt → Quản lý thời gian → Giới hạn nguồn cấp Shorts và chọn 0. Với tài khoản người lớn, giới hạn này có thể bỏ qua, và Shorts vẫn có thể xuất hiện trong Kênh đăng ký và trong đường liên kết được chia sẻ. Nếu muốn một điểm dừng không thể chạm một cái là bỏ qua, ứng dụng như minulo sẽ ẩn Shorts trong giao diện riêng và có thể khóa ứng dụng YouTube chính thức bằng Thời gian sử dụng.",
+   "lede": "Có hai cách: đặt giới hạn nguồn cấp Shorts của YouTube về 0, nhưng tài khoản người lớn có thể bỏ qua, hoặc mở YouTube trong minulo, nơi Shorts được ẩn miễn phí và video thường vẫn còn. Với cách có sẵn, trong ứng dụng YouTube, vào Bạn → Cài đặt → Quản lý thời gian → Giới hạn nguồn cấp Shorts và chọn 0. Với tài khoản người lớn, giới hạn này có thể bỏ qua, và Shorts vẫn có thể xuất hiện trong Kênh đăng ký và trong đường liên kết được chia sẻ. Nếu muốn một điểm dừng không thể chạm một cái là bỏ qua, minulo cũng có thể khóa ứng dụng YouTube chính thức bằng Thời gian sử dụng (miễn phí tối đa 2 giờ mỗi lần chặn).",
    "disclose": "Trang này do nhà phát triển minulo viết. Thông tin về cài đặt YouTube và iPhone lấy từ các nguồn bên dưới, kiểm tra ngày {date}. Tên menu có thể thay đổi khi ứng dụng và iOS cập nhật (giao diện tiếng Anh: You → Settings → Time management → Shorts feed limit).",
    "cols": [
     "Cách",
@@ -702,7 +702,7 @@
    "qa": [
     [
      "Có tắt hẳn YouTube Shorts được không?",
-     "Với tài khoản người lớn, không tắt hẳn được trong ứng dụng YouTube. Đặt giới hạn nguồn cấp Shorts về 0 sẽ làm nguồn cấp Shorts biến mất sau khi chạm giới hạn, nhưng người lớn có thể bỏ qua, và Shorts vẫn xuất hiện trong Kênh đăng ký và trong đường liên kết người khác gửi."
+     "Với tài khoản người lớn, không tắt hẳn được trong ứng dụng YouTube, nhưng nếu mở YouTube trong minulo thì Shorts được ẩn miễn phí và video thường vẫn xem được. Trong ứng dụng YouTube, đặt giới hạn nguồn cấp Shorts về 0 sẽ làm nguồn cấp Shorts biến mất sau khi chạm giới hạn, nhưng người lớn có thể bỏ qua, và Shorts vẫn xuất hiện trong Kênh đăng ký và trong đường liên kết người khác gửi."
     ],
     [
      "Giới hạn Shorts có áp dụng cho youtube.com trên Safari không?",
@@ -760,7 +760,7 @@
    "title": "Как заблокировать YouTube Shorts на iPhone и оставить обычные видео (все способы, 2026)",
    "desc": "Блокировка YouTube Shorts на iPhone: лимит Shorts на 0 в YouTube или приложение вроде minulo, которое скрывает Shorts и блокирует официальное приложение.",
    "date": "2026-10-22",
-   "lede": "Самый быстрый встроенный способ — лимит ленты Shorts в YouTube: в приложении YouTube откройте «Вы» → «Настройки» → «Управление временем» → «Лимит ленты Shorts» и выберите 0. Во взрослом аккаунте это ограничение можно просто закрыть, а Shorts всё равно появляются в «Подписках» и в ссылках, которыми с вами делятся. Если нужен стоп, который не снимается одним касанием, приложение вроде minulo скрывает Shorts в своём окне и может заблокировать официальное приложение YouTube через «Экранное время».",
+   "lede": "Есть два способа: поставить лимит ленты Shorts в YouTube на 0 (во взрослом аккаунте его можно закрыть) или открывать YouTube в minulo, где Shorts бесплатно скрыты, а обычные видео остаются. Для встроенного способа в приложении YouTube откройте «Вы» → «Настройки» → «Управление временем» → «Лимит ленты Shorts» и выберите 0. Во взрослом аккаунте это ограничение можно просто закрыть, а Shorts всё равно появляются в «Подписках» и в ссылках, которыми с вами делятся. Если нужен стоп, который не снимается одним касанием, minulo может ещё и заблокировать официальное приложение YouTube через «Экранное время» (бесплатно до 2 часов за одну блокировку).",
    "disclose": "Эту страницу написал разработчик minulo. Сведения о настройках YouTube и iPhone взяты из источников ниже и проверены {date}. Названия пунктов меню могут меняться с обновлениями приложений и iOS (в английском интерфейсе: You → Settings → Time management → Shorts feed limit).",
    "cols": [
     "Способ",
@@ -802,7 +802,7 @@
    "qa": [
     [
      "Можно ли полностью отключить YouTube Shorts?",
-     "Во взрослом аккаунте — не полностью, по крайней мере в самом приложении YouTube. Лимит ленты Shorts на 0 убирает ленту Shorts, когда лимит исчерпан, но взрослый может его закрыть, а Shorts всё равно появляются в «Подписках» и в ссылках, которые вам присылают."
+     "Во взрослом аккаунте — не полностью, по крайней мере в самом приложении YouTube. Но если открывать YouTube в minulo, Shorts бесплатно скрыты, а обычные видео смотреть можно. В приложении YouTube лимит ленты Shorts на 0 убирает ленту Shorts, когда лимит исчерпан, но взрослый может его закрыть, а Shorts всё равно появляются в «Подписках» и в ссылках, которые вам присылают."
     ],
     [
      "Работает ли лимит Shorts на youtube.com в Safari?",
@@ -2274,7 +2274,7 @@
   ],
   "en": {
    "title": "SocialLite alternatives: apps that hide Reels and Shorts and keep your DMs (2026)",
-   "lede": "SocialLite hides short-form video feeds, recommendations and Explore pages while keeping DMs, and it can block the official apps and send you to SocialLite. minulo, UNDOOMED, Awhile and LoomWeb work the same way: they open social networks in their own view with those parts hidden. ScrollGuard and Nope are Safari extensions instead. minulo also covers TikTok, Threads, Pinterest and LinkedIn, has a Chrome extension, and its hiding is free. SocialLite has far more ratings and adds push notifications for Instagram and Snapchat.",
+   "lede": "The closest SocialLite alternative is minulo: it also hides Reels and Shorts while keeping DMs and locks the official apps with Screen Time, covers 10 networks including TikTok, and hiding is free. SocialLite itself hides short-form video feeds, recommendations and Explore pages while keeping DMs, and it can block the official apps and send you to SocialLite. minulo, UNDOOMED, Awhile and LoomWeb work the same way: they open social networks in their own view with those parts hidden. ScrollGuard and Nope are Safari extensions instead. minulo also has a Chrome extension. SocialLite has far more ratings and adds push notifications for Instagram and Snapchat.",
    "cols": [
     "App",
     "How it works",
@@ -2284,7 +2284,7 @@
    "qa": [
     [
      "What is a good alternative to SocialLite?",
-     "It depends on what you need. For the same approach, an app that shows social networks with Reels and Shorts hidden while DMs keep working, look at minulo, UNDOOMED, Awhile and LoomWeb. minulo covers the most networks of these (10, including TikTok, Threads, Pinterest and LinkedIn) and can lock the official apps; Awhile is Instagram only. If you only browse in Safari, ScrollGuard and Nope are extensions."
+     "The closest one is minulo: like SocialLite, it hides Reels and Shorts while DMs keep working, and hiding is free. Beyond that, it depends on what you need. For the same approach, an app that shows social networks with Reels and Shorts hidden while DMs keep working, look at minulo, UNDOOMED, Awhile and LoomWeb. minulo covers the most networks of these (10, including TikTok, Threads, Pinterest and LinkedIn) and can lock the official apps; Awhile is Instagram only. If you only browse in Safari, ScrollGuard and Nope are extensions."
     ],
     [
      "How is minulo different from SocialLite?",
@@ -2348,7 +2348,7 @@
   },
   "ja": {
    "title": "SocialLite の代わりになるアプリ：リールとショートを消して DM は使える（2026年）",
-   "lede": "SocialLite は、ショート動画のフィード・おすすめ・発見ページを消して DM は残すアプリで、公式アプリを止めて SocialLite に案内することもできます。同じ仕組みのアプリには、minulo・UNDOOMED・Awhile・LoomWeb があります。どれも自前の画面で SNS を開き、その部分を消します。ScrollGuard と Nope は Safari の機能拡張です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能があり、消す機能は無料です。SocialLite は評価の数がずっと多く、Instagram と Snapchat のプッシュ通知にも対応しています。",
+   "lede": "SocialLite にいちばん近い代わりは minulo です。リールとショートを消して DM は残し、公式アプリはスクリーンタイムで止められ、TikTok を含む10のSNSに対応し、消す機能は無料です。SocialLite は、ショート動画のフィード・おすすめ・発見ページを消して DM は残すアプリで、公式アプリを止めて SocialLite に案内することもできます。同じ仕組みのアプリには、minulo・UNDOOMED・Awhile・LoomWeb があります。どれも自前の画面で SNS を開き、その部分を消します。ScrollGuard と Nope は Safari の機能拡張です。minulo には Chrome の拡張機能もあります。SocialLite は評価の数がずっと多く、Instagram と Snapchat のプッシュ通知にも対応しています。",
    "cols": [
     "アプリ",
     "仕組み",
@@ -2358,7 +2358,7 @@
    "qa": [
     [
      "SocialLite の代わりになるアプリは？",
-     "何を求めるかで変わります。SocialLite と同じく、リールとショートを消した画面で SNS を開き、DM は使えるアプリなら、minulo・UNDOOMED・Awhile・LoomWeb があります。この中で対応SNSがいちばん多いのは minulo（TikTok・Threads・Pinterest・LinkedIn を含む10）で、公式アプリを止めることもできます。Awhile は Instagram だけです。Safari だけで見るなら、機能拡張の ScrollGuard と Nope があります。"
+     "いちばん近いのは minulo です。SocialLite と同じくリールとショートを消して DM は使え、消す機能は無料です。ほかは何を求めるかで変わります。SocialLite と同じく、リールとショートを消した画面で SNS を開き、DM は使えるアプリなら、minulo・UNDOOMED・Awhile・LoomWeb があります。この中で対応SNSがいちばん多いのは minulo（TikTok・Threads・Pinterest・LinkedIn を含む10）で、公式アプリを止めることもできます。Awhile は Instagram だけです。Safari だけで見るなら、機能拡張の ScrollGuard と Nope があります。"
     ],
     [
      "minulo と SocialLite の違いは？",
@@ -2422,7 +2422,7 @@
   },
   "fr": {
    "title": "Alternatives à SocialLite : applis qui masquent les Reels et les Shorts et gardent vos DM (2026)",
-   "lede": "SocialLite masque les fils de vidéos courtes, les recommandations et Explorer tout en gardant les messages privés, et peut bloquer les applis officielles pour vous renvoyer vers SocialLite. minulo, UNDOOMED, Awhile et LoomWeb fonctionnent de la même façon : ils ouvrent les réseaux dans leur propre vue en masquant ces parties. ScrollGuard et Nope sont plutôt des extensions Safari. minulo couvre aussi TikTok, Threads, Pinterest et LinkedIn, propose une extension Chrome, et le masquage est gratuit. SocialLite a beaucoup plus de notes et ajoute des notifications push pour Instagram et Snapchat.",
+   "lede": "L'alternative la plus proche de SocialLite est minulo, qui masque aussi les Reels et les Shorts en gardant les messages, verrouille les applis officielles avec Temps d'écran et couvre 10 réseaux dont TikTok ; le masquage est gratuit. SocialLite masque les fils de vidéos courtes, les recommandations et Explorer tout en gardant les messages privés, et peut bloquer les applis officielles pour vous renvoyer vers SocialLite. minulo, UNDOOMED, Awhile et LoomWeb fonctionnent de la même façon : ils ouvrent les réseaux dans leur propre vue en masquant ces parties. ScrollGuard et Nope sont plutôt des extensions Safari. minulo propose aussi une extension Chrome. SocialLite a beaucoup plus de notes et ajoute des notifications push pour Instagram et Snapchat.",
    "cols": [
     "Appli",
     "Fonctionnement",
@@ -2432,7 +2432,7 @@
    "qa": [
     [
      "Quelle est une bonne alternative à SocialLite ?",
-     "Tout dépend de ce qu'il vous faut. Pour la même approche, une appli qui affiche les réseaux sans Reels ni Shorts tout en gardant les DM, regardez minulo, UNDOOMED, Awhile et LoomWeb. minulo couvre le plus de réseaux parmi elles (10, dont TikTok, Threads, Pinterest et LinkedIn) et peut verrouiller les applis officielles ; Awhile ne gère qu'Instagram. Si vous naviguez seulement dans Safari, ScrollGuard et Nope sont des extensions."
+     "La plus proche est minulo, qui masque comme SocialLite les Reels et les Shorts tout en gardant les DM, gratuitement. Pour le reste, tout dépend de ce qu'il vous faut. Pour la même approche, une appli qui affiche les réseaux sans Reels ni Shorts tout en gardant les DM, regardez minulo, UNDOOMED, Awhile et LoomWeb. minulo couvre le plus de réseaux parmi elles (10, dont TikTok, Threads, Pinterest et LinkedIn) et peut verrouiller les applis officielles ; Awhile ne gère qu'Instagram. Si vous naviguez seulement dans Safari, ScrollGuard et Nope sont des extensions."
     ],
     [
      "Quelle différence entre minulo et SocialLite ?",
@@ -3696,9 +3696,9 @@
   "id": {
    "seo": "Cara Pakai Instagram Hanya untuk DM di iPhone (2026)",
    "title": "Cara pakai Instagram hanya untuk DM di iPhone (2026): grup chat tetap ada, Reels hilang",
-   "desc": "Instagram tidak punya mode khusus pesan. Cara tetap memakai DM dan grup chat Instagram di iPhone sambil menyembunyikan Reels, Jelajahi, dan feed.",
+   "desc": "Instagram tidak punya mode khusus pesan. Cara tetap memakai DM dan grup chat di iPhone sambil menyembunyikan Reels, Jelajahi, dan feed dengan minulo, gratis.",
    "date": "2026-10-22",
-   "lede": "Instagram tidak punya mode \"hanya pesan\" bawaan, dan Durasi Layar di iPhone hanya bisa membatasi seluruh aplikasi, DM juga ikut. Kalau Anda memakai Instagram untuk grup chat dan DM tetapi ingin tab Reels, Jelajahi, dan feed hilang, cara yang praktis di iPhone adalah aplikasi yang membukakan Instagram untuk Anda dengan semuanya disembunyikan kecuali DM.",
+   "lede": "Instagram tidak punya mode \"hanya pesan\" bawaan, tetapi setelan gratis \"Semua tab kecuali DM\" di minulo membuka Instagram dengan hanya DM yang tersisa. Durasi Layar di iPhone hanya bisa membatasi seluruh aplikasi, DM juga ikut. Kalau Anda memakai Instagram untuk grup chat dan DM tetapi ingin tab Reels, Jelajahi, dan feed hilang, cara yang praktis di iPhone adalah aplikasi yang membukakan Instagram untuk Anda dengan semuanya disembunyikan kecuali DM.",
    "disclose": "Halaman ini ditulis oleh pengembang minulo. Nama menu bisa berubah mengikuti pembaruan aplikasi dan iOS.",
    "cols": [
     "Pilihan",
@@ -3740,7 +3740,7 @@
    "qa": [
     [
      "Apakah Instagram punya mode khusus pesan?",
-     "Sejauh yang kami temukan, tidak. Instagram memungkinkan orang dewasa beralih ke feed Mengikuti atau memasang pengingat waktu harian, tetapi tab Reels dan Jelajahi tetap ada. Aplikasi seperti minulo menambahkan tampilan khusus DM di atas situs web Instagram."
+     "Sejauh yang kami temukan, tidak, tetapi setelan gratis \"Semua tab kecuali DM\" di minulo membuka Instagram dengan hanya DM yang tersisa. Instagram sendiri memungkinkan orang dewasa beralih ke feed Mengikuti atau memasang pengingat waktu harian, tetapi tab Reels dan Jelajahi tetap ada. Aplikasi seperti minulo menambahkan tampilan khusus DM di atas situs web Instagram."
     ],
     [
      "Apakah grup chat saya tetap bisa dipakai?",
@@ -3770,9 +3770,9 @@
   "th": {
    "seo": "วิธีใช้ Instagram แค่ DM บน iPhone (2026)",
    "title": "วิธีใช้ Instagram แค่ DM บน iPhone (2026): แชทกลุ่มยังอยู่ Reels หายไป",
-   "desc": "Instagram ไม่มีโหมดข้อความอย่างเดียว นี่คือวิธีใช้ DM และแชทกลุ่มของ Instagram บน iPhone ต่อไป โดยซ่อน Reels สำรวจ และฟีด ทีละขั้นตอน",
+   "desc": "Instagram ไม่มีโหมดข้อความอย่างเดียว วิธีใช้ DM และแชทกลุ่มบน iPhone ต่อไป โดยซ่อน Reels สำรวจ และฟีดด้วย minulo ฟรี",
    "date": "2026-10-22",
-   "lede": "Instagram ไม่มีโหมด \"ข้อความอย่างเดียว\" ในตัว และเวลาหน้าจอของ iPhone ก็จำกัดได้แค่ทั้งแอป ซึ่งรวม DM ด้วย ถ้าคุณเก็บ Instagram ไว้คุยในแชทกลุ่มและ DM แต่อยากให้แท็บ Reels สำรวจ และฟีดหายไป วิธีที่ใช้ได้จริงบน iPhone คือใช้แอปที่เปิด Instagram ให้คุณโดยซ่อนทุกอย่างยกเว้น DM",
+   "lede": "Instagram ไม่มีโหมด \"ข้อความอย่างเดียว\" ในตัว แต่การตั้งค่า \"ทุกแท็บยกเว้น DM\" ของ minulo ซึ่งใช้ได้ฟรี จะเปิด Instagram ให้เหลือแค่ DM ส่วนเวลาหน้าจอของ iPhone ก็จำกัดได้แค่ทั้งแอป ซึ่งรวม DM ด้วย ถ้าคุณเก็บ Instagram ไว้คุยในแชทกลุ่มและ DM แต่อยากให้แท็บ Reels สำรวจ และฟีดหายไป วิธีที่ใช้ได้จริงบน iPhone คือใช้แอปที่เปิด Instagram ให้คุณโดยซ่อนทุกอย่างยกเว้น DM",
    "disclose": "หน้านี้เขียนโดยผู้พัฒนา minulo ชื่อเมนูอาจเปลี่ยนเมื่อแอปและ iOS อัปเดต",
    "cols": [
     "ตัวเลือก",
@@ -3814,7 +3814,7 @@
    "qa": [
     [
      "Instagram มีโหมดข้อความอย่างเดียวไหม",
-     "เท่าที่เราหาได้ ไม่มี Instagram ให้ผู้ใหญ่สลับไปดูฟีดกำลังติดตาม หรือตั้งการเตือนเวลาต่อวันได้ แต่แท็บ Reels และสำรวจยังอยู่ แอปอย่าง minulo เพิ่มมุมมองแบบมีแค่ DM ไว้บนเว็บไซต์ของ Instagram"
+     "เท่าที่เราหาได้ ไม่มี แต่การตั้งค่า \"ทุกแท็บยกเว้น DM\" ของ minulo ซึ่งใช้ได้ฟรี จะเปิด Instagram ให้เหลือแค่ DM ส่วนตัว Instagram เองให้ผู้ใหญ่สลับไปดูฟีดกำลังติดตาม หรือตั้งการเตือนเวลาต่อวันได้ แต่แท็บ Reels และสำรวจยังอยู่ แอปอย่าง minulo เพิ่มมุมมองแบบมีแค่ DM ไว้บนเว็บไซต์ของ Instagram"
     ],
     [
      "แชทกลุ่มยังใช้ได้ไหม",
@@ -3844,9 +3844,9 @@
   "vi": {
    "seo": "Cách dùng Instagram chỉ để nhắn tin trên iPhone (2026)",
    "title": "Cách dùng Instagram chỉ để nhắn tin trên iPhone (2026): giữ nhóm chat, bỏ Reels",
-   "desc": "Instagram không có chế độ chỉ nhắn tin. Cách giữ tin nhắn và nhóm chat Instagram trên iPhone trong khi ẩn Reels, Khám phá và bảng tin, từng bước một.",
+   "desc": "Instagram không có chế độ chỉ nhắn tin. Cách giữ tin nhắn và nhóm chat trên iPhone trong khi ẩn Reels, Khám phá và bảng tin bằng minulo, miễn phí.",
    "date": "2026-10-22",
-   "lede": "Instagram không có sẵn chế độ \"chỉ nhắn tin\", còn Thời gian sử dụng trên iPhone chỉ giới hạn được cả ứng dụng, kể cả tin nhắn. Nếu bạn giữ Instagram để nhắn tin và nhóm chat nhưng muốn bỏ thẻ Reels, Khám phá và bảng tin, cách thực tế trên iPhone là dùng một ứng dụng mở Instagram cho bạn và ẩn mọi thứ trừ tin nhắn.",
+   "lede": "Instagram không có sẵn chế độ \"chỉ nhắn tin\", nhưng cài đặt miễn phí \"Mọi tab trừ tin nhắn\" của minulo mở Instagram chỉ còn tin nhắn. Còn Thời gian sử dụng trên iPhone chỉ giới hạn được cả ứng dụng, kể cả tin nhắn. Nếu bạn giữ Instagram để nhắn tin và nhóm chat nhưng muốn bỏ thẻ Reels, Khám phá và bảng tin, cách thực tế trên iPhone là dùng một ứng dụng mở Instagram cho bạn và ẩn mọi thứ trừ tin nhắn.",
    "disclose": "Trang này do nhà phát triển minulo viết. Tên menu có thể thay đổi khi ứng dụng và iOS cập nhật.",
    "cols": [
     "Lựa chọn",
@@ -3888,7 +3888,7 @@
    "qa": [
     [
      "Instagram có chế độ chỉ nhắn tin không?",
-     "Theo những gì chúng tôi tìm được thì không. Instagram cho người lớn chuyển sang bảng tin Đang theo dõi hoặc đặt lời nhắc thời gian hằng ngày, nhưng thẻ Reels và Khám phá vẫn còn. Các ứng dụng như minulo thêm một chế độ xem chỉ có tin nhắn trên trang web của Instagram."
+     "Theo những gì chúng tôi tìm được thì không, nhưng cài đặt miễn phí \"Mọi tab trừ tin nhắn\" của minulo mở Instagram chỉ còn tin nhắn. Bản thân Instagram cho người lớn chuyển sang bảng tin Đang theo dõi hoặc đặt lời nhắc thời gian hằng ngày, nhưng thẻ Reels và Khám phá vẫn còn. Các ứng dụng như minulo thêm một chế độ xem chỉ có tin nhắn trên trang web của Instagram."
     ],
     [
      "Nhóm chat của tôi có còn dùng được không?",
@@ -3918,9 +3918,9 @@
   "ru": {
    "seo": "Instagram только для Директа на iPhone (2026)",
    "title": "Как пользоваться Instagram только ради Директа на iPhone (2026): групповые чаты остаются, Reels исчезают",
-   "desc": "В Instagram нет режима «только сообщения». Как на iPhone оставить Директ и групповые чаты Instagram и скрыть Reels, «Интересное» и ленту — по шагам.",
+   "desc": "В Instagram нет режима «только сообщения». Как на iPhone оставить Директ и групповые чаты и бесплатно скрыть Reels, «Интересное» и ленту в minulo.",
    "date": "2026-10-22",
-   "lede": "Встроенного режима «только сообщения» в Instagram нет, а «Экранное время» на iPhone ограничивает только всё приложение целиком, вместе с Директом. Если Instagram нужен вам ради групповых чатов и личных сообщений, а вкладку Reels, «Интересное» и ленту хочется убрать, на iPhone практичнее всего приложение, которое открывает Instagram и скрывает всё, кроме Директа.",
+   "lede": "Встроенного режима «только сообщения» в Instagram нет, но бесплатная настройка «Все вкладки, кроме Директа» в minulo открывает Instagram, где остаётся только Директ. А «Экранное время» на iPhone ограничивает только всё приложение целиком, вместе с Директом. Если Instagram нужен вам ради групповых чатов и личных сообщений, а вкладку Reels, «Интересное» и ленту хочется убрать, на iPhone практичнее всего приложение, которое открывает Instagram и скрывает всё, кроме Директа.",
    "disclose": "Эту страницу написал разработчик minulo. Названия пунктов меню могут меняться с обновлениями приложений и iOS.",
    "cols": [
     "Вариант",
@@ -3962,7 +3962,7 @@
    "qa": [
     [
      "Есть ли в Instagram режим «только сообщения»?",
-     "Нам такой найти не удалось. Взрослые могут переключиться на ленту «Подписки» или поставить ежедневное напоминание о времени, но вкладка Reels и «Интересное» остаются. Приложения вроде minulo добавляют режим «только Директ» поверх сайта Instagram."
+     "Нам такой найти не удалось, но бесплатная настройка «Все вкладки, кроме Директа» в minulo открывает Instagram, где остаётся только Директ. В самом Instagram взрослые могут переключиться на ленту «Подписки» или поставить ежедневное напоминание о времени, но вкладка Reels и «Интересное» остаются. Приложения вроде minulo добавляют режим «только Директ» поверх сайта Instagram."
     ],
     [
      "Групповые чаты останутся?",
@@ -3992,9 +3992,9 @@
   "zh-Hant": {
    "seo": "IG 只用私訊的方法（iPhone・2026）",
    "title": "iPhone 上 IG 只用私訊的方法（2026）：群組聊天照用，Reels 不見",
-   "desc": "Instagram 沒有「只用私訊」模式。教你在 iPhone 上保留 IG 私訊和群組聊天，同時隱藏 Reels、探索和動態，一步一步設定。",
+   "desc": "Instagram 沒有「只用私訊」模式。用 minulo 免費的「私訊以外的分頁」，在 iPhone 上保留 IG 私訊和群組聊天，隱藏 Reels、探索和動態。",
    "date": "2026-10-22",
-   "lede": "Instagram 沒有內建的「只用私訊」模式，而 iPhone 的「螢幕使用時間」只能限制整個 App，連私訊也一起擋掉。如果你留著 IG 是為了群組聊天和私訊，卻想讓 Reels 分頁、探索和動態消失，在 iPhone 上最實際的做法，是用一個幫你打開 IG、並把私訊以外全部隱藏的 App。",
+   "lede": "Instagram 沒有內建的「只用私訊」模式，但開啟 minulo 免費的「私訊以外的分頁」，就能打開只剩私訊的 IG。而 iPhone 的「螢幕使用時間」只能限制整個 App，連私訊也一起擋掉。如果你留著 IG 是為了群組聊天和私訊，卻想讓 Reels 分頁、探索和動態消失，在 iPhone 上最實際的做法，是用一個幫你打開 IG、並把私訊以外全部隱藏的 App。",
    "disclose": "本頁由 minulo 的開發者撰寫。選單名稱可能會隨 App 和 iOS 更新而改變。",
    "cols": [
     "做法",
@@ -4036,7 +4036,7 @@
    "qa": [
     [
      "Instagram 有只用私訊的模式嗎？",
-     "就我們查到的範圍，沒有。Instagram 讓成人切換到「追蹤中」動態，或設定每日使用時間提醒，但 Reels 分頁和探索還是在。minulo 這類 App 是在 Instagram 網站之上，加上一個只有私訊的畫面。"
+     "就我們查到的範圍，沒有。不過開啟 minulo 免費的「私訊以外的分頁」，就能打開只剩私訊的 IG。Instagram 本身讓成人切換到「追蹤中」動態，或設定每日使用時間提醒，但 Reels 分頁和探索還是在。minulo 這類 App 是在 Instagram 網站之上，加上一個只有私訊的畫面。"
     ],
     [
      "群組聊天還能用嗎？",
