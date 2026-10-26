@@ -1418,6 +1418,30 @@ Q: Does the Shorts feed limit remove the Shorts shelf?
 A: YouTube's help describes it as a limit for the Shorts feed: at 0 minutes a limit screen appears, and adults can dismiss it. It doesn't say the shelf on Home goes away.
 
 
+## Can You Turn Off YouTube Shorts? What Works on iPhone (en, checked 2026-10-26)
+Source: https://minulo.app/en/can-you-turn-off-youtube-shorts.html · ja https://minulo.app/can-you-turn-off-youtube-shorts.html · ko https://minulo.app/ko/can-you-turn-off-youtube-shorts.html
+
+There's no switch that turns YouTube Shorts off, but minulo hides them for free while normal videos, search and subscriptions keep working. Inside YouTube you can only limit or lower Shorts: set the Shorts feed limit to 0 (adults can dismiss it), choose Show fewer Shorts, tap the X on the Shorts shelf on Home where it appears (news reports say it comes back after 30 days), or turn off watch history to empty Home recommendations. iPhone Screen Time blocks the whole YouTube app, not just Shorts. On a supervised teen account, a parent can set the Shorts timer to zero.
+
+Q: Can you turn off YouTube Shorts?
+A: There's no switch in YouTube, but minulo hides Shorts for free while normal videos, search and subscriptions keep working, though only inside minulo. In the YouTube app, the closest options are the Shorts feed limit at 0, which adults can dismiss, and Show fewer Shorts, which lowers Shorts rather than removing them.
+
+Q: Does setting the Shorts feed limit to 0 turn Shorts off?
+A: No. At 0 minutes a reminder appears in the Shorts feed, and YouTube's help says you can dismiss or ignore it. It doesn't say Shorts leave Home, search or channel pages.
+
+Q: Can I turn off Shorts but keep normal YouTube videos?
+A: Not in the YouTube app itself. Open YouTube in minulo with Hide the Shorts shelf and Hide the Shorts tab turned on; normal videos, subscriptions, Watch later and search keep working. Hiding is free.
+
+Q: Does turning off watch history turn off Shorts?
+A: Not as far as YouTube's help says. It removes Home recommendations when you have no relevant recent history, but it doesn't say the Shorts tab or Shorts in search go away, and your history stops being saved.
+
+Q: Can any app turn off Shorts in the official YouTube app?
+A: No. On iPhone no app can change what another app shows. minulo can lock the official YouTube app with Screen Time and send you to its Shorts-free view instead. While it is locked, YouTube notifications don't arrive.
+
+Q: Can parents turn off Shorts for a teen?
+A: On a supervised teen account, a parent can set the Shorts timer to zero. YouTube announced the Shorts timer for teens in January 2026 and said in April 2026 that the zero option is now live for all parents.
+
+
 ## Open Instagram straight to your DMs, and how long the X on the YouTube Shorts shelf lasts: 10 more languages (2026-10-26)
 - es: Abrir Instagram directamente en los mensajes en el iPhone: la notificación de un mensaje, el menú de acciones rápidas del icono, las notificaciones solo de mensajes y el ajuste gratis Todas las pestañas menos los mensajes de minulo: https://minulo.app/es/instagram-open-straight-to-dms.html
 - es: Qué hace la X de la sección de Shorts de YouTube: unos 30 días según los artículos (no está en la ayuda de YouTube), dónde siguen los Shorts y minulo, que oculta la sección gratis hasta que cambies el ajuste: https://minulo.app/es/youtube-hide-shorts-shelf.html
