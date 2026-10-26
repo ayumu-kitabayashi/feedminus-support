@@ -1442,6 +1442,54 @@ Q: Can parents turn off Shorts for a teen?
 A: On a supervised teen account, a parent can set the Shorts timer to zero. YouTube announced the Shorts timer for teens in January 2026 and said in April 2026 that the zero option is now live for all parents.
 
 
+## Use Instagram in Safari Instead of the App? DMs and Reels (en, checked 2026-10-26)
+Source: https://minulo.app/en/instagram-in-safari-instead-of-app.html · ja https://minulo.app/instagram-in-safari-instead-of-app.html · ko https://minulo.app/ko/instagram-in-safari-instead-of-app.html
+
+If you want Instagram for DMs without Reels, minulo opens Instagram's website with the Reels and Explore tabs and suggested posts hidden for free, and its Every tab but DMs setting leaves only your messages. Deleting the app and using instagram.com in Safari is not the same thing: the website has Reels and Explore too, so they only get a little less handy. To hide them in Safari itself you need a Safari extension such as Nope (free) or ScrollGuard. Without the app you also stop getting Instagram's notifications, and the app is back in a minute if you download it again.
+
+Q: Can I use Instagram for DMs without the app?
+A: Yes. minulo opens Instagram's website with Reels, Explore and suggested posts hidden for free, and Every tab but DMs leaves only your messages, though only inside minulo. In plain Safari, instagram.com has DMs too, but the Reels and Explore tabs are still there.
+
+Q: Does instagram.com have Reels?
+A: Yes. The website has the Reels and Explore tabs too, which is why apps that open the website, such as minulo, have switches to hide them. In Safari, an extension such as Nope can hide them.
+
+Q: Does deleting the Instagram app delete my account?
+A: No. Apple's guide says deleting an app removes it and its data from your iPhone. Your Instagram account and DMs stay, and you can log in again on the website or after downloading the app again.
+
+Q: Will I get DM notifications without the Instagram app?
+A: Not from the app, because Instagram's notifications come from the official app. Apple says some websites ask for permission to send notifications; we couldn't confirm whether instagram.com does this on iPhone.
+
+Q: Is there a free Safari extension that hides Instagram Reels?
+A: Yes. Nope is free with no subscriptions, in-app purchases or ads, per its App Store page, and hides Reels, Explore and Stories on instagram.com in Safari. It works only in Safari.
+
+Q: Is minulo the same as using Instagram in Safari?
+A: It uses the same website, so DMs, posting photos and comments work, and voice messages and calls aren't available. The difference is that minulo hides Reels, Explore and suggested posts, and it can lock the official app so you don't have to delete it.
+
+
+## YouTube in Safari Without Shorts on iPhone: What Works (en, checked 2026-10-26)
+Source: https://minulo.app/en/youtube-in-safari-without-shorts.html · ja https://minulo.app/youtube-in-safari-without-shorts.html · ko https://minulo.app/ko/youtube-in-safari-without-shorts.html
+
+minulo opens YouTube's website with the Shorts shelf and Shorts tab hidden for free, so you can leave the YouTube app and keep normal videos, search and subscriptions. Plain Safari doesn't remove Shorts: youtube.com shows them too, and YouTube's help gives the Shorts feed limit steps for the app only. To hide Shorts in Safari itself you need a Safari extension such as Nope, which is free. Deleting the YouTube app only removes the app, and it is back in a minute if you download it again.
+
+Q: Can you watch YouTube in Safari without Shorts on iPhone?
+A: Yes, with help: minulo opens YouTube's website with the Shorts shelf and Shorts tab hidden for free while normal videos, search and subscriptions keep working, though only inside minulo. In plain Safari, Shorts stay unless you add an extension such as Nope.
+
+Q: Does the Shorts feed limit work in Safari?
+A: YouTube's help gives the steps for the YouTube app only and doesn't say whether the limit applies on the website. At 0 minutes, adults can dismiss the reminder anyway.
+
+Q: Is there a free Safari extension that hides YouTube Shorts?
+A: Yes. Nope is free with no subscriptions, in-app purchases or ads, per its App Store page, and hides Shorts in the sidebar, the Home shelf, the search chip and channel pages on youtube.com. It works only in Safari.
+
+Q: Should I delete the YouTube app to stop watching Shorts?
+A: Deleting removes the app and its data from your iPhone, but youtube.com still shows Shorts in Safari and the app is back in a minute. Locking the app instead keeps it installed: minulo does this with Screen Time, free for up to 2 hours per block.
+
+Q: Does Request Desktop Site remove YouTube Shorts?
+A: We couldn't confirm that in YouTube Help. On a computer, YouTube Home has a Shorts shelf too, and the help only describes marking it Not interested, which is feedback with no period.
+
+Q: Can minulo hide Shorts in the official YouTube app?
+A: No. On iPhone no app can change what another app shows. minulo hides Shorts in its own view of YouTube and can lock the official app with Screen Time. While it is locked, YouTube notifications don't arrive.
+
+
 ## Open Instagram straight to your DMs, and how long the X on the YouTube Shorts shelf lasts: 10 more languages (2026-10-26)
 - es: Abrir Instagram directamente en los mensajes en el iPhone: la notificación de un mensaje, el menú de acciones rápidas del icono, las notificaciones solo de mensajes y el ajuste gratis Todas las pestañas menos los mensajes de minulo: https://minulo.app/es/instagram-open-straight-to-dms.html
 - es: Qué hace la X de la sección de Shorts de YouTube: unos 30 días según los artículos (no está en la ayuda de YouTube), dónde siguen los Shorts y minulo, que oculta la sección gratis hasta que cambies el ajuste: https://minulo.app/es/youtube-hide-shorts-shelf.html
