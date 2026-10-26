@@ -1377,7 +1377,7 @@ A: Yes. Use a Screen Time Downtime schedule or App Limit for your working hours,
 
 
 ## How to Open Instagram Straight to Your DMs (iPhone, 2026) (en, checked 2026-10-26)
-Source: https://minulo.app/en/instagram-open-straight-to-dms.html · ja https://minulo.app/instagram-open-straight-to-dms.html · ko https://minulo.app/ko/instagram-open-straight-to-dms.html
+Source: https://minulo.app/en/instagram-open-straight-to-dms.html · ja https://minulo.app/instagram-open-straight-to-dms.html · ko https://minulo.app/ko/instagram-open-straight-to-dms.html · es https://minulo.app/es/instagram-open-straight-to-dms.html · pt https://minulo.app/pt/instagram-open-straight-to-dms.html · de https://minulo.app/de/instagram-open-straight-to-dms.html · fr https://minulo.app/fr/instagram-open-straight-to-dms.html · it https://minulo.app/it/instagram-open-straight-to-dms.html · id https://minulo.app/id/instagram-open-straight-to-dms.html · th https://minulo.app/th/instagram-open-straight-to-dms.html · vi https://minulo.app/vi/instagram-open-straight-to-dms.html · ru https://minulo.app/ru/instagram-open-straight-to-dms.html · zh-Hant https://minulo.app/zh-Hant/instagram-open-straight-to-dms.html
 
 minulo opens Instagram with only your DMs and the notifications tab, and its Every tab but DMs setting is free. Instagram itself has no setting that makes the app open on your messages. Before you install anything, iPhone has three shortcuts worth trying: tap a message notification, which takes you to that chat; touch and hold the Instagram icon and see whether its Quick Actions menu has a messages item; and turn off Instagram's other notifications so the alerts you tap are DMs. They get you into a chat faster, but once you are in the app, the feed and Reels are still one tap away.
 
@@ -1398,7 +1398,7 @@ A: Yes, from the official Instagram app, as long as minulo isn't locking it. Whi
 
 
 ## Hide the YouTube Shorts Shelf: How Long It Lasts (iPhone) (en, checked 2026-10-26)
-Source: https://minulo.app/en/youtube-hide-shorts-shelf.html · ja https://minulo.app/youtube-hide-shorts-shelf.html · ko https://minulo.app/ko/youtube-hide-shorts-shelf.html
+Source: https://minulo.app/en/youtube-hide-shorts-shelf.html · ja https://minulo.app/youtube-hide-shorts-shelf.html · ko https://minulo.app/ko/youtube-hide-shorts-shelf.html · es https://minulo.app/es/youtube-hide-shorts-shelf.html · pt https://minulo.app/pt/youtube-hide-shorts-shelf.html · de https://minulo.app/de/youtube-hide-shorts-shelf.html · fr https://minulo.app/fr/youtube-hide-shorts-shelf.html · it https://minulo.app/it/youtube-hide-shorts-shelf.html · id https://minulo.app/id/youtube-hide-shorts-shelf.html · th https://minulo.app/th/youtube-hide-shorts-shelf.html · vi https://minulo.app/vi/youtube-hide-shorts-shelf.html · ru https://minulo.app/ru/youtube-hide-shorts-shelf.html · zh-Hant https://minulo.app/zh-Hant/youtube-hide-shorts-shelf.html
 
 minulo hides the Shorts shelf and the Shorts tab for free, and they stay hidden until you change the setting. In YouTube itself, the X on the Shorts shelf only hides it for a while: news reports quote YouTube's message as "Shelf will be hidden for 30 days", but YouTube's help doesn't describe the X or give a period. The X isn't on every screen either. SlashGear (2023) found it on the mobile website and the desktop site, and tbreak (April 2026) on the mobile website only; both say it isn't in the app. GeekChamp (May 2026) says it appears in the app for some accounts. Hiding the shelf leaves Shorts in the Shorts tab, search, Subscriptions, channel pages and notifications. What YouTube's help does describe for the app is Show fewer Shorts and the Shorts feed limit.
 
@@ -1416,6 +1416,29 @@ A: In the Shorts tab, search results, Subscriptions, channel pages and notificat
 
 Q: Does the Shorts feed limit remove the Shorts shelf?
 A: YouTube's help describes it as a limit for the Shorts feed: at 0 minutes a limit screen appears, and adults can dismiss it. It doesn't say the shelf on Home goes away.
+
+
+## Open Instagram straight to your DMs, and how long the X on the YouTube Shorts shelf lasts: 10 more languages (2026-10-26)
+- es: Abrir Instagram directamente en los mensajes en el iPhone: la notificación de un mensaje, el menú de acciones rápidas del icono, las notificaciones solo de mensajes y el ajuste gratis Todas las pestañas menos los mensajes de minulo: https://minulo.app/es/instagram-open-straight-to-dms.html
+- es: Qué hace la X de la sección de Shorts de YouTube: unos 30 días según los artículos (no está en la ayuda de YouTube), dónde siguen los Shorts y minulo, que oculta la sección gratis hasta que cambies el ajuste: https://minulo.app/es/youtube-hide-shorts-shelf.html
+- pt: Abrir o Instagram direto nas DMs no iPhone: notificações de mensagem, o menu de ações rápidas do ícone, notificações só de mensagens e o ajuste grátis Todas as abas menos mensagens do minulo: https://minulo.app/pt/instagram-open-straight-to-dms.html
+- pt: O que o X da seção de Shorts do YouTube faz: cerca de 30 dias segundo reportagens (não está na Ajuda do YouTube), onde os Shorts continuam e o minulo, que oculta a seção de graça até você mudar o ajuste: https://minulo.app/pt/youtube-hide-shorts-shelf.html
+- de: Instagram auf dem iPhone direkt in den DMs öffnen: Mitteilungen zu Nachrichten, das Schnellaktionsmenü des Symbols, Benachrichtigungen nur für Nachrichten und die kostenlose Einstellung „Alle Tabs außer DMs“ von minulo: https://minulo.app/de/instagram-open-straight-to-dms.html
+- de: Was das X an der Shorts-Leiste von YouTube bewirkt: laut Presseberichten etwa 30 Tage (nicht in der YouTube-Hilfe), wo Shorts bleiben, und minulo blendet die Leiste kostenlos aus, bis du es änderst: https://minulo.app/de/youtube-hide-shorts-shelf.html
+- fr: Ouvrir Instagram directement sur vos messages sur iPhone : notifications de messages, menu d’actions rapides de l’icône, notifications pour les messages seulement, et le réglage gratuit « Tous les onglets sauf les messages » de minulo: https://minulo.app/fr/instagram-open-straight-to-dms.html
+- fr: Ce que fait le X de la section Shorts de YouTube : environ 30 jours d’après la presse (absent de l’aide YouTube), où restent les Shorts, et minulo qui masque la section gratuitement jusqu’à ce que vous changiez le réglage: https://minulo.app/fr/youtube-hide-shorts-shelf.html
+- it: Aprire Instagram direttamente sui DM su iPhone: notifiche dei messaggi, menu delle azioni rapide dell'icona, notifiche solo per i messaggi e l'impostazione gratuita Tutte le schede tranne i DM di minulo: https://minulo.app/it/instagram-open-straight-to-dms.html
+- it: Cosa fa la X sulla sezione Shorts di YouTube: circa 30 giorni secondo gli articoli (non nella Guida di YouTube), dove restano gli Shorts e minulo che nasconde la sezione gratis finché non cambi l'impostazione: https://minulo.app/it/youtube-hide-shorts-shelf.html
+- id: Membuka Instagram langsung ke DM di iPhone: notifikasi pesan, menu tindakan cepat di ikon, notifikasi khusus pesan, dan setelan gratis Semua tab kecuali DM di minulo: https://minulo.app/id/instagram-open-straight-to-dms.html
+- id: Fungsi X di rak Shorts YouTube: sekitar 30 hari menurut artikel berita (tidak ada di Bantuan YouTube), tempat Shorts tetap muncul, dan minulo yang menyembunyikan rak secara gratis sampai Anda mengubah setelannya: https://minulo.app/id/youtube-hide-shorts-shelf.html
+- th: เปิด Instagram แล้วเข้า DM ทันทีบน iPhone: การแจ้งเตือนข้อความ เมนูการทำงานด่วนของไอคอน การแจ้งเตือนแค่ข้อความ และทุกแท็บยกเว้น DM ของ minulo ที่ใช้ได้ฟรี: https://minulo.app/th/instagram-open-straight-to-dms.html
+- th: ปุ่ม X บนชั้น Shorts ของ YouTube ทำอะไร: ราว 30 วันตามข่าว (ไม่มีในความช่วยเหลือของ YouTube) Shorts ยังอยู่ที่ไหน และ minulo ซ่อนชั้นได้ฟรีจนกว่าคุณจะเปลี่ยนการตั้งค่า: https://minulo.app/th/youtube-hide-shorts-shelf.html
+- vi: Mở Instagram vào thẳng tin nhắn trên iPhone: thông báo tin nhắn, menu Tác vụ nhanh của biểu tượng, chỉ nhận thông báo tin nhắn, và Mọi tab trừ tin nhắn miễn phí của minulo: https://minulo.app/vi/instagram-open-straight-to-dms.html
+- vi: Dấu X trên kệ Shorts của YouTube làm gì: khoảng 30 ngày theo báo chí (không có trong Trợ giúp YouTube), Shorts còn ở đâu, và minulo ẩn kệ miễn phí cho đến khi bạn đổi cài đặt: https://minulo.app/vi/youtube-hide-shorts-shelf.html
+- ru: Как открывать Instagram на iPhone сразу в Директе: уведомления о сообщениях, меню быстрых действий значка, уведомления только о сообщениях и бесплатная настройка minulo «Все вкладки, кроме Директа»: https://minulo.app/ru/instagram-open-straight-to-dms.html
+- ru: Что делает крестик на полке Shorts в YouTube: около 30 дней по сообщениям СМИ (в справке YouTube этого нет), где остаются Shorts и как minulo бесплатно скрывает полку, пока вы не измените настройку: https://minulo.app/ru/youtube-hide-shorts-shelf.html
+- zh-Hant: 在 iPhone 上打開 Instagram 直接進私訊：訊息通知、圖示的快速動作選單、只收訊息通知，以及 minulo 免費的「私訊以外的分頁」: https://minulo.app/zh-Hant/instagram-open-straight-to-dms.html
+- zh-Hant: YouTube Shorts 區塊上的 X 有什麼作用：依新聞報導約 30 天（YouTube 說明沒有寫）、Shorts 還會留在哪裡，以及 minulo 免費隱藏區塊，直到你改設定為止: https://minulo.app/zh-Hant/youtube-hide-shorts-shelf.html
 
 
 ## Sleep mode, deactivating Instagram, time spent, message-only notifications, Stories only, TikTok and YouTube time limits, Reddit recommendations, Threads Following, Pinterest videos, exams, attention span, phone addiction self-check, one-week detox, scrolling at work: Spanish, Portuguese, German and French pages (2026-10-24)
