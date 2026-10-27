@@ -274,13 +274,13 @@
     "it": "Solo Instagram"
    },
    "free": {
-    "en": "Filtering is free; Premium is €2.99/month or €9.99 once.",
-    "ja": "消す機能は無料。Premium は月2.99ユーロか買い切り9.99ユーロ。",
-    "de": "Das Filtern ist kostenlos; Premium kostet €2.99/Monat oder einmalig €9.99.",
-    "fr": "Le filtrage est gratuit ; Premium coûte €2.99/mois ou €9.99 en achat unique.",
-    "es": "Filtrar es gratis; Premium cuesta €2.99/mes o €9.99 en un solo pago.",
-    "pt": "Filtrar é grátis; o Premium custa €2.99/mês ou €9.99 em pagamento único.",
-    "it": "Il filtro è gratuito; Premium costa €2.99/mese o €9.99 una tantum."
+    "en": "Filtering is free; Premium is an in-app purchase at $2.99 or $14.99 (the period isn't stated).",
+    "ja": "消す機能は無料。Premium はアプリ内課金で500円と2,000円（日本・期間の記載なし）。",
+    "de": "Das Filtern ist kostenlos; Premium ist ein In-App-Kauf für 2,99 € oder 14,99 € (ohne Angabe der Laufzeit).",
+    "fr": "Le filtrage est gratuit ; Premium est un achat intégré à 2,99 € ou 14,99 € (durée non précisée).",
+    "es": "Filtrar es gratis; Premium es una compra dentro de la app de 2,99 € o 14,99 € (sin indicar el periodo).",
+    "pt": "Filtrar é grátis; o Premium é uma compra no app de R$ 19,90 ou R$ 79,90 (o período não é informado).",
+    "it": "Il filtro è gratuito; Premium è un acquisto in-app da 2,99 € o 14,99 € (senza indicare la durata)."
    },
    "dms": {
     "en": "Yes",
@@ -455,31 +455,31 @@
    "name": "Stillfeed",
    "id": 6792934511,
    "how": {
-    "en": "Opens Instagram and YouTube in its built-in browser with Reels, Explore and Shorts removed.",
-    "ja": "Instagram と YouTube を内蔵のブラウザで開き、リール・発見・ショートを消す。",
-    "de": "Öffnet Instagram und YouTube im eingebauten Browser, ohne Reels, „Entdecken“ und Shorts.",
-    "fr": "Ouvre Instagram et YouTube dans son navigateur intégré, sans Reels, Explorer ni Shorts.",
-    "es": "Abre Instagram y YouTube en su navegador integrado, sin Reels, Explorar ni Shorts.",
-    "pt": "Abre o Instagram e o YouTube no navegador integrado, sem Reels, Explorar e Shorts.",
-    "it": "Apre Instagram e YouTube nel browser integrato, senza Reels, Esplora e Shorts."
+    "en": "Opens 7 networks in its built-in browser with Reels, Explore and Shorts removed; Instagram opens on Following.",
+    "ja": "7つのSNSを内蔵のブラウザで開き、リール・発見・ショートを消す。Instagram はフォロー中のフィードで開く。",
+    "de": "Öffnet 7 Netzwerke im eingebauten Browser, ohne Reels, „Entdecken“ und Shorts; Instagram startet mit dem Feed „Gefolgt“.",
+    "fr": "Ouvre 7 réseaux dans son navigateur intégré, sans Reels, Explorer ni Shorts ; Instagram s’ouvre sur les comptes suivis.",
+    "es": "Abre 7 redes en su navegador integrado, sin Reels, Explorar ni Shorts; Instagram se abre en Siguiendo.",
+    "pt": "Abre 7 redes no navegador integrado, sem Reels, Explorar e Shorts; o Instagram abre no feed de quem você segue.",
+    "it": "Apre 7 social nel browser integrato, senza Reels, Esplora e Shorts; Instagram si apre su Seguiti."
    },
    "nets": {
-    "en": "Instagram, YouTube",
-    "ja": "Instagram・YouTube",
-    "de": "Instagram, YouTube",
-    "fr": "Instagram, YouTube",
-    "es": "Instagram, YouTube",
-    "pt": "Instagram, YouTube",
-    "it": "Instagram, YouTube"
+    "en": "Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, TikTok",
+    "ja": "Instagram・YouTube・X・Reddit・Snapchat・LinkedIn・TikTok",
+    "de": "Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, TikTok",
+    "fr": "Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, TikTok",
+    "es": "Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, TikTok",
+    "pt": "Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, TikTok",
+    "it": "Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, TikTok"
    },
    "free": {
-    "en": "Reels and Shorts blocking is free; Pro adds a following-only feed, Stories and feed blocking, and DMs only.",
-    "ja": "リールとショートを消すのは無料。Pro でフォロー中だけのフィード・ストーリーズやフィードの非表示・DM だけの表示。",
-    "de": "Reels- und Shorts-Sperre kostenlos; Pro bietet einen Feed nur mit gefolgten Konten, Stories- und Feed-Sperre sowie „nur DMs“.",
-    "fr": "Le blocage des Reels et des Shorts est gratuit ; Pro ajoute un fil des comptes suivis, le blocage des stories et du fil, et « DM uniquement ».",
-    "es": "Bloquear Reels y Shorts es gratis; Pro añade un feed solo de cuentas seguidas, bloqueo de historias y del feed, y «solo DMs».",
-    "pt": "Bloquear Reels e Shorts é grátis; o Pro adiciona um feed só com quem você segue, bloqueio de stories e do feed e «só DMs».",
-    "it": "Il blocco di Reels e Shorts è gratuito; Pro aggiunge un feed solo degli account seguiti, il blocco di storie e feed e «solo DM»."
+    "en": "Blocking and the Following feed are free; Pro ($2.99/week, $5.99/month or $44.99/year) adds Stories and feed blocking, DMs Only and more.",
+    "ja": "消す機能とフォロー中のフィードは無料。Pro（週2.99ドル・月5.99ドル・年44.99ドル、米国）でストーリーズやフィードの非表示・DM だけの表示など。",
+    "de": "Die Sperre und der Feed „Gefolgt“ sind kostenlos; Pro (2,99 $ pro Woche, 5,99 $ im Monat oder 44,99 $ im Jahr, USA) bietet Stories- und Feed-Sperre, „DMs Only“ und mehr.",
+    "fr": "Le blocage et le fil des comptes suivis sont gratuits ; Pro (2,99 $ par semaine, 5,99 $ par mois ou 44,99 $ par an aux États-Unis) ajoute le blocage des stories et du fil, « DMs Only » et plus.",
+    "es": "El bloqueo y el feed de Siguiendo son gratis; Pro (2,99 $ a la semana, 5,99 $ al mes o 44,99 $ al año en EE. UU.) añade bloqueo de historias y del feed, «DMs Only» y más.",
+    "pt": "Bloquear e o feed de quem você segue são grátis; o Pro (US$ 2,99/semana, US$ 5,99/mês ou US$ 44,99/ano nos EUA) adiciona bloqueio de stories e do feed, «só DMs» e mais.",
+    "it": "Il blocco e il feed Seguiti sono gratuiti; Pro (2,99 $ a settimana, 5,99 $ al mese o 44,99 $ all'anno negli USA) aggiunge il blocco di storie e feed, «DMs Only» e altro."
    },
    "dms": {
     "en": "Yes",
@@ -623,13 +623,13 @@
     "it": "Instagram, YouTube, Facebook, X, TikTok, LinkedIn"
    },
    "free": {
-    "en": "Free to download.",
-    "ja": "無料でダウンロードできる。",
-    "de": "Kostenlos zum Herunterladen.",
-    "fr": "Téléchargement gratuit.",
-    "es": "Descarga gratuita.",
-    "pt": "Download grátis.",
-    "it": "Download gratuito."
+    "en": "No free version; a Pro subscription (monthly or yearly) is required.",
+    "ja": "無料版はなく、使うにはサブスク（Pro・月ごとか年ごと）が必要。",
+    "de": "Keine kostenlose Version; ein Pro-Abo (monatlich oder jährlich) ist nötig.",
+    "fr": "Pas de version gratuite ; un abonnement Pro (mensuel ou annuel) est nécessaire.",
+    "es": "No tiene versión gratis; hace falta una suscripción Pro (mensual o anual).",
+    "pt": "Não tem versão grátis; é preciso assinar o Pro (mensal ou anual).",
+    "it": "Nessuna versione gratuita; serve un abbonamento Pro (mensile o annuale)."
    },
    "dms": {
     "en": "Yes",
