@@ -89,7 +89,8 @@ T = {
 
 # 迷うもの（リールとショートの両方・一般論）は「その他」
 OVERRIDE = {'why-reels-are-addictive': 'other', 'reels-time-calculator': 'other', 'reels-shorts-data-2026': 'other',
-            'short-videos-attention-span': 'other', 'study-focus': 'other'}
+            'short-videos-attention-span': 'other', 'study-focus': 'other',
+            'block-apps-for-an-hour': 'night'}
 
 
 def cat_of(slug):

@@ -1763,6 +1763,102 @@ Q: Does minulo change the official YouTube app?
 A: No. Shorts are hidden only when you open YouTube inside minulo. The official app doesn't change.
 
 
+## How to Block Instagram for One Hour on iPhone, Free (en, checked 2026-10-27)
+Source: https://minulo.app/en/block-apps-for-an-hour.html · ja https://minulo.app/block-apps-for-an-hour.html · ko https://minulo.app/ko/block-apps-for-an-hour.html
+
+minulo can lock the official Instagram, TikTok or YouTube app with Screen Time for free, up to 2 hours per block, which covers an hour of study or a few 25-minute focus rounds. iPhone's own Screen Time has no button that blocks an app for exactly one hour: App Limits count your use across the day, and Downtime turned on by hand runs until tomorrow. A Downtime schedule can block a set window, but you choose the times in advance in Settings. minulo has no Pomodoro timer of its own, so pair it with any timer you like.
+
+Q: Can I block Instagram for just one hour on iPhone?
+A: Yes, with minulo, which locks the official Instagram app with Screen Time for free, up to 2 hours per block. iPhone's own Screen Time has no one-hour button: App Limits count daily use, and Downtime turned on by hand lasts until tomorrow.
+
+Q: Can I set Screen Time to block an app for 25 minutes?
+A: Not as a one-off timer. App Limits set a daily amount, and Downtime runs on a schedule or until tomorrow. You can schedule a Downtime window for your study time, but you set it in advance in Settings.
+
+Q: Is there a Pomodoro app that blocks Instagram?
+A: Several focus timer apps say they block apps during a session. We haven't tested them, so check their App Store pages. minulo has no timer of its own, but its free block keeps the official apps locked for up to 2 hours, which covers a few 25-minute rounds.
+
+Q: Can I still reply to messages while Instagram is blocked?
+A: With minulo, yes. Open Instagram inside minulo with Reels hidden and use your DMs there. The official app's notifications don't arrive while it is blocked.
+
+Q: What if I really need the app during the block?
+A: In minulo, tap Take a break and choose the minutes. The official app opens for that long, and the block turns back on by itself when time is up.
+
+Q: Can the block start by itself every day?
+A: With Downtime, yes, on the schedule you set. In minulo, schedules by day and time are part of minulo Pro. On the free plan you start each block yourself.
+
+
+## Use YouTube for Studying Without Shorts (iPhone) (en, checked 2026-10-27)
+Source: https://minulo.app/en/youtube-for-studying-without-shorts.html · ja https://minulo.app/youtube-for-studying-without-shorts.html · ko https://minulo.app/ko/youtube-for-studying-without-shorts.html
+
+minulo opens YouTube with Shorts, Home recommendations and comments hidden for free, while Subscriptions, Watch later and search keep working, so you can open a lecture without ending up in the Shorts feed. In the YouTube app itself, Google's help offers a Shorts feed limit that can be set to zero, an Autoplay switch, and turning off watch history if you don't want recommendations on Home. None of these removes Shorts from the official app, and the Shorts limit is a reminder that you can dismiss.
+
+Q: How do I watch YouTube for studying without seeing Shorts?
+A: Open YouTube in minulo, which hides Shorts and Home recommendations for free and keeps Subscriptions, Watch later and search. In the YouTube app, a Shorts feed limit of 0 only shows a reminder, which you can dismiss.
+
+Q: Can I turn off Shorts in the YouTube app?
+A: We couldn't find a switch for that in YouTube Help. The closest are the Shorts feed limit, which shows a reminder when you reach it, and Show fewer Shorts on a grid of Shorts on Home.
+
+Q: How do I stop YouTube from playing the next video after a lecture?
+A: Tap your profile picture, then Settings at the top right, then Autoplay, and switch it off. Google says Autoplay can be set differently on each device.
+
+Q: Can I hide recommendations on YouTube Home?
+A: Google's help says that if you don't want video recommendations on Home, you can delete and turn off your watch history. In minulo, Home recommendations is one of the items you can hide.
+
+Q: Will Subscriptions and Watch later still work?
+A: Yes. In minulo, Subscriptions and Watch later open straight from the home screen, and search keeps working even if you hide everything else on Home.
+
+Q: Is minulo free for this?
+A: Hiding Shorts, Home recommendations and comments is free with no time limit. Locking the official YouTube app is free for up to 2 hours per block. Schedules and longer blocks are part of minulo Pro.
+
+
+## How to Stop Checking Instagram in Class (iPhone) (en, checked 2026-10-27)
+Source: https://minulo.app/en/stop-using-phone-in-class.html · ja https://minulo.app/stop-using-phone-in-class.html · ko https://minulo.app/ko/stop-using-phone-in-class.html
+
+minulo can lock the official Instagram, TikTok or YouTube app with Screen Time for free, up to 2 hours per block, which is about one class, and minulo Pro can start the block by itself on the days and times you choose. On iPhone itself, a Focus can turn on at a set time or at a location and switch to a Home Screen page without those apps, but Apple describes a Focus as silencing notifications, not as stopping apps. To keep the apps closed for a whole class, use Downtime with Block at Downtime, or a blocker.
+
+Q: How do I stop checking Instagram in class?
+A: Lock the official Instagram app with minulo for free, up to 2 hours per block, so it won't open during the class. With minulo Pro the block can start by itself on your class days, and built in, Downtime with Block at Downtime does the same on a schedule.
+
+Q: Does Focus mode block apps during class?
+A: Apple describes a Focus as silencing notifications, or allowing only some. Its guide doesn't say a Focus stops apps from opening, but it can switch to a Home Screen page without them.
+
+Q: Can a Focus turn on by itself when I get to class?
+A: Yes. Apple says a Focus can turn on automatically at a set time, at a location or while using a certain app. Tap Add Schedule in that Focus.
+
+Q: Can I block Instagram in class but keep the class group chat?
+A: Yes. Open Instagram inside minulo and turn on Every tab but DMs, and group chats keep working there. With Downtime, a group chat in another app stays open if that app is in Always Allowed.
+
+Q: Can I set different block times for different class days?
+A: With Downtime, choose Customize Days and set the times for each day. In minulo, schedules by day and time are part of minulo Pro.
+
+Q: Will I miss notifications during class?
+A: While minulo blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. With a Focus, the people and apps you allow can still notify you.
+
+
+## Social Media Break While Traveling: Keep Maps and Chats (en, checked 2026-10-27)
+Source: https://minulo.app/en/social-media-detox-while-traveling.html · ja https://minulo.app/social-media-detox-while-traveling.html · ko https://minulo.app/ko/social-media-detox-while-traveling.html
+
+minulo hides Reels, Shorts and other feeds for free while your DMs keep working, and it can lock the official Instagram, TikTok or YouTube app for free, up to 2 hours per block, so friends can still reach you on a trip without the feeds. On iPhone itself, you can download offline maps in Apple Maps, turn off cellular data for single apps so they work only on Wi-Fi, and use Downtime with your messaging and map apps in Always Allowed. minulo opens each network's website, so it needs Wi-Fi or cellular data like the website does.
+
+Q: How do I take a social media break on vacation but keep messaging?
+A: Hide the feeds with minulo, which is free and keeps your DMs, or lock the official apps with it for up to 2 hours per block. Built in, Downtime with your messaging and map apps in Always Allowed keeps only those available.
+
+Q: Can I use maps without data while traveling?
+A: In Apple Maps, yes: download an offline map before you go. Apple says offline maps aren't available in all countries or regions.
+
+Q: How do I stop Instagram from using data abroad?
+A: Go to Settings, tap Cellular, scroll to the list of apps and turn Instagram off. Apple says the app then uses only Wi-Fi.
+
+Q: Should I turn off Data Roaming?
+A: Apple suggests turning off Data Roaming to avoid roaming charges while traveling. That stops cellular internet for every app outside your carrier's network, so plan for Wi-Fi, an international plan or a travel eSIM.
+
+Q: Will I get messages during Downtime?
+A: Apple says that during downtime only calls, messages and the apps you choose to allow are available. Add the messaging apps you use to Always Allowed.
+
+Q: Does minulo work offline?
+A: No. minulo opens each network's website inside the app, so it needs Wi-Fi or cellular data, the same as the website.
+
+
 ## Locking apps automatically at night, Shorts in YouTube Subscriptions and search, and whether YouTube Premium removes Shorts: 10 more languages (2026-10-27)
 - es: Cómo bloquear Instagram, TikTok y YouTube automáticamente por la noche en el iPhone: el tiempo de inactividad con Bloquear durante la inactividad detiene las apps a una hora, el modo de concentración Descanso filtra notificaciones, Requerir Face ID se puede abrir igualmente, no hemos encontrado ninguna acción de Atajos que bloquee una app; minulo bloquea gratis hasta 2 horas, y cada noche con un horario de Pro: https://minulo.app/es/lock-apps-automatically-at-night.html
 - es: Por qué siguen saliendo Shorts de YouTube en Suscripciones y en la búsqueda: dónde dice YouTube que aparecen, qué cubre el límite del feed de Shorts, el filtro de Tipo en la búsqueda, ningún ajuste encontrado para Suscripciones; minulo oculta gratis la sección y la pestaña de Shorts y abre los enlaces de Shorts en el reproductor normal: https://minulo.app/es/youtube-shorts-in-subscriptions-and-search.html
