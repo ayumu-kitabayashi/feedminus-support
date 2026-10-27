@@ -23,7 +23,7 @@ for s in slugs:
         for h,d,n in have:
             if d==d0: parts.append(f'<b>{n}</b>')
             else:
-                rel=(('../' if d0 else '')+(d+'/' if d else '')+js(d,s))
+                rel=('../'*(s.count('/')+(1 if d0 else 0))+(d+'/' if d else '')+js(d,s))  # hide/ など階層の深いページにも合わせる
                 parts.append(f'<a href="{rel}" hreflang="{h}" lang="{h}">{n}</a>')
         t=re.sub(r'<div class="langs">.*?</div>','<div class="langs">'+''.join(parts)+'</div>',t)
         open(p,'w').write(t)
