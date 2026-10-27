@@ -696,6 +696,116 @@ Scroll Less. It has been on the App Store since March 2025 and had 23 US ratings
 Source: https://minulo.app/en/minulo-vs-scroll-less.html
 
 
+# minulo vs Nope: Free Apps That Hide Reels and Shorts (2026) (en)
+
+If you want an alternative to Nope that also covers TikTok, X, Threads and other networks, pick minulo: hiding Reels and Shorts is free and there is no account. Nope is a Safari extension that is completely free, with no paid plan at all, and hides Reels, Shorts and recommendations on instagram.com and youtube.com in Safari. minulo opens 10 networks inside its own app, keeps your DMs, and can lock the official apps with Screen Time. If you only use Instagram and YouTube in Safari, Nope fits; if you use other networks or keep opening the official apps, minulo fits.
+
+This page is written by Ayumu Kitabayashi, the developer of minulo, so keep that in mind. Everything about Nope comes from its App Store pages (US, Japan and Korea) and its website nope-app.com, checked on 2026-10-27. Features and prices can change.
+
+- | Nope | minulo
+- How it works | A Safari extension. You turn it on for instagram.com and youtube.com in Settings, then use those sites in Safari | Opens each network’s official website inside the minulo app and hides the parts you choose
+- Networks | Instagram and YouTube (2) | Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)
+- What it hides | Instagram: Reels, the “For you” tab, Explore, Search, Stories, “Suggested for you”, video autoplay. YouTube: Shorts, autoplay, hover previews, comments, recommended and up next videos, the home feed (17 toggles) | Reels, Shorts, Explore and suggested posts on all 10 networks
+- What stays | Posts, watch pages, search and DMs (per its description) | DMs, friends’ posts, your own posts and replies, search
+- DMs only | Not mentioned on its App Store page or website | Every tab but DMs for Instagram and TikTok (free)
+- The official apps | Does not change them; it works in Safari | Does not change them either. It can lock them with Screen Time, and the block screen has an Open in minulo button (free for up to 2 hours per block)
+- Other tools | Grayscale mode and a 5-second “Mindful pause” | Reels and Shorts sent in DMs stop before the feed starts; Open for 5 min to watch. Schedules and Hard Mode are Pro
+- Account and data | No account. Its App Store privacy label says “Data Not Collected” | No account or sign-up. Your social media password goes to the network, never to minulo
+- Price | Free. No subscriptions, no in-app purchases, no ads. Its website says an optional Pro plan may come later | Hiding is free. Pro is $9.99/month or $39.99/year in the US (¥1,480/month or ¥6,800/year in Japan)
+- Devices | iPhone and iPad (iOS 17 or later), plus a Chrome extension for Chrome, Edge, Brave and Arc on computers. No Android | iPhone, plus a Mac version that works in Safari and Chrome. No Android
+- App language | English | 13 languages, including English, Japanese and Korean
+- On the App Store since | May 2026 (version 1.0) | September 2026
+- App Store ratings (2026-10-27) | US 3 (average 3.0), Japan 1 (1.0), Korea 0 | US 0, Japan 4 (average 3.0), Korea 9 (average 4.2)
+
+## Pick Nope if
+
+- you want an app with no paid plan at all, and an App Store privacy label of “Data Not Collected”;
+- you only need Instagram and YouTube and are happy to use them in Safari;
+- you want finer YouTube switches (comments, hover previews, the home feed), grayscale or a pause before a site opens;
+- you also want the same switches on a Windows or Linux computer through the Chrome extension.
+
+## Pick minulo if
+
+- you also use TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn or Snapchat;
+- you want an Instagram view with nothing but DMs, for free (Every tab but DMs);
+- you keep opening the official Instagram app out of habit, and want its icon to lead to the Reels-free view instead;
+- you want the app in Japanese, Korean or another language besides English.
+
+## What is the difference between Nope and minulo?
+Both hide Reels and Shorts and are free to use for that. Nope is a Safari extension for Instagram and YouTube, so it works when you open those sites in Safari, and it has no paid plan at all. minulo opens 10 networks, including TikTok, X and Threads, inside its own app, has a free DMs-only view for Instagram and TikTok, and can lock the official apps with Screen Time. Nope has iPad support and a Chrome extension; minulo has a Mac version.
+
+## Is Nope really free?
+Yes. Its App Store description says “No subscriptions, no in-app purchases, no ads”, and its website says an optional Pro plan may come later (checked 2026-10-27). minulo is also free for hiding Reels, Shorts and suggested posts; schedules and Hard Mode are part of Pro ($9.99/month or $39.99/year in the US).
+
+## Do I need an account?
+No, for either app. Nope says there is no Nope account and no Nope server. minulo has no account or sign-up either; you sign in on each network’s own page, so minulo never sees your password.
+
+## Does Nope work inside the official Instagram app?
+No. Nope is a Safari extension, so it works on instagram.com and youtube.com in Safari. minulo does not change the official app either, but it can lock it with Screen Time, and the block screen’s Open in minulo button takes you to Instagram without Reels.
+
+## Which one covers TikTok?
+minulo. It hides TikTok’s For You feed and keeps TikTok messages. Nope covers Instagram and YouTube only.
+
+## Is there an Android version?
+Neither has one. Nope’s website says the iOS app is the only mobile option today, and minulo has no Android version.
+Source: https://minulo.app/en/minulo-vs-nope.html
+
+
+# minulo vs LoomWeb: Two Apps That Hide Reels and Shorts (2026) (en)
+
+If you want an alternative to LoomWeb that also covers TikTok, Threads, Reddit and other networks, pick minulo: hiding Reels and Shorts is free and there is no account. LoomWeb is a browser app that hides Reels, Shorts and “For You” feeds on Instagram, YouTube, X and Facebook. It has an Android version, more ratings in the US and a cheaper Pro plan. minulo covers 10 networks, keeps your DMs, can lock the official apps with Screen Time, and has a Mac version.
+
+This page is written by Ayumu Kitabayashi, the developer of minulo, so keep that in mind. Everything about LoomWeb comes from its App Store pages (US, Japan and Korea), its website socialalien.tech/loomweb and its Google Play page, checked on 2026-10-27. Features and prices can change.
+
+- | LoomWeb | minulo
+- How it works | A browser app. You save a “Weave”, your own setup for a website that chooses what you see | Opens each network’s official website inside the minulo app and hides the parts you choose
+- Networks | Instagram, YouTube, X, Facebook (4) | Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)
+- What it hides | Instagram: Reels and Explore tabs, home recommendations. YouTube: Shorts tab, Shorts scrolling, home recommendations. X: “For You” posts, Search and Explore, video scrolling. Facebook: Reels tab, reel scrolling, plus a friends-only feed. Pro adds hiding Instagram Stories, an AI content warning and turning off Grok | Reels, Shorts, Explore and suggested posts on all 10 networks
+- DMs only | “Limit to DMs only” for Instagram (free) | Every tab but DMs for Instagram and TikTok (free)
+- Free | Your first Weave, on all supported sites | Hiding on all 10 networks, DMs only, and locking the official apps for up to 2 hours per block
+- Pro | Unlimited Weaves, time limits, home screen widgets, iOS Shortcuts icons, advanced analytics | Schedules, Hard Mode and multiple block lists
+- Pro price | US: $2.99/month, $19.99/year, $49.99 lifetime. Japan: ¥500, ¥3,000, ¥8,000. Korea: ₩4,400, ₩29,000, ₩77,000 | US: $9.99/month, $39.99/year. Japan: ¥1,480/month, ¥6,800/year
+- The official apps | Not described; you browse in LoomWeb instead | Can lock them with Screen Time; the block screen has an Open in minulo button
+- Account and data | Its website says “No sign up required”. Its App Store privacy label lists usage data and diagnostics, not linked to you | No account or sign-up. Your social media password goes to the network, never to minulo
+- Devices | iPhone only (iOS 18 or later), and Android on Google Play | iPhone, plus a Mac version that works in Safari and Chrome. No Android
+- App language | English | 13 languages, including English, Japanese and Korean
+- On the App Store since | December 2025 (version 2.6 on 2026-10-22) | September 2026
+- App Store ratings (2026-10-27) | US 35 (average 4.8), Japan 2 (4.0), Korea 1 (5.0) | US 0, Japan 4 (average 3.0), Korea 9 (average 4.2)
+
+## Pick LoomWeb if
+
+- you want X’s “For You” feed or Grok gone, or a friends-only Facebook feed;
+- you also use an Android phone;
+- you want a cheaper Pro plan, or a one-time lifetime purchase;
+- you want time limits, widgets and Shortcuts icons in the same app, or prefer an app with more US ratings (35, average 4.8).
+
+## Pick minulo if
+
+- you also use TikTok, Threads, Pinterest, Reddit, LinkedIn or Snapchat;
+- you want everything that hides feeds to stay free, with no limit on setups;
+- you keep opening the official Instagram app out of habit, and want its icon to lead to the Reels-free view instead;
+- you want the app in Japanese, Korean or another language besides English, or want the same thing on a Mac.
+
+## What is the difference between LoomWeb and minulo?
+Both open social media in their own app and hide Reels, Shorts and recommended feeds, and both keep DMs. LoomWeb covers Instagram, YouTube, X and Facebook, has an Android version and a cheaper Pro plan with a lifetime option, and has more US ratings. minulo covers 10 networks including TikTok, Threads and Reddit, keeps all hiding free, can lock the official apps with Screen Time, and has a Mac version and a 13-language app.
+
+## How much does LoomWeb cost?
+LoomWeb is free to download, and the free plan includes your first Weave on all supported sites. On the US App Store (checked 2026-10-27), Pro is $2.99 a month, $19.99 a year or $49.99 for life; in Japan it is ¥500, ¥3,000 or ¥8,000. For comparison, minulo’s Pro is $9.99 a month or $39.99 a year in the US, and hiding Reels, Shorts and suggested posts in minulo is free.
+
+## Do I need an account?
+LoomWeb’s website says “No sign up required”. minulo has no account or sign-up either; you sign in on each network’s own page, so minulo never sees your password.
+
+## Which one covers TikTok?
+minulo. It hides TikTok’s For You feed and keeps TikTok messages. LoomWeb’s App Store page names Instagram, YouTube, X and Facebook, and not TikTok.
+
+## Is LoomWeb on Android?
+Yes. Its website links to a Google Play page, “LoomWeb: Browse with Intention” by Social Alien. minulo has no Android version.
+
+## Does LoomWeb keep Instagram DMs?
+Yes. Its App Store description lists “Limit to DMs only” for Instagram as a free feature. In minulo, Instagram DMs keep working while Reels are hidden, and Every tab but DMs leaves only messages and notifications, also for free.
+Source: https://minulo.app/en/minulo-vs-loomweb.html
+
+
 # Best way to keep Instagram for group chats but drop Reels (college students, 2026) (en)
 
 Short answer: use Instagram inside an app that opens it in its own browser with Reels hidden and DMs working (minulo, UNDOOMED or Stillfeed). If you keep opening the official app out of habit, lock it with Screen Time. Safari extensions work if you are fine using Instagram in Safari. Screen Time on its own blocks your group chats along with Reels.
