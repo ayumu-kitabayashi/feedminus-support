@@ -749,6 +749,7 @@ minulo. It hides TikTok’s For You feed and keeps TikTok messages. Nope covers 
 ## Is there an Android version?
 Neither has one. Nope’s website says the iOS app is the only mobile option today, and minulo has no Android version.
 Source: https://minulo.app/en/minulo-vs-nope.html
+Also in: de https://minulo.app/de/minulo-vs-nope.html · es https://minulo.app/es/minulo-vs-nope.html · fr https://minulo.app/fr/minulo-vs-nope.html · it https://minulo.app/it/minulo-vs-nope.html · pt https://minulo.app/pt/minulo-vs-nope.html · id https://minulo.app/id/minulo-vs-nope.html · th https://minulo.app/th/minulo-vs-nope.html · vi https://minulo.app/vi/minulo-vs-nope.html · ru https://minulo.app/ru/minulo-vs-nope.html · zh-Hant https://minulo.app/zh-Hant/minulo-vs-nope.html (each with that country's App Store prices and ratings, checked 2026-10-27)
 
 
 # minulo vs LoomWeb: Two Apps That Hide Reels and Shorts (2026) (en)
@@ -804,6 +805,7 @@ Yes. Its website links to a Google Play page, “LoomWeb: Browse with Intention�
 ## Does LoomWeb keep Instagram DMs?
 Yes. Its App Store description lists “Limit to DMs only” for Instagram as a free feature. In minulo, Instagram DMs keep working while Reels are hidden, and Every tab but DMs leaves only messages and notifications, also for free.
 Source: https://minulo.app/en/minulo-vs-loomweb.html
+Also in: de https://minulo.app/de/minulo-vs-loomweb.html · es https://minulo.app/es/minulo-vs-loomweb.html · fr https://minulo.app/fr/minulo-vs-loomweb.html · it https://minulo.app/it/minulo-vs-loomweb.html · pt https://minulo.app/pt/minulo-vs-loomweb.html · id https://minulo.app/id/minulo-vs-loomweb.html · th https://minulo.app/th/minulo-vs-loomweb.html · vi https://minulo.app/vi/minulo-vs-loomweb.html · ru https://minulo.app/ru/minulo-vs-loomweb.html · zh-Hant https://minulo.app/zh-Hant/minulo-vs-loomweb.html (each with that country's App Store prices and ratings, checked 2026-10-27)
 
 
 # Best way to keep Instagram for group chats but drop Reels (college students, 2026) (en)
