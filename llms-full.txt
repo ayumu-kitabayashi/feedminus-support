@@ -1859,6 +1859,30 @@ Q: Does minulo work offline?
 A: No. minulo opens each network's website inside the app, so it needs Wi-Fi or cellular data, the same as the website.
 
 
+## Use Facebook Only for Family and Friends, Without Reels (en, checked 2026-10-27)
+Source: https://minulo.app/en/facebook-for-family-and-friends.html · ja https://minulo.app/facebook-for-family-and-friends.html · ko https://minulo.app/ko/facebook-for-family-and-friends.html
+
+minulo opens Facebook with Reels and Watch hidden for free, while Notifications, Messages, Friends and Feed stay one tap away, so you can keep up with family and friends. Facebook itself has no setting that turns Reels off: its help says reels may appear in your Feed and in Video, and that all videos on Facebook are now reels. The closest built-in view is the Feeds tab, which lists the most recent posts from the people, Favorites, Pages and groups you follow, but Facebook goes back to the ranked Feed when you close and reopen the app.
+
+Q: Can I use Facebook only for family and friends without Reels?
+A: Yes, with minulo, which opens Facebook with Reels and Watch hidden for free and keeps Notifications, Messages, Friends and Feed. The official app has no switch for Reels, but its Feeds tab shows recent posts from the people and groups you follow.
+
+Q: How do I see only posts from people I follow on Facebook?
+A: Open the Feeds tab: tap Menu, scroll down and tap Feeds. Facebook says it lists the most recent posts from the people, Favorites, Pages and groups you follow. It switches back to the ranked Feed when you reopen the app.
+
+Q: Can I turn off Reels on Facebook?
+A: We couldn't find a setting for that in Facebook's help. It says reels may appear in your Feed and in Video, and that all videos on Facebook are now reels. You can mark reels Not Interested, or hide them with minulo.
+
+Q: How do I stop seeing someone's posts for a while?
+A: Tap Options on one of their posts and choose Snooze for 30 days. Facebook says you won't see their posts in your Feed for 30 days. You can end it early under Settings, Content preferences, Snooze.
+
+Q: Will family messages still reach me if I block the Facebook app?
+A: While minulo blocks the official Facebook app, its notifications don't arrive. You can still read Messages inside minulo. Apps you don't choose to block, such as Messenger, stay open.
+
+Q: Is minulo free for Facebook?
+A: Hiding Reels and Watch, the Home feed and Marketplace is free, and blocking the official app is free for up to 2 hours per block. Longer blocks, schedules by day and time, Hard Mode and multiple block lists are part of minulo Pro.
+
+
 ## Blocking apps for one hour, YouTube for studying without Shorts, phones in class, and a social media break while traveling: 10 more languages (2026-10-27)
 - es: Bloquear Instagram, TikTok o YouTube durante una hora (o unas cuantas rondas de concentración de 25 minutos) en el iPhone: los límites de uso de apps cuentan el uso diario, el tiempo de inactividad activado a mano dura hasta mañana y un horario de tiempo de inactividad necesita horas fijadas; minulo bloquea gratis las apps oficiales, hasta 2 horas por bloqueo, con Hacer una pausa y sin temporizador propio: https://minulo.app/es/block-apps-for-an-hour.html
 - es: Usar YouTube para estudiar sin Shorts ni recomendaciones en el iPhone: el límite del feed de Shorts en 0 es un recordatorio que se puede descartar, la reproducción automática desactivada, el historial de reproducciones desactivado para no tener recomendaciones en Inicio (ayuda de YouTube) y Mostrar menos Shorts; minulo oculta gratis los Shorts, las recomendaciones de Inicio y los comentarios, y mantiene Suscripciones, Ver más tarde y la búsqueda: https://minulo.app/es/youtube-for-studying-without-shorts.html
