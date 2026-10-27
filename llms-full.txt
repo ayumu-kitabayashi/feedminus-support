@@ -1691,6 +1691,78 @@ A: Yes, from the official Reddit app, as long as minulo isn't locking it. While 
 - zh-Hant: iPhone 的「停用時間」為什麼連 LINE 也擋、用「永遠允許」保留 LINE 只擋 Instagram、「App 限制」、iOS 27 的「螢幕使用時間排程」，以及 minulo 免費只鎖定官方 Instagram App（每次最多 2 小時）: https://minulo.app/zh-Hant/downtime-block-instagram-keep-line.html
 
 
+## Lock Instagram Automatically at Night on iPhone: What Works (en, checked 2026-10-27)
+Source: https://minulo.app/en/lock-apps-automatically-at-night.html · ja https://minulo.app/lock-apps-automatically-at-night.html · ko https://minulo.app/ko/lock-apps-automatically-at-night.html
+
+minulo can lock the official Instagram, TikTok or YouTube app with Screen Time for free, up to 2 hours per block, and with minulo Pro a schedule by day and time starts the block by itself every night. Among iPhone's own settings, Downtime with Block at Downtime is the one that stops apps at set times. Apple describes Sleep Focus as filtering notifications and calls, Require Face ID only asks for your own face or passcode, and in Apple's Shortcuts guide we couldn't find an action that closes or blocks another app. So Sleep Focus or a Shortcuts automation alone won't keep Reels closed at night.
+
+Q: Can I make Instagram lock automatically at night on iPhone?
+A: Yes: minulo locks the official Instagram app with Screen Time for free, up to 2 hours per block, and minulo Pro starts the block every night on a schedule. Built in, Downtime with Block at Downtime stops every app that is not Always Allowed at the times you set.
+
+Q: Does Sleep Focus block apps?
+A: Apple describes Sleep Focus as filtering notifications and calls and showing that you're unavailable. Its guide doesn't say a Focus stops an app from opening. You can switch to a Home Screen page without Instagram while it's on.
+
+Q: Can a Shortcuts automation close or lock an app at a set time?
+A: Automations can run at a time of day, but we couldn't find an action in Apple's Shortcuts guide that closes, locks or blocks another app. Use Downtime or a blocker app for the lock.
+
+Q: Does Require Face ID stop me from opening Instagram at night?
+A: No. It asks for Face ID, Touch ID or your passcode each time you open the app, so you can still open it yourself, and it is not tied to a time of night.
+
+Q: Can I lock Instagram at night and keep my messaging apps?
+A: Yes. With Downtime, add the messaging apps to Always Allowed and leave Instagram out. minulo locks only the apps you choose and leaves the rest open.
+
+Q: Is there a free way to lock apps automatically every night?
+A: Downtime is free and built in. minulo's locks are free for up to 2 hours per block that you start, but a nightly schedule needs minulo Pro.
+
+
+## Shorts Still in YouTube Subscriptions and Search? What Works (en, checked 2026-10-27)
+Source: https://minulo.app/en/youtube-shorts-in-subscriptions-and-search.html · ja https://minulo.app/youtube-shorts-in-subscriptions-and-search.html · ko https://minulo.app/ko/youtube-shorts-in-subscriptions-and-search.html
+
+minulo hides the Shorts shelf and Shorts tab for free and sends Shorts links to the normal player, so a Short you tap in Subscriptions or search doesn't pull you into the swipe feed. YouTube's own help lists where viewers find Shorts: the Shorts tab, search results, the homepage, channel pages, Subscriptions and notifications. The Shorts feed limit is about the Shorts feed: YouTube's help says a reminder appears when the limit is reached there, and that you can dismiss it. For search, YouTube's help lists a Type filter. We couldn't find a setting in YouTube's help that removes Shorts from Subscriptions.
+
+Q: Why do Shorts still show in Subscriptions after I set the Shorts limit to 0?
+A: minulo hides the Shorts shelf and tab for free and opens Shorts links in the normal player, but YouTube's own limit is about the Shorts feed. YouTube's help says viewers also find Shorts in Subscriptions, search, channel pages and notifications.
+
+Q: How do I remove Shorts from YouTube search results?
+A: After searching, tap Filter and choose a Type. YouTube's help lists the Type filter but not its choices, and we couldn't confirm that it stays on for the next search.
+
+Q: Can I hide Shorts in the YouTube Subscriptions feed?
+A: We couldn't find a setting in YouTube's help that hides Shorts in Subscriptions. In minulo, a Short you tap there opens in the normal player instead of the swipe feed.
+
+Q: Does the Shorts feed limit stop Shorts I open from search?
+A: YouTube's help only says a reminder appears when the limit is reached in the Shorts feed, with an option to dismiss it. It doesn't say what happens to Shorts opened from search.
+
+Q: Does minulo remove every Short from Subscriptions and search?
+A: No, we don't promise that. It hides the Shorts shelf and Shorts tab and opens Shorts links in the normal player, only inside minulo. The official YouTube app doesn't change.
+
+Q: Do these settings work in the official YouTube app?
+A: The Shorts feed limit and the search filter are in the YouTube app. minulo's settings work only when you open YouTube inside minulo.
+
+
+## Does YouTube Premium Remove Shorts? What It Changes (en, checked 2026-10-27)
+Source: https://minulo.app/en/does-youtube-premium-remove-shorts.html · ja https://minulo.app/does-youtube-premium-remove-shorts.html · ko https://minulo.app/ko/does-youtube-premium-remove-shorts.html
+
+YouTube Premium doesn't remove Shorts, and its list of benefits has nothing that hides them, while minulo hides the Shorts shelf and Shorts tab for free. YouTube's help describes Premium as watching without ads before and during videos, downloads, background play, picture-in-picture and more, and it notes that some of these don't apply to Shorts: background play isn't available in the Shorts player, and Auto speed and the 1080p Premium option aren't offered for Shorts. The setting YouTube does offer is the Shorts feed limit in the YouTube app's settings, which can be set to zero but can be dismissed, and YouTube's help doesn't tie it to Premium.
+
+Q: Does YouTube Premium remove Shorts?
+A: No, Premium doesn't, but minulo hides the Shorts shelf and Shorts tab for free. YouTube's list of Premium benefits has nothing that hides Shorts. It covers things like ads, downloads and background play.
+
+Q: Does YouTube Premium remove ads on Shorts?
+A: YouTube's help says Premium lets you watch videos without ads before and during a video, and that section doesn't single out Shorts. We couldn't confirm Shorts specifically.
+
+Q: Does background play work for Shorts with Premium?
+A: No. YouTube's help says background play is not available in the Shorts player.
+
+Q: Is there a free way to hide Shorts?
+A: Yes. In the YouTube app, set the Shorts feed limit under Settings and Time management, though the reminder can be dismissed. minulo hides the Shorts shelf and tab for free.
+
+Q: What about YouTube Premium Lite?
+A: We couldn't confirm Premium Lite's terms for Shorts in YouTube's help pages, so we don't describe them here.
+
+Q: Does minulo change the official YouTube app?
+A: No. Shorts are hidden only when you open YouTube inside minulo. The official app doesn't change.
+
+
 ## Sleep mode, deactivating Instagram, time spent, message-only notifications, Stories only, TikTok and YouTube time limits, Reddit recommendations, Threads Following, Pinterest videos, exams, attention span, phone addiction self-check, one-week detox, scrolling at work: Spanish, Portuguese, German and French pages (2026-10-24)
 Pages: https://minulo.app/es/instagram-quiet-mode.html · https://minulo.app/pt/instagram-quiet-mode.html · https://minulo.app/de/instagram-quiet-mode.html · https://minulo.app/fr/instagram-quiet-mode.html · https://minulo.app/es/deactivate-instagram-temporarily.html · https://minulo.app/pt/deactivate-instagram-temporarily.html · https://minulo.app/de/deactivate-instagram-temporarily.html · https://minulo.app/fr/deactivate-instagram-temporarily.html · https://minulo.app/es/instagram-time-spent.html · https://minulo.app/pt/instagram-time-spent.html · https://minulo.app/de/instagram-time-spent.html · https://minulo.app/fr/instagram-time-spent.html · https://minulo.app/es/instagram-notifications-messages-only.html · https://minulo.app/pt/instagram-notifications-messages-only.html · https://minulo.app/de/instagram-notifications-messages-only.html · https://minulo.app/fr/instagram-notifications-messages-only.html · https://minulo.app/es/instagram-stories-only.html · https://minulo.app/pt/instagram-stories-only.html · https://minulo.app/de/instagram-stories-only.html · https://minulo.app/fr/instagram-stories-only.html · https://minulo.app/es/tiktok-screen-time-limit.html · https://minulo.app/pt/tiktok-screen-time-limit.html · https://minulo.app/de/tiktok-screen-time-limit.html · https://minulo.app/fr/tiktok-screen-time-limit.html · https://minulo.app/es/youtube-time-limit.html · https://minulo.app/pt/youtube-time-limit.html · https://minulo.app/de/youtube-time-limit.html · https://minulo.app/fr/youtube-time-limit.html · https://minulo.app/es/turn-off-reddit-recommendations.html · https://minulo.app/pt/turn-off-reddit-recommendations.html · https://minulo.app/de/turn-off-reddit-recommendations.html · https://minulo.app/fr/turn-off-reddit-recommendations.html · https://minulo.app/es/threads-following-feed-only.html · https://minulo.app/pt/threads-following-feed-only.html · https://minulo.app/de/threads-following-feed-only.html · https://minulo.app/fr/threads-following-feed-only.html · https://minulo.app/es/turn-off-pinterest-videos.html · https://minulo.app/pt/turn-off-pinterest-videos.html · https://minulo.app/de/turn-off-pinterest-videos.html · https://minulo.app/fr/turn-off-pinterest-videos.html · https://minulo.app/es/quit-social-media-before-exams.html · https://minulo.app/pt/quit-social-media-before-exams.html · https://minulo.app/de/quit-social-media-before-exams.html · https://minulo.app/fr/quit-social-media-before-exams.html · https://minulo.app/es/short-videos-attention-span.html · https://minulo.app/pt/short-videos-attention-span.html · https://minulo.app/de/short-videos-attention-span.html · https://minulo.app/fr/short-videos-attention-span.html · https://minulo.app/es/phone-addiction-self-check.html · https://minulo.app/pt/phone-addiction-self-check.html · https://minulo.app/de/phone-addiction-self-check.html · https://minulo.app/fr/phone-addiction-self-check.html · https://minulo.app/es/digital-detox-one-week.html · https://minulo.app/pt/digital-detox-one-week.html · https://minulo.app/de/digital-detox-one-week.html · https://minulo.app/fr/digital-detox-one-week.html · https://minulo.app/es/stop-scrolling-at-work.html · https://minulo.app/pt/stop-scrolling-at-work.html · https://minulo.app/de/stop-scrolling-at-work.html · https://minulo.app/fr/stop-scrolling-at-work.html
 Same facts as the English pages above, in each language.
