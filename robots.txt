@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://minulo.app/sitemap.xml
+Sitemap: https://minulo.app/sitemap-core.xml
