@@ -50,3 +50,22 @@ footer{background:#141518}
 /* no sticky App Store bar on phones: the header already has the App Store button (2026-10-19) */
 .dock{display:none!important}
 @media (max-width:720px){body{padding-bottom:0}}
+
+/* レビュー欄（10/30） */
+.rvw h2{text-align:center;margin-bottom:6px}
+.rvw-lead{text-align:center;color:#5F6068;margin:0 0 22px}
+.rvw-score{display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:24px}
+.rvw-score b{font-size:20px}
+.rvw-score span:last-child{color:#5F6068;font-size:14px}
+.rvw-stars{color:#F3BE3F;letter-spacing:1px}
+.rvw-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+@media (max-width:760px){.rvw-grid{grid-template-columns:1fr}}
+.rvw-card{background:#fff;border:1.5px solid var(--line,#E8E2D8);border-radius:16px;padding:18px;display:flex;flex-direction:column;gap:8px}
+.rvw-top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.rvw-where{font-size:12px;color:#5F6068;white-space:nowrap}
+.rvw-card h3{font-size:15px;margin:0}
+.rvw-card p{margin:0;font-size:14.5px}
+.rvw-card .rvw-tr{font-size:13px;color:#5F6068;border-top:1px solid var(--line,#E8E2D8);padding-top:8px}
+.rvw-more{text-align:center;margin:22px 0 0}
+.rvw-more a{font-weight:600}
+.rvw-src{text-align:center;color:#5F6068;font-size:12px;margin:8px 0 0}
