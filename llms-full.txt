@@ -546,7 +546,7 @@ minulo. UNDOOMED lists TikTok and Snapchat as unavailable. In minulo, TikTok's F
 With UNDOOMED, the official app stays unchanged, so it opens as usual. minulo can lock the official app with Screen Time; tapping the icon shows a block screen with an Open in minulo button that leads to Instagram without Reels.
 
 ## Which one is more established?
-UNDOOMED has 107 US ratings (average 4.3) and has been on the App Store since October 2025. minulo launched in September 2026 and has no US ratings yet.
+UNDOOMED has 107 US ratings (average 4.3) and has been on the App Store since October 2025. minulo launched in September 2026 and has 1 US rating so far.
 Source: https://minulo.app/en/minulo-vs-undoomed.html
 
 
@@ -692,7 +692,7 @@ No. Its App Store description describes opening platforms inside its own distrac
 minulo hides TikTok's For You feed and keeps TikTok messages; it also has a DMs-only setting for TikTok. TikTok is not mentioned on Scroll Less's App Store page.
 
 ## Which one is more established?
-Scroll Less. It has been on the App Store since March 2025 and had 23 US ratings (average 4.4) on 2026-10-27. minulo launched in September 2026 and has no US ratings yet.
+Scroll Less. It has been on the App Store since March 2025 and had 23 US ratings (average 4.4) on 2026-10-27. minulo launched in September 2026 and has 1 US rating so far.
 Source: https://minulo.app/en/minulo-vs-scroll-less.html
 
 
