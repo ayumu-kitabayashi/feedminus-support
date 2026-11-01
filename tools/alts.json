@@ -4,7 +4,7 @@
   {
    "name": "minulo",
    "id": 6809352229,
-   "ratings": 0,
+   "ratings": 1,
    "how": {
     "en": "Opens each network's official website inside the app and hides chosen parts. Can also lock the official apps with Screen Time and send you to minulo instead.",
     "ja": "各SNSの公式ページをアプリの中で開き、選んだ部分を表示しない。スクリーンタイムで公式アプリを止め、minulo に案内することもできる。",
@@ -42,13 +42,13 @@
     "it": "Sì"
    },
    "also": {
-    "en": "iPhone, Mac, Chrome",
-    "ja": "iPhone・Mac・Chrome",
-    "de": "iPhone, Mac, Chrome",
-    "fr": "iPhone, Mac, Chrome",
-    "es": "iPhone, Mac, Chrome",
-    "pt": "iPhone, Mac, Chrome",
-    "it": "iPhone, Mac, Chrome"
+    "en": "iPhone, Mac (Safari, Chrome)",
+    "ja": "iPhone・Mac（Safari・Chrome）",
+    "de": "iPhone, Mac (Safari, Chrome)",
+    "fr": "iPhone, Mac (Safari, Chrome)",
+    "es": "iPhone, Mac (Safari, Chrome)",
+    "pt": "iPhone, Mac (Safari, Chrome)",
+    "it": "iPhone, Mac (Safari, Chrome)"
    }
   },
   {
@@ -870,7 +870,7 @@
     ],
     [
      "SocialLiteの代わりになるアプリは？",
-     "評価の数は SocialLite が群を抜いて多く、米国で15,412件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSが多いのは UNDOOMED と minulo です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだありません。"
+     "評価の数は SocialLite が群を抜いて多く、米国で15,412件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSが多いのは UNDOOMED と minulo です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Safari と Chrome で使える Mac 版もありますが、新しいアプリなので米国の評価はまだ1件です。"
     ],
     [
      "minuloでログインしても安全？",

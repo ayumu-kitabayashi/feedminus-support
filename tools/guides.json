@@ -2274,7 +2274,7 @@
   ],
   "en": {
    "title": "SocialLite alternatives: apps that hide Reels and Shorts and keep your DMs (2026)",
-   "lede": "The closest SocialLite alternative is minulo: it also hides Reels and Shorts while keeping DMs and locks the official apps with Screen Time, covers 10 networks including TikTok, and hiding is free. SocialLite itself hides short-form video feeds, recommendations and Explore pages while keeping DMs, and it can block the official apps and send you to SocialLite. minulo, UNDOOMED, Awhile and LoomWeb work the same way: they open social networks in their own view with those parts hidden. ScrollGuard and Nope are Safari extensions instead. minulo also has a Mac app that works in Chrome. SocialLite has far more ratings and adds push notifications for Instagram and Snapchat.",
+   "lede": "The closest SocialLite alternative is minulo: it also hides Reels and Shorts while keeping DMs and locks the official apps with Screen Time, covers 10 networks including TikTok, and hiding is free. SocialLite itself hides short-form video feeds, recommendations and Explore pages while keeping DMs, and it can block the official apps and send you to SocialLite. minulo, UNDOOMED, Awhile and LoomWeb work the same way: they open social networks in their own view with those parts hidden. ScrollGuard and Nope are Safari extensions instead. minulo also has a Mac app that works in Safari and Chrome. SocialLite has far more ratings and adds push notifications for Instagram and Snapchat.",
    "cols": [
     "App",
     "How it works",
@@ -2348,7 +2348,7 @@
   },
   "ja": {
    "title": "SocialLite の代わりになるアプリ：リールとショートを消して DM は使える（2026年）",
-   "lede": "SocialLite にいちばん近い代わりは minulo です。リールとショートを消して DM は残し、公式アプリはスクリーンタイムで止められ、TikTok を含む10のSNSに対応し、消す機能は無料です。SocialLite は、ショート動画のフィード・おすすめ・発見ページを消して DM は残すアプリで、公式アプリを止めて SocialLite に案内することもできます。同じ仕組みのアプリには、minulo・UNDOOMED・Awhile・LoomWeb があります。どれも自前の画面で SNS を開き、その部分を消します。ScrollGuard と Nope は Safari の機能拡張です。minulo には Chrome の拡張機能もあります。SocialLite は評価の数がずっと多く、Instagram と Snapchat のプッシュ通知にも対応しています。",
+   "lede": "SocialLite にいちばん近い代わりは minulo です。リールとショートを消して DM は残し、公式アプリはスクリーンタイムで止められ、TikTok を含む10のSNSに対応し、消す機能は無料です。SocialLite は、ショート動画のフィード・おすすめ・発見ページを消して DM は残すアプリで、公式アプリを止めて SocialLite に案内することもできます。同じ仕組みのアプリには、minulo・UNDOOMED・Awhile・LoomWeb があります。どれも自前の画面で SNS を開き、その部分を消します。ScrollGuard と Nope は Safari の機能拡張です。minulo には Safari と Chrome で使える Mac 版もあります。SocialLite は評価の数がずっと多く、Instagram と Snapchat のプッシュ通知にも対応しています。",
    "cols": [
     "アプリ",
     "仕組み",
@@ -2362,7 +2362,7 @@
     ],
     [
      "minulo と SocialLite の違いは？",
-     "どちらもリールとショートを消し、DM は使え、公式アプリを止めて自分の画面に案内できます。App Store のページで比べると、minulo には SocialLite のページに書かれていない TikTok・Threads・Pinterest・LinkedIn があり、Chrome の拡張機能と Mac 版もあります。SocialLite には minulo に無い Instagram と Snapchat のプッシュ通知があり、評価の数もずっと多い（米国で約15,000件）です。minulo は2026年9月に公開されたばかりです。"
+     "どちらもリールとショートを消し、DM は使え、公式アプリを止めて自分の画面に案内できます。App Store のページで比べると、minulo には SocialLite のページに書かれていない TikTok・Threads・Pinterest・LinkedIn があり、Safari と Chrome で使える Mac 版もあります。SocialLite には minulo に無い Instagram と Snapchat のプッシュ通知があり、評価の数もずっと多い（米国で約15,000件）です。minulo は2026年9月に公開されたばかりです。"
     ],
     [
      "無料で使える SocialLite の代わりは？",
@@ -2422,7 +2422,7 @@
   },
   "fr": {
    "title": "Alternatives à SocialLite : applis qui masquent les Reels et les Shorts et gardent vos DM (2026)",
-   "lede": "L'alternative la plus proche de SocialLite est minulo, qui masque aussi les Reels et les Shorts en gardant les messages, verrouille les applis officielles avec Temps d'écran et couvre 10 réseaux dont TikTok ; le masquage est gratuit. SocialLite masque les fils de vidéos courtes, les recommandations et Explorer tout en gardant les messages privés, et peut bloquer les applis officielles pour vous renvoyer vers SocialLite. minulo, UNDOOMED, Awhile et LoomWeb fonctionnent de la même façon : ils ouvrent les réseaux dans leur propre vue en masquant ces parties. ScrollGuard et Nope sont plutôt des extensions Safari. minulo a aussi une app Mac qui marche dans Chrome. SocialLite a beaucoup plus de notes et ajoute des notifications push pour Instagram et Snapchat.",
+   "lede": "L'alternative la plus proche de SocialLite est minulo, qui masque aussi les Reels et les Shorts en gardant les messages, verrouille les applis officielles avec Temps d'écran et couvre 10 réseaux dont TikTok ; le masquage est gratuit. SocialLite masque les fils de vidéos courtes, les recommandations et Explorer tout en gardant les messages privés, et peut bloquer les applis officielles pour vous renvoyer vers SocialLite. minulo, UNDOOMED, Awhile et LoomWeb fonctionnent de la même façon : ils ouvrent les réseaux dans leur propre vue en masquant ces parties. ScrollGuard et Nope sont plutôt des extensions Safari. minulo a aussi une app Mac qui marche dans Safari et Chrome. SocialLite a beaucoup plus de notes et ajoute des notifications push pour Instagram et Snapchat.",
    "cols": [
     "Appli",
     "Fonctionnement",
@@ -3058,7 +3058,7 @@
   ],
   "ja": {
    "title": "minulo と SocialLite の違い：リールを消して DM は残すアプリを比べる（2026年）",
-   "lede": "どちらも、SNS を自分の画面で開いてリール・ショート動画・おすすめ投稿を消し、DM は残すアプリです。SocialLite は評価の数がずっと多く、Instagram と Snapchat のプッシュ通知に対応しています。minulo は TikTok・Threads・Pinterest・LinkedIn などを含む10の SNS に対応し、Mac 版と Chrome の拡張機能があり、消す機能は無料です。通知が欲しいなら SocialLite、TikTok なども一緒に消したいなら minulo が合います。",
+   "lede": "どちらも、SNS を自分の画面で開いてリール・ショート動画・おすすめ投稿を消し、DM は残すアプリです。SocialLite は評価の数がずっと多く、Instagram と Snapchat のプッシュ通知に対応しています。minulo は TikTok・Threads・Pinterest・LinkedIn などを含む10の SNS に対応し、Safari と Chrome で使える Mac 版があり、消す機能は無料です。通知が欲しいなら SocialLite、TikTok なども一緒に消したいなら minulo が合います。",
    "cols": [
     "項目",
     "minulo",
@@ -3102,7 +3102,7 @@
     ],
     [
      "<b>iPhone 以外</b>",
-     "Mac 版・Chrome の拡張機能",
+     "Mac 版（Safari と Chrome で使える）",
      "iPad に対応（更新履歴より）"
     ],
     [
@@ -3112,19 +3112,19 @@
     ],
     [
      "<b>料金（米国の App Store）</b>",
-     "無料。Pro は月額 $9.99・年額 $39.99。消す機能は無料",
+     "ダウンロードは無料。消す機能も無料。Pro は月額 $9.99・年額 $39.99",
      "無料でダウンロード。Pro は表示されるプランで変わり、月 $6.99〜$17.99・年 $19.99〜$47.90。ファミリーは月 $12.99（2026-10-26 確認）"
     ],
     [
      "<b>米国の評価</b>",
-     "まだ0件（2026年9月公開）",
+     "1件（2026年9月公開）",
      "15,412件・★4.7（2026年1月公開）"
     ]
    ],
    "qa": [
     [
      "minulo と SocialLite はどう違いますか？",
-     "仕組みはよく似ていて、どちらも SNS を自分の画面で開き、リールやおすすめを消して DM は残します。違いは、対応する SNS の数（minulo は TikTok・Threads・Pinterest・LinkedIn を含む10）、通知（SocialLite は Instagram と Snapchat のプッシュ通知に対応）、iPhone 以外で使えるか（minulo は Mac 版と Chrome の拡張機能）、評価の数（SocialLite がずっと多い）です。"
+     "仕組みはよく似ていて、どちらも SNS を自分の画面で開き、リールやおすすめを消して DM は残します。違いは、対応する SNS の数（minulo は TikTok・Threads・Pinterest・LinkedIn を含む10）、通知（SocialLite は Instagram と Snapchat のプッシュ通知に対応）、iPhone 以外で使えるか（minulo には Safari と Chrome で使える Mac 版がある）、評価の数（SocialLite がずっと多い）です。"
     ],
     [
      "どちらを選べばいいですか？",
@@ -3206,12 +3206,12 @@
     ],
     [
      "<b>Price (US App Store)</b>",
-     "Free. Pro is $9.99/month or $39.99/year. Hiding is free",
+     "Free to download. Hiding is free. Pro is $9.99/month or $39.99/year",
      "Free download. Pro: $6.99–$17.99/month or $19.99–$47.90/year depending on the offer; Family $12.99/month (checked 2026-10-26)"
     ],
     [
      "<b>US ratings</b>",
-     "None yet (released September 2026)",
+     "1 (released September 2026)",
      "15,412, ★4.7 (released January 2026)"
     ]
    ],
@@ -3466,7 +3466,7 @@
     ],
     [
      "<b>Más allá del iPhone</b>",
-     "App para Mac y extensión para Chrome",
+     "App para Mac (Safari y Chrome)",
      "Compatible con iPad (según sus notas de versión)"
     ],
     [

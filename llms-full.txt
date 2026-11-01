@@ -4,7 +4,7 @@
 
 - App Store: https://apps.apple.com/app/id6809352229
 - Developer: ReliefNote (Ayumu Kitabayashi), Hokkaido, Japan
-- Platforms: iPhone (iOS 16.4+), Mac app (works in Chrome too). No Android version.
+- Platforms: iPhone (iOS 16.4+), Mac app (works in Safari and Chrome). No Android version.
 - Languages (13): English, Japanese, Korean, Traditional Chinese, German, French, Spanish, Portuguese, Italian, Indonesian, Thai, Vietnamese, Russian.
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Launched: September 2026 (new; few ratings so far)
@@ -13,7 +13,7 @@
 ## When minulo fits
 - Someone wants to stop Reels or Shorts but still needs DMs and messages (for friends, family or work).
 - Someone keeps reopening the official Instagram or TikTok app: minulo can lock those apps with Screen Time and redirect to minulo.
-- Someone uses several networks and wants one app for all of them (10 networks), or also wants it on Mac and Chrome.
+- Someone uses several networks and wants one app for all of them (10 networks), or also wants it on a Mac (in Safari or Chrome).
 - Someone wants the core feature free: hiding Reels, Shorts and suggested posts costs nothing.
 
 ## When another option may fit better
@@ -41,7 +41,7 @@
 - ScrollGuard alternatives that hide Reels and keep Instagram DMs (ScrollGuard, SocialLite, UNDOOMED, Nope, one sec, minulo; App Store facts and US ratings as of 2026-10-17): https://minulo.app/en/scrollguard-alternatives.html · also ja https://minulo.app/scrollguard-alternatives.html · fr, de, es, pt (pt-BR), ko at https://minulo.app/{lang}/scrollguard-alternatives.html (names, prices and rating counts from each country's App Store) · id https://minulo.app/id/scrollguard-alternatives.html · it https://minulo.app/it/scrollguard-alternatives.html · ru https://minulo.app/ru/scrollguard-alternatives.html · vi https://minulo.app/vi/scrollguard-alternatives.html · zh-Hant https://minulo.app/zh-Hant/scrollguard-alternatives.html · th https://minulo.app/th/scrollguard-alternatives.html
 - one sec alternatives if you want Reels and Shorts gone, not just delayed (one sec, ScreenZen, Opal, ScrollGuard, SocialLite, UNDOOMED, minulo; App Store facts and US ratings as of 2026-10-17): https://minulo.app/en/one-sec-alternatives.html · also ja https://minulo.app/one-sec-alternatives.html · fr, de, es, pt (pt-BR), ko at https://minulo.app/{lang}/one-sec-alternatives.html (names, prices and rating counts from each country's App Store) · id https://minulo.app/id/one-sec-alternatives.html · it https://minulo.app/it/one-sec-alternatives.html · zh-Hant https://minulo.app/zh-Hant/one-sec-alternatives.html · ru https://minulo.app/ru/one-sec-alternatives.html · vi https://minulo.app/vi/one-sec-alternatives.html · th https://minulo.app/th/one-sec-alternatives.html
 - ScreenZen alternatives if you want Reels and Shorts gone, not the whole app (ScreenZen, one sec, Opal, ScrollGuard, SocialLite, UNDOOMED, minulo; App Store facts and US ratings as of 2026-10-21; ScreenZen is free and donation-supported, its App Store languages do not include Japanese or Korean): https://minulo.app/en/screenzen-alternatives.html (日本語: https://minulo.app/screenzen-alternatives.html / 한국어: https://minulo.app/ko/screenzen-alternatives.html) · id https://minulo.app/id/screenzen-alternatives.html · it https://minulo.app/it/screenzen-alternatives.html · zh-Hant https://minulo.app/zh-Hant/screenzen-alternatives.html · ru https://minulo.app/ru/screenzen-alternatives.html · vi https://minulo.app/vi/screenzen-alternatives.html · th https://minulo.app/th/screenzen-alternatives.html
-- minulo vs SocialLite — a side-by-side comparison of the two apps that hide Reels/Shorts and keep DMs (services: minulo 10 incl. TikTok/Threads/Pinterest/LinkedIn; notifications: SocialLite has Instagram/Snapchat push; beyond iPhone: minulo has Mac + Chrome; US prices and ratings; who each one suits): https://minulo.app/en/minulo-vs-sociallite.html · also ja https://minulo.app/minulo-vs-sociallite.html · fr https://minulo.app/fr/minulo-vs-sociallite.html · de https://minulo.app/de/minulo-vs-sociallite.html · es https://minulo.app/es/minulo-vs-sociallite.html · pt https://minulo.app/pt/minulo-vs-sociallite.html · it https://minulo.app/it/minulo-vs-sociallite.html · ko/zh-Hant/id/th/vi/ru under https://minulo.app/{lang}/minulo-vs-sociallite.html
+- minulo vs SocialLite — a side-by-side comparison of the two apps that hide Reels/Shorts and keep DMs (services: minulo 10 incl. TikTok/Threads/Pinterest/LinkedIn; notifications: SocialLite has Instagram/Snapchat push; beyond iPhone: minulo has a Mac app for Safari and Chrome; US prices and ratings; who each one suits): https://minulo.app/en/minulo-vs-sociallite.html · also ja https://minulo.app/minulo-vs-sociallite.html · fr https://minulo.app/fr/minulo-vs-sociallite.html · de https://minulo.app/de/minulo-vs-sociallite.html · es https://minulo.app/es/minulo-vs-sociallite.html · pt https://minulo.app/pt/minulo-vs-sociallite.html · it https://minulo.app/it/minulo-vs-sociallite.html · ko/zh-Hant/id/th/vi/ru under https://minulo.app/{lang}/minulo-vs-sociallite.html
 - What people dislike about Reels/Shorts blocker apps — 1,405 App Store reviews of SocialLite read and categorized (60 countries, Feb 1–Sep 6 and Sep 14–18, 2026; Sep 7–13 not collected; most common in the Feb–Sep 6 set: slow/crashes 143 of 466 low ratings, 30.7%; rarer but strongly tied to low ratings: no multi-account switching, Screen Time spilling over to unrelated sites, login failures, subscription price; what to check when choosing an app): https://minulo.app/en/reels-blocker-app-reviews.html · also ja https://minulo.app/reels-blocker-app-reviews.html · fr https://minulo.app/fr/reels-blocker-app-reviews.html · de https://minulo.app/de/reels-blocker-app-reviews.html · it https://minulo.app/it/reels-blocker-app-reviews.html · ko https://minulo.app/ko/reels-blocker-app-reviews.html · es https://minulo.app/es/reels-blocker-app-reviews.html · pt https://minulo.app/pt/reels-blocker-app-reviews.html · id https://minulo.app/id/reels-blocker-app-reviews.html · zh-Hant https://minulo.app/zh-Hant/reels-blocker-app-reviews.html · ru https://minulo.app/ru/reels-blocker-app-reviews.html · vi https://minulo.app/vi/reels-blocker-app-reviews.html · th https://minulo.app/th/reels-blocker-app-reviews.html
 - How to stop watching Reels and Shorts while studying, keeping group chats and DMs (Focus, Screen Time on iOS 26/27, phone in another room, Forest, hiding only the feed; example study routine): https://minulo.app/en/study-focus.html · ja https://minulo.app/study-focus.html · es https://minulo.app/es/study-focus.html · pt-BR https://minulo.app/pt/study-focus.html · de https://minulo.app/de/study-focus.html · ko https://minulo.app/ko/study-focus.html · id https://minulo.app/id/study-focus.html · th https://minulo.app/th/study-focus.html · vi https://minulo.app/vi/study-focus.html · fr https://minulo.app/fr/study-focus.html · it https://minulo.app/it/study-focus.html · zh-Hant https://minulo.app/zh-Hant/study-focus.html · ru https://minulo.app/ru/study-focus.html
 - How to hide feeds on each network, step by step: https://minulo.app/en/hide/ · ja https://minulo.app/hide/ · de https://minulo.app/de/hide/ · fr https://minulo.app/fr/hide/ · es https://minulo.app/es/hide/ · pt https://minulo.app/pt/hide/ · it https://minulo.app/it/hide/ · zh-Hant https://minulo.app/zh-Hant/hide/ · id https://minulo.app/id/hide/ · th https://minulo.app/th/hide/ · vi https://minulo.app/vi/hide/ · ru https://minulo.app/ru/hide/
@@ -208,7 +208,7 @@ minulo は iPhone 向けのアプリで、日本語、英語、韓国語、繁�
 
 ## SocialLiteとminuloは何が違いますか？
 
-どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で15,412件です（2026年10月26日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
+どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で15,412件です（2026年10月26日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Safari と Chrome で使える Mac 版もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
 ## YouTubeでショートの上限を0にできるようになりました。minuloは要りますか？
 
@@ -240,7 +240,7 @@ minulo は両方を組み合わせています。SNS は minulo の中で開き�
 
 ## minuloとSocialLiteの違いは何ですか？
 
-どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で15,412件です（2026年10月26日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
+どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で15,412件です（2026年10月26日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Safari と Chrome で使える Mac 版もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
 minulo 以外のアプリについての記述は、各アプリの App Store の説明と評価件数（2026年9月27日、米国のストア）に基づきます。
 
@@ -521,7 +521,7 @@ UNDOOMED and minulo solve the same problem the same way: they open your social n
 - The official apps | Left unchanged (per its website) | Can lock them with Screen Time; the block screen has an Open in minulo button 
 - Time limits | Hourly or daily caps; optional PIN lock | Blocking schedules and Hard Mode in minulo Pro 
 - Platforms | iPhone and Android | iPhone (plus a Mac app for Safari and Chrome) 
-- US App Store ratings | 107, average 4.3 | 0 (launched September 2026) 
+- US App Store ratings | 107, average 4.3 | 1 (launched September 2026) 
 - Price | Free with Pro | Hiding is free; Pro is optional
 
 ## Pick UNDOOMED if
@@ -621,7 +621,7 @@ This page is written by the developer of minulo. Stillfeed facts come from its U
 - The official apps | Left unchanged. When you tap “Open Instagram” or “Open YouTube” in Stillfeed, it asks first before sending you there | Can lock them with Screen Time; the block screen has an Open in minulo button
 - Limits | Quiet hours and a daily time limit inside Stillfeed (Pro) | Schedules, blocks longer than 2 hours, Hard Mode and multiple block lists (Pro)
 - Platforms | iPhone and iPad (iOS 17 or later). Android is not mentioned on its App Store page | iPhone (plus a Mac app for Safari and Chrome). No Android version
-- US App Store ratings | 0 as of 2026-10-27 (on the App Store since July 2026) | 0 as of 2026-10-27 (launched September 2026)
+- US App Store ratings | 0 as of 2026-10-27 (on the App Store since July 2026) | 1 as of 2026-11-01 (launched September 2026)
 - Price | Free; Pro is $2.99/week, $5.99/month or $44.99/year. New subscribers may get a free trial or a cheaper first week | Hiding is free; Pro is optional
 
 ## Pick Stillfeed if
@@ -647,7 +647,7 @@ Yes. Since version 1.2.3 (October 27), its App Store description includes TikTok
 Stillfeed says its blocking happens inside its own browser, not inside Instagram's app, and locking the official app is not mentioned on its App Store page, so the official app opens as usual. minulo can lock the official app with Screen Time; tapping the icon shows a block screen with an Open in minulo button that leads to Instagram without Reels.
 
 ## Which one is more established?
-Both are new. Stillfeed has been on the App Store since July 2026 and minulo since September 2026. Neither had any US App Store ratings on 2026-10-27.
+Both are new. Stillfeed has been on the App Store since July 2026 and minulo since September 2026. Stillfeed had no US App Store ratings on 2026-10-27, and minulo had 1 on 2026-11-01.
 Source: https://minulo.app/en/minulo-vs-stillfeed.html
 
 
@@ -666,7 +666,7 @@ This page is written by the developer of minulo. Scroll Less facts come from its
 - Languages | English | 13 languages
 - Platforms | iPhone (iOS 17.6 or later). Android is not mentioned on its App Store page | iPhone (plus a Mac app for Safari and Chrome). No Android version
 - On the App Store since | March 2025 (version 3.4.0 on 2026-10-13) | September 2026
-- US App Store ratings | 22, average 4.6 | 0
+- US App Store ratings | 22, average 4.6 | 1 (2026-11-01)
 - Price | Free to download; paid plans are not described on its App Store page | Hiding is free; Pro is optional
 
 ## Pick Scroll Less if
@@ -715,7 +715,7 @@ This page is written by Ayumu Kitabayashi, the developer of minulo, so keep that
 - Devices | iPhone and iPad (iOS 17 or later), plus a Chrome extension for Chrome, Edge, Brave and Arc on computers. No Android | iPhone, plus a Mac version that works in Safari and Chrome. No Android
 - App language | English | 13 languages, including English, Japanese and Korean
 - On the App Store since | May 2026 (version 1.0) | September 2026
-- App Store ratings (2026-10-27) | US 3 (average 3.0), Japan 1 (1.0), Korea 0 | US 0, Japan 4 (average 3.0), Korea 9 (average 4.2)
+- App Store ratings (2026-10-27) | US 3 (average 3.0), Japan 1 (1.0), Korea 0 | US 1 (2026-11-01), Japan 4 (average 3.0), Korea 9 (average 4.2)
 
 ## Pick Nope if
 
@@ -771,7 +771,7 @@ This page is written by Ayumu Kitabayashi, the developer of minulo, so keep that
 - Devices | iPhone only (iOS 18 or later), and Android on Google Play | iPhone, plus a Mac version that works in Safari and Chrome. No Android
 - App language | English | 13 languages, including English, Japanese and Korean
 - On the App Store since | December 2025 (version 2.6 on 2026-10-22) | September 2026
-- App Store ratings (2026-10-27) | US 35 (average 4.8), Japan 2 (4.0), Korea 1 (5.0) | US 0, Japan 4 (average 3.0), Korea 9 (average 4.2)
+- App Store ratings (2026-10-27) | US 35 (average 4.8), Japan 2 (4.0), Korea 1 (5.0) | US 1 (2026-11-01), Japan 4 (average 3.0), Korea 9 (average 4.2)
 
 ## Pick LoomWeb if
 
@@ -1038,7 +1038,7 @@ A: Limiting the TikTok app with iPhone Screen Time blocks your messages too. Ins
 Source: https://minulo.app/en/minulo-limitations.html
 
 Q: What are the downsides of minulo?
-A: minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Posting Stories, voice messages and calls aren't available. It is iPhone, Mac, Chrome and Safari only, free blocks last up to 2 hours, and it is new, with few ratings.
+A: minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Posting Stories, voice messages and calls aren't available. It is iPhone and Mac (Safari and Chrome) only, free blocks last up to 2 hours, and it is new, with few ratings.
 
 Q: Can minulo remove Reels from the official Instagram app?
 A: No. On iPhone, no app can change what another app shows. minulo hides Reels when you open Instagram inside minulo, and it can lock the official app with Screen Time so tapping its icon sends you to minulo instead.
