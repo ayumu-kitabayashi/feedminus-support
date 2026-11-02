@@ -1,5 +1,6 @@
 {
  "checked": "2026-10-16",
+ "ratings_checked": "2026-11-02",
  "apps": [
   {
    "name": "minulo",
@@ -54,7 +55,7 @@
   {
    "name": "SocialLite",
    "id": 6757661674,
-   "ratings": 15412,
+   "ratings": 16673,
    "how": {
     "en": "A focused view of social networks inside the app; can block the official apps with Screen Time and redirect to SocialLite (per its release notes).",
     "ja": "アプリの中で SNS を絞って表示。公式アプリをスクリーンタイムで止めて SocialLite に案内できる（更新履歴より）。",
@@ -104,7 +105,7 @@
   {
    "name": "UNDOOMED",
    "id": 6751837079,
-   "ratings": 107,
+   "ratings": 108,
    "how": {
     "en": "Opens each network's mobile website in its own private browser and filters the page.",
     "ja": "各SNSのモバイル版サイトを自前のブラウザで開き、表示を絞る。",
@@ -154,7 +155,7 @@
   {
    "name": "ScrollGuard",
    "id": 6754183872,
-   "ratings": 116,
+   "ratings": 124,
    "how": {
     "en": "A Safari extension that hides feeds, Reels, Stories and Explore on social media websites.",
     "ja": "Safari の拡張機能で、SNSのサイトのフィード・リール・ストーリーズ・発見を隠す。",
@@ -204,7 +205,7 @@
   {
    "name": "Nope",
    "id": 6768192042,
-   "ratings": 2,
+   "ratings": 3,
    "how": {
     "en": "A Safari Web Extension for instagram.com and youtube.com.",
     "ja": "instagram.com と youtube.com 向けの Safari 拡張機能。",
@@ -304,7 +305,7 @@
   {
    "name": "LoomWeb",
    "id": 6754727620,
-   "ratings": 32,
+   "ratings": 36,
    "how": {
     "en": "A browser for social media with per-site settings.",
     "ja": "SNS用のブラウザ。サイトごとに設定する。",
@@ -354,7 +355,7 @@
   {
    "name": "WallHabit",
    "id": 6751423279,
-   "ratings": 34,
+   "ratings": 35,
    "how": {
     "en": "Blocks Reels and Shorts or whole apps, and asks you to hold a button before unlocking (the description does not detail how Reels are blocked).",
     "ja": "リールやショート、またはアプリ全体を止め、解除には長押しが要る（リールの止め方の詳細は説明にない）。",
@@ -599,7 +600,7 @@
     "pt": "Importar/exportar ajustes",
     "it": "Importa/esporta impostazioni"
    },
-   "ratings": 325
+   "ratings": 326
   },
   {
    "name": "snowscroll",
@@ -649,7 +650,7 @@
     "pt": "Escudo para o app oficial",
     "it": "Scudo per l’app ufficiale"
    },
-   "ratings": 9
+   "ratings": 10
   },
   {
    "name": "Konvo",
@@ -749,7 +750,7 @@
     "pt": "Restrições travadas por 24 horas",
     "it": "Restrizioni bloccate per 24 ore"
    },
-   "ratings": 3
+   "ratings": 4
   },
   {
    "name": "Scrollout",
