@@ -41,4 +41,9 @@
       }catch(e){}
     })(links[i]);
   }
+  /* Mac 版（.dmg）のダウンロードも数える */
+  var macs=document.querySelectorAll('a[href*="minulo.dmg"]');
+  for(var j=0;j<macs.length;j++){
+    (function(a){ a.addEventListener('click',function(){ send('site_mac_click',{where:a.getAttribute('data-pos')||page}); }); })(macs[j]);
+  }
 })();
