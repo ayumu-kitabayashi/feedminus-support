@@ -450,7 +450,9 @@ Hiding Reels, Shorts and suggested posts is free on every network. minulo Pro (o
 Source: https://minulo.app/en/instagram-group-chats-without-reels.html · th https://minulo.app/th/instagram-group-chats-without-reels.html
 
 
-# How to use TikTok for DMs only on iPhone, without the For You feed (2026) (en)
+# How to use TikTok for messages (DMs) only on iPhone, without the For You feed (2026) (en)
+
+TikTok has no messages-only mode, and the app always opens on For You. minulo is an iPhone app that opens TikTok with For You and the other feeds hidden while your messages keep working, and hiding is free.
 
 TikTok opens straight onto the For You feed, and there is no setting that turns it into a messages-only app. iPhone Screen Time can limit TikTok, but that blocks your messages too. If friends send you messages on TikTok and you want to keep those without the feed, use an app that opens TikTok with everything except messages hidden.
 
@@ -461,8 +463,8 @@ TikTok opens straight onto the For You feed, and there is no setting that turns 
 - In minulo's settings for TikTok, turn on Every tab but DMs. The For You feed and the other tabs are hidden; messages stay.
 - Optional: let minulo lock the official TikTok app with Screen Time, so tapping the TikTok icon shows a block screen with an Open in minulo button instead of the feed.Hiding For You is free. Instagram has the same "Every tab but DMs" setting.
 
-## Does TikTok have a messages-only mode?
-Not that we could find. TikTok has a Following tab, but the app still opens on For You. minulo hides For You and can show only your messages.
+## How do you use TikTok for messages only on iPhone?
+TikTok has no messages-only mode, and the app always opens on For You. minulo is an iPhone app that opens TikTok with For You and the other feeds hidden while your messages keep working, and hiding is free. TikTok has a Following tab, but the app still opens on For You. In minulo, turn on Every tab but DMs to show only your messages.
 
 ## Will my friends still be able to message me?
 Yes. Messages keep working in minulo; only the feeds are hidden.
@@ -1003,7 +1005,7 @@ A: Only if someone else knows the passcode. If you set the Screen Time passcode 
 Source: https://minulo.app/en/block-tiktok-on-iphone.html
 
 Q: How do I block TikTok on my iPhone?
-A: Use Screen Time. On iOS 26, go to Settings > Screen Time > App Limits, add a limit for TikTok, set a Screen Time passcode and turn on Block at End of Limit. On iOS 27, use Time Allowances and Screen Time Schedule instead. You can also delete the app, but that is the easiest block to undo.
+A: Screen Time can block TikTok on iPhone, but it blocks your TikTok messages too. If you only want For You gone, minulo is an iPhone app that opens TikTok with For You hidden while your messages keep working, and hiding is free. On iOS 26, go to Settings > Screen Time > App Limits, add a limit for TikTok, set a Screen Time passcode and turn on Block at End of Limit. On iOS 27, use Time Allowances and Screen Time Schedule instead. You can also delete the app, but that is the easiest block to undo.
 
 Q: How do I block the TikTok website on iPhone?
 A: On iOS 26, go to Settings > Screen Time > Content & Privacy Restrictions and turn it on. Tap App Store, Media, Web, & Games > Web Content, select Limit Adult Websites and add tiktok.com under Never Allow. On iOS 27, a Time Allowance also applies to a website the app declares as associated.
@@ -1060,8 +1062,8 @@ A: Brick, Opal and Screen Time block the whole app, so DMs are blocked too. minu
 ## Turning off the TikTok For You page (en, checked 2026-10-23)
 Source: https://minulo.app/en/turn-off-tiktok-for-you-page.html
 
-Q: Can you turn off the For You page on TikTok?
-A: We could not find a way in TikTok's help as of October 2026. For You is the first feed you see when you open TikTok, and TikTok's tools (Refresh your For You feed, Not interested, Filter keywords and Manage topics) change what it shows without removing it. To use TikTok without For You, open it in an app that hides it, such as minulo, where this is free.
+Q: How do you turn off the TikTok For You page on iPhone?
+A: TikTok has no setting that turns off the For You page. minulo is an iPhone app that opens TikTok with For You hidden while your messages keep working, and hiding is free. We could not find a way in TikTok's help as of October 2026. For You is the first feed you see when you open TikTok, and TikTok's tools (Refresh your For You feed, Not interested, Filter keywords and Manage topics) change what it shows without removing it.
 
 Q: What does Refresh your For You feed do?
 A: It starts your For You recommendations over. TikTok shows you some popular posts, and what you like and comment on shapes the feed from there. It only affects For You, not your Following feed, profile, inbox or ads, and it can't be undone. You find it under Profile, Menu, Settings and privacy, Content preferences.
