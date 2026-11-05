@@ -67,7 +67,7 @@ def page(lang: str) -> str:
     store = f"https://apps.apple.com/{d['store']}/app/id6809352229"
     alts = '\n'.join(
         f'<link rel="alternate" hreflang="{l}" href="{SITE}{DATA[l]["dir"]}faq.html">' for l in LANGS)
-    alts += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}faq.html">'
+    alts += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}en/faq.html">'
     ld_app = {
         '@context': 'https://schema.org', '@type': 'MobileApplication',
         'name': 'minulo', 'alternateName': 'FeedMinus',
@@ -131,7 +131,7 @@ def compare(lang: str) -> str:
     store = f"https://apps.apple.com/{d['store']}/app/id6809352229"
     alts = '\n'.join(
         f'<link rel="alternate" hreflang="{l}" href="{SITE}{DATA[l]["dir"]}compare.html">' for l in LANGS)
-    alts += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}compare.html">'
+    alts += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}en/compare.html">'
     ld_art = {'@context': 'https://schema.org', '@type': 'Article', 'headline': c['title'], 'description': c['lede'],
               'inLanguage': INLANG[lang], 'datePublished': '2026-09-27', 'dateModified': '2026-09-27',
               'author': {'@type': 'Person', 'name': 'Ayumu Kitabayashi'},
