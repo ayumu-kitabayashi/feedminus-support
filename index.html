@@ -581,6 +581,56 @@ footer .bottom .langs .dot{opacity:.35}
 document.addEventListener('click',function(e){if(m.open&&!m.contains(e.target))m.open=false;});
 document.addEventListener('keydown',function(e){if(e.key==='Escape'&&m.open){m.open=false;m.querySelector('summary').focus();}});})();
 </script>
+<style>
+.mlang{position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;gap:8px;padding:8px 8px 8px 16px;padding-top:calc(8px + env(safe-area-inset-top));background:#fff8d6;color:#222;border-bottom:1px solid #e6d98a;font:15px/1.4 system-ui,-apple-system,sans-serif;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.mlang span{flex:1;min-width:0}
+.mlang a{color:#0a58ca;font-weight:600;text-decoration:underline;white-space:nowrap}
+.mlang button{flex:none;width:36px;height:36px;border:0;border-radius:8px;background:transparent;color:inherit;font-size:22px;line-height:1;cursor:pointer}
+.mlang button:hover,.mlang button:focus-visible{background:rgba(0,0,0,.08)}
+@media (prefers-color-scheme:dark){.mlang{background:#2b2714;color:#f2f2f2;border-bottom-color:#4a4320}.mlang a{color:#8ab4ff}.mlang button:hover,.mlang button:focus-visible{background:rgba(255,255,255,.12)}}
+</style>
+<script>
+/* 日本語以外の人に、その言語のページを上に小さく出す（自動で飛ばさない）。閉じたら覚える。 */
+(function(){
+  var T={en:['This page is in Japanese.','Read it in English →','Close'],
+    ko:['이 페이지는 일본어로 되어 있어요.','한국어로 보기 →','닫기'],
+    fr:['Cette page est en japonais.','Lire en français →','Fermer'],
+    de:['Diese Seite ist auf Japanisch.','Auf Deutsch lesen →','Schließen'],
+    es:['Esta página está en japonés.','Leer en español →','Cerrar'],
+    pt:['Esta página está em japonês.','Ler em português →','Fechar'],
+    it:['Questa pagina è in giapponese.','Leggi in italiano →','Chiudi'],
+    ru:['Эта страница на японском.','Читать на русском →','Закрыть'],
+    th:['หน้านี้เป็นภาษาญี่ปุ่น','อ่านเป็นภาษาไทย →','ปิด'],
+    vi:['Trang này bằng tiếng Nhật.','Đọc bằng tiếng Việt →','Đóng'],
+    id:['Halaman ini berbahasa Jepang.','Baca dalam bahasa Indonesia →','Tutup'],
+    'zh-Hant':['此頁面是日文。','閱讀繁體中文版 →','關閉']};
+  function pick(langs){
+    var l=String((langs&&langs[0])||'').toLowerCase(); if(!l||/^ja\b/.test(l)) return null;
+    if(/^zh-(hant|tw|hk|mo)\b/.test(l)) return 'zh-Hant';
+    var b=l.split(/[-_]/)[0]; return (b!=='zh'&&T[b])?b:'en';
+  }
+  window.__mLangPick=pick;
+  if(typeof document==='undefined') return;
+  var K='m_lang_banner_closed', n=navigator, lang=pick(n.languages&&n.languages.length?n.languages:[n.language]);
+  if(!lang) return;
+  try{ if(localStorage.getItem(K)) return; }catch(e){}
+  var file=location.pathname.replace(/^.*\//,''), page=(file==='index.html')?'':file;
+  var href='/'+lang+'/'+page+location.search+location.hash, t=T[lang];
+  function track(ev){ var p={lang:lang,path:location.pathname};
+    if(window.minuloTrack) window.minuloTrack(ev,p); else (window.minuloQ=window.minuloQ||[]).push([ev,p]); }
+  function show(){
+    var d=document.createElement('div'); d.className='mlang'; d.setAttribute('role','region'); d.setAttribute('aria-label',t[0]); d.lang=lang;
+    var s=document.createElement('span'); s.textContent=t[0]+' ';
+    var a=document.createElement('a'); a.href=href; a.hreflang=lang; a.textContent=t[1];
+    a.addEventListener('click',function(){ track('site_lang_banner_click'); });
+    var c=document.createElement('button'); c.type='button'; c.setAttribute('aria-label',t[2]); c.textContent='×';
+    c.addEventListener('click',function(){ d.parentNode&&d.parentNode.removeChild(d); try{localStorage.setItem(K,'1');}catch(e){} });
+    s.appendChild(a); d.appendChild(s); d.appendChild(c); document.body.appendChild(d);
+    track('site_lang_banner_shown');
+  }
+  if(document.body) show(); else document.addEventListener('DOMContentLoaded',show);
+})();
+</script>
 <script src="/t.js" defer></script>
 </body>
 </html>
