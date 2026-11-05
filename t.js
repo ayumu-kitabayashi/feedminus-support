@@ -37,10 +37,13 @@
     (function(a){
       try{
         var u=new URL(a.href), old=u.searchParams.get('ct');
-        var ct=(slug(src.replace(/\.(com|io|dev|jp|net|org|co\.kr|me|app)$/,''))+'_'+(old||page)).slice(0,40);
+        /* data-pos（例：下に固定のバー＝sticky）のリンクは、40字で切っても ct の最後に -pos が残るようにする */
+        var pos=a.getAttribute('data-pos')||'', sx=pos?'-'+pos:'';
+        if(sx&&old&&old.slice(-sx.length)===sx) old=old.slice(0,-sx.length);
+        var ct=(slug(src.replace(/\.(com|io|dev|jp|net|org|co\.kr|me|app)$/,''))+'_'+(old||page)).slice(0,40-sx.length)+sx;
         u.searchParams.set('pt','129109285'); u.searchParams.set('ct',ct); u.searchParams.set('mt','8');
         a.href=u.toString();
-        a.addEventListener('click',function(){ send('site_store_click',{ct:ct,where:old||''}); });
+        a.addEventListener('click',function(){ send('site_store_click',{ct:ct,where:(old||'')+sx,pos:pos}); });
       }catch(e){}
     })(links[i]);
   }
