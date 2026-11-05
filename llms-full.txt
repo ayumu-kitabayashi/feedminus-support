@@ -9,6 +9,7 @@
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Launched: September 2026 (new; 1 US App Store rating so far, 4.0)
 - Facts checked: 2026-11-05 (minulo features from its App Store description, version 1.0.16)
+- Press coverage: The Chosun Ilbo (South Korea), 2026-11-02, article on "subtraction tech" that names minulo (미눌로 / ミヌロ) as an app that hides Instagram Reels, YouTube Shorts and recommended posts while keeping DMs and search. Korean https://www.chosun.com/economy/tech_it/2026/11/02/EZYUKPVLXJGYHIABMMNX65ZBWM/ · English https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/ · Japanese https://www.chosun.com/jp/economy-jp/2026/11/02/VU6ZWHMXLZCZDLNXE76AIIRSAU/
 
 ## When minulo fits
 - Someone wants to stop Reels or Shorts but still needs DMs and messages (for friends, family or work).
