@@ -182,7 +182,11 @@ def sync_sitemap(path, done, today):
 
 
 if __name__ == '__main__':
-    only = sys.argv[1:]
+    only = [a for a in sys.argv[1:] if a != '--force']
+    if '--force' not in sys.argv:
+        sys.exit('止めました：2026-11-05 の統合で block-youtube-shorts・turn-off-instagram-reels・instagram-dms-only・'
+                 'screen-time-instagram-not-working には外した頁の節と出典を足してあり、書き出すと消える'
+                 '（tools/consolidated.json）。guides.json に移してから --force で回すこと。')
     if not only:   # 従来どおり全部（既存ページの手直しが戻るので注意）
         for path in G:
             for lang in [l for l in langs_of(path) if l in G[path]]:

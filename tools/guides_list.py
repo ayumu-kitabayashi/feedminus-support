@@ -167,6 +167,8 @@ def build(l):
     groups = {c: [] for c in CATS}
     for c, rel, p in pages(l):
         title, desc, canon = meta(p)
+        if canon != url(l, rel):
+            continue   # 2026-11-05 統合：canonical がよそを向く頁（tools/consolidated.json）は一覧に出さない
         groups[c].append((rel, title, desc, canon))
     for c in CATS:
         if c != 'svc':

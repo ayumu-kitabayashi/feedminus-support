@@ -12,7 +12,9 @@ def url(d,s): s=js(d,s); return f'https://minulo.app/{d+"/" if d else ""}{s}'
 slugs=sys.argv[1:]
 sm=open(f'{ROOT}/sitemap.xml').read()
 for s in slugs:
-    have=[(h,d,n) for h,d,n in L if os.path.exists(path(d,s))]
+    # 2026-11-05 統合：canonical がよそを向く頁（tools/consolidated.json）は hreflang・sitemap に入れない
+    have=[(h,d,n) for h,d,n in L if os.path.exists(path(d,s)) and f'<link rel="canonical" href="{url(d,s)}">' in open(path(d,s)).read()]
+    if not have: print(s,'自分を指す canonical の頁が無い'); continue
     xdef = url('en',s) if any(d=='en' for _,d,_ in have) else url(have[0][1],s)
     block='\n'.join(f'<link rel="alternate" hreflang="{h}" href="{url(d,s)}">' for h,d,_ in have)+f'\n<link rel="alternate" hreflang="x-default" href="{xdef}">'
     for h0,d0,n0 in have:

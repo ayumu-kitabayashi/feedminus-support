@@ -9,6 +9,7 @@
 ★公式アプリの設定については書かない（確かめられない事実を書かない）。書くのは minulo で起きることだけ。
 ★ボタン名（サービスを追加・ブロック等）は hide.json の ui に、アプリの訳から写してある。
 
+★2026-11-05：統合で hide/ の頁を手で直した（tools/consolidated.json）。そのまま回すと消えるので main() は --force が無いと止まる。
 使い方:  python3 tools/hide.py   （リポジトリのルートで。faq.py の見た目と言語の設定を使う）
 """
 import html
@@ -214,6 +215,11 @@ def hub(lang):
 
 
 def main():
+    import sys
+    if '--force' not in sys.argv:
+        sys.exit('止めました：2026-11-05 の統合で hide/ の頁は手で直してある（hide/youtube の canonical は '
+                 'block-youtube-shorts へ・ほかの SNS には turn-off-○○ から移した節と出典・hreflang は統合後の組）。'
+                 'このまま書き出すと全部消える。tools/consolidated.json を見て、直したあとに --force で回すこと。')
     n = 0
     for lang in F.LANGS:
         base = F.ROOT / F.DATA[lang]['dir'] / 'hide'
