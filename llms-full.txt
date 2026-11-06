@@ -103,7 +103,7 @@
 - Watch a Reel a friend sent in DMs without the Reels feed: opening it from a chat drops you into the feed; minulo pauses it and Open for 5 min lets you watch for five minutes: https://minulo.app/en/instagram-reels-sent-in-dms.html · ja https://minulo.app/instagram-reels-sent-in-dms.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-reels-sent-in-dms.html
 - Can you remove the Reels tab on Instagram? No setting removes it from the bottom bar; what Instagram has said about its tabs, what Following and Screen Time change, and how to hide the tab in minulo: https://minulo.app/en/instagram-reels-tab-remove.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-reels-tab-remove.html
 - What to do instead of scrolling before bed: pick one replacement (paper book, writing tomorrow's plan, journaling), set a night schedule in Screen Time, and hide Reels and Shorts in minulo (free); no sleep-health claims: https://minulo.app/en/instead-of-phone-before-bed.html · ja https://minulo.app/instead-of-phone-before-bed.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instead-of-phone-before-bed.html
-- Is minulo free? Hiding Reels, Shorts and suggested posts on all 10 networks is free with nothing to buy and no trial to start; Pro adds Sleep mode, Hard Mode, a Daily limit and blocks longer than 2 hours ($9.99/month or $39.99/year on the US App Store; ¥1,480/month or ¥6,800/year in Japan); the yearly plan comes with a 7-day free trial for new subscribers; free blocks of the official apps last up to 2 hours; how to cancel (App Store description version 1.0.16, checked 2026-11-04): https://minulo.app/en/is-minulo-free.html · ja https://minulo.app/is-minulo-free.html · also de, fr, es, pt, it, ko at https://minulo.app/{lang}/is-minulo-free.html
+- Is minulo free? Hiding Reels, Shorts and suggested posts on all 10 networks is free with nothing to buy and no trial to start; Pro adds Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours ($9.99/month or $39.99/year on the US App Store; ¥1,480/month or ¥6,800/year in Japan); the yearly plan comes with a 7-day free trial for new subscribers; free blocks of the official apps last up to 2 hours; how to cancel (App Store description version 1.0.16, checked 2026-11-04): https://minulo.app/en/is-minulo-free.html · ja https://minulo.app/is-minulo-free.html · also de, fr, es, pt, it, ko at https://minulo.app/{lang}/is-minulo-free.html
 - Is SocialLite (Block Reels & Shorts) free? Free to download with in-app purchases; in the US, Pro is $6.99 to $17.99 a month or $19.99 to $47.90 a year depending on the offer (checked 2026-10-26); what is free in similar apps, and where minulo fits (hiding Reels and Shorts is free): https://minulo.app/en/is-sociallite-free.html · ja https://minulo.app/is-sociallite-free.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/is-sociallite-free.html
 - Make your iPhone boring without a dumb phone: grayscale, an empty Home Screen, batched notifications and no feeds, keeping maps, messages and DMs; free settings and minulo: https://minulo.app/en/make-your-phone-boring.html · ja https://minulo.app/make-your-phone-boring.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/make-your-phone-boring.html
 - minulo vs Awhile: Awhile is an Instagram-only browser with a free Feed/Reels/Explore/Stories filter; Messages Only and Following Only are Premium (US in-app purchases $2.99 and $14.99); iPhone, iPad and Android; 4 US ratings, average 4.5; minulo covers 10 networks, its DMs-only view is free and it can lock the official app (checked 2026-11-02): https://minulo.app/en/minulo-vs-awhile.html · ja https://minulo.app/minulo-vs-awhile.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/minulo-vs-awhile.html
@@ -179,7 +179,7 @@
 Source page: https://minulo.app/en/free-reels-blocker.html (日本語「インスタのリールを無料で非表示にするアプリ」: https://minulo.app/free-reels-blocker.html / 한국어: https://minulo.app/ko/free-reels-blocker.html). Japanese comparison of 21 apps that hide Reels (「インスタのリールを非表示にするアプリ比較」, Japan and US App Store rating counts as of 2026-10-24): https://minulo.app/alternatives.html
 
 - Nope: Safari extension for instagram.com and youtube.com. Completely free, no subscriptions or in-app purchases. Only works in Safari, not in the Instagram or YouTube apps.
-- minulo: opens 10 networks inside the app. Hiding Reels, Shorts, Explore and suggested posts is free on all 10. Locking the official apps with Screen Time is also free, up to 2 hours per block. Sleep mode, Hard Mode, a Daily limit and blocks longer than 2 hours are Pro.
+- minulo: opens 10 networks inside the app. Hiding Reels, Shorts, Explore and suggested posts is free on all 10. Locking the official apps with Screen Time is also free, up to 2 hours per block. Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours are Pro.
 - Stillfeed: 7 networks (Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, TikTok) in a built-in browser. Blocking Reels and Shorts and Instagram's Following feed are free; Stories and feed blocking and DMs Only are Pro (checked 2026-10-27).
 - Reelmute (Japanese App Store name: リールとショートを非表示): hiding is free; DMs-only, hiding suggested posts and locking the original apps are Premium.
 - Awhile: Instagram only. Filtering is free; Premium is paid.
@@ -220,7 +220,7 @@ When you open a Reel or Short sent to you in a DM, minulo pauses before the endl
 
 ## Is minulo free? What does Pro add?
 
-Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. A free block lasts up to 2 hours, and you can start another one whenever it ends. minulo Pro adds Sleep mode, which keeps blocked apps shut from one bedtime to one wake time, the same every day; Hard Mode, which allows a break only once a day; a Daily limit for social media; and blocks longer than 2 hours. Prices are shown in the App Store in your local currency. Pro is a monthly or yearly subscription, and the yearly plan comes with a 7-day free trial for new subscribers.
+Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. A free block lasts up to 2 hours, and you can start another one whenever it ends. minulo Pro adds Sleep mode, which keeps blocked apps shut from one bedtime to one wake time, the same every day; Work mode, which locks the apps you pick during your work hours on the days you choose; Hard Mode, which allows a break only once a day; a Daily limit for social media; and blocks longer than 2 hours. Prices are shown in the App Store in your local currency. Pro is a monthly or yearly subscription, and the yearly plan comes with a 7-day free trial for new subscribers.
 
 ## Can I use minulo if I post to social media for work?
 
@@ -536,7 +536,7 @@ Notifications come from the official Instagram app. If you keep the official app
 Yes. In minulo, YouTube Shorts are hidden while search, subscriptions and normal-length videos stay.
 
 ## Is it free for students?
-Hiding Reels, Shorts and suggested posts is free on every network. minulo Pro (optional) adds Sleep mode, Hard Mode, a Daily limit and blocks longer than 2 hours.
+Hiding Reels, Shorts and suggested posts is free on every network. minulo Pro (optional) adds Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours.
 
 
 # How to use TikTok for messages (DMs) only on iPhone, without the For You feed (2026) (en)
@@ -578,7 +578,7 @@ minulo with Screen Time | A block screen with an Open in minulo button, which op
 
 - Install minulo and open Instagram inside it once, logging in on Instagram's own page.
 - Allow Screen Time when minulo asks, and choose the official Instagram app (and YouTube or TikTok if you like) to lock.
-- Next time your thumb taps the Instagram icon, you get the block screen. Tap Open in minulo to reach Instagram without Reels, Explore or suggested posts.Hiding Reels is free. Free blocks of the official app last up to 2 hours at a time and can be started again any time; longer blocks and Sleep mode (one bedtime and wake time every night) are part of minulo Pro.
+- Next time your thumb taps the Instagram icon, you get the block screen. Tap Open in minulo to reach Instagram without Reels, Explore or suggested posts.Hiding Reels is free. Free blocks of the official app last up to 2 hours at a time and can be started again any time; longer blocks, Sleep mode (one bedtime and wake time every night) and Work mode (your workdays and hours) are part of minulo Pro.
 
 ## Do I have to delete Instagram?
 No. The official app stays installed; minulo locks it with Screen Time and sends you to its Reels-free view.
@@ -630,7 +630,7 @@ UNDOOMED and minulo solve the same problem the same way: they open your social n
 - Networks | Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (7). TikTok and Snapchat are listed as unavailable | Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10) 
 - Messages only | Messages Only mode for Instagram and LinkedIn (Pro, per its website) | Every tab but DMs for Instagram and TikTok (free) 
 - The official apps | Left unchanged (per its website) | Can lock them with Screen Time; the block screen has an Open in minulo button 
-- Time limits | Hourly or daily caps; optional PIN lock | Sleep mode, Hard Mode and a Daily limit in minulo Pro 
+- Time limits | Hourly or daily caps; optional PIN lock | Sleep mode, Work mode, Hard Mode and a Daily limit in minulo Pro 
 - Platforms | iPhone and Android | iPhone (plus a Mac app for Safari and Chrome) 
 - US App Store ratings | 107, average 4.3 | 1, average 4.0 (launched September 2026) 
 - Price | Free with Pro | Hiding is free; Pro is optional
@@ -730,7 +730,7 @@ This page is written by the developer of minulo. Stillfeed facts come from its U
 - Messages only | DMs Only on Instagram and X (Pro) | Every tab but DMs for Instagram and TikTok (free)
 - Suggested posts | Hidden on Instagram (free) | Hidden (free)
 - The official apps | Left unchanged. When you tap “Open Instagram” or “Open YouTube” in Stillfeed, it asks first before sending you there | Can lock them with Screen Time; the block screen has an Open in minulo button
-- Limits | Quiet hours and a daily time limit inside Stillfeed (Pro) | Sleep mode, Hard Mode, a Daily limit and blocks longer than 2 hours (Pro)
+- Limits | Quiet hours and a daily time limit inside Stillfeed (Pro) | Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours (Pro)
 - Platforms | iPhone and iPad (iOS 17 or later). Android is not mentioned on its App Store page | iPhone (plus a Mac app for Safari and Chrome). No Android version
 - US App Store ratings | 0 as of 2026-10-27 (on the App Store since July 2026) | 1 as of 2026-11-01 (launched September 2026)
 - Price | Free; Pro is $2.99/week, $5.99/month or $44.99/year. New subscribers may get a free trial or a cheaper first week | Hiding is free; Pro is optional
@@ -774,7 +774,7 @@ This page is written by the developer of minulo, so keep that in mind. Scroll Le
 - What it can hide | Per its App Store page: Instagram Reels, home feed and Explore; YouTube Shorts, recommendations and comments; Reddit Home and Popular | Reels, Shorts, Explore and suggested posts
 - DMs | Its App Store page says Instagram DMs, story replies, search and commenting on your own posts still work | Kept. Every tab but DMs for Instagram and TikTok (free)
 - The official apps | You keep using them; Reels and Shorts are blocked inside them while the Blocker is on. Its website says you can stop the broadcast from Control Center | Can lock them with Screen Time; the block screen has an Open in minulo button. While an app is locked, its notifications don't arrive
-- Other features | App blocking sessions; per its release notes, an Accountability PIN that lets someone else lock settings and turning the Blocker off, App Lock, and keeping Instagram on the Following feed | Sleep mode, Hard Mode, a Daily limit and blocks longer than 2 hours (Pro)
+- Other features | App blocking sessions; per its release notes, an Accountability PIN that lets someone else lock settings and turning the Blocker off, App Lock, and keeping Instagram on the Following feed | Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours (Pro)
 - Platforms | iPhone (iOS 17.6 or later). Android isn't mentioned on its App Store page or website | iPhone (iOS 16.4 or later), plus a Mac app for Safari and Chrome. No Android version
 - App languages | English only | 13, including Japanese and Korean
 - US App Store ratings | 25, average 4.5 (on the App Store since March 2025) | 1, average 4.0 (launched September 2026)
@@ -838,7 +838,7 @@ This page is written by Ayumu Kitabayashi, the developer of minulo, so keep that
 - What stays | Posts, watch pages, search and DMs (per its description) | DMs, friends’ posts, your own posts and replies, search
 - DMs only | Not mentioned on its App Store page or website | Every tab but DMs for Instagram and TikTok (free)
 - The official apps | Does not change them; it works in Safari | Does not change them either. It can lock them with Screen Time, and the block screen has an Open in minulo button (free for up to 2 hours per block)
-- Other tools | Grayscale mode and a 5-second “Mindful pause” | Reels and Shorts sent in DMs stop before the feed starts; Open for 5 min to watch. Sleep mode, Hard Mode and a Daily limit are Pro
+- Other tools | Grayscale mode and a 5-second “Mindful pause” | Reels and Shorts sent in DMs stop before the feed starts; Open for 5 min to watch. Sleep mode, Work mode, Hard Mode and a Daily limit are Pro
 - Account and data | No account. Its App Store privacy label says “Data Not Collected” | No account or sign-up. Your social media password goes to the network, never to minulo
 - Price | Free. No subscriptions, no in-app purchases, no ads. Its website says an optional Pro plan may come later | Hiding is free. Pro is $9.99/month or $39.99/year in the US (¥1,480/month or ¥6,800/year in Japan)
 - Devices | iPhone and iPad (iOS 17 or later), plus a Chrome extension for Chrome, Edge, Brave and Arc on computers. No Android | iPhone, plus a Mac version that works in Safari and Chrome. No Android
@@ -864,7 +864,7 @@ This page is written by Ayumu Kitabayashi, the developer of minulo, so keep that
 Both hide Reels and Shorts and are free to use for that. Nope is a Safari extension for Instagram and YouTube, so it works when you open those sites in Safari, and it has no paid plan at all. minulo opens 10 networks, including TikTok, X and Threads, inside its own app, has a free DMs-only view for Instagram and TikTok, and can lock the official apps with Screen Time. Nope has iPad support and a Chrome extension; minulo has a Mac version.
 
 ## Is Nope really free?
-Yes. Its App Store description says “No subscriptions, no in-app purchases, no ads”, and its website says an optional Pro plan may come later (checked 2026-10-27). minulo is also free for hiding Reels, Shorts and suggested posts; Sleep mode, Hard Mode, a Daily limit and blocks longer than 2 hours are part of Pro ($9.99/month or $39.99/year in the US).
+Yes. Its App Store description says “No subscriptions, no in-app purchases, no ads”, and its website says an optional Pro plan may come later (checked 2026-10-27). minulo is also free for hiding Reels, Shorts and suggested posts; Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours are part of Pro ($9.99/month or $39.99/year in the US).
 
 ## Do I need an account?
 No, for either app. Nope says there is no Nope account and no Nope server. minulo has no account or sign-up either; you sign in on each network’s own page, so minulo never sees your password.
@@ -893,7 +893,7 @@ This page is written by Ayumu Kitabayashi, the developer of minulo, so keep that
 - What it hides | Instagram: Reels and Explore tabs, home recommendations. YouTube: Shorts tab, Shorts scrolling, home recommendations. X: “For You” posts, Search and Explore, video scrolling. Facebook: Reels tab, reel scrolling, plus a friends-only feed. Pro adds hiding Instagram Stories, an AI content warning and turning off Grok | Reels, Shorts, Explore and suggested posts on all 10 networks
 - DMs only | “Limit to DMs only” for Instagram (free) | Every tab but DMs for Instagram and TikTok (free)
 - Free | Your first Weave, on all supported sites | Hiding on all 10 networks, DMs only, and locking the official apps for up to 2 hours per block
-- Pro | Unlimited Weaves, time limits, home screen widgets, iOS Shortcuts icons, advanced analytics | Sleep mode, Hard Mode, a Daily limit and blocks longer than 2 hours
+- Pro | Unlimited Weaves, time limits, home screen widgets, iOS Shortcuts icons, advanced analytics | Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours
 - Pro price | US: $2.99/month, $19.99/year, $49.99 lifetime. Japan: ¥500, ¥3,000, ¥8,000. Korea: ₩4,400, ₩29,000, ₩77,000 | US: $9.99/month, $39.99/year. Japan: ¥1,480/month, ¥6,800/year
 - The official apps | Not described; you browse in LoomWeb instead | Can lock them with Screen Time; the block screen has an Open in minulo button
 - Account and data | Its website says “No sign up required”. Its App Store privacy label lists usage data and diagnostics, not linked to you | No account or sign-up. Your social media password goes to the network, never to minulo
@@ -1180,7 +1180,7 @@ Q: Will I still get Instagram notifications if I use minulo?
 A: Only if the official Instagram app is not blocked. Notifications come from the official app, and they don't arrive while minulo blocks it. minulo itself sends no push notifications.
 
 Q: What is free in minulo and what needs Pro?
-A: Hiding Reels, Shorts and suggested posts on all 10 networks and blocking the official apps for up to 2 hours at a time are free. Pro adds Sleep mode (one bedtime and wake time, the same every day), Hard Mode (breaks only once a day), a Daily limit and blocks longer than 2 hours. In the US it is $9.99 a month or $39.99 a year, and the yearly plan comes with a 7-day free trial for new subscribers.
+A: Hiding Reels, Shorts and suggested posts on all 10 networks and blocking the official apps for up to 2 hours at a time are free. Pro adds Sleep mode (one bedtime and wake time, the same every day), Work mode (pick your workdays and hours), Hard Mode (breaks only once a day), a Daily limit and blocks longer than 2 hours. In the US it is $9.99 a month or $39.99 a year, and the yearly plan comes with a 7-day free trial for new subscribers.
 
 Q: Does minulo work on Android?
 A: Not yet. minulo is for iPhone and Mac, and the Mac app works in Safari and Chrome. The Android version is in testing, and you can join the waitlist to get one email when it is out.
@@ -2039,7 +2039,7 @@ Q: Will Subscriptions and Watch later still work?
 A: Yes. In minulo, Subscriptions and Watch later open straight from the home screen, and search keeps working even if you hide everything else on Home.
 
 Q: Is minulo free for this?
-A: Hiding Shorts, Home recommendations and comments is free with no time limit. Locking the official YouTube app is free for up to 2 hours per block. Sleep mode, Hard Mode, a Daily limit and longer blocks are part of minulo Pro.
+A: Hiding Shorts, Home recommendations and comments is free with no time limit. Locking the official YouTube app is free for up to 2 hours per block. Sleep mode, Work mode, Hard Mode, a Daily limit and longer blocks are part of minulo Pro.
 
 
 ## How to Stop Checking Instagram in Class (iPhone) (en, checked 2026-10-27)
@@ -2111,7 +2111,7 @@ Q: Will family messages still reach me if I block the Facebook app?
 A: While minulo blocks the official Facebook app, its notifications don't arrive. You can still read Messages inside minulo. Apps you don't choose to block, such as Messenger, stay open.
 
 Q: Is minulo free for Facebook?
-A: Hiding Reels and Watch, the Home feed and Marketplace is free, and blocking the official app is free for up to 2 hours per block. Sleep mode, Hard Mode, a Daily limit and blocks longer than 2 hours are part of minulo Pro.
+A: Hiding Reels and Watch, the Home feed and Marketplace is free, and blocking the official app is free for up to 2 hours per block. Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours are part of minulo Pro.
 
 
 ## Blocking apps for one hour, YouTube for studying without Shorts, phones in class, and a social media break while traveling: 10 more languages (2026-10-27)
