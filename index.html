@@ -368,6 +368,219 @@ footer .bottom .langs .dot{opacity:.35}
 .qa5 p.an{margin:6px 0 0;font-size:13.5px;line-height:1.6;color:var(--ink2)}
 </style>
 <link rel="stylesheet" href="/lp.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,600,100&amp;family=Zen+Old+Mincho:wght@600;700&amp;display=swap">
+<style>
+/* 2026-11-06 Freedom 型の作り（深い色のヒーロー・明朝の見出し・機能カード）。lp.css の後に置く。日本語は Zen Old Mincho、数字だけ Fraunces */
+:root{--deep:#0D123B;--lime:#E4F3A0;--peri:#DDE1FF;--peach:#FFE3D8;--mint:#D8F1E4;--lav:#ECE5FF;--cream:#FFF0D2;--skyL:#DCEBFD}
+.serif{font-family:"Zen Old Mincho","Hiragino Mincho ProN","Yu Mincho",serif;font-weight:700;letter-spacing:-.03em;font-feature-settings:"palt"}
+.fx{padding:clamp(64px,8vw,112px) 0}
+.fx h2.serif{font-size:clamp(27px,3.5vw,44px);line-height:1.4;font-weight:700;letter-spacing:-.03em}
+.fx .kick{font-size:15px;font-weight:600;color:var(--ink2);margin-bottom:10px}
+.acc{color:var(--pri)}
+/* 丸いボタン＋丸い矢印 */
+.pillcta{display:inline-flex;align-items:center;gap:14px;background:#fff;color:var(--deep);border-radius:999px;
+  padding:7px 7px 7px 24px;font-size:15px;font-weight:700;letter-spacing:.02em;line-height:1}
+.pillcta .arw{display:grid;place-items:center;width:40px;height:40px;border-radius:50%;background:var(--deep);color:#fff;flex:none}
+.pillcta .arw svg{width:18px;height:18px}
+.pillcta:hover{background:#F2F3FF;color:var(--deep)}
+.pillcta.blue{background:var(--pri);color:#fff}
+.pillcta.blue .arw{background:#fff;color:var(--pri)}
+.pillcta.blue:hover{background:var(--priDeep);color:#fff}
+
+/* 1 ヒーロー */
+.fhero{position:relative;overflow:hidden;color:#fff;
+  background:radial-gradient(70% 80% at 92% 100%,rgba(86,99,232,.55),rgba(86,99,232,0) 70%),
+             radial-gradient(50% 60% at 0% 0%,rgba(140,107,232,.22),rgba(140,107,232,0) 70%),var(--deep);
+  padding:clamp(36px,5vw,72px) 0 clamp(48px,6vw,88px)}
+.fhero .grid{display:grid;grid-template-columns:1.1fr 1fr;gap:clamp(24px,4vw,64px);align-items:center}
+.fhero h1.serif{font-size:clamp(30px,3.7vw,52px);line-height:1.35;font-weight:700;letter-spacing:-.03em;color:#fff;word-break:keep-all}
+.fhero .hsub{margin:22px 0 28px;font-size:clamp(15.5px,1.4vw,18px);line-height:1.85;color:rgba(255,255,255,.82);max-width:31em}
+.fhero .ctas{display:flex;flex-wrap:wrap;align-items:center;gap:14px}
+.fhero .store img{height:54px}
+.fhero .macdl img{height:54px}
+.fhero .wl a{display:inline-block;margin-top:14px;padding:9px 16px;border:1.5px solid rgba(255,255,255,.5);border-radius:999px;
+  font-size:13.5px;font-weight:700;color:#fff}
+.fhero .wl a:hover{border-color:#fff}
+/* ヒーローをアイボリーに（11/6 北林） */
+.fhero{background:#FBF7EC;color:#17181D}
+.fhero h1.serif{color:#17181D}
+.fhero .hsub{color:#4A4B55}
+.fhero .wl a{border-color:rgba(23,24,29,.3);color:#17181D}
+.fhero .wl a:hover{border-color:#17181D}
+
+.fphones{position:relative;width:100%;max-width:560px;aspect-ratio:560/600;margin-inline:auto}
+.fphone{position:absolute;width:42%;border-radius:30px;padding:7px;background:linear-gradient(160deg,#2A2D38,#0B0C10);
+  box-shadow:0 30px 60px rgba(0,0,0,.45),inset 0 0 0 1.5px rgba(255,255,255,.12)}
+.fphone img{width:100%;height:auto;border-radius:24px}
+.fphone.a{left:1%;top:13%;transform:rotate(-15deg);z-index:1}
+.fphone.b{left:28%;top:6%;transform:rotate(-6deg);z-index:2}
+.fphone.c{left:56%;top:1%;transform:rotate(5deg);z-index:3}
+
+/* 3 大きな一文 */
+.fstate{text-align:center}
+.fstate .minu{margin:0 auto 18px}
+.fstate h2.serif{color:var(--deep);max-width:13em;margin-inline:auto}
+.fstate p.l{margin:18px auto 0;max-width:34em;font-size:17px;line-height:1.7;color:var(--ink2)}
+
+/* 4 レビュー */
+.frev{background:#F6F6FB}
+.frev h2.serif{color:var(--deep);max-width:16em;margin:0 auto;text-align:center;text-wrap:balance}
+.frev h2 .acc{display:block}
+.frev .row4{margin-top:40px;display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.rcard{background:#fff;border-radius:14px;padding:22px 20px;border:1px solid #E7E7EF;display:flex;flex-direction:column;gap:8px}
+.rcard .st{color:#E9A90C;letter-spacing:2px;font-size:15px;line-height:1}
+.rcard b{font-size:16.5px;line-height:1.35;color:var(--deep)}
+.rcard q{font-size:14.5px;line-height:1.65;color:#33363F}
+.rcard .who{margin-top:auto;padding-top:8px;font-size:12.5px;line-height:1.5;color:var(--ink2)}
+.rcard .who span{display:block;font-weight:600;color:#33363F}
+
+/* 5 数字 */
+.fstats h2.serif{color:var(--deep);text-align:center}
+.fstats .nums{margin-top:44px;display:grid;grid-template-columns:repeat(4,1fr);gap:24px;text-align:center}
+.fstats .n{font-family:"Fraunces","Zen Old Mincho",Georgia,serif;font-weight:600;font-size:clamp(46px,5.4vw,68px);line-height:1;font-variation-settings:"SOFT" 100}
+.fstats .n.c1{color:var(--pri)}.fstats .n.c2{color:#C77700}.fstats .n.c3{color:#D93D54}.fstats .n.c4{color:var(--deep)}
+.fstats .d{margin:12px auto 0;max-width:15em;font-size:14.5px;line-height:1.5;color:#33363F;font-weight:500}
+.fstats .d a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+
+/* 6 機能カード */
+.ffeat{padding-top:clamp(24px,3vw,40px)}
+.ffeat .head{text-align:center;max-width:720px;margin:0 auto}
+.ffeat h2.serif{color:var(--deep)}
+.ffeat h2 .acc{display:inline}
+.ffeat .head p{margin-top:16px;font-size:17px;line-height:1.65;color:var(--ink2)}
+.fgrid{margin-top:56px;display:grid;grid-template-columns:1fr 1fr;gap:64px clamp(28px,4vw,56px)}
+.fcard .vis{border-radius:22px;aspect-ratio:13/10;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;overflow:hidden;position:relative}
+.fcard h3{word-break:auto-phrase;text-wrap:balance;margin:24px 0 0;font-size:22px;font-weight:700;letter-spacing:-.02em;color:var(--deep);line-height:1.3}
+.fcard p.t{margin-top:10px;font-size:15.5px;line-height:1.7;color:#3E414B}
+.ftag{margin-top:18px;display:inline-flex;align-items:center;gap:10px;background:#EEF0F6;border-radius:999px;padding:6px 16px 6px 6px;
+  font-size:13.5px;font-weight:600;color:#2B2E3A;line-height:1.3}
+.ftag i{display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--pri);color:#fff;flex:none}
+.ftag i svg{width:14px;height:14px}
+.ftag.pro i{background:var(--deep)}
+.fcard.wide{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr;gap:clamp(28px,4vw,56px);align-items:center}
+.fcard.wide h3{margin-top:0}
+/* カードの中の絵（CSS だけ） */
+.mock{background:#fff;border-radius:16px;box-shadow:0 14px 34px rgba(13,18,59,.12);width:min(320px,100%);overflow:hidden}
+.mrow{display:flex;align-items:center;gap:12px;padding:11px 14px;border-top:1px solid #EEEEF2;font-size:14.5px;font-weight:600;line-height:1.3}
+.mrow:first-child{border-top:0}
+.mrow img{width:26px;height:26px;border-radius:7px}
+.mrow small{display:block;font-size:12px;font-weight:500;color:var(--ink3)}
+.msw{margin-left:auto;width:40px;height:24px;border-radius:99px;background:var(--pri);position:relative;flex:none}
+.msw::after{content:"";position:absolute;top:3px;right:3px;width:18px;height:18px;border-radius:50%;background:#fff}
+.mtabs{display:flex;justify-content:space-around;padding:12px 10px;border-top:1px solid #EEEEF2;font-size:12px;font-weight:600;color:#B5B7C0}
+.mtabs s{text-decoration-color:#E5484D;text-decoration-thickness:2px}
+.mtabs b{color:var(--pri)}
+.mtitle{padding:13px 16px;font-size:15px;font-weight:700;border-bottom:1px solid #EEEEF2;display:flex;align-items:center;gap:8px}
+.mtitle img{width:22px;height:22px;border-radius:6px}
+.mtitle .msw{width:34px;height:20px}.mtitle .msw::after{width:14px;height:14px}
+.av{width:30px;height:30px;border-radius:50%;flex:none}
+.icons3{display:flex;gap:18px}
+.icons3 span{position:relative;display:block;width:clamp(56px,7vw,72px)}
+.icons3 img{width:100%;height:auto;border-radius:23%;box-shadow:0 8px 18px rgba(13,18,59,.15)}
+.icons3 em{position:absolute;right:-7px;bottom:-7px;width:28px;height:28px;border-radius:50%;background:var(--deep);color:#fff;display:grid;place-items:center;box-shadow:0 0 0 3px #fff}
+.icons3 em svg{width:14px;height:14px}
+.mnote{margin-top:22px;display:inline-flex;align-items:center;gap:8px;background:#fff;border-radius:999px;padding:8px 16px;font-size:13.5px;font-weight:600;color:var(--deep);box-shadow:0 8px 20px rgba(13,18,59,.1)}
+.bubble{background:#fff;border-radius:18px 18px 18px 6px;padding:10px;width:min(180px,70%);box-shadow:0 14px 34px rgba(13,18,59,.12)}
+.bubble .th{aspect-ratio:9/11;border-radius:12px;background:linear-gradient(160deg,#FFB38A,#F26072 55%,#8C6BE8);display:grid;place-items:center}
+.bubble .th svg{width:40px;height:40px;color:#fff}
+.bubble .cap{margin:8px 4px 2px;font-size:12.5px;font-weight:600;color:var(--ink2);line-height:1.4}
+.endline{margin-top:14px;border:2px dashed rgba(13,18,59,.28);border-radius:12px;padding:8px 14px;font-size:13px;font-weight:600;color:var(--deep);text-align:center;background:rgba(255,255,255,.5)}
+.url{display:flex;align-items:center;gap:8px;margin:12px 12px 4px;background:#F1F2F6;border-radius:10px;padding:8px 12px;font-size:13px;font-weight:600;color:#3E414B}
+.url svg{width:13px;height:13px;color:#2E9E5B}
+.fld{margin:10px 14px 0;border:1.5px solid #E4E5EC;border-radius:10px;padding:9px 12px;font-size:13.5px;color:#8A8C96;line-height:1.3}
+.fld.pw{color:#3E414B;letter-spacing:3px}
+.lbtn{margin:12px 14px 16px;background:var(--pri);color:#fff;border-radius:10px;padding:10px;text-align:center;font-size:14px;font-weight:700;line-height:1.2}
+.times{display:flex;flex-direction:column;gap:8px;width:min(260px,100%)}
+.times div{display:flex;justify-content:space-between;align-items:center;background:#fff;border-radius:12px;padding:10px 14px;font-size:14px;font-weight:600;color:var(--deep);box-shadow:0 8px 20px rgba(13,18,59,.08);line-height:1.3}
+.times div span{font-size:12.5px;color:var(--ink2);font-weight:500}
+.vis .stat{box-shadow:0 14px 34px rgba(13,18,59,.12);border:0;width:100%}
+.vis .streak{box-shadow:0 10px 24px rgba(13,18,59,.1);border:0}
+
+/* 7 こんな時に */
+.ffor{padding:0 0 clamp(40px,5vw,64px)}
+.forband{border-radius:28px;overflow:hidden;position:relative;color:#fff;text-align:center;
+  padding:clamp(48px,7vw,96px) 20px;background:radial-gradient(60% 90% at 50% 120%,#A9B4FF 0,rgba(169,180,255,0) 70%),linear-gradient(135deg,#2B33A8,#5663E8 60%,#7A6BE8)}
+.forband .kick{color:rgba(255,255,255,.9);font-size:17px;font-weight:600;margin:0}
+.forband ul{list-style:none;margin:14px 0 0;padding:0}
+.forband li{font-family:"Zen Old Mincho","Hiragino Mincho ProN",serif;font-weight:700;
+  font-size:clamp(24px,3.8vw,48px);line-height:1.45;font-feature-settings:"palt";letter-spacing:-.03em;color:rgba(255,255,255,.6)}
+.forband li:nth-child(2){color:#fff}
+.forband .minu{margin:28px auto 22px}
+.forband .ctas{display:flex;justify-content:center}
+
+/* 8 10サービス・iPhone と Mac */
+.fdev{position:relative;overflow:hidden;padding-bottom:0;padding-top:clamp(8px,2vw,24px)}
+.fprice + .band.close{padding-top:clamp(56px,7vw,88px)!important;border-top:0}
+.fdev::before{content:"";position:absolute;left:-20%;right:-20%;bottom:0;height:58%;border-radius:50% 50% 0 0/120px 120px 0 0;background:var(--peri)}
+.fdev .wrap{position:relative}
+.fdev h2.serif{text-align:center}
+.fdev h2 .l1{color:var(--pri);display:block}
+.fdev h2 .l2{color:var(--deep);display:block}
+.fdev .sub{margin:16px auto 0;text-align:center;max-width:36em;font-size:16.5px;line-height:1.65;color:var(--ink2)}
+.devs{margin:44px auto 0;display:flex;justify-content:center;align-items:flex-end;gap:clamp(14px,3vw,36px)}
+.laptop{width:min(520px,66%)}
+.laptop .scr{aspect-ratio:16/10;background:#0B0C10;border-radius:16px 16px 4px 4px;padding:3%}
+.laptop .base{height:14px;margin:0 -7%;background:linear-gradient(#E6E7EE,#C3C5D2);border-radius:0 0 14px 14px}
+.dscr{width:100%;height:100%;border-radius:8px;background:var(--deep);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;color:#fff;text-align:center;padding:8px}
+.dscr img.ic{width:clamp(26px,4vw,48px);height:auto;border-radius:22%}
+.dscr span{font-size:clamp(10px,1.3vw,15px);color:rgba(255,255,255,.75);font-weight:500;line-height:1.3}
+.dscr b{white-space:nowrap;font-family:"Zen Old Mincho","Hiragino Mincho ProN",serif;font-weight:700;font-feature-settings:"palt";font-size:clamp(14px,2.2vw,28px);line-height:1.1;color:#CDD2FF}
+.iph{width:min(150px,25%);background:#0B0C10;border-radius:26px;padding:6px;aspect-ratio:9/19.5}
+.iph .dscr{border-radius:20px}
+.iph .dscr b{font-size:clamp(13px,1.6vw,20px)}
+.nets{position:relative;margin:48px auto 0;padding-bottom:clamp(56px,7vw,88px);display:grid;grid-template-columns:repeat(5,1fr);gap:22px 12px;max-width:640px}
+.nets figure{margin:0;text-align:center}
+.nets img{width:48px;height:48px;margin:0 auto;border-radius:12px}
+.nets figcaption{margin-top:7px;font-size:13px;font-weight:600;color:var(--deep)}
+
+/* 9 無料と Pro */
+.fprice{background:#F6F6FB}
+.fprice h2.serif{color:var(--deep);text-align:center}
+.fprice .two2{margin:44px auto 0;max-width:900px;display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.pcard{background:#fff;border-radius:22px;padding:clamp(24px,3vw,34px);border:1px solid #E7E7EF}
+.pcard.pro{background:var(--deep);color:#fff;border-color:var(--deep)}
+.pcard .tier{font-size:14px;font-weight:700;letter-spacing:.04em;color:var(--pri)}
+.pcard.pro .tier{color:#AEB5F5}
+.pcard .amt{margin-top:6px;font-family:"Fraunces","Zen Old Mincho",Georgia,serif;font-weight:600;font-size:clamp(34px,4vw,46px);line-height:1.1;font-variation-settings:"SOFT" 100}
+.pcard .amt small{font-size:.45em;opacity:.75}
+.pcard ul{margin:18px 0 0;padding:0;list-style:none}
+.pcard li{position:relative;padding:10px 0 10px 30px;border-top:1px solid #EEEEF2;font-size:15px;line-height:1.55}
+.pcard.pro li{border-top-color:rgba(255,255,255,.14);color:rgba(255,255,255,.92)}
+.pcard li::before{content:"";position:absolute;left:2px;top:16px;width:13px;height:7px;border-left:2.5px solid var(--pri);border-bottom:2.5px solid var(--pri);transform:rotate(-45deg)}
+.pcard.pro li::before{border-color:#AEB5F5}
+.pcard .fine{margin-top:14px;font-size:13.5px;line-height:1.6;color:rgba(255,255,255,.78)}
+.fprice .ctas{margin-top:30px;display:flex;justify-content:center}
+
+@media (max-width:900px){
+  .frev .row4{grid-template-columns:repeat(4,minmax(250px,1fr));overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px;margin-inline:-24px;padding-inline:24px;scrollbar-width:none}
+  .frev .row4::-webkit-scrollbar{display:none}
+  .rcard{scroll-snap-align:start}
+  .fstats .nums{grid-template-columns:1fr 1fr;row-gap:36px}
+}
+@media (max-width:820px){
+  .fhero .grid{grid-template-columns:1fr}
+  .fhero .fphones{order:2;max-width:420px}
+  .fgrid{grid-template-columns:1fr;gap:52px}
+  .fcard.wide{grid-template-columns:1fr;gap:0}
+  .fcard.wide h3{margin-top:24px}
+  .fprice .two2{grid-template-columns:1fr}
+}
+@media (max-width:520px){
+  .wrap{padding:0 16px}
+  .frev .row4{margin-inline:-16px;padding-inline:16px;grid-template-columns:repeat(4,80%)}
+  .fcard .vis{aspect-ratio:auto;min-height:290px;padding:24px 16px}
+  .pillcta{font-size:13px;padding-left:18px}
+  .fhero .store img{height:46px}
+  .nets{gap:16px 4px}
+  .nets img{width:40px;height:40px}
+  .nets figcaption{font-size:11px}
+  .forband{border-radius:22px}
+  .iph .dscr b{font-size:12px}
+  .iph .dscr span{font-size:10px}
+}
+</style>
 </head>
 <body>
 
@@ -379,146 +592,215 @@ footer .bottom .langs .dot{opacity:.35}
   </div>
 </div></div></div>
 
-<header class="band" id="top" style="padding-top:clamp(40px,5vw,64px)"><div class="wrap"><div class="split">
+
+<header class="fhero" id="top"><div class="wrap"><div class="grid">
   <div class="txt">
-    <h1 style="font-size:clamp(31px,4.1vw,52px);line-height:1.3">インスタのリールだけに<br>バイバイ👋</h1>
-    <div class="cta">
+    <h1 class="serif">インスタのリールだけに<br>バイバイ👋</h1>
+    <p class="hsub">minuloは、iPhoneでインスタのリール、YouTubeのショート、TikTokのおすすめを隠します。DM、グループDM、検索、投稿はそのまま使えます。</p>
+    <div class="ctas">
       <a class="store" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-hero&amp;mt=8"><img src="badges/appstore-ja-jp.svg" alt="App Storeからダウンロード" width="147" height="54"></a>
       <!-- Mac 版：App Store のバッジと同じ形。releases/latest/download/minulo.dmg は、いちばん新しいリリースの minulo.dmg を返す（版を出すたびに同じ名前で上げれば、ここは触らなくていい） -->
       <a class="store macdl" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg" data-pos="hero-mac"><img src="badges/macos-ja.svg" alt="macOS 版をダウンロード" width="147" height="54"></a>
     </div>
-    <p class="wlhome" style="margin-top:10px"><a href="https://docs.google.com/forms/d/e/1FAIpQLScTvhahKgxFJTdpDjP6pzm9rpePgJa_5gsLtuReju56xCve5g/viewform" target="_blank" rel="noopener" data-pos="hero" style="display:inline-block;padding:9px 16px;border:1.5px solid var(--ink2);border-radius:999px;font-size:13.5px;font-weight:700;color:var(--ink);text-decoration:none">Android 版の順番待ちに登録 <span aria-hidden="true">&rarr;</span></a></p>
+    <p class="wl"><a href="https://docs.google.com/forms/d/e/1FAIpQLScTvhahKgxFJTdpDjP6pzm9rpePgJa_5gsLtuReju56xCve5g/viewform" target="_blank" rel="noopener" data-pos="hero">Android 版の順番待ちに登録 <span aria-hidden="true">&rarr;</span></a></p>
   </div>
-  <div class="fig heroshots">
-    <img src="m/sh-ig.webp" alt="minuloで開いたInstagram。フィードとリールが消えて、DMとフォロー中は残る" width="900" height="1955">
-    <img src="m/sh-yt.webp" alt="minuloで開いたYouTube。ショート動画の棚が非表示になっている" width="900" height="1955">
+  <div class="fphones">
+    <div class="fphone a"><img src="m/ph-rules.webp" alt="minuloで、Instagramの隠すものを選ぶ画面" width="760" height="1651" fetchpriority="low"></div>
+    <div class="fphone b"><img src="m/sh-yt-screen.webp" alt="minuloで開いたYouTube。ショート動画の棚が非表示になっている" width="828" height="1799"></div>
+    <div class="fphone c"><img src="m/sh-ig.webp" alt="minuloで開いたInstagram。フィードとリールが消えて、DMとフォロー中は残る" width="900" height="1955"></div>
   </div>
-</div></div>
-<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#D4E4FD" d="M0,40 C260,66 470,10 720,22 C970,34 1190,66 1440,42 L1440,64 L0,64 Z" opacity=".55"/></svg>
-</header>
+</div></div></header>
 
-<section class="band" id="can"><div class="wrap"><div class="split">
-  <div class="fig">
-    <div class="funnel">
-      <div style="display:flex;flex-direction:column;align-items:center;gap:0">
-        <div class="icons"><img loading="lazy" decoding="async" src="svc/tiktok.webp" alt="TikTok"><img loading="lazy" decoding="async" src="svc/instagram.webp" alt="Instagram"><img loading="lazy" decoding="async" src="svc/youtube.webp" alt="YouTube"><img loading="lazy" decoding="async" src="svc/x.webp" alt="X"></div>
-        <span class="loop">終わらないループ 🌀</span>
+<section class="fx fstate"><div class="wrap">
+  <img loading="lazy" decoding="async" class="minu" src="m/proud.webp" alt="minulo のキャラクター、ミヌ" width="427" height="358" style="--mw:150px">
+  <h2 class="serif">友だちとはつながったまま。<br><span class="acc">フィードだけ、なくす。</span></h2>
+  <p class="l">DMもグループDMも、フォローしている人の投稿も、いつもの場所にあります。リール、ショート、おすすめは出てきません。</p>
+</div></section>
+
+<section class="fx frev" id="reviews"><div class="wrap">
+  <h2 class="serif"><span style="display:inline-block">App Storeで</span><span style="display:inline-block">星5つをもらった声</span><span class="acc">（日本・韓国）</span></h2>
+  <div class="row4">
+    <figure class="rcard" style="margin:0"><span class="st" aria-label="星5つ">★★★★★</span><b>かなり良いです!</b><q>使いすぎを抑えるという点では、無料ならば素晴らしい性能です！</q><figcaption class="who"><span>Mr.Octopus&amp;Fox</span>App Storeのレビュー（日本）</figcaption></figure>
+    <figure class="rcard" style="margin:0"><span class="st" aria-label="星5つ">★★★★★</span><b>大好きです！開発者さん、がんばって！！</b><q>無料版だけでもショート動画をちゃんとブロックできて、使い始めてから毎日がすごく快適になりました。</q><figcaption class="who"><span>아시유</span>App Storeのレビュー（韓国・訳）</figcaption></figure>
+    <figure class="rcard" style="margin:0"><span class="st" aria-label="星5つ">★★★★★</span><b>リールとショートの遮断が確実です</b><q>リールとショートだけをすっと遮断してくれるのが良いです。</q><figcaption class="who"><span>철이네멍멍이</span>App Storeのレビュー（韓国・訳）</figcaption></figure>
+    <figure class="rcard" style="margin:0"><span class="st" aria-label="星5つ">★★★★★</span><b>かわいくて、とても気に入っています</b><q>無料版でも十分です。高校生で、勉強するために入れました。</q><figcaption class="who"><span>MXXNSTROKE</span>App Storeのレビュー（韓国・訳）</figcaption></figure>
+  </div>
+</div></section>
+
+<section class="fx fstats"><div class="wrap">
+  <h2 class="serif">数字で見る<span class="acc">minulo</span></h2>
+  <div class="nums">
+    <div><p class="n c1">10</p><p class="d">対応しているSNS。インスタ、YouTube、TikTokなど</p></div>
+    <div><p class="n c2">84%</p><p class="d">年齢を答えてくれた人のうち、24歳以下の人（<a href="./reels-shorts-data-2026.html#october-2026">2026年10月のデータ</a>）</p></div>
+    <div><p class="n c3">0</p><p class="d">作るアカウント。ログインは各SNSの公式ページでします</p></div>
+    <div><p class="n c4">0円</p><p class="d">リールとショートを隠すのにかかるお金。時間の制限もありません</p></div>
+  </div>
+</div></section>
+
+<section class="fx ffeat" id="can"><div class="wrap">
+  <div class="head">
+    <h2 class="serif">minuloで<span class="acc">できること</span></h2>
+    <p>インスタもYouTubeもTikTokも、やめなくていい。つい見続けてしまうリールやショートだけを消して、DMや検索は残します。</p>
+  </div>
+  <div class="fgrid">
+
+    <article class="fcard">
+      <div class="vis" style="background:var(--lime)">
+        <div class="mock">
+          <div class="mrow"><img loading="lazy" decoding="async" src="svc/instagram.webp" alt=""><span>リール<small>Instagram</small></span><i class="msw"></i></div>
+          <div class="mrow"><img loading="lazy" decoding="async" src="svc/youtube.webp" alt=""><span>ショート<small>YouTube</small></span><i class="msw"></i></div>
+          <div class="mrow"><img loading="lazy" decoding="async" src="svc/tiktok.webp" alt=""><span>おすすめ<small>TikTok</small></span><i class="msw"></i></div>
+          <div class="mrow"><img loading="lazy" decoding="async" src="svc/snapchat.webp" alt=""><span>スポットライト<small>Snapchat</small></span><i class="msw"></i></div>
+        </div>
       </div>
-      <svg class="arrow" viewBox="0 0 40 28" fill="var(--pri)" style="width:clamp(26px,3vw,40px);height:auto"><path d="M0 11h22V3.5c0-1.3 1.5-2 2.5-1.2l14 10.2c.8.6.8 1.8 0 2.4l-14 10.2c-1 .8-2.5.1-2.5-1.2V17H0Z"/></svg>
-      <div class="keep"><div style="text-align:center"><svg class="i" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3c5 0 9 3.4 9 7.6 0 4.2-4 7.6-9 7.6-.9 0-1.8-.1-2.6-.3L4.8 20.6c-.5.3-1.1-.2-.9-.7l1-3.1C3.1 15.4 3 13 3 10.6 3 6.4 7 3 12 3Z"/><circle cx="8.6" cy="10.6" r="1.25" fill="#fff"/><circle cx="12" cy="10.6" r="1.25" fill="#fff"/><circle cx="15.4" cy="10.6" r="1.25" fill="#fff"/></svg><b>DM</b></div><div style="text-align:center"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.2"/><path d="M15.4 15.4 20 20"/></svg><b>検索</b></div><div style="text-align:center"><svg class="i" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="8.2" r="3.8"/><path d="M4.6 20c.6-3.9 3.7-6.2 7.4-6.2s6.8 2.3 7.4 6.2Z"/></svg><b>プロフィール</b></div></div>
-    </div>
-  </div>
-  <div class="txt"><h2>インスタはリールだけ、<br>YouTubeはショートだけを非表示</h2>
-    <div class="rows">
-          <div class="row"><img loading="lazy" decoding="async" src="svc/instagram.webp" alt="Instagram"><i class="sw"></i></div>
-          <div class="row"><img loading="lazy" decoding="async" src="svc/x.webp" alt="X"><i class="sw"></i></div>
-          <div class="row"><img loading="lazy" decoding="async" src="svc/youtube.webp" alt="YouTube"><i class="sw"></i></div>
-          <div class="row"><img loading="lazy" decoding="async" src="svc/tiktok.webp" alt="TikTok"><i class="sw"></i></div>
-    </div>
-  </div>
-</div></div></section>
-
-<section class="band" id="how"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>友だちのDMは、<br>ちゃんと届く。</h2>
-  </div>
-  <div class="fig" style="display:flex;align-items:flex-end;gap:14px;justify-content:center">
-    <div class="phone" style="--pw:236px"><img loading="lazy" decoding="async" src="m/ph-rules.webp" alt="Instagramで非表示にする項目を選ぶ画面" width="760" height="1651"></div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;padding-bottom:26px">
-      <img loading="lazy" decoding="async" class="minu" src="m/default.webp" alt="minulo のキャラクター、ミヌ" width="452" height="336" style="--mw:120px">
-      
-    </div>
-  </div>
-</div></div></section>
-
-<section class="band" id="gate"><div class="wrap"><div class="split">
-  <div class="txt"><h2>いつものインスタを押すと、<br>リールなしで開く。</h2>
-  </div>
-  <div class="fig" style="display:flex;justify-content:center"><img loading="lazy" decoding="async" class="minu" src="m/proud.webp" alt="minulo のキャラクター、ミヌ" width="427" height="358" style="--mw:200px"></div>
-</div></div></section>
-
-<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#DFECFD" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
-<section class="band sky"><div class="wrap"><div class="split rev">
-  <div class="txt"><h2>夜10時から朝6時は、<br>SNSが開かない。</h2>
-    <div class="chips">
-          <div class="chip"><svg class="i" viewBox="0 0 24 24" fill="currentColor"><path d="M20 14.5A8.4 8.4 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><span>スリープモード · Pro<small>22:00–6:00</small></span></div>
-    </div>
-  </div>
-  <div class="fig" style="display:flex;flex-direction:column;align-items:center;gap:10px">
-    <svg viewBox="0 0 260 90" style="width:min(300px,100%);height:auto" aria-hidden="true">
-      <path d="M14 76 C60 8 200 8 246 76" fill="none" stroke="#9FC0EE" stroke-width="2.5" stroke-dasharray="7 8" stroke-linecap="round"/>
-      <circle cx="246" cy="76" r="11" fill="#F3BE3F"/>
-      <path d="M22 66a12 12 0 1 0 0-20 14 14 0 0 1 0 20Z" fill="#fff"/>
-    </svg>
-    <div style="position:relative">
-      <img loading="lazy" decoding="async" class="minu" src="m/sleeping.webp" alt="minulo のキャラクター、ミヌ" width="452" height="295" style="--mw:220px">
-      <span style="position:absolute;top:-6px;right:-18px;font-size:15px;font-weight:600;color:var(--priDeep);letter-spacing:.12em">zzz</span>
-    </div>
-    
-  </div>
-</div></div></section>
-<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#DFECFD"><path fill="#FFF9F2" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
-
-<section class="band" id="log"><div class="wrap"><div class="split">
-  <div class="fig" style="display:flex;flex-direction:column;align-items:center">
-    <div class="stat">
-      <p class="k">今週、リールを見なかった時間</p>
-      <p class="v">5<small>時間</small>24<small>分</small></p>
-      <div class="bars"><i class="" style="height:52%"></i><i class="on" style="height:86%"></i><i class="" style="height:60%"></i><i class="on" style="height:74%"></i><i class="" style="height:48%"></i><i class="on" style="height:96%"></i><i class="" style="height:70%"></i></div>
-      <div class="dow"><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span>土</span><span>日</span></div>
-    </div>
-    <div style="display:flex;align-items:flex-end;gap:10px">
-      <div class="streak"><svg viewBox="0 0 24 24" fill="#F26072" style="width:22px;height:22px"><path d="M12.5 2c.6 2.6-.6 4.3-2 5.9-1.6 1.8-3.5 3.6-3.5 6.6A6.9 6.9 0 0 0 14 21.4c3.4-.6 5.6-3.4 5.6-6.7 0-4.3-3.3-6.4-4.3-9.2-.4 1.2-1.2 2-2 2.6.3-2.3-.2-4.4-.8-6.1Z"/></svg><div><div class="k">ロックが続いた日数</div><div class="v">7日</div></div></div>
-      <img loading="lazy" decoding="async" class="minu" src="m/default.webp" alt="minulo のキャラクター、ミヌ" width="452" height="336" style="--mw:112px">
-    </div>
-  </div>
-  <div class="txt"><h2>リールを見ずにすんだ時間が、<br>毎週わかる。</h2>
-  </div>
-</div></div></section>
-
-
-
-<section class="band" id="reviews"><div class="wrap rvw">
-  <h2>使っている人の声</h2>
-  <div class="rvw-score"><span class="rvw-stars" aria-hidden="true">★★★★☆</span><b>4.0</b><span>24件の評価</span></div>
-  <div class="rvw-grid">
-    <article class="rvw-card">
-      <div class="rvw-top"><span class="rvw-stars" aria-label="星5つ">★★★★★</span><span class="rvw-where">韓国・2026年10月</span></div>
-      <h3>너무 좋아요! 개발자님 화이팅!!</h3>
-      <p lang="ko">무료 버전만으로도 충분히 숏폼 등 도파민성 영상들을 차단할 수 있어서 이걸 쓰고 난 이후로는 하루가 되게 쾌적해졌어요!</p>
-      <p class="rvw-tr">訳：無料の範囲だけでもショート動画などをしっかり止められて、使い始めてから1日がとても快適になりました。</p>
+      <h3>隠すものを選べる</h3>
+      <p class="t">返信だけのつもりでインスタを開いたのに、気づけばリールを見ている。リール、ショート、おすすめを、SNSごとにスイッチ1つでオフにできます。</p>
+      <span class="ftag"><i><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m3.5 8.5 3 3 6-7"/></svg></i>隠すのは無料</span>
     </article>
-    <article class="rvw-card">
-      <div class="rvw-top"><span class="rvw-stars" aria-label="星5つ">★★★★★</span><span class="rvw-where">韓国・2026年10月</span></div>
-      <h3>릴스 쇼츠 차단이 확실하네요</h3>
-      <p lang="ko">릴스랑 쇼츠만 쏙 차단 되는 것도 좋아요</p>
-      <p class="rvw-tr">訳：リールとショートがきっちり消えます。リールとショートだけがすっと消えるのも良いです。</p>
+
+    <article class="fcard" id="how">
+      <div class="vis" style="background:var(--peri)">
+        <div class="mock">
+          <div class="mtitle"><img loading="lazy" decoding="async" src="svc/instagram.webp" alt="">DM以外のタブ<i class="msw"></i></div>
+          <div class="mrow"><i class="av" style="background:linear-gradient(135deg,#FFC46B,#F26072)"></i><span>クラスのグループ<small>明日は9時集合ね</small></span></div>
+          <div class="mrow"><i class="av" style="background:linear-gradient(135deg,#7FD4C1,#5663E8)"></i><span>ゆい<small>写真を送信しました</small></span></div>
+          <div class="mrow"><i class="av" style="background:linear-gradient(135deg,#C8B6FF,#8C6BE8)"></i><span>サッカー部<small>練習は5時からに変更です</small></span></div>
+          <div class="mtabs"><s>ホーム</s><s>検索</s><s>リール</s><b>DM</b></div>
+        </div>
+      </div>
+      <h3>インスタはDMだけ</h3>
+      <p class="t">「DM以外のタブ」をオンにすると、インスタに残るのはDMとお知らせだけ。スクロールして見るものがなくなります。TikTokでも使えて、無料です。</p>
+      <span class="ftag"><i><svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 2c3.3 0 6 2.3 6 5.1S11.3 12.2 8 12.2c-.6 0-1.2-.1-1.7-.2L3.2 13.8c-.3.2-.7-.1-.6-.5l.6-2C2.4 10.4 2 8.8 2 7.1 2 4.3 4.7 2 8 2Z"/></svg></i>DMは届く。リールは出ない</span>
     </article>
-    <article class="rvw-card">
-      <div class="rvw-top"><span class="rvw-stars" aria-label="星4つ">★★★★☆</span><span class="rvw-where">アメリカ・2026年10月</span></div>
-      <h3>One change could be made</h3>
-      <p lang="en">Pretty tuff but I feel like on hard more there should be more than one break.</p>
-      <p class="rvw-tr">訳：かなり手ごわい。ただハードモードの休憩は1回より多くてもいいと思う。</p>
+
+    <article class="fcard" id="gate">
+      <div class="vis" style="background:var(--skyL)">
+        <div class="icons3">
+          <span><img loading="lazy" decoding="async" src="svc/instagram.webp" alt="Instagram"><em><svg viewBox="0 0 16 16" fill="currentColor"><path d="M5 7V5.2a3 3 0 0 1 6 0V7h.6c.5 0 .9.4.9.9v5.2c0 .5-.4.9-.9.9H4.4a.9.9 0 0 1-.9-.9V7.9c0-.5.4-.9.9-.9Zm1.5 0h3V5.2a1.5 1.5 0 0 0-3 0Z"/></svg></em></span>
+          <span><img loading="lazy" decoding="async" src="svc/youtube.webp" alt="YouTube"><em><svg viewBox="0 0 16 16" fill="currentColor"><path d="M5 7V5.2a3 3 0 0 1 6 0V7h.6c.5 0 .9.4.9.9v5.2c0 .5-.4.9-.9.9H4.4a.9.9 0 0 1-.9-.9V7.9c0-.5.4-.9.9-.9Zm1.5 0h3V5.2a1.5 1.5 0 0 0-3 0Z"/></svg></em></span>
+          <span><img loading="lazy" decoding="async" src="svc/tiktok.webp" alt="TikTok"><em><svg viewBox="0 0 16 16" fill="currentColor"><path d="M5 7V5.2a3 3 0 0 1 6 0V7h.6c.5 0 .9.4.9.9v5.2c0 .5-.4.9-.9.9H4.4a.9.9 0 0 1-.9-.9V7.9c0-.5.4-.9.9-.9Zm1.5 0h3V5.2a1.5 1.5 0 0 0-3 0Z"/></svg></em></span>
+        </div>
+        <span class="mnote">アイコンを押す →「minuloで開く」</span>
+      </div>
+      <h3>いつものアイコンから、リールなしで</h3>
+      <p class="t">minuloは、iPhoneのスクリーンタイムで公式アプリをロックします。くせでインスタのアイコンを押しても「minuloで開く」が出て、リールのないインスタに入れます。</p>
+      <span class="ftag"><i><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="8" cy="8" r="5.5"/><path d="M8 5v3.2l2 1.3"/></svg></i>ブロックは1回2時間まで無料</span>
     </article>
+
+    <article class="fcard">
+      <div class="vis" style="background:var(--peach)">
+        <div class="bubble"><div class="th"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13c0 .8.9 1.3 1.6.8l9.4-6.5c.6-.4.6-1.2 0-1.6L9.6 4.7C8.9 4.2 8 4.7 8 5.5Z"/></svg></div><p class="cap">友だちから届いたリール</p></div>
+        <div class="endline">この1本だけ。次のリールは出てきません</div>
+      </div>
+      <h3>友だちから届いたリールは1本で終わる</h3>
+      <p class="t">DMで送られてきたリールは、開いてその1本を見られます。見終わっても、次のリールが流れてくることはありません。</p>
+      <span class="ftag"><i><svg viewBox="0 0 16 16" fill="currentColor"><path d="M5.5 3.8v8.4c0 .5.6.8 1 .5l6.1-4.2c.4-.3.4-.8 0-1L6.5 3.3c-.4-.3-1 0-1 .5Z"/></svg></i>届いた1本だけ見る</span>
+    </article>
+
+    <article class="fcard">
+      <div class="vis" style="background:var(--mint)">
+        <div class="mock" style="width:min(290px,100%)">
+          <div class="url"><svg viewBox="0 0 16 16" fill="currentColor"><path d="M5 7V5.2a3 3 0 0 1 6 0V7h.6c.5 0 .9.4.9.9v5.2c0 .5-.4.9-.9.9H4.4a.9.9 0 0 1-.9-.9V7.9c0-.5.4-.9.9-.9Zm1.5 0h3V5.2a1.5 1.5 0 0 0-3 0Z"/></svg>instagram.com</div>
+          <div class="fld">ユーザーネーム</div>
+          <div class="fld pw">••••••••</div>
+          <div class="lbtn">ログイン</div>
+        </div>
+      </div>
+      <h3>パスワードはインスタに入れるだけ</h3>
+      <p class="t">ログインは各SNSの公式のログイン画面でするので、minuloがパスワードを見ることはありません。minuloのアカウントを作る必要もありません。</p>
+      <span class="ftag"><i><svg viewBox="0 0 16 16" fill="currentColor"><path d="M5 7V5.2a3 3 0 0 1 6 0V7h.6c.5 0 .9.4.9.9v5.2c0 .5-.4.9-.9.9H4.4a.9.9 0 0 1-.9-.9V7.9c0-.5.4-.9.9-.9Zm1.5 0h3V5.2a1.5 1.5 0 0 0-3 0Z"/></svg></i>登録はいりません</span>
+    </article>
+
+    <article class="fcard">
+      <div class="vis" style="background:var(--lav)">
+        <img loading="lazy" decoding="async" class="minu" src="m/sleeping.webp" alt="眠っているミヌ（minulo のキャラクター）" width="452" height="295" style="--mw:170px;margin-bottom:14px">
+        <div class="times">
+          <div>就寝 <span>22:00</span></div>
+          <div>起床 <span>6:00</span></div>
+          <div>毎日 <span>同じ時刻</span></div>
+        </div>
+      </div>
+      <h3>毎晩、同じ時刻に</h3>
+      <p class="t">就寝と起床の時刻を決めると、毎日、就寝の時刻にSNSのアプリがロックされ、起床の時刻に外れます。布団の中でリールを見続けることがなくなります。</p>
+      <span class="ftag pro"><i><svg viewBox="0 0 16 16" fill="currentColor"><path d="M13.4 9.7A5.6 5.6 0 0 1 6.3 2.6a5.7 5.7 0 1 0 7.1 7.1Z"/></svg></i>スリープモード・Pro</span>
+    </article>
+
+    <article class="fcard wide" id="log">
+      <div class="vis" style="background:var(--cream)">
+        <div style="width:min(330px,100%)">
+          <div class="stat">
+            <p class="k">今週、リールを見なかった時間</p>
+            <p class="v">5<small>時間</small>24<small>分</small></p>
+            <div class="bars"><i class="" style="height:52%"></i><i class="on" style="height:86%"></i><i class="" style="height:60%"></i><i class="on" style="height:74%"></i><i class="" style="height:48%"></i><i class="on" style="height:96%"></i><i class="" style="height:70%"></i></div>
+            <div class="dow"><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span>土</span><span>日</span></div>
+          </div>
+          <div style="display:flex;align-items:flex-end;gap:10px">
+            <div class="streak"><svg viewBox="0 0 24 24" fill="#F26072" style="width:22px;height:22px"><path d="M12.5 2c.6 2.6-.6 4.3-2 5.9-1.6 1.8-3.5 3.6-3.5 6.6A6.9 6.9 0 0 0 14 21.4c3.4-.6 5.6-3.4 5.6-6.7 0-4.3-3.3-6.4-4.3-9.2-.4 1.2-1.2 2-2 2.6.3-2.3-.2-4.4-.8-6.1Z"/></svg><div><div class="k">ロックが続いた日数</div><div class="v">7日</div></div></div>
+            <img loading="lazy" decoding="async" class="minu" src="m/default.webp" alt="minulo のキャラクター、ミヌ" width="452" height="336" style="--mw:96px">
+          </div>
+        </div>
+      </div>
+      <div>
+        <h3>リールを見ずにすんだ時間が毎週わかる</h3>
+        <p class="t">リールやショートを見ずにすんだ時間を、minuloが毎週まとめて見せます。ロックを何日続けたかも数えます。</p>
+        <span class="ftag"><i><svg viewBox="0 0 16 16" fill="currentColor"><rect x="2.5" y="8" width="2.6" height="5.5" rx="1"/><rect x="6.7" y="4.5" width="2.6" height="9" rx="1"/><rect x="10.9" y="2.5" width="2.6" height="11" rx="1"/></svg></i>週ごとの記録</span>
+      </div>
+    </article>
+
   </div>
-  <p class="rvw-more"><a href="https://apps.apple.com/jp/app/id6809352229?see-all=reviews">App Store のレビューをすべて見る ›</a></p>
 </div></section>
 
-<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#FFF9F2"><path fill="#0D123B" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
-<section class="band navy" id="price"><div class="wrap">
-  <div class="split" style="align-items:center">
-    <div class="fig">
-      <div class="glow"><img loading="lazy" decoding="async" class="minu" src="m/pro-hero.webp" alt="minulo のキャラクター、ミヌ" width="470" height="438" style="--mw:220px"></div>
-    </div>
-    <div class="txt">
-      <p style="margin-bottom:14px"><span class="pill">Pro</span></p>
-      <h2>リールを消すのは、<br>無料。</h2>
-      <div class="cta"><a class="btn white" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-price&amp;mt=8">App Storeで料金を見る <span class="ar">&rarr;</span></a></div>
-    </div>
+<section class="ffor" aria-label="minuloはこんなときに"><div class="wrap">
+  <div class="forband">
+    <p class="kick">minuloはこんなときに</p>
+    <ul>
+      <li>試験勉強のとき</li>
+      <li>クラスのグループを見るとき</li>
+      <li>時間どおりに寝たいとき</li>
+    </ul>
+    <img loading="lazy" decoding="async" class="minu" src="m/celebrating.webp" alt="minulo のキャラクター、ミヌ" width="500" height="389" style="--mw:130px">
+    <div class="ctas"><a class="pillcta" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-for&amp;mt=8">リールを隠してみる <span class="arw" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10h11M11 5.5 15.5 10 11 14.5"/></svg></span></a></div>
   </div>
 </div></section>
-<svg class="wave" viewBox="0 0 1440 64" preserveAspectRatio="none" aria-hidden="true" style="background:#0D123B"><path fill="#FFF9F2" d="M0,34 C260,64 470,6 720,18 C970,30 1190,64 1440,38 L1440,64 L0,64 Z"/></svg>
 
+<section class="fx fdev"><div class="wrap">
+  <h2 class="serif"><span class="l1">10のSNS。</span><span class="l2">iPhoneとMac。</span></h2>
+  <p class="sub">iPhoneでは、minuloで開いたSNSにリールやショートが出てきません。Macでは、minuloのアプリがSafariやChromeのショートとリールを隠します。</p>
+  <div class="devs" aria-hidden="true">
+    <div class="laptop"><div class="scr"><div class="dscr"><img class="ic" loading="lazy" decoding="async" src="svc/youtube.webp" alt=""><span>MacのYouTube</span><b>ショートなし</b></div></div><div class="base"></div></div>
+    <div class="iph"><div class="dscr"><img class="ic" loading="lazy" decoding="async" src="svc/instagram.webp" alt=""><span>Instagram</span><b>リールなし</b></div></div>
+  </div>
+  <div class="nets">
+    <figure><img loading="lazy" decoding="async" src="svc/instagram.webp" alt=""><figcaption>Instagram</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/youtube.webp" alt=""><figcaption>YouTube</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/tiktok.webp" alt=""><figcaption>TikTok</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/x.webp" alt=""><figcaption>X</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/threads.webp" alt=""><figcaption>Threads</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/facebook.webp" alt=""><figcaption>Facebook</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/reddit.webp" alt=""><figcaption>Reddit</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/snapchat.webp" alt=""><figcaption>Snapchat</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/pinterest.webp" alt=""><figcaption>Pinterest</figcaption></figure>
+    <figure><img loading="lazy" decoding="async" src="svc/linkedin.webp" alt=""><figcaption>LinkedIn</figcaption></figure>
+  </div>
+</div></section>
 
+<section class="fx fprice" id="price"><div class="wrap">
+  <h2 class="serif">リールを隠すのは、<br><span class="acc">ずっと無料。</span></h2>
+  <div class="two2">
+    <div class="pcard">
+      <p class="tier">無料</p>
+      <p class="amt">¥0</p>
+      <ul><li>10のSNSで、リール・ショート・おすすめを隠す</li><li>インスタとTikTokの「DM以外のタブ」</li><li>公式アプリのブロックは1回2時間まで</li><li>アカウント登録なし。時間の制限もなし</li></ul>
+    </div>
+    <div class="pcard pro">
+      <p class="tier">Pro（もっと使いたい方に）</p>
+      <p class="amt">¥6,800<small> / 年</small></p>
+      <ul><li><b>スリープモード</b>：毎日同じ就寝と起床の時刻に、SNSのアプリをロック</li><li><b>ハードモード</b></li><li><b>1日の上限</b></li><li>2時間を超えるブロック</li></ul>
+      <p class="fine">Proは年額6,800円、または月額1,480円。初めての方は、年額プランが7日間無料です。</p>
+    </div>
+  </div>
+  <div class="ctas"><a class="pillcta blue" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-price&amp;mt=8">App Storeでminuloを入手 <span class="arw" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10h11M11 5.5 15.5 10 11 14.5"/></svg></span></a></div>
+</div></section>
 
 
 <section class="band close" style="padding-top:0"><div class="wrap">
