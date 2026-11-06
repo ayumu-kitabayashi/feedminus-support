@@ -370,7 +370,7 @@ footer .bottom .langs .dot{opacity:.35}
 <link rel="stylesheet" href="/lp.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,600,100&amp;family=Zen+Old+Mincho:wght@600;700&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,600,100&amp;display=swap">
 <style>
 /* 2026-11-06 Freedom 型の作り（深い色のヒーロー・明朝の見出し・機能カード）。lp.css の後に置く。日本語は Zen Old Mincho、数字だけ Fraunces */
 :root{--deep:#0D123B;--lime:#E4F3A0;--peri:#DDE1FF;--peach:#FFE3D8;--mint:#D8F1E4;--lav:#ECE5FF;--cream:#FFF0D2;--skyL:#DCEBFD}
@@ -403,6 +403,11 @@ footer .bottom .langs .dot{opacity:.35}
 .fhero .wl a{display:inline-block;margin-top:14px;padding:9px 16px;border:1.5px solid rgba(255,255,255,.5);border-radius:999px;
   font-size:13.5px;font-weight:700;color:#fff}
 .fhero .wl a:hover{border-color:#fff}
+/* ctas-gap：副題をなくしたので見出しとボタンの間をあける */
+.fhero .ctas{margin-top:clamp(24px,3vw,36px)}
+/* 見出しは前の LP と同じゴシックの太字（11/6 北林：明朝は弱い。ローマ字以外は前のタイポ） */
+:lang(ja) .serif{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI","Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP",system-ui,sans-serif;font-weight:700;letter-spacing:0;font-feature-settings:normal}
+
 /* ヒーローをアイボリーに（11/6 北林） */
 .fhero{background:#FBF7EC;color:#17181D}
 .fhero h1.serif{color:#17181D}
@@ -596,7 +601,6 @@ footer .bottom .langs .dot{opacity:.35}
 <header class="fhero" id="top"><div class="wrap"><div class="grid">
   <div class="txt">
     <h1 class="serif">インスタのリールだけに<br>バイバイ👋</h1>
-    <p class="hsub">minuloは、iPhoneでインスタのリール、YouTubeのショート、TikTokのおすすめを隠します。DM、グループDM、検索、投稿はそのまま使えます。</p>
     <div class="ctas">
       <a class="store" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-hero&amp;mt=8"><img src="badges/appstore-ja-jp.svg" alt="App Storeからダウンロード" width="147" height="54"></a>
       <!-- Mac 版：App Store のバッジと同じ形。releases/latest/download/minulo.dmg は、いちばん新しいリリースの minulo.dmg を返す（版を出すたびに同じ名前で上げれば、ここは触らなくていい） -->
@@ -795,7 +799,7 @@ footer .bottom .langs .dot{opacity:.35}
     <div class="pcard pro">
       <p class="tier">Pro（もっと使いたい方に）</p>
       <p class="amt">¥6,800<small> / 年</small></p>
-      <ul><li><b>スリープモード</b>：毎日同じ就寝と起床の時刻に、SNSのアプリをロック</li><li><b>ハードモード</b></li><li><b>1日の上限</b></li><li>2時間を超えるブロック</li></ul>
+      <ul><li><b>スリープモード</b>：毎日同じ就寝と起床の時刻に、SNSのアプリをロック</li><li><b>ワークモード</b>：仕事をする曜日と時間を決めると、その間は選んだアプリをロック</li><li><b>ハードモード</b></li><li><b>1日の上限</b></li><li>2時間を超えるブロック</li></ul>
       <p class="fine">Proは年額6,800円、または月額1,480円。初めての方は、年額プランが7日間無料です。</p>
     </div>
   </div>
