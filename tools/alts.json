@@ -25,13 +25,13 @@
     "it": "Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)"
    },
    "free": {
-    "en": "Hiding is free. Pro adds Sleep mode, Hard Mode and a Daily limit.",
+    "en": "Hiding is free. Pro adds Sleep mode, Work mode, Hard Mode and a Daily limit.",
     "ja": "消す機能は無料。予定・ハードモード・複数のリストは Pro。",
     "de": "Das Ausblenden ist kostenlos. Pro bietet zusätzlich Zeitpläne, den Hardmodus und mehrere Sperrlisten.",
-    "fr": "Le masquage est gratuit. Pro ajoute le Mode sommeil, le mode strict et une Limite quotidienne.",
-    "es": "Ocultar es gratis. Pro añade Modo sueño, Modo estricto y un Límite diario.",
+    "fr": "Le masquage est gratuit. Pro ajoute le Mode sommeil, le mode Au travail, le mode strict et une Limite quotidienne.",
+    "es": "Ocultar es gratis. Pro añade Modo sueño, Horario de trabajo, Modo estricto y un Límite diario.",
     "pt": "Esconder é grátis. O Pro adiciona Modo sono, modo de bloqueio e um Limite diário.",
-    "it": "Nascondere è gratis. Pro aggiunge Modalità sonno, modalità blocco e un Limite giornaliero."
+    "it": "Nascondere è gratis. Pro aggiunge Modalità sonno, modalità Al lavoro, modalità blocco e un Limite giornaliero."
    },
    "dms": {
     "en": "Yes",
@@ -828,7 +828,7 @@
     ],
     [
      "Which option is completely free?",
-     "Nope says it is fully free, with no subscriptions or in-app purchases, and covers Instagram and YouTube in Safari. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks; only Sleep mode, Hard Mode and a Daily limit are paid."
+     "Nope says it is fully free, with no subscriptions or in-app purchases, and covers Instagram and YouTube in Safari. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks; only Sleep mode, Work mode, Hard Mode and a Daily limit are paid."
     ],
     [
      "What is a good SocialLite alternative?",
@@ -945,7 +945,7 @@
     ],
     [
      "Quelle option est entièrement gratuite ?",
-     "Nope se dit entièrement gratuit, sans abonnement ni achats intégrés, et couvre Instagram et YouTube dans Safari. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; seuls le Mode sommeil, le mode strict et la Limite quotidienne sont payants."
+     "Nope se dit entièrement gratuit, sans abonnement ni achats intégrés, et couvre Instagram et YouTube dans Safari. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; seuls le Mode sommeil, le mode Au travail, le mode strict et la Limite quotidienne sont payants."
     ],
     [
      "Quelle bonne alternative à SocialLite ?",
@@ -984,7 +984,7 @@
     ],
     [
      "¿Qué opción es completamente gratis?",
-     "Nope dice que es totalmente gratis, sin suscripciones ni compras dentro de la app, y cubre Instagram y YouTube en Safari. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis en las 10 redes; solo el Modo sueño, el Modo estricto y el Límite diario son de pago."
+     "Nope dice que es totalmente gratis, sin suscripciones ni compras dentro de la app, y cubre Instagram y YouTube en Safari. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis en las 10 redes; solo el Modo sueño, el modo Horario de trabajo, el Modo estricto y el Límite diario son de pago."
     ],
     [
      "¿Cuál es una buena alternativa a SocialLite?",
@@ -1062,7 +1062,7 @@
     ],
     [
      "Quale opzione è completamente gratuita?",
-     "Nope dichiara di essere completamente gratuita, senza abbonamenti né acquisti in-app, e copre Instagram e YouTube in Safari. In minulo nascondere Reels, Shorts e post suggeriti è gratis su tutti e 10 i social; a pagamento ci sono solo la Modalità sonno, la modalità blocco e il Limite giornaliero."
+     "Nope dichiara di essere completamente gratuita, senza abbonamenti né acquisti in-app, e copre Instagram e YouTube in Safari. In minulo nascondere Reels, Shorts e post suggeriti è gratis su tutti e 10 i social; a pagamento ci sono solo la Modalità sonno, la modalità Al lavoro, la modalità blocco e il Limite giornaliero."
     ],
     [
      "Qual è una buona alternativa a SocialLite?",
