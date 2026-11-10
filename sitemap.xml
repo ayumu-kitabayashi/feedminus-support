@@ -209,6 +209,12 @@
   <url><loc>https://minulo.app/en/privacy.html</loc><lastmod>2026-11-10</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/privacy.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/privacy.html"/></url>
+  <url><loc>https://minulo.app/terms.html</loc><lastmod>2026-11-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/terms.html"/></url>
+  <url><loc>https://minulo.app/en/terms.html</loc><lastmod>2026-11-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/terms.html"/></url>
   <url><loc>https://minulo.app/faq.html</loc><lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
