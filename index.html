@@ -593,9 +593,32 @@ footer .bottom .langs .dot{opacity:.35}
   .iph .dscr b{font-size:12px}
   .iph .dscr span{font-size:10px}
 }
+
+/* 2026-11-11 案3（北林さんがモックで選んだ）：スマホのヒーローに「無料」の丸ボタン＋下に固定のボタン。
+   iPhone・iPad では Android の順番待ちの行を出さない（頁の最後の順番待ちはそのまま）。日本語と英語のトップだけ */
+.heropill{display:none}
+.ios .fhero .wl{display:none}
+.fdock{display:none}
+@media (max-width:760px){
+  .fhero .heropill{display:inline-flex;font-size:14px;padding:7px 7px 7px 18px;gap:12px}
+  .fhero .heropill .arw{width:32px;height:32px}
+  .fhero .heropill .arw svg{width:16px;height:16px}
+  .fhero .ctas{gap:12px}
+  .fdock.on{display:flex;align-items:center;gap:8px;position:fixed;left:12px;right:12px;
+    bottom:calc(12px + env(safe-area-inset-bottom,0px));z-index:60;border-radius:999px;padding:8px;
+    background:rgba(255,255,255,.96);border:1px solid var(--line);box-shadow:0 8px 16px rgba(23,24,29,.12)}
+  .fdock-btn{flex:1;display:flex;align-items:center;justify-content:center;min-height:46px;border-radius:999px;
+    background:var(--pri);color:#fff;font-size:15px;font-weight:700}
+  .fdock-btn:hover{background:var(--priDeep);color:#fff}
+  .fdock-x{flex:none;width:44px;height:44px;border:0;border-radius:50%;background:#F1EDE4;color:var(--ink);
+    display:grid;place-items:center;cursor:pointer}
+  .fdock-x svg{width:14px;height:14px}
+  body.hasdock{padding-bottom:84px}
+}
 </style>
 </head>
 <body>
+<script>try{var u=navigator.userAgent;if(/iPhone|iPad|iPod/.test(u)||(/Macintosh/.test(u)&&navigator.maxTouchPoints>1))document.documentElement.classList.add("ios")}catch(e){}</script>
 
 <div class="navbar"><div class="wrap"><div class="nav">
   <a class="home" href="#top"><img src="logo-trim.png" alt="minulo" width="135" height="22"></a>
@@ -610,6 +633,7 @@ footer .bottom .langs .dot{opacity:.35}
   <div class="txt">
     <h1 class="serif">インスタの<br>リールだけに<br>バイバイ👋</h1>
     <div class="ctas">
+      <a class="pillcta blue heropill" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-hero&amp;mt=8" data-pos="pill">無料でリールを消す <span class="arw" aria-hidden="true"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10h11M11 5.5 15.5 10 11 14.5"/></svg></span></a>
       <a class="store" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-hero&amp;mt=8"><img src="badges/appstore-ja-jp.svg" alt="App Storeからダウンロード" width="147" height="54"></a>
       <!-- Mac 版：App Store のバッジと同じ形。releases/latest/download/minulo.dmg は、いちばん新しいリリースの minulo.dmg を返す（版を出すたびに同じ名前で上げれば、ここは触らなくていい） -->
       <a class="store macdl" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg" data-pos="hero-mac"><img src="badges/macos-ja.svg" alt="macOS 版をダウンロード" width="147" height="54"></a>
@@ -843,7 +867,18 @@ footer .bottom .langs .dot{opacity:.35}
   <div class="bottom"><span>© 2026 minulo<span class="dot" aria-hidden="true"> · </span><span class="opby">運営 <a href="support.html#operator">リリーフノート</a></span><span class="dot" aria-hidden="true"> · </span><span class="opby">更新 <time datetime="2026-10-07">2026-10-07</time></span></span><span id="lang" class="langs"><b>日本語</b><span class="dot" aria-hidden="true">·</span><a href="en/" hreflang="en" lang="en">English</a><span class="dot" aria-hidden="true">·</span><a href="de/" hreflang="de" lang="de">Deutsch</a><span class="dot" aria-hidden="true">·</span><a href="fr/" hreflang="fr" lang="fr">Français</a><span class="dot" aria-hidden="true">·</span><a href="es/" hreflang="es" lang="es">Español</a><span class="dot" aria-hidden="true">·</span><a href="pt/" hreflang="pt-BR" lang="pt-BR">Português</a><span class="dot" aria-hidden="true">·</span><a href="it/" hreflang="it" lang="it">Italiano</a><span class="dot" aria-hidden="true">·</span><a href="ko/" hreflang="ko" lang="ko">한국어</a><span class="dot" aria-hidden="true">·</span><a href="zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a><span class="dot" aria-hidden="true">·</span><a href="id/" hreflang="id" lang="id">Bahasa Indonesia</a><span class="dot" aria-hidden="true">·</span><a href="th/" hreflang="th" lang="th">ไทย</a><span class="dot" aria-hidden="true">·</span><a href="vi/" hreflang="vi" lang="vi">Tiếng Việt</a><span class="dot" aria-hidden="true">·</span><a href="ru/" hreflang="ru" lang="ru">Русский</a></span></div>
 </div></footer>
 
-<div class="dock"><a class="store" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-dock&amp;mt=8"><img src="badges/appstore-ja-jp.svg" alt="App Storeからダウンロード" width="147" height="54"></a></div>
+<div class="fdock" id="fdock"><a class="fdock-btn" href="https://apps.apple.com/jp/app/id6809352229?pt=129109285&amp;ct=ja-top-dock&amp;mt=8" data-pos="dock">無料でリールを消す</a><button type="button" class="fdock-x" aria-label="閉じる"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 3l10 10M13 3L3 13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></div>
+<script>
+/* 下に固定のボタン：ヒーローのボタンが画面の外に出たら出す。× で閉じたら、このタブでは出さない */
+(function(){
+  var d=document.getElementById('fdock'), c=document.querySelector('.fhero .ctas');
+  if(!d||!c||!('IntersectionObserver' in window)) return;
+  var closed=false; try{closed=sessionStorage.getItem('m_dockx')==='1'}catch(e){}
+  function set(on){ d.classList.toggle('on',on); document.body.classList.toggle('hasdock',on); }
+  new IntersectionObserver(function(es){ if(!closed) set(!es[0].isIntersecting); }).observe(c);
+  d.querySelector('.fdock-x').addEventListener('click',function(){ closed=true; set(false); try{sessionStorage.setItem('m_dockx','1')}catch(e){} });
+})();
+</script>
 <script>
 /* ヒーローの2枚を、マウスでも掴んで動かせるようにする。
    指とトラックパッドは overflow-x で最初から動く。ここはマウス用の補い。 */
