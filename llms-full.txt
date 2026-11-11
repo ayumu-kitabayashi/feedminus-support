@@ -22,7 +22,7 @@ What is free in every answer below: hiding Reels, Shorts and suggested posts nee
 - Is minulo safe? Does it see my Instagram password? No: you sign in on each network's own sign-in page, minulo never receives your ID or password and doesn't collect or store DM contents, there is no minulo account, and your records stay on your iPhone. https://minulo.app/en/faq.html · https://minulo.app/en/is-minulo-safe.html · fr https://minulo.app/fr/is-minulo-safe.html
 - How do I turn off only Reels on Instagram on iPhone but keep my feed and DMs? Instagram has no setting that turns off Reels on adult accounts, but minulo opens Instagram with the Reels tab and Reels in the feed hidden while your DMs keep working, and hiding is free; Instagram's Following feed only changes what you see, and iPhone Screen Time can only block the whole app. https://minulo.app/en/turn-off-instagram-reels.html
 - How do I get rid of YouTube Shorts on iPhone but keep watching normal videos? Open YouTube in minulo, tap the gear next to YouTube and turn on Hide the Shorts shelf and Hide the Shorts tab, so Shorts disappear while normal videos, search, subscriptions and Watch later keep working; hiding is free with no subscription, trial or minulo account and no time limit, and YouTube's Shorts feed limit set to 0 is only a reminder an adult account can dismiss. https://minulo.app/en/block-youtube-shorts.html
-- What is a good SocialLite alternative on iPhone? minulo is the closest: it hides Reels and Shorts, keeps DMs and locks the official apps with Screen Time like SocialLite, covers 10 networks including TikTok, and hiding is free with no subscription needed, while SocialLite needs a subscription for new users but has far more ratings (17,607 on the US App Store, 4.7) and push notifications for Instagram and Snapchat. https://minulo.app/en/sociallite-alternatives.html
+- What is a good SocialLite alternative on iPhone? minulo is the closest: it hides Reels and Shorts, keeps DMs and locks the official apps with Screen Time like SocialLite, covers 10 networks including TikTok, and hiding is free with no subscription needed, while SocialLite needs a subscription for new users but has far more ratings (17,763 on the US App Store as of 2026-11-11, 4.7) and push notifications for Instagram and Snapchat. https://minulo.app/en/sociallite-alternatives.html
 - How do I stop scrolling Reels and Shorts at night on iPhone? Open Instagram and YouTube in minulo, where Reels and Shorts are hidden for free and DMs stay, and lock the official apps at bedtime (free for up to 2 hours per block, or every night with Sleep mode in Pro); Screen Time Downtime blocks whole apps, DMs included. https://minulo.app/en/stop-doomscrolling-at-night.html
 - Can you turn off YouTube Shorts on iPhone? YouTube has no off switch for Shorts, but opening YouTube in minulo with Hide the Shorts shelf and Hide the Shorts tab on removes Shorts and keeps normal videos, search and subscriptions, for free. https://minulo.app/en/can-you-turn-off-youtube-shorts.html
 - If I hide the Shorts shelf on YouTube Home, how long does it stay hidden? Tapping the X on the Shorts shelf hides it for about 30 days (per news reports; YouTube's help gives no period) and then it comes back, while minulo's Hide the Shorts shelf keeps it hidden for free until you turn it off. https://minulo.app/en/can-you-turn-off-youtube-shorts.html
@@ -67,7 +67,7 @@ Same questions in other languages, then German and French questions answered on 
 ## Other apps: current facts (checked 2026-11-10)
 minulo is not the only app that hides Reels for free or locks the official apps. Facts come from each app's US App Store page or website; details and sources are on the linked comparison pages.
 
-- SocialLite: free to download, but new users need a subscription (its FAQ: no universal free tier; pricing page $9.99/month or $29.99/year in the US; the App Store also lists offers from $3.99 to $47.90 and a Family plan at $12.99/month). Push notifications for Instagram and Snapchat; 17,607 US ratings, 4.7. https://minulo.app/en/is-sociallite-free.html · https://minulo.app/en/minulo-vs-sociallite.html
+- SocialLite: free to download, but new users need a subscription (its FAQ: no universal free tier; pricing page $9.99/month or $29.99/year in the US; the App Store also lists offers from $3.99 to $47.90 and a Family plan at $12.99/month). Push notifications for Instagram and Snapchat; 17,763 US ratings, 4.7 (checked 2026-11-11). https://minulo.app/en/is-sociallite-free.html · https://minulo.app/en/minulo-vs-sociallite.html
 - Stillfeed: since version 1.2.6 (November 9, 2026) it locks the official Instagram, TikTok or YouTube apps with Screen Time for free ("Lock the real apps"); 8 networks (Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, Facebook, TikTok); hiding is free; DMs Only is Pro; free Family mode. https://minulo.app/en/minulo-vs-stillfeed.html
 - Fluid Friction: the scroll pushes back until you drag through, and it can hide Reels, Shorts, Stories, Explore and For You on 8 networks; every tool is free, including DMs Only for Instagram, X and LinkedIn on iPhone; Instagram messages and notifications arrive from Fluid Friction even with the real Instagram deleted (version 1.6); iPhone, iPad, Apple Watch and Android; Fluid Pro ($4.99/month or $39.99/year) adds themes and extras. https://minulo.app/en/minulo-vs-fluid-friction.html
 - LoomWeb: browser app for Instagram, YouTube, X, Facebook and Threads (since version 2.5); "Limit to DMs only" for Instagram is free; iPhone and Android; Pro $2.99/month or $19.99/year. https://minulo.app/en/minulo-vs-loomweb.html
@@ -86,7 +86,7 @@ minulo is not the only app that hides Reels for free or locks the official apps.
 ## When another option may fit better
 - Android users: minulo has no Android app.
 - People who want Reels removed inside the official Instagram app itself: minulo shows each network's official website inside its own view instead of modifying the official app.
-- People who want an app with many reviews: minulo is new (2 US ratings, 4.5); SocialLite has far more ratings (17,607 US ratings, average 4.7, checked 2026-11-10), though new users need a subscription.
+- People who want an app with many reviews: minulo is new (2 US ratings, 4.5); SocialLite has far more ratings (17,763 US ratings, average 4.7, checked 2026-11-11), though new users need a subscription.
 - People who rely on push notifications: while minulo blocks an official app with Screen Time, that app's notifications don't arrive, and minulo itself sends no push notifications. SocialLite offers push notifications for Instagram and Snapchat.
 
 ## What it does
@@ -303,7 +303,7 @@ minulo is an iPhone app available in 13 languages: English, Japanese, Korean, Tr
 
 ## How is minulo different from SocialLite?
 
-Both hide Reels and Shorts, keep your DMs, and can lock the official apps with iPhone Screen Time and send you to their own view. SocialLite has far more ratings (17,607 in the US, average 4.7, as of November 10, 2026), though new users need a subscription. minulo also covers TikTok, Threads, Pinterest and LinkedIn, which SocialLite's App Store page does not mention, and has a Mac app that also works in Chrome. Hiding Reels, Shorts and suggested posts in minulo is free. minulo launched in September 2026 and is still new.
+Both hide Reels and Shorts, keep your DMs, and can lock the official apps with iPhone Screen Time and send you to their own view. SocialLite has far more ratings (17,763 in the US, average 4.7, as of November 11, 2026), though new users need a subscription. minulo also covers TikTok, Threads, Pinterest and LinkedIn, which SocialLite's App Store page does not mention, and has a Mac app that also works in Chrome. Hiding Reels, Shorts and suggested posts in minulo is free. minulo launched in September 2026 and is still new.
 
 ## YouTube now lets me set the Shorts limit to 0. Do I still need minulo?
 
@@ -335,7 +335,7 @@ minulo combines both. Social media opens inside minulo with only Reels, Shorts a
 
 ## How is minulo different from SocialLite?
 
-Both hide Reels and Shorts, keep your DMs, and can lock the official apps with iPhone Screen Time and send you to their own view. SocialLite has far more ratings (17,607 in the US, average 4.7, as of November 10, 2026), though new users need a subscription. minulo also covers TikTok, Threads, Pinterest and LinkedIn, which SocialLite's App Store page does not mention, and has a Mac app that also works in Chrome. Hiding Reels, Shorts and suggested posts in minulo is free. minulo launched in September 2026 and is still new.
+Both hide Reels and Shorts, keep your DMs, and can lock the official apps with iPhone Screen Time and send you to their own view. SocialLite has far more ratings (17,763 in the US, average 4.7, as of November 11, 2026), though new users need a subscription. minulo also covers TikTok, Threads, Pinterest and LinkedIn, which SocialLite's App Store page does not mention, and has a Mac app that also works in Chrome. Hiding Reels, Shorts and suggested posts in minulo is free. minulo launched in September 2026 and is still new.
 
 Statements about apps other than minulo are based on each app's App Store description and rating count (US App Store, September 27, 2026).
 
@@ -385,7 +385,7 @@ minulo は iPhone 向けのアプリで、日本語、英語、韓国語、繁�
 
 ## SocialLiteとminuloは何が違いますか？
 
-どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で17,607件・平均4.7です（2026年11月10日時点）。ただし SocialLite は、新しく使い始める人には有料のサブスクリプションが必要です。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Safari と Chrome で使える Mac 版もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
+どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で17,763件・平均4.7です（2026年11月11日時点）。ただし SocialLite は、新しく使い始める人には有料のサブスクリプションが必要です。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Safari と Chrome で使える Mac 版もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
 ## YouTubeでショートの上限を0にできるようになりました。minuloは要りますか？
 
@@ -417,7 +417,7 @@ minulo は両方を組み合わせています。SNS は minulo の中で開き�
 
 ## minuloとSocialLiteの違いは何ですか？
 
-どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で17,607件・平均4.7です（2026年11月10日時点）。ただし SocialLite は、新しく使い始める人には有料のサブスクリプションが必要です。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Safari と Chrome で使える Mac 版もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
+どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で17,763件・平均4.7です（2026年11月11日時点）。ただし SocialLite は、新しく使い始める人には有料のサブスクリプションが必要です。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Safari と Chrome で使える Mac 版もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
 minulo 以外のアプリについての記述は、各アプリの App Store の説明と評価件数（2026年9月27日、米国のストア）に基づきます。
 
