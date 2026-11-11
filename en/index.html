@@ -72,6 +72,14 @@ p{margin:0}
 .links{display:flex;gap:28px;margin-left:auto;font-size:14.5px;font-weight:500;color:var(--ink)}
 .links a{display:inline-flex;align-items:center;padding:10px 0}
 .navbtns{display:flex;gap:10px;align-items:center;margin-left:auto}
+/* パソコン版への小さなリンク（言語メニューの左） */
+.navdesk{display:inline-flex;align-items:center;padding:8px 2px;font-size:14px;font-weight:600;color:var(--ink2);white-space:nowrap;line-height:1}
+.navdesk:hover{color:var(--pri)}
+@media (max-width:720px){.navbtns{gap:8px}.navdesk{font-size:13px;padding:8px 0}}
+.navdesk .s{display:none}
+.nav .home,.nav .store{flex-shrink:0}
+/* 幅の狭い iPhone（SE 375px・360px）でも1行に収める：リンクを短く・ロゴを少し小さく */
+@media (max-width:400px){.nav .home img{height:16px}.navbtns{gap:6px}.navdesk{font-size:12px}.navdesk .l{display:none}.navdesk .s{display:inline}}
 
 /* ボタン */
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;
@@ -598,6 +606,7 @@ footer .bottom .langs .dot{opacity:.35}
 <div class="navbar"><div class="wrap"><div class="nav">
   <a class="home" href="#top"><img src="../logo-trim.png" alt="minulo" width="135" height="22"></a>
   <div class="navbtns">
+    <a class="navdesk" href="desktop.html" data-pos="nav-desktop"><span class="l">For desktop</span><span class="s">Mac</span></a>
     <details class="langmenu"><summary aria-label="Choose language"><span class="flag" aria-hidden="true">🇺🇸</span><span class="name">English</span><svg class="caret" viewBox="0 0 10 10" aria-hidden="true"><path d="M1.5 3.5 5 7l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></summary><ul><li><a href="../" hreflang="ja" lang="ja"><span class="flag" aria-hidden="true">🇯🇵</span>日本語</a></li><li><a href="../en/" hreflang="en" lang="en" aria-current="true"><span class="flag" aria-hidden="true">🇺🇸</span>English</a></li><li><a href="../de/" hreflang="de" lang="de"><span class="flag" aria-hidden="true">🇩🇪</span>Deutsch</a></li><li><a href="../fr/" hreflang="fr" lang="fr"><span class="flag" aria-hidden="true">🇫🇷</span>Français</a></li><li><a href="../es/" hreflang="es" lang="es"><span class="flag" aria-hidden="true">🇪🇸</span>Español</a></li><li><a href="../pt/" hreflang="pt-BR" lang="pt-BR"><span class="flag" aria-hidden="true">🇧🇷</span>Português</a></li><li><a href="../it/" hreflang="it" lang="it"><span class="flag" aria-hidden="true">🇮🇹</span>Italiano</a></li><li><a href="../ko/" hreflang="ko" lang="ko"><span class="flag" aria-hidden="true">🇰🇷</span>한국어</a></li><li><a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant"><span class="flag" aria-hidden="true">🇹🇼</span>繁體中文</a></li><li><a href="../id/" hreflang="id" lang="id"><span class="flag" aria-hidden="true">🇮🇩</span>Bahasa Indonesia</a></li><li><a href="../th/" hreflang="th" lang="th"><span class="flag" aria-hidden="true">🇹🇭</span>ไทย</a></li><li><a href="../vi/" hreflang="vi" lang="vi"><span class="flag" aria-hidden="true">🇻🇳</span>Tiếng Việt</a></li><li><a href="../ru/" hreflang="ru" lang="ru"><span class="flag" aria-hidden="true">🇷🇺</span>Русский</a></li></ul></details>
     <a class="store sm" href="https://apps.apple.com/app/id6809352229?pt=129109285&amp;ct=en-top-nav&amp;mt=8"><img src="../badges/appstore-en-us.svg" alt="Download on the App Store" width="162" height="54"></a>
   </div>

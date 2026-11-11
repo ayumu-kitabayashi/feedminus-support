@@ -20021,4 +20021,12 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/stop-youtube-shorts-at-night.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/stop-youtube-shorts-at-night.html"/>
   </url>
+  <url><loc>https://minulo.app/desktop.html</loc><lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/desktop.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/desktop.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/desktop.html"/></url>
+  <url><loc>https://minulo.app/en/desktop.html</loc><lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/desktop.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/desktop.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/desktop.html"/></url>
 </urlset>
