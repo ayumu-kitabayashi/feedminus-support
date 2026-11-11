@@ -60,13 +60,13 @@
 <div class="wrap">
   <div class="brand">minulo</div>
   <h1>Privacy Policy</h1>
-  <p class="date">Established: September 7, 2026 / Revised: September 14, 2026 (added the Mac version's update check), October 1, 2026 (added the age range and how you heard about minulo in the getting-started steps), October 5, 2026 (added sending errors when the app crashes), October 9, 2026 (added errors that don't crash the app, whether you came from a search ad, the display language and device language settings, turning hiding rules on and off, and the connections for "Refer a friend" and checking for a new version), October 12, 2026 (added the camera and microphone, and the device's region setting), October 20, 2026 (added measuring visits to this website), October 22, 2026 (added email addresses for the Android version waitlist), October 24, 2026 (added records that remain after you delete the app), October 25, 2026 (added social media time and time of day in the getting-started steps, and the times for work hours), October 27, 2026 (added the social media time survey and the results of the login check), November 2, 2026 (added the Android version)</p>
+  <p class="date">Established: September 7, 2026 / Revised: September 14, 2026 (added the Mac version's update check), October 1, 2026 (added the age range and how you heard about minulo in the getting-started steps), October 5, 2026 (added sending errors when the app crashes), October 9, 2026 (added errors that don't crash the app, whether you came from a search ad, the display language and device language settings, turning hiding rules on and off, and the connections for "Refer a friend" and checking for a new version), October 12, 2026 (added the camera and microphone, and the device's region setting), October 20, 2026 (added measuring visits to this website), October 22, 2026 (added email addresses for the Android version waitlist), October 24, 2026 (added records that remain after you delete the app), October 25, 2026 (added social media time and time of day in the getting-started steps, and the times for work hours), October 27, 2026 (added the social media time survey and the results of the login check), November 2, 2026 (added the Android version), November 11, 2026 (added sending feedback by email, the account-switch check, how referrals are counted, and the Apple notifications and rate limiting on the developer's server)</p>
 
   <p>This is an English translation of the <a href="/privacy.html">Japanese privacy policy</a>. If they differ, the Japanese version prevails.</p>
 
   <div class="summary">
     <strong>In short: minulo does not know who you are.</strong><br>
-    There is no account registration. The developer's server exists only for "Refer a friend," and a referral code and proof of purchase are sent to it only when you use that feature.
+    There is no account registration. The developer's server exists only for "Refer a friend" and for receiving subscription notifications from Apple. The app sends a referral code and Apple's proof to it only when you use "Refer a friend."
     To improve the app, minulo sends only anonymous usage data, the details of app errors, and whether you came from an App Store search ad to an analytics tool (PostHog).
     It never sends the pages you viewed, the text you typed, or your social media IDs and passwords.
     You log in to each service directly on that service's page,
@@ -91,6 +91,7 @@
     <li>When you use the work hours block, its <strong>start and end times</strong>, the number of days of the week, and the number of apps added (we do not send which apps; on iPhone, Apple hides them, so we cannot send them in the first place). We do not send the times for bedtime</li>
     <li><strong>Social media time survey (optional)</strong>: About three weeks after you install minulo, a question, "Since installing minulo, how has your social media time changed?", appears once on the home screen. Only if you answer, we send your answer (decreased, no change, or increased), the number of days since you installed it, the "time you spend on social media per day" you answered in the getting-started steps, and the time you spent on social media inside minulo and the number of times you turned back from a blocked screen (counted by minulo itself). The device's usage time shown after you answer (such as iPhone Screen Time) is only displayed on the screen and is not sent off the device. If you close the question, nothing is sent. The answers collected are used, as numbers combined across everyone, in articles, research, and the like</li>
     <li>The result of checking whether your social media login is kept on the device (only whether the login was restored from a saved copy, and the <strong>number</strong> of cookies at that time; we do not send the contents of cookies, IDs, or passwords)</li>
+    <li>(From version 1.0.19) The result of checking when you are logged out right after switching social media accounts (only yes/no values and numbers: whether a saved login existed for the account you switched to, how many hours old it was, whether another account logged in after it, whether another person's login was mixed in, and how many seconds later it happened. We do not send which account it was, the contents of cookies, IDs, or passwords)</li>
   </ul>
   <p>To be clear about what we do not send:
   <strong>we do not send your date of birth or exact age, the URLs, titles, or content of pages you viewed, text you typed (such as schedule names),
@@ -138,8 +139,16 @@
     <li><strong>Communication with the services you open.</strong> This is the same communication as when you open the same site in a browser, and it does not go through minulo's servers. The destinations are limited in advance to the host names of supported services, and you cannot move to hosts that are not on the list.</li>
     <li>The <strong>sending of anonymous usage data and errors</strong> described in 1. (PostHog), and the check of whether you came from a search ad (Apple).</li>
     <li>(iPhone/iPad version only) <strong>Checking whether a new version is available</strong> on the App Store (once a day; it only reads Apple's public information and sends nothing from your side).</li>
-    <li>(iPhone/iPad version only) <strong>Only when you use "Refer a friend,"</strong> the app communicates with minulo's referral server (minulo-api.vercel.app). It sends only the referral code, a passphrase for verifying that code (created automatically by the app), and, when a referred person makes a purchase, Apple's signed proof of purchase (to verify the conditions for the reward). It does not send your name, email address, social media accounts, or the pages you viewed.</li>
+    <li>(iPhone/iPad version only) <strong>Only when you use "Refer a friend,"</strong> the app communicates with minulo's referral server (minulo-api.vercel.app). It sends only the referral code, a passphrase for verifying that code (created automatically by the app), and Apple's signed proof used to count the referral. From version 1.0.19, a referral is counted with Apple's proof that the referred person got the app (AppTransaction). On devices where this proof is not available (such as iOS earlier than 18.4), it is counted with the proof of purchase as before. The server keeps only a one-way hashed form (SHA-256) of Apple's per-account number, so the same person is not counted twice, and the time it was counted. It does not send your name, email address, social media accounts, or the pages you viewed.</li>
+    <li><strong>When you use "Send feedback,"</strong> your device's Mail app opens a draft addressed to the developer (feedminus47@gmail.com). To help fix bugs, the draft includes the app version and build number, the iOS version, and the display language. You decide whether to send it; if you do, your email address also reaches the developer.</li>
   </ul>
+
+  <p>The developer's server (minulo-api.vercel.app) also receives the following. Both come from Apple, not from the app.</p>
+  <ul>
+    <li>App Store subscription notifications (renewals, refunds, and so on). They are used only to cancel referral rewards when a refund happens. After verifying Apple's signature, the server only compares one-way hashed markers of transactions.</li>
+    <li>Requests from Apple for the short message shown when you try to cancel a subscription in iPhone Settings. The server only returns text in the right language and keeps no record.</li>
+  </ul>
+  <p>To prevent large numbers of rapid requests, the server temporarily stores the connecting IP address for up to one hour, only to count requests. It is then deleted automatically and is not linked to any other record.</p>
 
   <h2>5. About Screen Time permission</h2>
   <p>When you use the feature that blocks the apps themselves, minulo asks for iOS Screen Time (Family Controls) permission.</p>
@@ -188,7 +197,7 @@
   when you stop using the extension, please also check the settings on the Chrome side.</p>
 
   <h2>8. Use by children</h2>
-  <p>This app is not intended for people under 13. The getting-started steps ask for an age range (a range such as "17 and under"), but answering is optional, and we do not ask for your date of birth or exact age.</p>
+  <p>This app is not intended for people under 13. The getting-started steps ask for an age range, but because it is a range such as "17 and under," the developer cannot tell whether someone is under 13. Answering is optional, and we do not ask for your date of birth or exact age.</p>
 
   <h2>9. Revisions</h2>
   <p>If we change this policy, we will announce it on this page and update the revision date.
