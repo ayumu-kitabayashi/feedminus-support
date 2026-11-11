@@ -208,13 +208,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/privacy.html"/></url>
   <url><loc>https://minulo.app/en/privacy.html</loc><lastmod>2026-11-10</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/privacy.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/privacy.html"/></url>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/privacy.html"/></url>
   <url><loc>https://minulo.app/terms.html</loc><lastmod>2026-11-10</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/terms.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/terms.html"/></url>
   <url><loc>https://minulo.app/en/terms.html</loc><lastmod>2026-11-10</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/terms.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/terms.html"/></url>
+    <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/terms.html"/></url>
   <url><loc>https://minulo.app/faq.html</loc><lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/faq.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/faq.html"/>
@@ -6428,7 +6430,8 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/instagram-reels-ipad.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/instagram-reels-ipad.html"/></url>
   <url><loc>https://minulo.app/ko/linkedin-video-feed-off.html</loc><lastmod>2026-11-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/linkedin-video-feed-off.html"/></url>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/linkedin-video-feed-off.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/ko/linkedin-video-feed-off.html"/></url>
   <url><loc>https://minulo.app/not-interested-reels-still-showing.html</loc><lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/not-interested-reels-still-showing.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/not-interested-reels-still-showing.html"/>
@@ -6671,10 +6674,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/snapchat-stories-only.html"/></url>
   <url><loc>https://minulo.app/de/stop-youtube-shorts-at-night.html</loc><lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/stop-youtube-shorts-at-night.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://minulo.app/pt/stop-youtube-shorts-at-night.html"/></url>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://minulo.app/pt/stop-youtube-shorts-at-night.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/de/stop-youtube-shorts-at-night.html"/></url>
   <url><loc>https://minulo.app/pt/stop-youtube-shorts-at-night.html</loc><lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://minulo.app/de/stop-youtube-shorts-at-night.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://minulo.app/pt/stop-youtube-shorts-at-night.html"/></url>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://minulo.app/pt/stop-youtube-shorts-at-night.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/de/stop-youtube-shorts-at-night.html"/></url>
   <url><loc>https://minulo.app/youtube-shorts-ipad-mac.html</loc><lastmod>2026-11-03</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/youtube-shorts-ipad-mac.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/youtube-shorts-ipad-mac.html"/>
@@ -7995,7 +8000,7 @@
     <xhtml:link rel="alternate" hreflang="vi" href="https://minulo.app/vi/instagram-close-friends-feed.html"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/instagram-close-friends-feed.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/instagram-close-friends-feed.html"/></url>
-  <url><loc>https://minulo.app/en/instagram-reels-tab-remove.html</loc><lastmod>2026-11-04</lastmod>
+  <url><loc>https://minulo.app/en/instagram-reels-tab-remove.html</loc><lastmod>2026-11-11</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/instagram-reels-tab-remove.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/instagram-reels-tab-remove.html"/></url>
   <url><loc>https://minulo.app/snapchat-spotlight-time-limit.html</loc><lastmod>2026-11-01</lastmod>
@@ -11220,7 +11225,8 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/scrollguard-alternatives.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/scrollguard-alternatives.html"/></url>
   <url><loc>https://minulo.app/ko/turn-off-reddit-recommendations.html</loc><lastmod>2026-11-01</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/turn-off-reddit-recommendations.html"/></url>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/turn-off-reddit-recommendations.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/ko/turn-off-reddit-recommendations.html"/></url>
   <url><loc>https://minulo.app/reels-shorts-data-2026.html</loc><lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/reels-shorts-data-2026.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/reels-shorts-data-2026.html"/>
@@ -15765,7 +15771,8 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/instagram-blocked-still-get-messages.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/instagram-blocked-still-get-messages.html"/></url>
   <url><loc>https://minulo.app/ko/linkedin-without-feed.html</loc><lastmod>2026-11-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/linkedin-without-feed.html"/></url>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/linkedin-without-feed.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/ko/linkedin-without-feed.html"/></url>
   <url><loc>https://minulo.app/deactivate-facebook-keep-messenger.html</loc><lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/deactivate-facebook-keep-messenger.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/deactivate-facebook-keep-messenger.html"/>
@@ -16247,9 +16254,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://minulo.app/ru/remove-facebook-marketplace.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/remove-facebook-marketplace.html"/></url>
   <url><loc>https://minulo.app/ko/turn-off-pinterest-recommendations.html</loc><lastmod>2026-11-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/turn-off-pinterest-recommendations.html"/></url>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/turn-off-pinterest-recommendations.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/ko/turn-off-pinterest-recommendations.html"/></url>
   <url><loc>https://minulo.app/ko/turn-off-snapchat-discover.html</loc><lastmod>2026-11-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/turn-off-snapchat-discover.html"/></url>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/turn-off-snapchat-discover.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/ko/turn-off-snapchat-discover.html"/></url>
   <url><loc>https://minulo.app/youtube-search-only.html</loc><lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/youtube-search-only.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/youtube-search-only.html"/>
@@ -19985,10 +19994,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/en/minulo-vs-still.html"/></url>
   <url><loc>https://minulo.app/ko/best-reels-blocker-keep-dms.html</loc><lastmod>2026-11-10</lastmod>
     <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/best-reels-blocker-keep-dms.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://minulo.app/pt/best-reels-blocker-keep-dms.html"/></url>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://minulo.app/pt/best-reels-blocker-keep-dms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/pt/best-reels-blocker-keep-dms.html"/></url>
   <url><loc>https://minulo.app/pt/best-reels-blocker-keep-dms.html</loc><lastmod>2026-11-11</lastmod>
     <xhtml:link rel="alternate" hreflang="ko" href="https://minulo.app/ko/best-reels-blocker-keep-dms.html"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://minulo.app/pt/best-reels-blocker-keep-dms.html"/></url>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://minulo.app/pt/best-reels-blocker-keep-dms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://minulo.app/pt/best-reels-blocker-keep-dms.html"/></url>
   <url><loc>https://minulo.app/pt/youtube-shorts-remove-from-home-web.html</loc><lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://minulo.app/youtube-shorts-remove-from-home-web.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://minulo.app/en/youtube-shorts-remove-from-home-web.html"/>
