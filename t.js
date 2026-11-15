@@ -1,6 +1,6 @@
 /* どの記事・サイトから来て、App Store に進んだかを測る（種まきの効果を見るため）。
    Cookie も localStorage も使わない。同じタブの中だけ sessionStorage で「最初の参照元」を覚える。
-   送るのは：開いたページ・参照元のドメイン・?ref= の値・言語・端末の種類（iphone などの1語）・App Store を押したか。 */
+   送るのは：開いたページ・参照元のドメイン・?ref= の値・言語（頁の言語とブラウザの表示言語の2字）・端末の種類（iphone などの1語）・App Store を押したか。 */
 (function(){
   var KEY='phc_B8s9xLNrx8Eg8DPWqLQDN3WGHBEbQwqpQiXDKTxxVJY4', HOST='https://us.i.posthog.com/i/v0/e/';
   var ss; try{ss=window.sessionStorage;}catch(e){}
@@ -27,9 +27,12 @@
     else if(/macOS/i.test(plat)||/Macintosh|Mac OS X/.test(ua)) device='mac';
   }catch(e){}
 
+  /* ブラウザの表示言語の最初の2字だけ（ko・ja など）。サイトの計測は IP も国も持たないので、韓国語の人がどの頁に来たかをこれで見る。 */
+  var blang=''; try{ blang=String((navigator.languages&&navigator.languages[0])||navigator.language||'').slice(0,2).toLowerCase(); }catch(e){}
+
   function send(ev,props){
     var p={distinct_id:sid,$process_person_profile:false,site:true,host:location.hostname,path:location.pathname,
-      lang:document.documentElement.lang||'',src:src,landing:land,ref_domain:internal?'(内部)':(refHost||'(なし)'),ref_tag:tag};
+      lang:document.documentElement.lang||'',blang:blang,src:src,landing:land,ref_domain:internal?'(内部)':(refHost||'(なし)'),ref_tag:tag};
     for(var k in props) p[k]=props[k];
     var body=JSON.stringify({api_key:KEY,event:ev,properties:p,timestamp:new Date().toISOString()});
     try{ if(navigator.sendBeacon&&navigator.sendBeacon(HOST,new Blob([body],{type:'text/plain'}))) return; }catch(e){}
