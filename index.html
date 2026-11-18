@@ -920,6 +920,19 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape'&&m.open){m.o
   if(document.body) show(); else document.addEventListener('DOMContentLoaded',show);
 })();
 </script>
+<script>
+/* 日本語以外のブラウザの人には、App Store のボタンを国を入れないリンクにする（日本のストアではなく、その人のストアが開く）。
+   data-pos="intl" で t.js が ct とクリックの where の末尾に -intl を付ける＝日本語の人のクリックと分けて数えられる。日本語の人は今のまま。 */
+(function(){
+  var p=window.__mLangPick, n=navigator;
+  if(!p||!p(n.languages&&n.languages.length?n.languages:[n.language])) return;
+  var a=document.querySelectorAll('a[href^="https://apps.apple.com/jp/app/id6809352229"]');
+  for(var i=0;i<a.length;i++){
+    a[i].href=a[i].href.replace('https://apps.apple.com/jp/app/','https://apps.apple.com/app/');
+    a[i].setAttribute('data-pos','intl');
+  }
+})();
+</script>
 <script src="/t.js" defer></script>
 </body>
 </html>
