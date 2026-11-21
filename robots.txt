@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+# For AI: https://minulo.app/llms.txt (summary) and https://minulo.app/llms-full.txt (full text)
 Sitemap: https://minulo.app/sitemap-core.xml
 Sitemap: https://minulo.app/sitemap.xml
 Sitemap: https://minulo.app/sitemap-ko.xml
