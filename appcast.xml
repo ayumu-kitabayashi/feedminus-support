@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>minulo for Mac</title>
+    <item>
+      <title>minulo 1.4</title>
+      <pubDate>Sun, 22 Nov 2026 06:20:53 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ayumu-kitabayashi/feedminus-support/releases/download/mac-v1.4/minulo.dmg" type="application/octet-stream" sparkle:edSignature="ZBmCmxXKuS5BI3QUws5ULYjYWwqxGNBhqDlp9GO9i1jfwFkHaaHp9vA5ljvq55hK9s+wPGccDT++83fDBoBSBQ==" length="4191257"/>
+    </item>
+  </channel>
+</rss>
