@@ -3,6 +3,14 @@
   <channel>
     <title>minulo for Mac</title>
     <item>
+      <title>minulo 1.4.1</title>
+      <pubDate>Sun, 22 Nov 2026 06:35:22 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ayumu-kitabayashi/feedminus-support/releases/download/mac-v1.4.1/minulo.dmg" type="application/octet-stream" sparkle:edSignature="5rD74wPKMZh962Z1FtgVRHAke8VcqdN6dZi+vWSNdXX2W4PLKvfoshKwpUWCQ7G4CpA3YDcPPeJGBaHiofWYBw==" length="4220832"/>
+    </item>
+    <item>
       <title>minulo 1.4</title>
       <pubDate>Sun, 22 Nov 2026 06:20:53 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
