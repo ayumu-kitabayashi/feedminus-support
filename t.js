@@ -1,7 +1,8 @@
 /* どの記事・サイトから来て、App Store に進んだかを測る（種まきの効果を見るため）。
    Cookie も localStorage も使わない。同じタブの中だけ sessionStorage で「最初の参照元」を覚える。
    送るのは：開いたページ・参照元のドメイン・?ref= の値・言語（頁の言語とブラウザの表示言語の2字）・端末の種類（iphone などの1語）・App Store を押したか。
-   11/20 から：どの AI・検索から来たか（chatgpt などの1語）・utm_source の値・アプリの中のブラウザか（instagram などの1語）。 */
+   11/20 から：どの AI・検索から来たか（chatgpt などの1語）・utm_source の値・アプリの中のブラウザか（instagram などの1語）。
+   d10 から：どこまで読んだか（h2・50・90 の1語。site_scroll）。 */
 (function(){
   var KEY='phc_B8s9xLNrx8Eg8DPWqLQDN3WGHBEbQwqpQiXDKTxxVJY4', HOST='https://us.i.posthog.com/i/v0/e/';
   var ss; try{ss=window.sessionStorage;}catch(e){}
@@ -79,6 +80,20 @@
   /* ページ内の小さなスクリプト（言語の案内など）からも同じ形で送れるようにする。t.js より先に積まれた分もここで送る。 */
   window.minuloTrack=send;
   var mq=window.minuloQ||[]; window.minuloQ=[]; for(var qi=0;qi<mq.length;qi++){ try{ send(mq[qi][0],mq[qi][1]||{}); }catch(e){} }
+
+  /* どこまで読んだか（d10）。指で動かしたときだけ、頁ごとに1回ずつ送る。h2＝最初の h2 が画面に入った、50・90＝頁の高さの割合まで来た。
+     App Store を押さずに帰った人が、上だけ読んだのか下まで読んだのかを見るため。送るのはこの1語だけ。 */
+  try{
+    var seen={}, h2=document.querySelector('main h2')||document.querySelector('h2'), tm=0;
+    var depth=function(){
+      var vh=window.innerHeight||0, y=(window.scrollY||0)+vh, H=document.documentElement.scrollHeight||1;
+      if(!seen.h2&&h2&&h2.getBoundingClientRect().top<vh){ seen.h2=1; send('site_scroll',{depth:'h2',device:device}); }
+      if(!seen.p50&&y/H>=0.5){ seen.p50=1; send('site_scroll',{depth:'50',device:device}); }
+      if(!seen.p90&&y/H>=0.9){ seen.p90=1; send('site_scroll',{depth:'90',device:device}); window.removeEventListener('scroll',onScroll); }
+    };
+    var onScroll=function(){ if(tm) return; tm=setTimeout(function(){ tm=0; depth(); },300); };
+    window.addEventListener('scroll',onScroll,{passive:true});
+  }catch(e){}
 
   /* App Store の minulo へのリンクに、参照元を ct として付ける（ASC の「キャンペーン」で数が見える） */
   function slug(s){return String(s).toLowerCase().replace(/[^a-z0-9.]+/g,'-').replace(/^-|-$/g,'');}
