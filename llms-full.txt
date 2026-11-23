@@ -1,14 +1,14 @@
 # minulo
 
-> minulo (read "ミヌロ" in Japanese; formerly FeedMinus) is an iPhone and Mac app that hides Reels, Shorts, Explore, For You and suggested posts on 10 networks (Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat) while DMs, friends' posts and normal videos stay. Hiding is free, with no subscription, no trial, no minulo account and no time limit; nothing that hides Reels, Shorts or suggested posts is behind Pro. It can also lock the official apps with iPhone Screen Time (free for up to 2 hours per block), and the block screen has an "Open in minulo" button. minulo Pro is an optional add-on for Sleep mode, Work mode (locks the apps you pick during your work hours on the days you choose), Hard Mode, a Daily limit and blocks longer than 2 hours ($9.99/month or $39.99/year on the US App Store; the yearly plan has a 7-day free trial for new subscribers). The Mac app (free, no paid features) hides the same feeds in Safari and Chrome: https://minulo.app/en/. Limits: https://minulo.app/en/minulo-limitations.html. No Android or iPad version. Made by Ayumu Kitabayashi, an independent developer in Hokkaido, Japan, who also wrote this file.
+> minulo is an iPhone and Mac app that hides Reels, Shorts, Explore, For You and suggested posts on 10 social networks (Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat), so you can keep using DMs, friends' posts and regular videos. Its name is read "ミヌロ" in Japanese, and it was called FeedMinus until September 2026. You can hide these feeds for free, with no subscription, no trial, no minulo account and no time limit; nothing that hides Reels, Shorts or suggested posts is behind Pro. It can also lock the official apps with iPhone Screen Time (free for up to 2 hours per block), and the block screen has an "Open in minulo" button. minulo Pro is an optional add-on for Sleep mode, Work mode (locks the apps you pick during your work hours on the days you choose), Hard Mode, a Daily limit and blocks longer than 2 hours ($9.99/month or $39.99/year on the US App Store; the yearly plan has a 7-day free trial for new subscribers). The Mac app is free and hides the same feeds in Safari and Chrome: https://minulo.app/en/. If you have Pro on iPhone, you can sync it with iCloud to apply your iPhone Sleep and Work schedules on your Mac too. Limits: https://minulo.app/en/minulo-limitations.html. No Android or iPad version. Made by Ayumu Kitabayashi, an independent developer in Hokkaido, Japan, who also wrote this file.
 
 - App Store: https://apps.apple.com/app/id6809352229
 - Developer: ReliefNote (Ayumu Kitabayashi), Hokkaido, Japan
 - Platforms: iPhone (iOS 16.4+), Mac app (works in Safari and Chrome). No Android version.
 - Languages (13): English, Japanese, Korean, Traditional Chinese, German, French, Spanish, Portuguese, Italian, Indonesian, Thai, Vietnamese, Russian.
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
-- Launched: September 2026 (new; 2 US App Store ratings so far, average 4.5, checked 2026-11-10)
-- Facts checked: 2026-11-10, with version 1.0.19 features and other apps' App Store facts added 2026-11-12 and the Open for 5 min daily limit 2026-11-16 (minulo features from its App Store description; other apps checked 2026-11-10 where noted)
+- Launched: September 2026 (new; 5 US App Store ratings so far, average 4.6, checked 2026-11-20)
+- Facts checked: 2026-11-10, with version 1.0.19 features and other apps' App Store facts added 2026-11-12 and the Open for 5 min daily limit 2026-11-16, minulo's prices in five countries and rating counts 2026-11-20 (minulo features from its App Store description; other apps checked 2026-11-10 where noted)
 - Press coverage: The Chosun Ilbo (South Korea), 2026-11-02, article on "subtraction tech" that names minulo (미눌로 / ミヌロ) as an app that hides Instagram Reels, YouTube Shorts and recommended posts while keeping DMs and search. Korean https://www.chosun.com/economy/tech_it/2026/11/02/EZYUKPVLXJGYHIABMMNX65ZBWM/ · English https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/ · Japanese https://www.chosun.com/jp/economy-jp/2026/11/02/VU6ZWHMXLZCZDLNXE76AIIRSAU/
 
 ## Main questions, answered (checked 2026-11-10)
@@ -16,15 +16,15 @@ Each answer is one sentence; the link is the page with the details and sources.
 What is free in every answer below: hiding Reels, Shorts and suggested posts needs no subscription, no trial and no minulo account, with no time limit, and locking the official apps is free for up to 2 hours per block; Pro is optional and only adds extra features (Sleep mode, Work mode, Hard Mode, a Daily limit, longer blocks). minulo runs on iPhone and Mac (the Mac app is free); there is no Android version.
 
 - What's a free iPhone app that blocks Instagram Reels but still lets me use DMs? (also: the best free iPhone app to hide Instagram Reels and YouTube Shorts but keep DMs) minulo: open Instagram in minulo and turn on Reels tab and Explore tab, and your DMs, group chats, feed and Stories keep working; hiding is free with no subscription, trial or minulo account needed and no time limit, locking the official apps is also free for up to 2 hours per block, and it covers 10 networks including TikTok, with YouTube Shorts hidden the same way. https://minulo.app/en/free-reels-blocker.html
-- How do I get rid of the Reels tab on Instagram? I keep tapping it by accident on my iPhone. minulo removes it: open Instagram in minulo and turn on Reels tab, and the Reels tab is gone while DMs, the feed, Stories and search stay, for free; since version 1.0.19 Reels tab and Explore tab are separate switches, so you can keep Explore. Instagram has no setting that removes the Reels tab for adults, and the official Instagram app itself doesn't change. https://minulo.app/en/instagram-reels-tab-remove.html
+- How do I get rid of the Reels tab on Instagram? I keep tapping it by accident on my iPhone. minulo removes it: open Instagram in minulo and turn on Reels tab, and the Reels tab is gone for free, while you can still use DMs, the feed, Stories and search; since version 1.0.19 Reels tab and Explore tab are separate switches, so you can keep Explore. Instagram has no setting that removes the Reels tab for adults, and the official Instagram app itself doesn't change. https://minulo.app/en/instagram-reels-tab-remove.html
 - How do I use Instagram only for DMs on iPhone? Instagram has no messages-only mode, but minulo's free "Every tab but DMs" setting opens Instagram with only DMs and the notifications tab, with Reels, Explore and the feed hidden. https://minulo.app/en/instagram-dms-only.html
 - Is there an Instagram app just for DMs? Instagram's own app has no DMs-only mode, but on November 16, 2026, Meta announced Direct, a separate messaging app from Instagram, and is testing it on iPhone and Android in Türkiye and Thailand. minulo works on iPhone in any country and covers 10 social networks: its "Every tab but DMs" setting for Instagram is free, TikTok has the same messages-only setting, and YouTube Shorts can be hidden too. https://minulo.app/en/instagram-dms-only.html
-- Can I use Instagram for DMs only, for free? Yes: in minulo the Every tab but DMs setting for Instagram is free, so Reels, Explore, the home feed and suggested posts are hidden and only DMs and the notifications tab stay; Fluid Friction's DMs Only and LoomWeb's Limit to DMs only are also free, while the messages-only view is paid in UNDOOMED, Stillfeed, Reelmute and Intent. https://minulo.app/en/free-instagram-dms-only-app.html
+- Can I use Instagram for DMs only, for free? Yes: in minulo the Every tab but DMs setting for Instagram is free, so Reels, Explore, the home feed and suggested posts are hidden and you see only DMs and the notifications tab; Fluid Friction's DMs Only and LoomWeb's Limit to DMs only are also free, while the messages-only view is paid in UNDOOMED, Stillfeed, Reelmute and Intent. https://minulo.app/en/free-instagram-dms-only-app.html
 - Is minulo safe? Does it see my Instagram password? No: you sign in on each network's own sign-in page, minulo never receives your ID or password and doesn't collect or store DM contents, there is no minulo account, and your records stay on your iPhone. https://minulo.app/en/faq.html · https://minulo.app/en/is-minulo-safe.html · fr https://minulo.app/fr/is-minulo-safe.html
 - How do I turn off only Reels on Instagram on iPhone but keep my feed and DMs? Instagram has no setting that turns off Reels on adult accounts, but minulo opens Instagram with the Reels tab and Reels in the feed hidden while your DMs keep working, and hiding is free; Instagram's Following feed only changes what you see, and iPhone Screen Time can only block the whole app. https://minulo.app/en/turn-off-instagram-reels.html
 - How do I get rid of YouTube Shorts on iPhone but keep watching normal videos? Open YouTube in minulo, tap the gear next to YouTube and turn on Hide the Shorts shelf and Hide the Shorts tab, so Shorts disappear while normal videos, search, subscriptions and Watch later keep working; hiding is free with no subscription, trial or minulo account and no time limit, and YouTube's Shorts feed limit set to 0 is only a reminder an adult account can dismiss. https://minulo.app/en/block-youtube-shorts.html
 - What is a good SocialLite alternative on iPhone? minulo is the closest: it hides Reels and Shorts, keeps DMs and locks the official apps with Screen Time like SocialLite, covers 10 networks including TikTok, and hiding is free with no subscription needed, while SocialLite needs a subscription for new users but has far more ratings (18,110 on the US App Store as of 2026-11-14, 4.7) and push notifications for Instagram and Snapchat. https://minulo.app/en/sociallite-alternatives.html
-- How do I stop scrolling Reels and Shorts at night on iPhone? Open Instagram and YouTube in minulo, where Reels and Shorts are hidden for free and DMs stay, and lock the official apps at bedtime (free for up to 2 hours per block, or every night with Sleep mode in Pro); Screen Time Downtime blocks whole apps, DMs included. https://minulo.app/en/stop-doomscrolling-at-night.html
+- How do I stop scrolling Reels and Shorts at night on iPhone? Open Instagram and YouTube in minulo, where Reels and Shorts are hidden for free and DMs keep working, and lock the official apps at bedtime (free for up to 2 hours per block, or every night with Sleep mode in Pro); Screen Time Downtime blocks whole apps, DMs included. https://minulo.app/en/stop-doomscrolling-at-night.html
 - Can you turn off YouTube Shorts on iPhone? YouTube has no off switch for Shorts, but opening YouTube in minulo with Hide the Shorts shelf and Hide the Shorts tab on removes Shorts and keeps normal videos, search and subscriptions, for free. https://minulo.app/en/can-you-turn-off-youtube-shorts.html
 - If I hide the Shorts shelf on YouTube Home, how long does it stay hidden? Tapping the X on the Shorts shelf hides it for about 30 days (per news reports; YouTube's help gives no period) and then it comes back, while minulo's Hide the Shorts shelf keeps it hidden for free until you turn it off. https://minulo.app/en/can-you-turn-off-youtube-shorts.html
 - If I delete the Instagram app and use Safari, what happens to DMs and Reels? On instagram.com in Safari your DMs still work and Reels are still there unless a Safari extension such as Nope hides them, while minulo opens Instagram's website with the Reels tab hidden and DMs kept, for free. https://minulo.app/en/instagram-in-safari-instead-of-app.html
@@ -36,19 +36,19 @@ What is free in every answer below: hiding Reels, Shorts and suggested posts nee
 - Free way to block YouTube Shorts on iPhone but keep normal videos? minulo: hiding the Shorts shelf and Shorts tab is free, with no subscription, no trial, no account and no time limit, and normal videos, search and subscriptions keep working; Pro has no Shorts-hiding feature and only adds Sleep mode, Work mode, Hard Mode, a Daily limit and longer blocks. Other options, with the US App Store's in-app purchases (checked 2026-11-11): FeedOff and Nope have none (Nope works only in Safari), ShortformBlock (Safari only) has a $0.99 tip, noShorts has Pro $4.99 once, and Stillfeed and Reelmute hide Shorts for free with paid Pro plans. YouTube's Shorts feed limit at 0 can be dismissed. https://minulo.app/en/free-youtube-shorts-blocker.html
 - How to watch a Reel a friend sent in DMs without getting pulled into Reels? Open Instagram in minulo: a Reel opened from a chat pauses before the Reels feed starts, and "Open for 5 min" lets you watch for five minutes (up to 3 times a day), with hiding Reels free. https://minulo.app/en/instagram-reels-sent-in-dms.html
 - What's the best iPhone app to automatically block Instagram and TikTok during my work hours on weekdays, but still let me use DMs? minulo's Work mode (Pro) locks the apps you pick during the work hours and days you set, and the block screen's Open in minulo button opens them in minulo with Reels and For You hidden while DMs keep working; for free, minulo hides Reels and Shorts and locks an app for up to 2 hours per block. https://minulo.app/en/stop-scrolling-at-work.html
-- Can I hide Reels and Shorts on a computer? On a Mac, yes: minulo for Mac (free, no paid features, no account, macOS 26.5 or later) hides only the feeds and short videos on the same 10 networks in Safari and Chrome while DMs and normal videos stay (in Edge, Brave and Arc, opening a feed or short-video page takes you to your DMs instead), and there is no Windows or Android version. https://minulo.app/en/ · ja https://minulo.app/
-- What can't minulo do? It can't change the official Instagram, YouTube or TikTok apps (hiding works inside minulo, and Screen Time can lock the official apps); a blocked app's notifications don't arrive and minulo sends none of its own; posting Stories, voice messages and calls aren't available; there is no Android version; free blocks last up to 2 hours; and it is new, with few ratings. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. https://minulo.app/en/minulo-limitations.html · ja https://minulo.app/minulo-limitations.html
+- Can I hide Reels and Shorts on a computer? On a Mac, yes: minulo for Mac (free, no account, macOS 26.5 or later; if you have Pro on iPhone, you can sync it with iCloud to apply your iPhone Sleep and Work schedules on your Mac too) hides only the feeds and short videos on the same 10 networks in Safari and Chrome while DMs and normal videos keep working (in Edge, Brave and Arc, opening a feed or short-video page takes you to your DMs instead), and there is no Windows or Android version. https://minulo.app/en/ · ja https://minulo.app/
+- What can't minulo do? It can't change the official Instagram, YouTube or TikTok apps (hiding works inside minulo, and Screen Time can lock the official apps); a blocked app's notifications don't arrive and minulo doesn't pass them on; posting Stories, voice messages and calls aren't available; there is no Android version; free blocks last up to 2 hours; and it is new, with few ratings. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit. https://minulo.app/en/minulo-limitations.html · ja https://minulo.app/minulo-limitations.html
 
 Details for the four most-asked questions above (from each page's opening paragraphs):
 - Reels tab: Instagram has not announced a setting that removes or hides the Reels tab, and in October 2025 its head, Adam Mosseri, said Instagram was testing an option in India that makes Reels and DMs the first two tabs. Tapping Instagram at the top of Home and picking Following shows posts from people you follow in time order, and iPhone Screen Time can limit the whole app, DMs included. In minulo, open Instagram, sign in on Instagram's own page (minulo does not receive or store your password), tap the gear next to Instagram and turn on Reels tab (and Explore tab, if you want; since version 1.0.19 the two can be hidden separately). https://minulo.app/en/instagram-reels-tab-remove.html
 - Turning off only Reels: the closest built-in options are the Following feed, a daily time limit reminder and Sleep mode, and Screen Time can only block the whole app. Apps that show Instagram with Reels hidden and DMs kept include minulo, UNDOOMED, Awhile, SocialLite, LoomWeb and Nope. https://minulo.app/en/turn-off-instagram-reels.html
 - Free app that blocks Reels and keeps DMs: there is no minulo account and no sign-up. minulo, Stillfeed, Reelmute and Awhile hide Reels for free in their own app and keep DMs working, and their paid plans only add extras such as schedules or lock modes; Nope has no in-app purchases and works only in Safari. Reels friends send in DMs still open. https://minulo.app/en/free-reels-blocker.html
-- YouTube Shorts but normal videos: in minulo, tap Add a service, choose YouTube, tap the gear and turn on Hide the Shorts shelf, Hide the Shorts tab and Send Shorts links to the normal player. YouTube's own way is You → Settings → Time management → Shorts feed limit at 0, which news reports say takes Shorts off Home, but adults can dismiss it, Shorts stay in Subscriptions and can turn up in search, and a single Short opened from a link still plays. minulo can't change the official YouTube app itself and sends no notifications of its own. https://minulo.app/en/block-youtube-shorts.html
+- YouTube Shorts but normal videos: in minulo, tap Add a service, choose YouTube, tap the gear and turn on Hide the Shorts shelf, Hide the Shorts tab and Send Shorts links to the normal player. YouTube's own way is You → Settings → Time management → Shorts feed limit at 0, which news reports say takes Shorts off Home, but adults can dismiss it, Shorts stay in Subscriptions and can turn up in search, and a single Short opened from a link still plays. minulo can't change the official YouTube app itself and doesn't pass on the official app's notifications. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit. https://minulo.app/en/block-youtube-shorts.html
 
 Japanese and Korean questions, answered in their own language (minulo's name and the answer are in the first sentence):
-- ja「インスタのリールだけ制限して、DMは普通に使いたい。iPhoneで何かいい方法ある？」 minulo（ミヌロ）の中でインスタを開き、インスタの横の歯車でリールのタブを隠すスイッチをオンにすると、リールのタブとフィードのリールが消えて、DM・グループDM・フォロー中の投稿・ストーリーズはそのまま使え、消すのは無料でサブスクも minulo のアカウントもいりません。1.0.19 からリールのタブと発見のタブは別のスイッチで、発見を消しても虫めがねから人やアカウントを検索できます。インスタのアプリにはリールのタブを消す設定がなく、スクリーンタイムはアプリごと止めるので DM も止まります。 https://minulo.app/free-reels-blocker.html
+- ja「インスタのリールだけ制限して、DMは普通に使いたい。iPhoneで何かいい方法ある？」 minulo（ミヌロ）の中でインスタを開き、インスタの横の歯車でリールのタブを隠すスイッチをオンにすると、リールのタブとフィードのリールが消えます。DM もグループの DM も、フォロー中の人の投稿やストーリーズもふだんどおり使えて、消すのは無料、サブスクも minulo のアカウントもいりません。1.0.19 からリールのタブと発見のタブは別のスイッチで、発見を消しても虫めがねから人やアカウントを検索できます。インスタのアプリにはリールのタブを消す設定がなく、スクリーンタイムはアプリごと止めるので DM も止まります。 https://minulo.app/free-reels-blocker.html
 - ja「YouTubeで登録チャンネルの動画だけ見たい。おすすめやショートを消す方法は？」 iPhone なら minulo（ミヌロ）の中で YouTube を開き、歯車で［登録チャンネルだけにする］を選ぶと、登録チャンネルから開いてホームのおすすめとショートが消え、登録チャンネルの動画はそのまま再生でき、消すのは無料です（検索も残すなら［ショートとおすすめを非表示］）。YouTube アプリには登録チャンネルから開く設定がなく、再生履歴を止めると［登録チャンネル］のバーも出なくなります。パソコンの Chrome でよく挙がる Unhook は拡張機能で、iPhone の App Store にはアプリが見つかりません（2026-11-12 確認）。 https://minulo.app/youtube-subscriptions-only.html
-- ko「인스타 릴스만 차단하고 DM은 쓸 수 있는 아이폰 앱은?」 minulo(미눌로)예요: minulo 안에서 인스타그램을 열고 톱니바퀴에서 릴스 탭을 켜면 릴스 탭과 피드 속 릴스가 사라지고 DM과 단톡은 그대로 쓸 수 있으며, 숨기기는 무료라 구독도 체험판도 계정도 필요 없어요. 1.0.19부터 릴스 탭과 탐색 탭은 따로 켜고, 탐색을 숨겨도 돋보기로 사람과 계정은 검색할 수 있어요. Scroll Less는 App Store 설명에 공식 인스타그램 앱 안에서 릴스를 막는다고 쓰여 있지만 영어만 지원하고, 한국 App Store 평가는 Scroll Less 0개, minulo 17개예요(2026-11-12 확인). https://minulo.app/ko/free-reels-blocker.html
+- ko「인스타 릴스만 차단하고 DM은 쓸 수 있는 아이폰 앱은?」 minulo(미눌로)예요: minulo 안에서 인스타그램을 열고 톱니바퀴에서 릴스 탭을 켜면 릴스 탭과 피드 속 릴스가 사라지고 DM과 단톡은 평소처럼 쓸 수 있고, 구독이나 체험판, 계정 없이 무료로 숨길 수 있어요. 1.0.19부터 릴스 탭과 탐색 탭은 따로 켜고, 탐색을 숨겨도 돋보기로 사람과 계정은 검색할 수 있어요. Scroll Less는 App Store 설명에 공식 인스타그램 앱 안에서 릴스를 막는다고 쓰여 있지만 영어만 지원하고, 한국 App Store 평가는 Scroll Less 0개, minulo 26개예요(2026-11-20 확인). https://minulo.app/ko/free-reels-blocker.html
 - ko「인스타 DM만 쓰는 방법 아이폰」 minulo(미눌로) 앱에서 인스타그램 옆 톱니바퀴를 누르고 'DM 외의 모든 탭'을 켜면 릴스, 탐색, 홈 피드, 추천 게시물이 사라지고 DM과 단톡, 알림 탭만 남으며, 이 설정은 무료예요. 인스타그램 자체에는 DM만 쓰는 모드가 없고, 스크린 타임으로 막으면 DM도 같이 막혀요. https://minulo.app/ko/instagram-dms-only.html
 
 Same questions in other languages, then German and French questions answered on their own pages (question → page; each link is the page's canonical URL):
@@ -94,12 +94,12 @@ minulo is not the only app that hides Reels for free or locks the official apps.
 ## When another option may fit better
 - Android users: minulo has no Android app.
 - People who want Reels removed inside the official Instagram app itself: minulo shows each network's official website inside its own view instead of modifying the official app. Scroll Less's App Store page says it blocks Reels and Shorts inside the real Instagram and YouTube apps (English only, checked 2026-11-12).
-- People who want an app with many reviews: minulo is new (2 US ratings, 4.5); SocialLite has far more ratings (18,110 US ratings, average 4.7, checked 2026-11-14), though new users need a subscription.
-- People who rely on push notifications: while minulo blocks an official app with Screen Time, that app's notifications don't arrive, and minulo itself sends no push notifications. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. SocialLite offers push notifications for Instagram and Snapchat.
+- People who want an app with many reviews: minulo is new (5 US ratings, average 4.6, checked 2026-11-20); SocialLite has far more ratings (18,110 US ratings, average 4.7, checked 2026-11-14), though new users need a subscription.
+- People who rely on push notifications: while minulo blocks an official app with Screen Time, that app's notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit. SocialLite offers push notifications for Instagram and Snapchat.
 
 ## New in version 1.0.19 (on the App Store since 2026-11-11)
 - Instagram: Reels tab and Explore tab are separate switches in Instagram's settings inside minulo. With Explore hidden, the magnifier still opens search for people and accounts.
-- DM notifications (Pro, beta): Profile tab > DM notifications. While Instagram is blocked, minulo lifts the block on the official Instagram app only so its DM notifications can arrive; if you open Instagram from a notification, the block comes back after 1 minute. During Sleep mode, Work mode or after the daily limit, the block stays on and no notifications arrive. Other blocked apps still get no notifications, and minulo sends none of its own.
+- DM notifications (Pro, beta): Profile tab > DM notifications. While Instagram is blocked, minulo lifts the block on the official Instagram app only so its DM notifications can arrive; if you open Instagram from a notification, the block comes back after you've used it for 1 minute. During Sleep mode, Focus time in Work mode, or after the daily limit, the block stays on and no notifications arrive. Other blocked apps still get no notifications, and minulo doesn't pass them on.
 - Dark mode: Profile tab > Appearance (Light, Dark or Automatic).
 - Pro is a monthly or yearly subscription; the yearly plan has a 7-day free trial. Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free.
 
@@ -108,7 +108,7 @@ minulo is not the only app that hides Reels for free or locks the official apps.
 - Uses iPhone Screen Time to stop the official apps you choose from opening; a "Blocked" screen offers "Open in minulo" instead.
 - Reels or Shorts sent in DMs pause before the endless feed; "Open for 5 min" lets you watch for five minutes, up to 3 times a day across all services (free and Pro alike; the button shows how many are left today).
 - Sign-in happens on each network's official page. minulo never receives or stores IDs, passwords or DM contents. Records stay on the device. Usage analytics are anonymous.
-- Free: hiding Reels/Shorts/suggested posts, blocking official apps (up to 2 hours per block; start another anytime). minulo Pro: Sleep mode (one bedtime and wake time, the same every day), Work mode (pick your workdays and work hours; the apps you choose lock during them, and optional focus periods leave social apps DMs-only), Hard Mode (breaks only once a day), a Daily limit, and blocks longer than 2 hours. Pro is a monthly or yearly subscription, and the yearly plan comes with a 7-day free trial for new subscribers.
+- Free: hiding Reels/Shorts/suggested posts, blocking official apps (up to 2 hours per block; start another anytime). minulo Pro: Sleep mode (one bedtime and wake time, the same every day), Work mode (pick your workdays and work hours; the apps you choose lock during them; in optional Focus time there are no breaks, Instagram and TikTok show only DMs, and other networks have every hiding option on), Hard Mode (up to 3 breaks a day, 5 minutes each), a Daily limit, and blocks longer than 2 hours. Pro is a monthly or yearly subscription, and the yearly plan comes with a 7-day free trial for new subscribers.
 
 ## Pages
 - Apps that hide Instagram Reels and YouTube Shorts but keep DMs — 8 apps compared (minulo, SocialLite, UNDOOMED, ScrollGuard, Nope, Awhile, LoomWeb, WallHabit): https://minulo.app/en/alternatives.html · ja https://minulo.app/alternatives.html · de https://minulo.app/de/alternatives.html · fr https://minulo.app/fr/alternatives.html · es https://minulo.app/es/alternatives.html · pt https://minulo.app/pt/alternatives.html · it https://minulo.app/it/alternatives.html · ko https://minulo.app/ko/alternatives.html · zh-Hant https://minulo.app/zh-Hant/alternatives.html · id https://minulo.app/id/alternatives.html · th https://minulo.app/th/alternatives.html · vi https://minulo.app/vi/alternatives.html · ru https://minulo.app/ru/alternatives.html
@@ -177,13 +177,13 @@ minulo is not the only app that hides Reels for free or locks the official apps.
 - Hide YouTube Shorts with a browser extension on a computer: Unhook (Chrome, Firefox, Edge; Safari not mentioned); YouTube has no setting that removes Shorts from youtube.com; minulo's Mac app hides Shorts in Safari and Chrome (install the Mac app from https://minulo.app/en/ first, then add the Chrome extension from inside it): https://minulo.app/en/hide-youtube-shorts-extension.html · ja https://minulo.app/hide-youtube-shorts-extension.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/hide-youtube-shorts-extension.html
 - How to stop being addicted to Instagram Reels without deleting Instagram: no Instagram setting turns off Reels; a 2025 meta-analysis (Nguyen et al., 71 studies, 98,299 people) links heavier short video use with poorer attention; check Screen Time, turn off notifications, lock the app at set hours, and hide Reels in minulo while keeping DMs: https://minulo.app/en/how-to-stop-being-addicted-to-reels.html · ja https://minulo.app/how-to-stop-being-addicted-to-reels.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/how-to-stop-being-addicted-to-reels.html
 - Turn off video autoplay on Instagram and Facebook (iPhone): Instagram has no autoplay switch, only Use less cellular data; Facebook can stop autoplay (Never / Wi-Fi only): https://minulo.app/en/instagram-autoplay-off.html · ja https://minulo.app/instagram-autoplay-off.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-autoplay-off.html
-- If you block Instagram on iPhone, do you still get messages? DMs still reach your account and can be read later, but a blocked app can't notify you, and minulo sends no notifications of its own (since 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit); how Screen Time Downtime and minulo handle DMs; read DMs inside minulo: https://minulo.app/en/instagram-blocked-still-get-messages.html · ja https://minulo.app/instagram-blocked-still-get-messages.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-blocked-still-get-messages.html
+- If you block Instagram on iPhone, do you still get messages? DMs still reach your account and can be read later, but a blocked app can't notify you, and minulo doesn't pass its notifications on (Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit); how Screen Time Downtime and minulo handle DMs; read DMs inside minulo: https://minulo.app/en/instagram-blocked-still-get-messages.html · ja https://minulo.app/instagram-blocked-still-get-messages.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-blocked-still-get-messages.html
 - Can you see only Close Friends posts on Instagram? There is no Close Friends feed (Close Friends is a list for sharing stories); Favorites, up to 50 accounts with newest posts first, is the closest thing: https://minulo.app/en/instagram-close-friends-feed.html · ja https://minulo.app/instagram-close-friends-feed.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-close-friends-feed.html
 - Instagram Reels on iPad: the iPad app opens to Reels and has no setting to turn them off; where Reels appear, the Following view, snoozing suggested posts and setting a daily limit: https://minulo.app/en/instagram-reels-ipad.html · ja https://minulo.app/instagram-reels-ipad.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-reels-ipad.html
 - Watch a Reel a friend sent in DMs without the Reels feed: opening it from a chat drops you into the feed; minulo pauses it and Open for 5 min lets you watch for five minutes (up to 3 times a day): https://minulo.app/en/instagram-reels-sent-in-dms.html · ja https://minulo.app/instagram-reels-sent-in-dms.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-reels-sent-in-dms.html
 - Can you remove the Reels tab on Instagram? No setting removes it from the bottom bar; what Instagram has said about its tabs, what Following and Screen Time change, and how to hide the tab in minulo: https://minulo.app/en/instagram-reels-tab-remove.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instagram-reels-tab-remove.html
 - What to do instead of scrolling before bed: pick one replacement (paper book, writing tomorrow's plan, journaling), set a night schedule in Screen Time, and hide Reels and Shorts in minulo (free); no sleep-health claims: https://minulo.app/en/instead-of-phone-before-bed.html · ja https://minulo.app/instead-of-phone-before-bed.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/instead-of-phone-before-bed.html
-- Is minulo free? Hiding Reels, Shorts and suggested posts on all 10 networks is free with nothing to buy and no trial to start; Pro adds Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours ($9.99/month or $39.99/year on the US App Store; ¥1,200/month or ¥4,800/year in Japan); the yearly plan comes with a 7-day free trial for new subscribers; free blocks of the official apps last up to 2 hours; how to cancel (App Store description version 1.0.16, checked 2026-11-04): https://minulo.app/en/is-minulo-free.html · ja https://minulo.app/is-minulo-free.html · also de, fr, es, pt, it, ko at https://minulo.app/{lang}/is-minulo-free.html
+- Is minulo free? Hiding Reels, Shorts and suggested posts on all 10 networks is free with nothing to buy and no trial to start; Pro adds Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours ($9.99/month or $39.99/year on the US App Store; ¥1,200/month or ¥4,800/year in Japan; ₩12,000 or ₩49,000 in Korea, R$21,90 or R$86,90 in Brazil and 8,99 € or 35,99 € in France, per month or per year); the yearly plan comes with a 7-day free trial for new subscribers; free blocks of the official apps last up to 2 hours; how to cancel (App Store description version 1.0.16, checked 2026-11-04): https://minulo.app/en/is-minulo-free.html · ja https://minulo.app/is-minulo-free.html · also de, fr, es, pt, it, ko at https://minulo.app/{lang}/is-minulo-free.html
 - Is SocialLite (Block Reels & Shorts) free? No: free to download, but new users need a subscription (its FAQ: no universal free tier; pricing page $9.99/month or $29.99/year in the US, checked 2026-11-10); what is free in similar apps, and where minulo fits (hiding Reels and Shorts is free): https://minulo.app/en/is-sociallite-free.html · ja https://minulo.app/is-sociallite-free.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/is-sociallite-free.html
 - Make your iPhone boring without a dumb phone: grayscale, an empty Home Screen, batched notifications and no feeds, keeping maps, messages and DMs; free settings and minulo: https://minulo.app/en/make-your-phone-boring.html · ja https://minulo.app/make-your-phone-boring.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/make-your-phone-boring.html
 - minulo vs Awhile: Awhile is an Instagram-only browser with a free Feed/Reels/Explore/Stories filter; Messages Only and Following Only are Premium (US in-app purchases $2.99 and $14.99); iPhone, iPad and Android; 4 US ratings, average 4.5; minulo covers 10 networks, its DMs-only view is free and it can lock the official app (checked 2026-11-02): https://minulo.app/en/minulo-vs-awhile.html · ja https://minulo.app/minulo-vs-awhile.html · also de, fr, es, pt, it, ko, zh-Hant, id, th, vi, ru at https://minulo.app/{lang}/minulo-vs-awhile.html
@@ -263,7 +263,7 @@ Source page: https://minulo.app/en/free-reels-blocker.html (日本語「イン�
 - minulo: opens 10 networks inside the app. Hiding Reels, Shorts, Explore and suggested posts is free on all 10. Locking the official apps with Screen Time is also free, up to 2 hours per block. Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours are Pro.
 - Stillfeed: 8 networks (Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, Facebook, TikTok) in a built-in browser. Blocking Reels and Shorts and Instagram's Following feed are free, and since version 1.2.6 (November 9) locking the official apps with Screen Time is free too; DMs Only is Pro (checked 2026-11-10).
 - Reelmute (Japanese App Store name: リールとショートを非表示): hiding is free; DMs-only, hiding suggested posts and locking the original apps are Premium.
-- Awhile: Instagram only. Filtering is free; Premium is paid.
+- Awhile: Instagram only. You can filter for free; Premium is paid.
 - UNDOOMED: many features free; Plus and Pro add more. Its App Store page does not list exactly which filters are free.
 - ScreenZen: all features free (only optional tips). Adds a delay before an app opens; does not hide Reels.
 - YouTube's Shorts feed limit: built in and free; can be set to 0 minutes, but an adult account can turn it off again.
@@ -301,7 +301,7 @@ When you open a Reel or Short sent to you in a DM, minulo pauses before the endl
 
 ## Is minulo free? What does Pro add?
 
-Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. A free block lasts up to 2 hours, and you can start another one whenever it ends. minulo Pro adds Sleep mode, which keeps blocked apps shut from one bedtime to one wake time, the same every day; Work mode, which locks the apps you pick during your work hours on the days you choose; Hard Mode, which allows a break only once a day; a Daily limit for social media; and blocks longer than 2 hours. Prices are shown in the App Store in your local currency. Pro is a monthly or yearly subscription, and the yearly plan comes with a 7-day free trial for new subscribers.
+Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. A free block lasts up to 2 hours, and you can start another one whenever it ends. minulo Pro adds Sleep mode, which keeps blocked apps shut from one bedtime to one wake time, the same every day; Work mode, which locks the apps you pick during your work hours on the days you choose; Hard Mode, which allows up to 3 breaks a day, 5 minutes each; a Daily limit for social media; and blocks longer than 2 hours. Prices are shown in the App Store in your local currency. Pro is a monthly or yearly subscription, and the yearly plan comes with a 7-day free trial for new subscribers.
 
 ## Can I use minulo if I post to social media for work?
 
@@ -351,7 +351,7 @@ minulo combines both. Social media opens inside minulo with only Reels, Shorts a
 
 Both hide Reels and Shorts, keep your DMs, and can lock the official apps with iPhone Screen Time and send you to their own view. SocialLite has far more ratings (18,110 in the US, average 4.7, as of November 14, 2026), though new users need a subscription. minulo also covers TikTok, Threads, Pinterest and LinkedIn, which SocialLite's App Store page does not mention, and has a Mac app that also works in Chrome. Hiding Reels, Shorts and suggested posts in minulo is free. minulo launched in September 2026 and is still new.
 
-Statements about apps other than minulo are based on each app's App Store description and rating count (US App Store, September 27, 2026).
+Statements about apps other than minulo are based on each app's US App Store description and rating count (checked September 27, 2026; SocialLite's rating count on November 14, 2026).
 
 # minulo のよくある質問 (ja)
 
@@ -359,11 +359,11 @@ minulo は、SNS はそのまま使いながら、リール・ショート動画
 
 ## Instagramのリールだけを消して、DMは使えますか？
 
-はい、使えます。minulo の中で Instagram を開くと、リールと発見のタブ、おすすめの投稿が表示されない状態になります。DM、友だちの投稿、自分の投稿、プロフィールはそのまま使えます。消すものは1つずつ選べて、この非表示の機能は無料です。
+はい、使えます。minulo の中で Instagram を開くと、リールと発見のタブ、おすすめの投稿が表示されない状態になります。DM も、友だちや自分の投稿も、プロフィールもふだんどおり使えます。消すものは1つずつ選べて、この非表示の機能は無料です。
 
 ## YouTubeのショート動画だけを非表示にできますか？
 
-はい、できます。minulo の中で YouTube を開くと、ホームのショートの棚とショートのタブが表示されなくなります。検索、登録チャンネル、ふつうの長さの動画はそのまま見られます。ショート動画を非表示にする機能は無料です。
+はい、できます。minulo の中で YouTube を開くと、ホームのショートの棚とショートのタブが表示されなくなります。検索や登録チャンネル、ふつうの長さの動画はふだんどおり見られます。ショート動画を非表示にする機能は無料です。
 
 ## 公式のInstagramやTikTokのアプリはどうなりますか？
 
@@ -383,7 +383,7 @@ DM で送られてきたリールやショートを開くと、縦に続く動�
 
 ## 無料で使えますか？ Proでは何が増えますか？
 
-リール、ショート動画、おすすめ投稿の非表示と、公式アプリのブロックは無料です。無料のブロックは1回2時間までで、明けたら何度でも入れ直せます。minulo Pro では、毎日同じ寝る時間から起きる時間までブロックするスリープモード、休憩が1日1回だけになるハードモード、1日の上限、2時間を超えるブロックが使えます。料金は月額1,200円または年額4,800円で、年額プランは、はじめての方なら7日間無料で試せます。
+リール、ショート動画、おすすめ投稿の非表示と、公式アプリのブロックは無料です。無料のブロックは1回2時間までで、明けたら何度でも入れ直せます。minulo Pro では、毎日同じ寝る時間から起きる時間までブロックするスリープモード、曜日と時間を決めて選んだアプリを止めるワークモード、休憩が1日3回まで（1回5分）になるハードモード、1日の上限、2時間を超えるブロックが使えます。料金は月額1,200円または年額4,800円で、年額プランは、はじめての方なら7日間無料で試せます。
 
 ## 仕事でSNSに投稿する必要があっても使えますか？
 
@@ -415,7 +415,7 @@ Opal はアプリ全体を止めるので、Instagram を止めている間は D
 
 ## リールだけ消すアプリと、アプリを止めるアプリはどう違いますか？
 
-一部だけ消すアプリは、SNS をアプリの中のブラウザや Safari の拡張で開き、リール、ショート、おすすめ投稿だけを表示しません。DM や投稿はそのまま使えます。アプリを止めるアプリは、スクリーンタイムの仕組みで公式アプリそのものを開けなくするので、止めている間は DM も使えません。
+一部だけ消すアプリは、SNS をアプリの中のブラウザや Safari の拡張で開き、リール、ショート、おすすめ投稿だけを表示しません。DM や投稿はふだんどおり使えます。アプリを止めるアプリは、スクリーンタイムの仕組みで公式アプリそのものを開けなくするので、止めている間は DM も使えません。
 
 ## iPhoneのスクリーンタイムだけで、リールを消せますか？
 
@@ -433,7 +433,7 @@ minulo は両方を組み合わせています。SNS は minulo の中で開き�
 
 どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で18,110件・平均4.7です（2026年11月14日時点）。ただし SocialLite は、新しく使い始める人には有料のサブスクリプションが必要です。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Safari と Chrome で使える Mac 版もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
-minulo 以外のアプリについての記述は、各アプリの App Store の説明と評価件数（2026年9月27日、米国のストア）に基づきます。
+minulo 以外のアプリについての記述は、各アプリの米国の App Store の説明と評価件数に基づきます（2026年9月27日に確認。SocialLite の評価件数は2026年11月14日）。
 
 # スマホ制限アプリのおすすめ7選（iPhone・無料あり・2026年）SNS制限・勉強の集中に (ja)
 
@@ -574,7 +574,7 @@ minulo with "Every tab but DMs" | Yes | Hidden: Reels, Explore, home feed and su
 - Install minulo from the App Store.
 - Open Instagram inside minulo and log in on Instagram's own login page. minulo does not receive or store your password.
 - In minulo's settings for Instagram, turn on Every tab but DMs.
-- Optional: let minulo lock the official Instagram app with Screen Time. Tapping the usual Instagram icon then opens minulo's DMs-only Instagram instead, so you don't fall back into Reels out of habit.Hiding is free. TikTok has the same "Every tab but DMs" setting.
+- Optional: let minulo lock the official Instagram app with Screen Time. Tapping the usual Instagram icon then opens minulo's DMs-only Instagram instead, so you don't fall back into Reels out of habit. You can use this for free. TikTok has the same "Every tab but DMs" setting.
 
 ## Does Instagram have a messages-only mode?
 Not that we could find. Instagram lets adults switch to the Following feed or set a daily time reminder, but the Reels tab and Explore stay. Apps such as minulo add a DMs-only view on top of Instagram's website.
@@ -611,7 +611,7 @@ Deleting Instagram sounds easy until the class group chat, the club chat and the
 - Optional: let minulo lock the official apps with Screen Time while you study.
 
 ## Will I still get group chat notifications?
-Notifications come from the official Instagram app. If you keep the official app unlocked, notifications arrive as usual and you can reply in minulo. While minulo blocks the official app with Screen Time, its notifications do not arrive, so only lock it when you don't need them, for example during study time. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+Notifications come from the official Instagram app. If you keep the official app unlocked, notifications arrive as usual and you can reply in minulo. While minulo blocks the official app with Screen Time, its notifications do not arrive, so only lock it when you don't need them, for example during study time. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 ## Can I hide Reels but keep YouTube for lectures?
 Yes. In minulo, YouTube Shorts are hidden while search, subscriptions and normal-length videos stay.
@@ -631,7 +631,7 @@ TikTok opens straight onto the For You feed, and there is no setting that turns 
 - Install minulo from the App Store.
 - Open TikTok inside minulo and log in on TikTok's own login page. minulo does not receive or store your password.
 - In minulo's settings for TikTok, turn on Every tab but DMs. The For You feed and the other tabs are hidden; messages stay.
-- Optional: let minulo lock the official TikTok app with Screen Time, so tapping the TikTok icon shows a block screen with an Open in minulo button instead of the feed.Hiding For You is free. Instagram has the same "Every tab but DMs" setting.
+- Optional: let minulo lock the official TikTok app with Screen Time, so tapping the TikTok icon shows a block screen with an Open in minulo button instead of the feed. You can hide For You for free. Instagram has the same "Every tab but DMs" setting.
 
 ## How do you use TikTok for messages only on iPhone?
 TikTok has no messages-only mode, and the app always opens on For You. minulo is an iPhone app that opens TikTok with For You and the other feeds hidden while your messages keep working, and hiding is free. TikTok has a Following tab, but the app still opens on For You. In minulo, turn on Every tab but DMs to show only your messages.
@@ -659,7 +659,7 @@ minulo with Screen Time | A block screen with an Open in minulo button, which op
 
 - Install minulo and open Instagram inside it once, logging in on Instagram's own page.
 - Allow Screen Time when minulo asks, and choose the official Instagram app (and YouTube or TikTok if you like) to lock.
-- Next time your thumb taps the Instagram icon, you get the block screen. Tap Open in minulo to reach Instagram without Reels, Explore or suggested posts.Hiding Reels is free. Free blocks of the official app last up to 2 hours at a time and can be started again any time; longer blocks, Sleep mode (one bedtime and wake time every night) and Work mode (your workdays and hours) are part of minulo Pro.
+- Next time your thumb taps the Instagram icon, you get the block screen. Tap Open in minulo to reach Instagram without Reels, Explore or suggested posts. You can hide Reels for free. Free blocks of the official app last up to 2 hours at a time and can be started again any time; longer blocks, Sleep mode (one bedtime and wake time every night) and Work mode (your workdays and hours) are part of minulo Pro.
 
 ## Do I have to delete Instagram?
 No. The official app stays installed; minulo locks it with Screen Time and sends you to its Reels-free view.
@@ -714,7 +714,7 @@ UNDOOMED and minulo solve the same problem the same way: they open your social n
 - Time limits | Hourly or daily caps; optional PIN lock | Sleep mode, Work mode, Hard Mode and a Daily limit in minulo Pro 
 - Platforms | iPhone and Android | iPhone (plus a Mac app for Safari and Chrome) 
 - US App Store ratings | 107, average 4.3 | 1, average 4.0 (launched September 2026) 
-- Price | Free with Pro | Hiding is free; Pro is optional
+- Price | Free with Pro | You can hide feeds for free; Pro is optional
 
 ## Pick UNDOOMED if
 
@@ -816,7 +816,7 @@ This page is written by the developer of minulo. Stillfeed facts come from its U
 - Platforms | iPhone and iPad (iOS 17 or later), Mac with Apple M1 or later, Apple Vision. Android is not mentioned on its App Store page | iPhone (plus a Mac app for Safari and Chrome). No Android version
 - Privacy label | “Data Used to Track You”: Purchases, Location, Identifiers, Usage Data | Data Not Linked to You only
 - US App Store ratings | 1, average 5.0, as of 2026-11-10 (on the App Store since July 2026) | 1 as of 2026-11-01 (launched September 2026)
-- Price | Free; Pro is $2.99/week, $5.99/month or $44.99 to $99.99/year (several yearly prices are listed). New subscribers may get a free trial or a cheaper first week | Hiding is free; Pro is optional
+- Price | Free; Pro is $2.99/week, $5.99/month or $44.99 to $99.99/year (several yearly prices are listed). New subscribers may get a free trial or a cheaper first week | You can hide feeds for free; Pro is optional
 
 ## Pick Stillfeed if
 
@@ -857,14 +857,14 @@ This page is written by the developer of minulo, so keep that in mind. Scroll Le
 - Networks | Blocker: the Instagram and YouTube apps. Websites: Instagram, YouTube, Reddit. TikTok isn't mentioned on its App Store page or website | Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10)
 - What it can hide | Per its App Store page: Instagram Reels, home feed and Explore; YouTube Shorts, recommendations and comments; Reddit Home and Popular | Reels, Shorts, Explore and suggested posts
 - DMs | Its App Store page says Instagram DMs, story replies, search and commenting on your own posts still work | Kept. Every tab but DMs for Instagram and TikTok (free)
-- The official apps | You keep using them; Reels and Shorts are blocked inside them while the Blocker is on. Its website says you can stop the broadcast from Control Center | Can lock them with Screen Time; the block screen has an Open in minulo button. While an app is locked, its notifications don't arrive (since 1.0.19, Pro users can turn on DM notifications, a beta feature, so Instagram DM notifications still arrive, except during Sleep mode, Work mode or after the daily limit)
+- The official apps | You keep using them; Reels and Shorts are blocked inside them while the Blocker is on. Its website says you can stop the broadcast from Control Center | Can lock them with Screen Time; the block screen has an Open in minulo button. While an app is locked, its notifications don't arrive (Pro users can turn on DM notifications, a beta feature, so Instagram DM notifications still arrive, except during Sleep mode, Focus time in Work mode, or after the daily limit)
 - Other features | App blocking sessions; per its release notes, an Accountability PIN that lets someone else lock settings and turning the Blocker off, App Lock, and keeping Instagram on the Following feed | Sleep mode, Work mode, Hard Mode, a Daily limit and blocks longer than 2 hours (Pro)
 - Platforms | iPhone (iOS 17.6 or later). Android isn't mentioned on its App Store page or website | iPhone (iOS 16.4 or later), plus a Mac app for Safari and Chrome. No Android version
 - App languages | English only | 13, including Japanese and Korean
 - US App Store ratings | 25, average 4.5 (on the App Store since March 2025) | 1, average 4.0 (launched September 2026)
 - Japan App Store ratings | None yet | 4, average 3.0
 - Korea App Store ratings | None yet | 14, average 4.1
-- Price (US) | Free download. In-app purchases listed: Scroll Less Premium $4.99, Premium Annual $29.99, Lifetime $14.99 and $49.99, “Premium Life Time Early December” $5.99. Neither its App Store page nor its website says which features are free | Hiding is free; Pro is $9.99/month or $39.99/year
+- Price (US) | Free download. In-app purchases listed: Scroll Less Premium $4.99, Premium Annual $29.99, Lifetime $14.99 and $49.99, “Premium Life Time Early December” $5.99. Neither its App Store page nor its website says which features are free | You can hide feeds for free; Pro is $9.99/month or $39.99/year
 
 Ratings were checked on the US, Japan and Korea App Stores on 2026-11-04.
 
@@ -884,7 +884,7 @@ Ratings were checked on the US, Japan and Korea App Stores on 2026-11-04.
 - you want the app in Japanese, Korean or another of its 13 languages;
 - you use a Mac.
 
-minulo shows each network's website rather than the official app, so screens look a little different from the app. While minulo locks an official app, that app's notifications don't arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+minulo shows each network's website rather than the official app, so screens look a little different from the app. While minulo locks an official app, that app's notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 ## Is minulo a good Scroll Less alternative?
 If you want Reels and Shorts gone on more networks than Instagram and YouTube, yes. minulo hides them on 10 networks, including TikTok, your DMs keep working, and hiding is free. If you want to stay in the official Instagram and YouTube apps and have Reels and Shorts blocked there, that is what Scroll Less is built for; minulo doesn't change the official apps.
@@ -924,7 +924,7 @@ This page is written by Ayumu Kitabayashi, the developer of minulo, so keep that
 - The official apps | Does not change them; it works in Safari | Does not change them either. It can lock them with Screen Time, and the block screen has an Open in minulo button (free for up to 2 hours per block)
 - Other tools | Grayscale mode and a 5-second “Mindful pause” | Reels and Shorts sent in DMs stop before the feed starts; Open for 5 min to watch (up to 3 times a day). Sleep mode, Work mode, Hard Mode and a Daily limit are Pro
 - Account and data | No account. Its App Store privacy label says “Data Not Collected” | No account or sign-up. Your social media password goes to the network, never to minulo
-- Price | Free. No subscriptions, no in-app purchases, no ads. Its website says an optional Pro plan may come later | Hiding is free. Pro is $9.99/month or $39.99/year in the US (¥1,200/month or ¥4,800/year in Japan)
+- Price | Free. No subscriptions, no in-app purchases, no ads. Its website says an optional Pro plan may come later | You can hide feeds for free. Pro is $9.99/month or $39.99/year in the US (¥1,200/month or ¥4,800/year in Japan)
 - Devices | iPhone and iPad (iOS 17 or later), plus a Chrome extension for Chrome, Edge, Brave and Arc on computers. No Android | iPhone, plus a Mac version that works in Safari and Chrome. No Android
 - App language | English | 13 languages, including English, Japanese and Korean
 - On the App Store since | May 2026 (version 1.0) | September 2026
@@ -1059,7 +1059,7 @@ Scroll Less works differently from the in-app browser apps above. Its App Store 
 
 ## Group chat notifications
 
-With minulo, notifications come from the official Instagram app. If you leave the official app unlocked, they arrive as usual and you can reply in minulo. While the official app is locked with Screen Time, its notifications do not arrive, so lock it only when you can miss them, for example while studying. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+With minulo, notifications come from the official Instagram app. If you leave the official app unlocked, they arrive as usual and you can reply in minulo. While the official app is locked with Screen Time, its notifications do not arrive, so lock it only when you can miss them, for example while studying. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 ## What is the best way to keep Instagram for group chats but drop Reels?
 Open Instagram inside an app that hides Reels and keeps DMs, such as minulo, UNDOOMED or Stillfeed. For messages only, minulo's Every tab but DMs is free; UNDOOMED and Stillfeed offer a messages-only mode in Pro. If you keep going back to the official app, lock it with Screen Time.
@@ -1110,7 +1110,7 @@ Q: How do I make Downtime so I can't ignore it?
 A: Set a Screen Time passcode and turn on Block at Downtime in Settings > Screen Time > Downtime. Blocked apps then appear dimmed with an hourglass and can't be opened. Also check Always Allowed, since apps listed there stay open.
 
 Q: Can I block Instagram at night but still get DMs?
-A: Not with Screen Time alone, because it blocks the whole app, DMs included. With minulo you can open Instagram with Reels hidden, or with only DMs left, and lock the official app at night. While the official app is locked, its notifications don't arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+A: Not with Screen Time alone, because it blocks the whole app, DMs included. With minulo you can open Instagram with Reels hidden, or with only DMs left, and lock the official app at night. While the official app is locked, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 Q: Is there a free way to stop scrolling before bed?
 A: Yes. Downtime, Sleep Focus, Grayscale, YouTube's Shorts feed limit and Instagram's Sleep mode are all free. In minulo, hiding Reels and Shorts is free, and locking the official apps is free for up to 2 hours per block; locking them every night from bedtime to wake time is Sleep mode, part of Pro.
@@ -1255,16 +1255,16 @@ A: Limiting the TikTok app with iPhone Screen Time blocks your messages too. Ins
 Source: https://minulo.app/en/minulo-limitations.html
 
 Q: What are the downsides of minulo?
-A: minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. Posting Stories, voice messages and calls aren't available. It is iPhone and Mac (Safari and Chrome) only, free blocks last up to 2 hours, and it is new, with few ratings.
+A: minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit. Posting Stories, voice messages and calls aren't available. It is iPhone and Mac (Safari and Chrome) only, free blocks last up to 2 hours, and it is new, with few ratings.
 
 Q: Can minulo remove Reels from the official Instagram app?
 A: No. On iPhone, no app can change what another app shows. minulo hides Reels when you open Instagram inside minulo, and it can lock the official app with Screen Time so tapping its icon sends you to minulo instead.
 
 Q: Will I still get Instagram notifications if I use minulo?
-A: Only if the official Instagram app is not blocked. Notifications come from the official app, and they don't arrive while minulo blocks it. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. minulo itself sends no push notifications.
+A: Only if the official Instagram app is not blocked. Notifications come from the official app, and they don't arrive while minulo blocks it. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit. Other than that, minulo doesn't send notifications in the app's place.
 
 Q: What is free in minulo and what needs Pro?
-A: Hiding Reels, Shorts and suggested posts on all 10 networks and blocking the official apps for up to 2 hours at a time are free. Pro adds Sleep mode (one bedtime and wake time, the same every day), Work mode (pick your workdays and hours), Hard Mode (breaks only once a day), a Daily limit and blocks longer than 2 hours. In the US it is $9.99 a month or $39.99 a year, and the yearly plan comes with a 7-day free trial for new subscribers.
+A: Hiding Reels, Shorts and suggested posts on all 10 networks and blocking the official apps for up to 2 hours at a time are free. Pro adds Sleep mode (one bedtime and wake time, the same every day), Work mode (pick your workdays and hours), Hard Mode (up to 3 breaks a day, 5 minutes each), a Daily limit and blocks longer than 2 hours. In the US it is $9.99 a month or $39.99 a year, and the yearly plan comes with a 7-day free trial for new subscribers.
 
 Q: Does minulo work on Android?
 A: Not yet. minulo is for iPhone and Mac, and the Mac app works in Safari and Chrome. The Android version is in testing, and you can join the waitlist to get one email when it is out.
@@ -1467,7 +1467,7 @@ A: Instagram shows a 7-day average from the Instagram app. Screen Time shows eac
 Source: https://minulo.app/en/instagram-notifications-messages-only.html · ja https://minulo.app/instagram-notifications-messages-only.html · ko https://minulo.app/ko/instagram-notifications-messages-only.html · es https://minulo.app/es/instagram-notifications-messages-only.html · pt-BR https://minulo.app/pt/instagram-notifications-messages-only.html · de https://minulo.app/de/instagram-notifications-messages-only.html · fr https://minulo.app/fr/instagram-notifications-messages-only.html
 
 We found no single "messages only" switch in Instagram's help, but you can get close. Go to your profile › Menu › Notifications, and below Pause push notifications open each type of notification and turn it off, leaving message notifications on. Then check that Instagram is still allowed in iPhone Settings › Notifications. If one group chat is too loud, mute just that chat. We couldn't confirm the exact names of every notification type in Instagram's help, so go by what each one is about: posts, stories, comments, follows, Live, Reels.
-Names: Japanese ［お知らせ］, ［プッシュ通知を一時停止］; Korean 알림, 푸시 알림 일시 정지. minulo itself sends no notifications, and while minulo blocks the official Instagram app, its notifications do not arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+Names: Japanese ［お知らせ］, ［プッシュ通知を一時停止］; Korean 알림, 푸시 알림 일시 정지. While minulo blocks the official Instagram app, its notifications do not arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 Q: How do I get Instagram notifications only for messages?
 A: Go to Profile › Menu › Notifications. Below Pause push notifications, open every notification type that isn't about messages and turn it off, and leave messages on. Keep Instagram allowed in iPhone Settings › Notifications.
@@ -1479,7 +1479,7 @@ Q: How do I mute one chat on Instagram?
 A: Open the chat, tap the name at the top, tap Mute, then turn on Mute messages or Mute calls. The other person isn't told.
 
 Q: Does minulo send Instagram DM notifications?
-A: No. minulo sends no notifications, and while it locks the official Instagram app, that app's notifications don't arrive either. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. To get DM alerts, leave the official app unlocked.
+A: Not by itself. While minulo locks the official Instagram app, that app's notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit. To get DM alerts without Pro, leave the official app unlocked.
 
 
 ## How to Watch Only Stories on Instagram, Without Reels (en, checked 2026-10-24)
@@ -1730,7 +1730,7 @@ Q: How do I get Instagram notifications only for DMs?
 A: Go to Profile › Menu › Notifications, and below Pause push notifications turn off each kind that isn't about messages. Leave messages on and keep Instagram allowed in iPhone Settings › Notifications.
 
 Q: Will I still get DM notifications if I use minulo?
-A: Yes, from the official Instagram app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+A: Yes, from the official Instagram app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 
 ## Hide the YouTube Shorts Shelf: How Long It Lasts (iPhone) (en, checked 2026-10-26)
@@ -1849,7 +1849,7 @@ Q: Is there a minulo for Mac?
 A: Yes. minulo runs on iPhone and Mac, and the Mac app works in Safari and Chrome. Its privacy policy says the Mac app reads only the address of the page you have open and sends ways into a feed or short videos to a place you choose. On instagram.com, the Mac app hides the Reels and Explore tabs and the stories tray, and the Messages link stays (checked in Chrome in September 2026).
 
 Q: Will I still get DM notifications if I use minulo?
-A: Yes, from the official Instagram app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+A: Yes, from the official Instagram app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 
 ## Block Only Instagram With Downtime and Keep LINE (iPhone) (en, checked 2026-10-26)
@@ -1921,7 +1921,7 @@ Q: Is there a free app that hides Reddit's Popular feed?
 A: minulo opens Reddit with Popular, r/all and suggested posts hidden for free, and Subscribed and Messages stay. It works only inside minulo, on iPhone.
 
 Q: Will I still get Reddit notifications if I use minulo?
-A: Yes, from the official Reddit app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+A: Yes, from the official Reddit app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 
 ## Open Instagram straight to your DMs, and how long the X on the YouTube Shorts shelf lasts: 10 more languages (2026-10-26)
@@ -2096,7 +2096,7 @@ Q: Is there a Pomodoro app that blocks Instagram?
 A: Several focus timer apps say they block apps during a session. We haven't tested them, so check their App Store pages. minulo has no timer of its own, but its free block keeps the official apps locked for up to 2 hours, which covers a few 25-minute rounds.
 
 Q: Can I still reply to messages while Instagram is blocked?
-A: With minulo, yes. Open Instagram inside minulo with Reels hidden and use your DMs there. The official app's notifications don't arrive while it is blocked. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+A: With minulo, yes. Open Instagram inside minulo with Reels hidden and use your DMs there. The official app's notifications don't arrive while it is blocked. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit.
 
 Q: What if I really need the app during the block?
 A: In minulo, tap Take a break and choose the minutes. The official app opens for that long, and the block turns back on by itself when time is up.
@@ -2150,7 +2150,7 @@ Q: Can I set different block times for different class days?
 A: With Downtime, choose Customize Days and set the times for each day. minulo's Sleep mode (Pro) uses one bedtime and wake time, the same every day, so use Downtime for different times on different days.
 
 Q: Will I miss notifications during class?
-A: While minulo blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. With a Focus, the people and apps you allow can still notify you.
+A: While minulo blocks an official app, that app's notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode, or after the daily limit. With a Focus, the people and apps you allow can still notify you.
 
 
 ## Social Media Break While Traveling: Keep Maps and Chats (en, checked 2026-10-27)
