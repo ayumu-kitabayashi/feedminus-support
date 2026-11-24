@@ -600,6 +600,20 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
 
 :lang(ko) .serif,:lang(ko) .forband li,:lang(ko) .dscr b,:lang(ko) .fpress .chosun{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI","Hiragino Sans","Hiragino Kaku Gothic ProN","Apple SD Gothic Neo","Noto Sans JP","Noto Sans KR","Noto Sans Thai",system-ui,sans-serif;font-weight:700;letter-spacing:0;font-feature-settings:normal}
 
+/* 11/24 Google Play（Android）の公式バッジ。余白込みの画像なので、見える高さを App Store のバッジ（--bh）とそろえる。
+   en は古い形（見える範囲が高さの 67.2%・横にも余白）、ほかは新しい形（76.8%・横の余白なし）。画像には手を加えない */
+.gplay{display:inline-flex;line-height:0;--bh:54px}
+.gplay img{display:block;width:auto;height:calc(var(--bh) / .768);margin:calc(var(--bh) * -.151) 0}
+.gplay.old img{height:calc(var(--bh) / .672);margin:calc(var(--bh) * -.244)}
+.gptm{margin:14px 0 0;font-size:11px;opacity:.7}
+@media (max-width:520px){.fhero .gplay{--bh:46px}}
+/* ヘッダー：App Store（40px）と Play を同じ見える高さで並べ、狭い幅では両方を小さくして1行に収める */
+.nav{--nbh:40px}
+.nav .store.sm img{height:var(--nbh)}
+.nav .gplay{--bh:var(--nbh);flex-shrink:0}
+@media (max-width:520px){.nav{--nbh:32px}.nav .navbtns{gap:6px}}
+@media (max-width:400px){.nav{--nbh:27px}}
+@media (max-width:340px){.nav{--nbh:23px}.nav .navbtns{gap:4px}}
 </style>
 </head>
 <body>
@@ -609,6 +623,7 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
   <div class="navbtns">
     <details class="langmenu"><summary aria-label="언어 선택"><span class="flag" aria-hidden="true">🇰🇷</span><span class="name">한국어</span><svg class="caret" viewBox="0 0 10 10" aria-hidden="true"><path d="M1.5 3.5 5 7l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></summary><ul><li><a href="../" hreflang="ja" lang="ja"><span class="flag" aria-hidden="true">🇯🇵</span>日本語</a></li><li><a href="../en/" hreflang="en" lang="en"><span class="flag" aria-hidden="true"><svg class="flag-en" width="21" height="14" viewBox="0 0 30 20" aria-hidden="true" focusable="false"><svg x="0" y="0" width="15" height="20" viewBox="0 0 15 20"><rect width="15" height="20" fill="#B22234"/><rect y="1.538" width="15" height="1.538" fill="#fff"/><rect y="4.615" width="15" height="1.538" fill="#fff"/><rect y="7.692" width="15" height="1.538" fill="#fff"/><rect y="10.769" width="15" height="1.538" fill="#fff"/><rect y="13.846" width="15" height="1.538" fill="#fff"/><rect y="16.923" width="15" height="1.538" fill="#fff"/><rect width="9" height="10.77" fill="#3C3B6E"/><g fill="#fff"><circle cx="2" cy="2" r=".7"/><circle cx="4.5" cy="2" r=".7"/><circle cx="7" cy="2" r=".7"/><circle cx="3.25" cy="4.2" r=".7"/><circle cx="5.75" cy="4.2" r=".7"/><circle cx="2" cy="6.4" r=".7"/><circle cx="4.5" cy="6.4" r=".7"/><circle cx="7" cy="6.4" r=".7"/><circle cx="3.25" cy="8.6" r=".7"/><circle cx="5.75" cy="8.6" r=".7"/></g></svg><svg x="15" y="0" width="15" height="20" viewBox="15 0 22.5 30"><rect width="60" height="30" fill="#012169"/><path d="M0,0L60,30M60,0L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0L60,30M60,0L0,30" stroke="#C8102E" stroke-width="2"/><path d="M30,0V30M0,15H60" stroke="#fff" stroke-width="10"/><path d="M30,0V30M0,15H60" stroke="#C8102E" stroke-width="6"/></svg><rect x=".25" y=".25" width="29.5" height="19.5" fill="none" stroke="rgba(0,0,0,.18)" stroke-width=".5"/></svg></span>English</a></li><li><a href="../de/" hreflang="de" lang="de"><span class="flag" aria-hidden="true">🇩🇪</span>Deutsch</a></li><li><a href="../fr/" hreflang="fr" lang="fr"><span class="flag" aria-hidden="true">🇫🇷</span>Français</a></li><li><a href="../es/" hreflang="es" lang="es"><span class="flag" aria-hidden="true">🇪🇸</span>Español</a></li><li><a href="../pt/" hreflang="pt-BR" lang="pt-BR"><span class="flag" aria-hidden="true">🇧🇷</span>Português</a></li><li><a href="../it/" hreflang="it" lang="it"><span class="flag" aria-hidden="true">🇮🇹</span>Italiano</a></li><li><a href="../ko/" hreflang="ko" lang="ko" aria-current="true"><span class="flag" aria-hidden="true">🇰🇷</span>한국어</a></li><li><a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant"><span class="flag" aria-hidden="true">🇹🇼</span>繁體中文</a></li><li><a href="../id/" hreflang="id" lang="id"><span class="flag" aria-hidden="true">🇮🇩</span>Bahasa Indonesia</a></li><li><a href="../th/" hreflang="th" lang="th"><span class="flag" aria-hidden="true">🇹🇭</span>ไทย</a></li><li><a href="../vi/" hreflang="vi" lang="vi"><span class="flag" aria-hidden="true">🇻🇳</span>Tiếng Việt</a></li><li><a href="../ru/" hreflang="ru" lang="ru"><span class="flag" aria-hidden="true">🇷🇺</span>Русский</a></li></ul></details>
     <a class="store sm" href="https://apps.apple.com/kr/app/id6809352229?pt=129109285&amp;ct=ko-top-nav&amp;mt=8"><img src="../badges/appstore-ko-kr.svg" alt="App Store에서 다운로드" width="175" height="54"></a>
+    <a class="gplay" href="https://play.google.com/store/apps/details?id=app.feedminus&amp;referrer=utm_source%3Dminulo.app%26utm_medium%3Dsite%26utm_campaign%3Dko-top-nav" data-pos="nav"><img src="../badges/googleplay-ko.png" alt="Google Play에서 다운로드" width="181" height="70"></a>
   </div>
 </div></div></div>
 
@@ -617,10 +632,9 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
     <h1 class="serif">인스타 릴스에게만<br>바이바이 👋</h1>
     <div class="ctas">
       <a class="store" href="https://apps.apple.com/kr/app/id6809352229?pt=129109285&amp;ct=ko-top-hero&amp;mt=8"><img src="../badges/appstore-ko-kr.svg" alt="App Store에서 다운로드" width="175" height="54"></a>
-      <a class="store macdl" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg" data-pos="hero-mac"><img src="../badges/macos-ko.svg" alt="macOS 버전 다운로드" width="147" height="54"></a>
+      <a class="gplay" href="https://play.google.com/store/apps/details?id=app.feedminus&amp;referrer=utm_source%3Dminulo.app%26utm_medium%3Dsite%26utm_campaign%3Dko-top-hero" data-pos="hero"><img src="../badges/googleplay-ko.png" alt="Google Play에서 다운로드" width="181" height="70"></a>
     </div>
     <p class="pcnote" hidden style="margin:12px 0 0;font-size:14px;line-height:1.55;opacity:.85"><span data-os="mac">컴퓨터로 보고 계신가요? Mac용 minulo도 있어요. 위의 macOS 버튼으로 받을 수 있어요.</span><span data-os="win">컴퓨터로 보고 계신가요? minulo는 iPhone 앱이에요. 이 페이지를 iPhone에서 열면 App Store로 바로 갈 수 있어요.</span></p><script>(function(){var n=navigator,u=n.userAgent,m=/Macintosh/.test(u)&&!(n.maxTouchPoints>1),w=/Windows/.test(u);if(!m&&!w)return;var p=document.currentScript.previousElementSibling;p.querySelector(m?"[data-os=win]":"[data-os=mac]").remove();p.hidden=false})()</script>
-    <p class="wl"><a href="https://docs.google.com/forms/d/e/1FAIpQLScTvhahKgxFJTdpDjP6pzm9rpePgJa_5gsLtuReju56xCve5g/viewform" target="_blank" rel="noopener" data-pos="hero">Android 버전 대기 명단에 등록 <span aria-hidden="true">&rarr;</span></a></p>
   </div>
   <div class="fphones">
     <div class="fphone a"><img src="m/ph-rules.webp" alt="minulo에서 Instagram의 숨길 항목을 고르는 화면" width="760" height="1651" fetchpriority="low"></div>
@@ -834,7 +848,7 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
   <h2>인스타는 그대로,<br>릴스만 지워요.</h2>
   <div class="cta">
     <a class="store" href="https://apps.apple.com/kr/app/id6809352229?pt=129109285&amp;ct=ko-top-end&amp;mt=8"><img src="../badges/appstore-ko-kr.svg" alt="App Store에서 다운로드" width="175" height="54"></a>
-    <p class="wlhome" style="flex-basis:100%;margin:0;text-align:center"><a href="./android.html" data-pos="end" style="display:inline-block;padding:9px 16px;border:1.5px solid var(--ink2);border-radius:999px;font-size:13.5px;font-weight:700;color:var(--ink);text-decoration:none">Android 버전 대기 명단에 등록 <span aria-hidden="true">&rarr;</span></a></p>
+    <a class="gplay" href="https://play.google.com/store/apps/details?id=app.feedminus&amp;referrer=utm_source%3Dminulo.app%26utm_medium%3Dsite%26utm_campaign%3Dko-top-end" data-pos="end"><img src="../badges/googleplay-ko.png" alt="Google Play에서 다운로드" width="181" height="70"></a>
   </div>
 </div></section>
 
@@ -846,10 +860,11 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
     </div>
         <div><p class="fh">앱</p><ul><li><a href="#can">기능</a></li><li><a href="#how">사용 방법</a></li><li><a href="#log">기록</a></li><li><a href="#price">요금</a></li></ul></div>
         <div><p class="fh">지원</p><ul><li><a href="./faq.html">자주 묻는 질문</a></li><li><a href="../en/support.html" hreflang="en">문제가 있나요? (영어)</a></li><li><a href="./press.html">보도 자료</a></li><li><a href="mailto:workflowai.japan@gmail.com">문의</a></li></ul></div>
-        <div><p class="fh">가이드</p><ul><li><a href="./instagram-dms-only.html">인스타 DM만 쓰기</a></li><li><a href="./instagram-group-chats-without-reels.html">단톡 때문에 인스타를 못 지운다면</a></li><li><a href="./tiktok-dms-only.html">틱톡 메시지만 쓰기</a></li><li><a href="./stop-opening-instagram-out-of-habit.html">인스타를 습관적으로 여는 걸 멈추기</a></li><li><a href="./for-schools.html">선생님·학교 담당자께</a></li><li><a href="./android.html">안드로이드 버전 대기 명단</a></li><li><a href="./remove-reels-from-instagram-app.html">인스타 앱에서 릴스를 없앨 수 있을까?</a></li><li><a href="./reels-shorts-data-2026.html">데이터: 릴스를 숨기는 사람은 누구일까</a></li></ul></div>
+        <div><p class="fh">가이드</p><ul><li><a href="./instagram-dms-only.html">인스타 DM만 쓰기</a></li><li><a href="./instagram-group-chats-without-reels.html">단톡 때문에 인스타를 못 지운다면</a></li><li><a href="./tiktok-dms-only.html">틱톡 메시지만 쓰기</a></li><li><a href="./stop-opening-instagram-out-of-habit.html">인스타를 습관적으로 여는 걸 멈추기</a></li><li><a href="./for-schools.html">선생님·학교 담당자께</a></li><li><a href="https://play.google.com/store/apps/details?id=app.feedminus&amp;referrer=utm_source%3Dminulo.app%26utm_medium%3Dsite%26utm_campaign%3Dko-top-footer" data-pos="footer">안드로이드 앱 (Google Play)</a></li><li><a href="./remove-reels-from-instagram-app.html">인스타 앱에서 릴스를 없앨 수 있을까?</a></li><li><a href="./reels-shorts-data-2026.html">데이터: 릴스를 숨기는 사람은 누구일까</a></li></ul></div>
         <div><p class="fh">법적 고지</p><ul><li><a href="../privacy.html">개인정보 처리방침</a></li><li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">이용 약관</a></li></ul></div>
   </div>
   <div class="bottom"><span>© 2026 minulo<span class="dot" aria-hidden="true"> · </span><span class="opby">운영 <a href="../en/support.html#operator">ReliefNote</a></span><span class="dot" aria-hidden="true"> · </span><span class="opby">업데이트 <time datetime="2026-10-09">2026-10-09</time></span></span><span id="lang" class="langs"><a href="../" hreflang="ja" lang="ja">日本語</a><span class="dot" aria-hidden="true">·</span><a href="../en/" hreflang="en" lang="en">English</a><span class="dot" aria-hidden="true">·</span><a href="../de/" hreflang="de" lang="de">Deutsch</a><span class="dot" aria-hidden="true">·</span><a href="../fr/" hreflang="fr" lang="fr">Français</a><span class="dot" aria-hidden="true">·</span><a href="../es/" hreflang="es" lang="es">Español</a><span class="dot" aria-hidden="true">·</span><a href="../pt/" hreflang="pt-BR" lang="pt-BR">Português</a><span class="dot" aria-hidden="true">·</span><a href="../it/" hreflang="it" lang="it">Italiano</a><span class="dot" aria-hidden="true">·</span><b>한국어</b><span class="dot" aria-hidden="true">·</span><a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a><span class="dot" aria-hidden="true">·</span><a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a><span class="dot" aria-hidden="true">·</span><a href="../th/" hreflang="th" lang="th">ไทย</a><span class="dot" aria-hidden="true">·</span><a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a><span class="dot" aria-hidden="true">·</span><a href="../ru/" hreflang="ru" lang="ru">Русский</a></span></div>
+<p class="gptm">Google Play 및 Google Play 로고는 Google LLC의 상표입니다.</p>
 </div></footer>
 
 <div class="dock"><a class="store" href="https://apps.apple.com/kr/app/id6809352229?pt=129109285&amp;ct=ko-top-dock&amp;mt=8"><img src="../badges/appstore-ko-kr.svg" alt="App Store에서 다운로드" width="175" height="54"></a></div>

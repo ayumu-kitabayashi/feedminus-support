@@ -153,6 +153,24 @@
   /* App Store の minulo へのリンクに、参照元を ct として付ける（ASC の「キャンペーン」で数が見える） */
   function slug(s){return String(s).toLowerCase().replace(/[^a-z0-9.]+/g,'-').replace(/^-|-$/g,'');}
   var page=slug(location.pathname.replace(/\.html$/,'').replace(/\/$/,'/top'))||'top';
+  /* Google Play の minulo（Android・11/23 公開）。Android の人には下に固定のボタンの行き先を Play に替える（App Store の
+     リンクとして数える前に）。Play へのリンクを押したら site_play_click（where＝referrer の utm_campaign、無ければ頁）。 */
+  var PLAY='https://play.google.com/store/apps/details?id=app.feedminus';
+  function playRef(c){return PLAY+'&referrer='+encodeURIComponent('utm_source=minulo.app&utm_medium=site&utm_campaign='+c);}
+  try{
+    var sb=document.querySelector('#msb a[data-pos="sticky"]');
+    if(sb&&device==='android') sb.href=playRef(page+'-sticky');
+  }catch(e){}
+  var plays=document.querySelectorAll('a[href^="'+PLAY+'"]');
+  for(var q=0;q<plays.length;q++){
+    (function(a){
+      try{
+        var r=new URLSearchParams(new URL(a.href).searchParams.get('referrer')||'');
+        var w=r.get('utm_campaign')||page, pos=a.getAttribute('data-pos')||'';
+        a.addEventListener('click',function(){ send('site_play_click',{where:w,pos:pos,device:device}); });
+      }catch(e){}
+    })(plays[q]);
+  }
   var links=document.querySelectorAll('a[href*="apps.apple.com"][href*="id6809352229"]');
   for(var i=0;i<links.length;i++){
     (function(a){
