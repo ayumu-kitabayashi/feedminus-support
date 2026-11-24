@@ -931,6 +931,33 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape'&&m.open){m.o
     a[i].href=a[i].href.replace('https://apps.apple.com/jp/app/','https://apps.apple.com/app/');
     a[i].setAttribute('data-pos','intl');
   }
+  /* 11/24：ChatGPT から / に来る人の96%は日本語以外のブラウザ。見出しの下にその人の言語で1行（各言語のトップの見出しと同じ文）を出し、App Store のバッジもその言語にする。
+     日本語の人・言語の分からない人・検索のクローラーには何もしない。押した数は今の -intl のまま数える。 */
+  if(/bot|crawl|spider|slurp/i.test(n.userAgent||'')) return;
+  var L={en:['Say bye-bye to Instagram Reels. Just the Reels 👋','en-us','Download on the App Store'],
+    ko:['인스타 릴스에게만 바이바이 👋','ko-kr','App Store에서 다운로드'],
+    fr:['Dites bye-bye aux Reels Instagram. Juste aux Reels 👋','fr-fr','Télécharger dans l’App Store'],
+    de:['Sag nur den Instagram Reels Tschüss 👋','de-de','Laden im App Store'],
+    es:['Dile adiós solo a los Reels de Instagram 👋','es-es','Descargar en el App Store'],
+    pt:['Diga tchau só para os Reels do Instagram 👋','pt-br','Baixar na App Store'],
+    it:['Di’ ciao ciao solo ai Reels di Instagram 👋','it-it','Scarica su App Store'],
+    ru:['Попрощайтесь с Reels в Instagram. Только с Reels 👋','ru-ru','Загрузите в App Store'],
+    th:['โบกมือลาแค่ Reels ของ Instagram 👋','th-th','ดาวน์โหลดบน App Store'],
+    vi:['Tạm biệt Reels Instagram. Chỉ Reels thôi nhé 👋','vi-vn','Tải về trên App Store'],
+    id:['Bilang dadah cuma ke Reels Instagram 👋','id-id','Unduh di App Store'],
+    'zh-Hant':['只跟 IG 的 Reels 說掰掰 👋','zh-tw','在 App Store 下載']};
+  var code=p(n.languages&&n.languages.length?n.languages:[n.language]), t=L[code];
+  if(!t) return;
+  function run(){
+    var h=document.querySelector('.fhero h1');
+    if(h&&!document.querySelector('.fhero .hsub-intl')){
+      var s=document.createElement('p'); s.className='hsub hsub-intl'; s.lang=code; s.textContent=t[0];
+      s.style.margin='14px 0 0'; h.parentNode.insertBefore(s,h.nextSibling);
+    }
+    var im=document.querySelectorAll('a.store[data-pos="intl"] img[src*="appstore-ja-jp"]');
+    for(var j=0;j<im.length;j++){ im[j].src=im[j].getAttribute('src').replace('appstore-ja-jp','appstore-'+t[1]); im[j].alt=t[2]; im[j].lang=code; }
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',run); else run();
 })();
 </script>
 <script src="/t.js" defer></script>

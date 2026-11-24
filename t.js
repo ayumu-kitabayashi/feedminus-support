@@ -68,9 +68,35 @@
   /* ブラウザの表示言語の最初の2字だけ（ko・ja など）。サイトの計測は IP も国も持たないので、韓国語の人がどの頁に来たかをこれで見る。 */
   var blang=''; try{ blang=String((navigator.languages&&navigator.languages[0])||navigator.language||'').slice(0,2).toLowerCase(); }catch(e){}
 
+  /* 言語の案内（c21・11/20）：ブラウザの言語と頁の言語が違い、その言語の同じ頁が hreflang にあるときだけ、上に1行のリンクを出す。自動で飛ばさない。
+     / と /faq.html は頁の中の言語バナーがあるので出さない。半分の人にだけ出す（lh=on／off）＝出したときに押す割合が上がるか下がるかを比べる。
+     lh は site_view と site_store_click にも載る。閉じた人には出さない（localStorage）。 */
+  var hint=null;
+  try{
+    var l0=String((navigator.languages&&navigator.languages[0])||navigator.language||'').toLowerCase();
+    var lk=function(s){ s=String(s||'').toLowerCase(); return /^zh-(hant|tw|hk|mo)\b/.test(s)?'zh-hant':s.split(/[-_]/)[0]; };
+    var want=lk(l0), here=lk(document.documentElement.lang);
+    var botUA=/bot|crawl|spider|slurp|lighthouse|headless|preview/i.test(navigator.userAgent||'')||navigator.webdriver;
+    if(want&&here&&want!==here&&!botUA&&!window.__mLangPick&&!document.querySelector('.mlang')){
+      var alts=document.querySelectorAll('link[rel="alternate"][hreflang]');
+      for(var ai2=0;ai2<alts.length;ai2++){
+        var hl=alts[ai2].getAttribute('hreflang')||'';
+        if(hl.toLowerCase()==='x-default'||lk(hl)!==want) continue;
+        var to=new URL(alts[ai2].href,location.href);
+        if(to.pathname!==location.pathname) hint={lang:want,hreflang:hl,href:to.pathname};
+        break;
+      }
+    }
+    if(hint){
+      if(!get('m_lh')) set('m_lh',(parseInt(sid.charAt(2),36)%2)?'on':'off');
+      try{ if(localStorage.getItem('m_lang_hint_closed')) hint.closed=true; }catch(e){}
+    }
+  }catch(e){ hint=null; }
+  var lh=get('m_lh')||'';
+
   function send(ev,props){
     var p={distinct_id:sid,$process_person_profile:false,site:true,host:location.hostname,path:location.pathname,
-      lang:document.documentElement.lang||'',blang:blang,src:src,landing:land,ref_domain:internal?'(内部)':(refHost||'(なし)'),ref_tag:tag,ref_utm:utm,ai:ai,inapp:inapp};
+      lang:document.documentElement.lang||'',blang:blang,src:src,landing:land,ref_domain:internal?'(内部)':(refHost||'(なし)'),ref_tag:tag,ref_utm:utm,ai:ai,inapp:inapp,lh:lh};
     for(var k in props) p[k]=props[k];
     var body=JSON.stringify({api_key:KEY,event:ev,properties:p,timestamp:new Date().toISOString()});
     try{ if(navigator.sendBeacon&&navigator.sendBeacon(HOST,new Blob([body],{type:'text/plain'}))) return; }catch(e){}
@@ -94,6 +120,35 @@
     var onScroll=function(){ if(tm) return; tm=setTimeout(function(){ tm=0; depth(); },300); };
     window.addEventListener('scroll',onScroll,{passive:true});
   }catch(e){}
+
+  /* 言語の案内の1行（上の hint が決まり、lh=on で、閉じていない人だけ）。文はリンクの1文だけ。 */
+  if(hint&&lh==='on'&&!hint.closed){
+    try{
+      var HT={en:['Read this page in English →','Close'],ja:['このページを日本語で読む →','閉じる'],
+        ko:['이 페이지를 한국어로 보기 →','닫기'],de:['Diese Seite auf Deutsch lesen →','Schließen'],
+        fr:['Lire cette page en français →','Fermer'],es:['Leer esta página en español →','Cerrar'],
+        pt:['Ler esta página em português →','Fechar'],it:['Leggi questa pagina in italiano →','Chiudi'],
+        ru:['Читать эту страницу на русском →','Закрыть'],th:['อ่านหน้านี้เป็นภาษาไทย →','ปิด'],
+        vi:['Đọc trang này bằng tiếng Việt →','Đóng'],id:['Baca halaman ini dalam bahasa Indonesia →','Tutup'],
+        'zh-hant':['以繁體中文閱讀此頁 →','關閉']};
+      var ht=HT[hint.lang];
+      if(ht){
+        var hp={to:hint.lang,from:document.documentElement.lang||''};
+        var st=document.createElement('style');
+        st.textContent='.mlh{position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;gap:4px;padding:4px 4px 4px 16px;padding-top:calc(4px + env(safe-area-inset-top));background:#FFF9F2;color:#17181D;border-bottom:1px solid rgba(23,24,29,.12);font:14px/1.4 system-ui,-apple-system,sans-serif;box-shadow:0 1px 6px rgba(0,0,0,.06)}'+
+          '.mlh a{flex:1;min-width:0;color:#5663E8;font-weight:600;text-decoration:underline;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}'+
+          '.mlh button{flex:none;width:36px;height:36px;border:0;border-radius:8px;background:transparent;color:inherit;font-size:20px;line-height:1;cursor:pointer}'+
+          '@media (prefers-color-scheme:dark){.mlh{background:#17181D;color:#f2f2f2;border-bottom-color:rgba(255,255,255,.15)}.mlh a{color:#9AA3FF}}';
+        var d=document.createElement('div'); d.className='mlh'; d.setAttribute('role','region'); d.setAttribute('aria-label',ht[0]); d.lang=hint.hreflang;
+        var a=document.createElement('a'); a.href=hint.href; a.hreflang=hint.hreflang; a.textContent=ht[0];
+        a.addEventListener('click',function(){ send('site_lang_hint_click',hp); });
+        var c=document.createElement('button'); c.type='button'; c.setAttribute('aria-label',ht[1]); c.textContent='×';
+        c.addEventListener('click',function(){ d.parentNode&&d.parentNode.removeChild(d); try{localStorage.setItem('m_lang_hint_closed','1');}catch(e){} send('site_lang_hint_close',hp); });
+        d.appendChild(a); d.appendChild(c); document.head.appendChild(st); document.body.appendChild(d);
+        send('site_lang_hint_shown',hp);
+      }
+    }catch(e){}
+  }
 
   /* App Store の minulo へのリンクに、参照元を ct として付ける（ASC の「キャンペーン」で数が見える） */
   function slug(s){return String(s).toLowerCase().replace(/[^a-z0-9.]+/g,'-').replace(/^-|-$/g,'');}
