@@ -2,7 +2,8 @@
    Cookie も localStorage も使わない。同じタブの中だけ sessionStorage で「最初の参照元」を覚える。
    送るのは：開いたページ・参照元のドメイン・?ref= の値・言語（頁の言語とブラウザの表示言語の2字）・端末の種類（iphone などの1語）・App Store を押したか。
    11/20 から：どの AI・検索から来たか（chatgpt などの1語）・utm_source の値・アプリの中のブラウザか（instagram などの1語）。
-   d10 から：どこまで読んだか（h2・50・90 の1語。site_scroll）。 */
+   d10 から：どこまで読んだか（h2・50・90 の1語。site_scroll）。
+   11/24 から：読み込んだときに画面に出ていたか（visible・hidden・prerender の1語）と読み込みの種類（navigate など）、初めて画面に出たか（site_seen）。 */
 (function(){
   var KEY='phc_B8s9xLNrx8Eg8DPWqLQDN3WGHBEbQwqpQiXDKTxxVJY4', HOST='https://us.i.posthog.com/i/v0/e/';
   var ss; try{ss=window.sessionStorage;}catch(e){}
@@ -102,7 +103,23 @@
     try{ if(navigator.sendBeacon&&navigator.sendBeacon(HOST,new Blob([body],{type:'text/plain'}))) return; }catch(e){}
     try{ fetch(HOST,{method:'POST',body:body,keepalive:true,headers:{'Content-Type':'text/plain'}}); }catch(e){}
   }
-  send('site_view',{device:device});
+  /* 見えたか（11/24 click-drop-1124）：11/21 から ChatGPT の来訪で、同じ頁・同じ言語の読み込みが数秒の間に2〜4回、別の sid で来る（押すのはそのうち1つだけ）。
+     読み込んだときに画面に出ていたか（vis）と読み込みの種類（nav）を site_view に載せ、初めて画面に出たときに site_seen を1回送る。
+     押す割合の分母は site_seen の人にする（見えないまま読み込まれた分を数えない）。 */
+  var vis='visible', nav='';
+  try{ vis=document.prerendering?'prerender':(document.visibilityState||'visible'); }catch(e){}
+  try{ var ne=performance.getEntriesByType&&performance.getEntriesByType('navigation')[0]; nav=(ne&&ne.type)||''; }catch(e){}
+  send('site_view',{device:device,vis:vis,nav:nav});
+  try{
+    var seenSent=false;
+    var seenNow=function(){
+      if(seenSent||document.prerendering||document.visibilityState!=='visible') return;
+      seenSent=true; send('site_seen',{device:device,vis0:vis});
+      document.removeEventListener('visibilitychange',seenNow); document.removeEventListener('prerenderingchange',seenNow);
+    };
+    document.addEventListener('visibilitychange',seenNow); document.addEventListener('prerenderingchange',seenNow);
+    seenNow();
+  }catch(e){}
   /* ページ内の小さなスクリプト（言語の案内など）からも同じ形で送れるようにする。t.js より先に積まれた分もここで送る。 */
   window.minuloTrack=send;
   var mq=window.minuloQ||[]; window.minuloQ=[]; for(var qi=0;qi<mq.length;qi++){ try{ send(mq[qi][0],mq[qi][1]||{}); }catch(e){} }
@@ -160,6 +177,92 @@
   try{
     var sb=document.querySelector('#msb a[data-pos="sticky"]');
     if(sb&&device==='android') sb.href=playRef(page+'-sticky');
+  }catch(e){}
+  /* 11/25（android-cta-1124.md）：Android の人には、頁の中の App Store のバッジ（cta-top・本文・最後）を、その言語の Google Play のバッジと
+     Play のリンクに替える。同じ <a> のまま href・画像・alt だけ替える（下に固定のボタンの見張りが同じ <a> を見ているため）。
+     Play のバッジが同じ行にある所（トップのヘッダー・ヒーロー・最後）は替えない。iPhone・Mac・パソコンの人は今のまま。
+     Play の画像は余白込みなので、見える高さを元の App Store のバッジの高さにそろえる（トップの .gplay と同じ割合）。
+     utm_campaign＝元の ct（頁の印＋場所）。押したら下の site_play_click（where＝その ct）。
+     ?ref=test-android で、どの端末でも Android と同じ見た目にして試せる（送る device は本当の端末のまま）。 */
+  try{
+    var gpTest=new URLSearchParams(location.search).get('ref')==='test-android';
+    if(device==='android'||gpTest){
+      if(gpTest){ var sbT=document.querySelector('#msb a[data-pos="sticky"]'); if(sbT&&sbT.href.indexOf(PLAY)!==0) sbT.href=playRef(page+'-sticky'); }
+      var GPA={de:'Jetzt bei Google Play',en:'Get it on Google Play',es:'Disponible en Google Play',fr:'Disponible sur Google Play',
+        id:'Temukan di Google Play',it:'Disponibile su Google Play',ja:'Google Play で手に入れよう',ko:'Google Play에서 다운로드',
+        'pt-br':'Disponível no Google Play',ru:'Доступно в Google Play',th:'ดาวน์โหลดจาก Google Play',vi:'Tải nội dung trên Google Play',
+        'zh-tw':'立即在 Google Play 上下載'};
+      var bims=document.querySelectorAll('a[href*="apps.apple.com"][href*="id6809352229"] img[src*="badges/appstore-"]');
+      for(var bi=0;bi<bims.length;bi++){
+        (function(im){
+          try{
+            var a=im.closest('a'), s=im.getAttribute('src')||'';
+            var m=/appstore-([a-z]{2})-[a-z]{2}\.svg/.exec(s); if(!a||!m) return;
+            var L=m[1]==='pt'?'pt-br':m[1]==='zh'?'zh-tw':m[1]; if(!GPA[L]) return;
+            if(a.parentNode&&a.parentNode.querySelector('a[href^="'+PLAY+'"]')) return;
+            var bh=parseFloat(getComputedStyle(im).height)||im.getBoundingClientRect().height||parseFloat(im.getAttribute('height'))||48;
+            var pos=a.getAttribute('data-pos')||'';
+            var c=new URL(a.href).searchParams.get('ct')||(page+(pos?'-'+pos:''));
+            var old=L==='en';
+            a.href=playRef(c);
+            a.style.display='inline-flex'; a.style.lineHeight='0';
+            im.src=s.replace(/appstore-[a-z]{2}-[a-z]{2}\.svg/,'googleplay-'+L+'.png');
+            im.alt=GPA[L];
+            im.setAttribute('width',old?'207':'181'); im.setAttribute('height',old?'80':'70');
+            im.style.cssText='display:block;width:auto;max-width:none;height:'+(bh/(old?.672:.768)).toFixed(1)+'px;margin:'+
+              (old?(-bh*.244).toFixed(1)+'px':(-bh*.151).toFixed(1)+'px 0');
+          }catch(e){}
+        })(bims[bi]);
+      }
+    }
+  }catch(e){}
+  /* 11/25（android-cta-1124.md の2つ目）：頁の中の Android の人にだけ出る注記（<span data-os="android">。頁の中の小さなスクリプトが
+     Android の UA の人にだけ残して pcnote を出す。今は ko の15頁で「테스트 중・대기 명단」の古い文）の中身を、その言語の短い文と Play のリンクに替える。
+     順番待ち（android.html）へのリンクは出さない。iPhone・パソコンの人には注記は元から出ないので何もしない。
+     リンクは下の plays の見張りが拾い、押したら site_play_click（where＝頁の印-android-note・pos＝android-note）。
+     ?ref=test-android のときは、頁の中のスクリプトが Android の注記を消した後なので、元の HTML に Android の注記があるかを読み直してから同じ形で出す。 */
+  try{
+    var anT={en:['minulo is available on Google Play.','Get it on Google Play →'],
+      ja:['minulo は Google Play で手に入ります。','Google Play で見る →'],
+      ko:['minulo는 Google Play에서 받을 수 있어요.','Google Play에서 받기 →'],
+      de:['minulo gibt es auch bei Google Play.','Bei Google Play laden →'],
+      fr:['minulo est disponible sur Google Play.','Télécharger sur Google Play →'],
+      es:['minulo está disponible en Google Play.','Descargar en Google Play →'],
+      pt:['O minulo está disponível no Google Play.','Baixar no Google Play →'],
+      it:['minulo è disponibile su Google Play.','Scarica da Google Play →'],
+      ru:['minulo можно скачать в Google Play.','Открыть в Google Play →'],
+      id:['minulo tersedia di Google Play.','Unduh di Google Play →'],
+      vi:['minulo đã có trên Google Play.','Tải trên Google Play →'],
+      th:['ดาวน์โหลด minulo ได้จาก Google Play','เปิดใน Google Play →'],
+      'zh-hant':['minulo 已在 Google Play 上架。','前往 Google Play 下載 →']};
+    var anL=String(document.documentElement.lang||'en').toLowerCase();
+    anL=/^zh-(hant|tw|hk|mo)\b/.test(anL)?'zh-hant':anL.split(/[-_]/)[0];
+    var anTx=anT[anL]||anT.en, anW=page+'-android-note';
+    var anFill=function(sp){
+      while(sp.firstChild) sp.removeChild(sp.firstChild);
+      sp.appendChild(document.createTextNode(anTx[0]+' '));
+      var al=document.createElement('a');
+      al.href=playRef(anW); al.setAttribute('data-pos','android-note'); al.style.color='inherit'; al.style.textDecoration='underline';
+      al.textContent=anTx[1];
+      sp.appendChild(al);
+      return al;
+    };
+    if(device==='android'){
+      var ans=document.querySelectorAll('[data-os="android"]');
+      for(var an=0;an<ans.length;an++) anFill(ans[an]);
+    }else if(new URLSearchParams(location.search).get('ref')==='test-android'&&document.querySelector('p.pcnote')&&window.fetch){
+      fetch(location.href,{credentials:'same-origin'}).then(function(r){return r.text();}).then(function(h){
+        if(h.indexOf('data-os="android"')<0) return;
+        var pcs=document.querySelectorAll('p.pcnote');
+        for(var pi=0;pi<pcs.length;pi++){
+          var olds=pcs[pi].querySelectorAll('[data-os]');
+          for(var oi=0;oi<olds.length;oi++) olds[oi].parentNode.removeChild(olds[oi]);
+          var sp=document.createElement('span'); sp.setAttribute('data-os','android'); pcs[pi].appendChild(sp);
+          var al=anFill(sp); pcs[pi].hidden=false;
+          al.addEventListener('click',function(){ send('site_play_click',{where:anW,pos:'android-note',device:device}); });
+        }
+      }).catch(function(){});
+    }
   }catch(e){}
   var plays=document.querySelectorAll('a[href^="'+PLAY+'"]');
   for(var q=0;q<plays.length;q++){
