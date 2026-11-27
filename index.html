@@ -985,6 +985,19 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape'&&m.open){m.o
     }
     var im=document.querySelectorAll('a.store[data-pos="intl"] img[src*="appstore-ja-jp"]');
     for(var j=0;j<im.length;j++){ im[j].src=im[j].getAttribute('src').replace('appstore-ja-jp','appstore-'+t[1]); im[j].alt=t[2]; im[j].lang=code; }
+    /* 11/27 深夜（dl-drop-1127.md）：ChatGPT の minulo のカードの行き先はこのトップ。英語ほかの人には、ヒーローの2台の絵の札をその言語の絵に替える
+       （各言語のトップと同じ画像・同じ重なり）。[画像の高さ, インスタの幅%, YouTube の重なり%]。alt は各言語のトップと同じ文にはしない（日本語のまま）。 */
+    var HI={'en':[1570,53,9],'ko':[1717,52,5],'fr':[1465,56,12],'de':[1325,58,17],'es':[1541,55,10],'pt':[1541,55,10],'it':[1457,56,13],'ru':[1524,55,10],'th':[1413,57,14],'vi':[1520,55,11],'id':[1290,59,18],'zh-Hant':[1550,54,10]}[code];
+    var duo=document.querySelector('.fhero .fhero-duo');
+    if(HI&&duo){
+      var pics=duo.querySelectorAll('.fhero-ig img');
+      for(var k=0;k<pics.length;k++){
+        var kind=/hero-yt-/.test(pics[k].getAttribute('src'))?'yt':'ig', b='/'+code+'/m/hero-'+kind+'-annotated-'+code;
+        pics[k].srcset=b+'-600.webp 600w, '+b+'.webp 900w'; pics[k].src=b+'.webp'; pics[k].height=HI[0];
+      }
+      var bx=duo.querySelectorAll('.fhero-ig');
+      if(bx.length===2){ bx[0].style.flex='0 0 '+HI[1]+'%'; bx[1].style.marginLeft='-'+HI[2]+'%'; }
+    }
   }
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',run); else run();
 })();
