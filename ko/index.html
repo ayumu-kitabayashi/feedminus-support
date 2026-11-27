@@ -620,6 +620,16 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
 @media (hover:hover) and (min-width:821px){.fhero .ctas{gap:10px}.fhero .ctas .store img{height:50px}.fhero .ctas .gplay{--bh:50px}}
 /* en の Play のバッジ（.gplay.old）は img の max-width:100% で横に12%つぶれ、右に余白が残る。ヒーローの中だけ直す */
 .fhero .ctas .gplay img{max-width:none}
+/* ヒーローの絵：PR TIMES の1枚目の iPhone（注釈つき）1枚（11/27） */
+.fhero-ig{width:100%;max-width:400px;margin-inline:auto}
+.fhero-ig img{display:block;width:100%;height:auto}
+@media (max-width:820px){.fhero .fhero-ig{order:2;max-width:300px}}
+/* ヒーローの絵：インスタと YouTube の2枚を横に並べ、間をあける（11/27 夜・北林さん「スマホ間の距離をあけて」） */
+.fhero-duo{display:flex;align-items:flex-start;width:100%;margin-inline:auto}
+.fhero-duo .fhero-ig{flex:0 0 52%;min-width:0;max-width:none;margin:0;position:relative;z-index:1}
+.fhero-duo .fhero-yt{margin-left:-5%;margin-top:13%;z-index:0}
+@media (min-width:1240px){.fhero-duo{width:calc(100% + 64px);margin-right:-64px}}
+@media (max-width:820px){.fhero .fhero-duo{order:2;max-width:520px}.fhero .fhero-duo .fhero-ig{max-width:none}}
 </style>
 </head>
 <body>
@@ -643,11 +653,7 @@ h1,h2,h3,.chip,.pane li{word-break:keep-all}
     </div>
     <p class="pcnote" hidden style="margin:12px 0 0;font-size:14px;line-height:1.55;opacity:.85"><span data-os="mac">컴퓨터로 보고 계신가요? Mac용 minulo도 있어요. 위의 macOS 버튼으로 받을 수 있어요.</span><span data-os="win">컴퓨터로 보고 계신가요? minulo는 iPhone 앱이에요. 이 페이지를 iPhone에서 열면 App Store로 바로 갈 수 있어요.</span></p><script>(function(){var n=navigator,u=n.userAgent,m=/Macintosh/.test(u)&&!(n.maxTouchPoints>1),w=/Windows/.test(u);if(!m&&!w)return;var p=document.currentScript.previousElementSibling;p.querySelector(m?"[data-os=win]":"[data-os=mac]").remove();p.hidden=false})()</script>
   </div>
-  <div class="fphones">
-    <div class="fphone a"><img src="m/ph-rules.webp" alt="minulo에서 Instagram의 숨길 항목을 고르는 화면" width="760" height="1651" fetchpriority="low"></div>
-    <div class="fphone b"><img src="m/sh-yt-screen.webp" alt="minulo에서 연 YouTube. 쇼츠 섹션이 숨겨져 있어요" width="828" height="1799"></div>
-    <div class="fphone c"><img src="m/sh-ig.webp" alt="minulo에서 연 Instagram. 피드와 릴스는 숨겨지고 DM과 팔로잉은 그대로예요" width="900" height="1955"></div>
-  </div>
+  <div class="fhero-duo"><div class="fhero-ig"><img src="m/hero-ig-annotated-ko.webp" srcset="m/hero-ig-annotated-ko-600.webp 600w, m/hero-ig-annotated-ko.webp 900w" sizes="(max-width:820px) 60vw, 350px" alt="minulo에서 연 Instagram. 피드와 릴스 탭은 숨겨지고 스토리와 DM은 그대로예요" width="900" height="1717" fetchpriority="high"></div><div class="fhero-ig fhero-yt"><img src="m/hero-yt-annotated-ko.webp" srcset="m/hero-yt-annotated-ko-600.webp 600w, m/hero-yt-annotated-ko.webp 900w" sizes="(max-width:820px) 60vw, 350px" alt="minulo에서 연 YouTube. 아래 탭에서 쇼츠 탭이 사라졌어요" width="900" height="1717"></div></div>
 </div></div></header>
 
 <section class="fpress" aria-label="소개된 곳"><div class="wrap">

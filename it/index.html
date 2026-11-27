@@ -610,6 +610,16 @@ footer .bottom .langs .dot{opacity:.35}
 @media (hover:hover) and (min-width:821px){.fhero .ctas{gap:10px}.fhero .ctas .store img{height:50px}.fhero .ctas .gplay{--bh:50px}}
 /* en の Play のバッジ（.gplay.old）は img の max-width:100% で横に12%つぶれ、右に余白が残る。ヒーローの中だけ直す */
 .fhero .ctas .gplay img{max-width:none}
+/* ヒーローの絵：PR TIMES の1枚目の iPhone（注釈つき）1枚（11/27） */
+.fhero-ig{width:100%;max-width:400px;margin-inline:auto}
+.fhero-ig img{display:block;width:100%;height:auto}
+@media (max-width:820px){.fhero .fhero-ig{order:2;max-width:300px}}
+/* ヒーローの絵：インスタと YouTube の2枚を横に並べ、間をあける（11/27 夜・北林さん「スマホ間の距離をあけて」） */
+.fhero-duo{display:flex;align-items:flex-start;width:100%;margin-inline:auto}
+.fhero-duo .fhero-ig{flex:0 0 56%;min-width:0;max-width:none;margin:0;position:relative;z-index:1}
+.fhero-duo .fhero-yt{margin-left:-13%;margin-top:13%;z-index:0}
+@media (min-width:1240px){.fhero-duo{width:calc(100% + 64px);margin-right:-64px}}
+@media (max-width:820px){.fhero .fhero-duo{order:2;max-width:520px}.fhero .fhero-duo .fhero-ig{max-width:none}}
 </style>
 </head>
 <body>
@@ -632,11 +642,7 @@ footer .bottom .langs .dot{opacity:.35}
       <a class="store macdl" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg" data-pos="hero-mac"><img src="../badges/macos-it.svg" alt="Scarica per macOS" width="147" height="54"></a>
     </div>
   </div>
-  <div class="fphones">
-    <div class="fphone a"><img src="m/ph-rules.webp" alt="Scegliere cosa nascondere su Instagram in minulo" width="760" height="1651" fetchpriority="low"></div>
-    <div class="fphone b"><img src="m/sh-yt-screen.webp" alt="YouTube in minulo, con la fila degli Shorts nascosta" width="828" height="1799"></div>
-    <div class="fphone c"><img src="m/sh-ig.webp" alt="Instagram in minulo: feed e Reels nascosti, DM e Seguiti restano" width="900" height="1955"></div>
-  </div>
+  <div class="fhero-duo"><div class="fhero-ig"><img src="m/hero-ig-annotated-it.webp" srcset="m/hero-ig-annotated-it-600.webp 600w, m/hero-ig-annotated-it.webp 900w" sizes="(max-width:820px) 60vw, 350px" alt="Instagram aperto in minulo: il feed e la scheda Reels sono nascosti, le Storie e i DM restano" width="900" height="1457" fetchpriority="high"></div><div class="fhero-ig fhero-yt"><img src="m/hero-yt-annotated-it.webp" srcset="m/hero-yt-annotated-it-600.webp 600w, m/hero-yt-annotated-it.webp 900w" sizes="(max-width:820px) 60vw, 350px" alt="YouTube aperto in minulo: la scheda Shorts non c’è più nella barra in basso" width="900" height="1457"></div></div>
 </div></div></header>
 
 <section class="fx fstate"><div class="wrap">
