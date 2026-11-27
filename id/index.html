@@ -604,6 +604,12 @@ footer .bottom .langs .dot{opacity:.35}
 @media (max-width:520px){.nav{--nbh:32px}.nav .navbtns{gap:6px}}
 @media (max-width:400px){.nav{--nbh:27px}}
 @media (max-width:340px){.nav{--nbh:23px}.nav .navbtns{gap:4px}}
+/* Mac 版のボタンはタッチの端末では出さない（dmg を開けない） */
+@media (hover:none) and (pointer:coarse){.macdl{display:none}}
+/* ヒーローのボタン3つ（App Store・Google Play・macOS）をパソコンで1行に（11/27） */
+@media (hover:hover) and (min-width:821px){.fhero .ctas{gap:10px}.fhero .ctas .store img{height:50px}.fhero .ctas .gplay{--bh:50px}}
+/* en の Play のバッジ（.gplay.old）は img の max-width:100% で横に12%つぶれ、右に余白が残る。ヒーローの中だけ直す */
+.fhero .ctas .gplay img{max-width:none}
 </style>
 
 </head>
@@ -624,6 +630,7 @@ footer .bottom .langs .dot{opacity:.35}
     <div class="ctas">
       <a class="store" href="https://apps.apple.com/app/id6809352229?pt=129109285&amp;ct=id-top-hero&amp;mt=8"><img src="../badges/appstore-id-id.svg" alt="Unduh di App Store" width="162" height="54"></a>
       <a class="gplay" href="https://play.google.com/store/apps/details?id=app.feedminus&amp;referrer=utm_source%3Dminulo.app%26utm_medium%3Dsite%26utm_campaign%3Did-top-hero" data-pos="hero"><img src="../badges/googleplay-id.png" alt="Temukan di Google Play" width="181" height="70"></a>
+      <a class="store macdl" href="https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest/download/minulo.dmg" data-pos="hero-mac"><img src="../badges/macos-id.svg" alt="Unduh untuk macOS" width="147" height="54"></a>
     </div>
   </div>
   <div class="fphones">
