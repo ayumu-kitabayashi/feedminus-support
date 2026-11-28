@@ -178,6 +178,17 @@
     var sb=document.querySelector('#msb a[data-pos="sticky"]');
     if(sb&&device==='android') sb.href=playRef(page+'-sticky');
   }catch(e){}
+  /* 11/28（dl-drop-1127 §8）：トップのヘッダーの Google Play のバッジは、iPhone・iPad・Mac の人には出さず、App Store のバッジを
+     11/24 の前と同じ高さ 40px に戻す。11/24 に Play を並べてから、iPhone の幅（400px 以下）では App Store が 27px に縮み、
+     ChatGPT から en/ に来た iPhone の人のヘッダーの App Store の押下が 7日で8回 → 4日で0回になった。Android・Windows ほかは今のまま。 */
+  try{
+    var nvT=new URLSearchParams(location.search).get('ref')==='test-android';
+    var nv=document.querySelector('.nav');
+    if(nv&&!nvT&&(device==='iphone'||device==='ipad'||device==='mac')){
+      var ngs=nv.querySelectorAll('.gplay');
+      if(ngs.length){ for(var ni=0;ni<ngs.length;ni++) ngs[ni].style.display='none'; nv.style.setProperty('--nbh','40px'); }
+    }
+  }catch(e){}
   /* 11/25（android-cta-1124.md）：Android の人には、頁の中の App Store のバッジ（cta-top・本文・最後）を、その言語の Google Play のバッジと
      Play のリンクに替える。同じ <a> のまま href・画像・alt だけ替える（下に固定のボタンの見張りが同じ <a> を見ているため）。
      Play のバッジが同じ行にある所（トップのヘッダー・ヒーロー・最後）は替えない。iPhone・Mac・パソコンの人は今のまま。
